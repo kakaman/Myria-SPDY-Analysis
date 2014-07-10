@@ -1,0 +1,524 @@
+{"page": "systweak.com_"}
+{"DOMLoad": 2262740.948170}
+{"Resource": {"id": 1, "url": "http://systweak.com/", "sentTime": -1.000000, "len": 32880, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 5969, "connReused": 0, "cached": 0,                            "requestTime": 2262738.955331, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 108, "connectStart": 2, "connectEnd": 250, "sendStart": 251, "sendEnd": 251, "receiveHeadersEnd": 397, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262739.489344, "len": 8149}}
+{"ReceivedChunk": {"receivedTime": 2262739.568998, "len": 3473}}
+{"ReceivedChunk": {"receivedTime": 2262739.569655, "len": 21258}}
+{"ObjectHash": {"code": "0x159e90", "doc": "http://systweak.com/", "row": 4, "column": 44, "tagName": "html", "time": 2262739.525491, "url": "", "pos": 173, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15a670", "doc": "http://systweak.com/", "row": 5, "column": 17, "tagName": "head", "time": 2262739.525658, "url": "", "pos": 192, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15a710", "doc": "http://systweak.com/", "row": 5, "column": 24, "tagName": "title", "time": 2262739.525680, "url": "", "pos": 199, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35ed30", "doc": "http://systweak.com/", "row": 7, "column": 8, "tagName": "title", "time": 2262739.533055, "url": "", "pos": 306, "chunkLen": 8148, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x35e4c0", "doc": "http://systweak.com/", "row": 7, "column": 196, "tagName": "meta", "time": 2262739.533226, "url": "", "pos": 494, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f230", "doc": "http://systweak.com/", "row": 7, "column": 492, "tagName": "meta", "time": 2262739.533288, "url": "", "pos": 790, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f300", "doc": "http://systweak.com/", "row": 7, "column": 572, "tagName": "meta", "time": 2262739.533305, "url": "", "pos": 870, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35ecd0", "doc": "http://systweak.com/", "row": 7, "column": 641, "tagName": "meta", "time": 2262739.533318, "url": "", "pos": 939, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35ee80", "doc": "http://systweak.com/", "row": 7, "column": 693, "tagName": "meta", "time": 2262739.533331, "url": "", "pos": 991, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35ef90", "doc": "http://systweak.com/", "row": 7, "column": 749, "tagName": "meta", "time": 2262739.533343, "url": "", "pos": 1047, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f060", "doc": "http://systweak.com/", "row": 7, "column": 849, "tagName": "meta", "time": 2262739.533357, "url": "", "pos": 1147, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f520", "doc": "http://systweak.com/", "row": 7, "column": 895, "tagName": "meta", "time": 2262739.533368, "url": "", "pos": 1193, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f5c0", "doc": "http://systweak.com/", "row": 7, "column": 951, "tagName": "meta", "time": 2262739.533379, "url": "", "pos": 1249, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f6a0", "doc": "http://systweak.com/", "row": 7, "column": 997, "tagName": "meta", "time": 2262739.533390, "url": "", "pos": 1295, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f790", "doc": "http://systweak.com/", "row": 7, "column": 1044, "tagName": "meta", "time": 2262739.533401, "url": "", "pos": 1342, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35f890", "doc": "http://systweak.com/", "row": 7, "column": 1098, "tagName": "meta", "time": 2262739.533412, "url": "", "pos": 1396, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35fb50", "doc": "http://systweak.com/", "row": 7, "column": 1146, "tagName": "meta", "time": 2262739.533452, "url": "", "pos": 1444, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35fca0", "doc": "http://systweak.com/", "row": 7, "column": 1184, "tagName": "meta", "time": 2262739.533464, "url": "", "pos": 1482, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35fe00", "doc": "http://systweak.com/", "row": 7, "column": 1232, "tagName": "meta", "time": 2262739.533475, "url": "", "pos": 1530, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35ff30", "doc": "http://systweak.com/", "row": 8, "column": 31, "tagName": "script", "time": 2262739.533488, "url": "", "pos": 1563, "chunkLen": 8148, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35ed00", "doc": "http://systweak.com/", "row": 12, "column": 9, "tagName": "script", "time": 2262739.533547, "url": "", "pos": 1799, "chunkLen": 8148, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x15ea80", "doc": "http://systweak.com/", "row": 12, "column": 84, "tagName": "script", "time": 2262739.558575, "url": "http://www.google-analytics.com/ga.js", "pos": 75, "chunkLen": 84, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15ba80", "doc": "http://systweak.com/", "row": 12, "column": 93, "tagName": "script", "time": 2262739.558612, "url": "", "pos": 84, "chunkLen": 84, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x15e9c0", "doc": "http://systweak.com/", "row": 13, "column": 31, "tagName": "script", "time": 2262739.605142, "url": "", "pos": 1832, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15a5a0", "doc": "http://systweak.com/", "row": 15, "column": 9, "tagName": "script", "time": 2262739.605186, "url": "", "pos": 1953, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x360450", "doc": "http://systweak.com/", "row": 16, "column": 102, "tagName": "link", "time": 2262739.692036, "url": "http://www.systweak.com/css/HomePageNewStylesheet.css", "pos": 2057, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x35fcd0", "doc": "http://systweak.com/", "row": 18, "column": 7, "tagName": "style", "time": 2262739.692138, "url": "", "pos": 2068, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3608a0", "doc": "http://systweak.com/", "row": 66, "column": 8, "tagName": "style", "time": 2262739.692385, "url": "", "pos": 7331, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x363100", "doc": "http://systweak.com/", "row": 67, "column": 31, "tagName": "script", "time": 2262739.693195, "url": "", "pos": 7364, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x360870", "doc": "http://systweak.com/", "row": 86, "column": 9, "tagName": "script", "time": 2262739.693241, "url": "", "pos": 8108, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x163bb0", "doc": "http://systweak.com/", "row": 88, "column": 7, "tagName": "head", "time": 2262739.917588, "url": "", "pos": 8119, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x160300", "doc": "http://systweak.com/", "row": 89, "column": 6, "tagName": "body", "time": 2262739.917600, "url": "", "pos": 8127, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x360570", "doc": "http://systweak.com/", "row": 92, "column": 66, "tagName": "form", "time": 2262739.918022, "url": "", "pos": 8270, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x365ef0", "doc": "http://systweak.com/", "row": 93, "column": 5, "tagName": "div", "time": 2262739.918217, "url": "", "pos": 8277, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x366070", "doc": "http://systweak.com/", "row": 94, "column": 224, "tagName": "input", "time": 2262739.918260, "url": "", "pos": 8503, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x363db0", "doc": "http://systweak.com/", "row": 95, "column": 6, "tagName": "div", "time": 2262739.923156, "url": "", "pos": 8511, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x366a60", "doc": "http://systweak.com/", "row": 97, "column": 41, "tagName": "div", "time": 2262739.923185, "url": "", "pos": 8556, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3662a0", "doc": "http://systweak.com/", "row": 99, "column": 17, "tagName": "div", "time": 2262739.923296, "url": "", "pos": 8584, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x366fa0", "doc": "http://systweak.com/", "row": 100, "column": 58, "tagName": "div", "time": 2262739.923338, "url": "", "pos": 8644, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3671d0", "doc": "http://systweak.com/", "row": 101, "column": 156, "tagName": "img", "time": 2262739.923396, "url": "", "pos": 8802, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x367a00", "doc": "http://systweak.com/", "row": 102, "column": 59, "tagName": "map", "time": 2262739.923807, "url": "", "pos": 8863, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x367e20", "doc": "http://systweak.com/", "row": 103, "column": 157, "tagName": "area", "time": 2262739.923894, "url": "", "pos": 9022, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x368000", "doc": "http://systweak.com/", "row": 104, "column": 156, "tagName": "area", "time": 2262739.924467, "url": "", "pos": 9180, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x368310", "doc": "http://systweak.com/", "row": 105, "column": 153, "tagName": "area", "time": 2262739.924529, "url": "", "pos": 9335, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3685a0", "doc": "http://systweak.com/", "row": 106, "column": 172, "tagName": "area", "time": 2262739.924588, "url": "", "pos": 9509, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x368830", "doc": "http://systweak.com/", "row": 107, "column": 180, "tagName": "area", "time": 2262739.924646, "url": "", "pos": 9691, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3688f0", "doc": "http://systweak.com/", "row": 108, "column": 151, "tagName": "area", "time": 2262739.924701, "url": "", "pos": 9844, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x368c00", "doc": "http://systweak.com/", "row": 109, "column": 152, "tagName": "area", "time": 2262739.924755, "url": "", "pos": 9998, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x368cf0", "doc": "http://systweak.com/", "row": 110, "column": 176, "tagName": "area", "time": 2262739.924811, "url": "", "pos": 10176, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x368b00", "doc": "http://systweak.com/", "row": 111, "column": 226, "tagName": "area", "time": 2262739.924877, "url": "", "pos": 10404, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3690d0", "doc": "http://systweak.com/", "row": 112, "column": 18, "tagName": "map", "time": 2262739.924926, "url": "", "pos": 10424, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x369370", "doc": "http://systweak.com/", "row": 113, "column": 14, "tagName": "div", "time": 2262739.924939, "url": "", "pos": 10440, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x369050", "doc": "http://systweak.com/", "row": 114, "column": 171, "tagName": "div", "time": 2262739.924958, "url": "", "pos": 10619, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3694c0", "doc": "http://systweak.com/", "row": 115, "column": 83, "tagName": "div", "time": 2262739.925231, "url": "", "pos": 10704, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36a010", "doc": "http://systweak.com/", "row": 116, "column": 83, "tagName": "span", "time": 2262739.925288, "url": "", "pos": 10789, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3683c0", "doc": "http://systweak.com/", "row": 116, "column": 116, "tagName": "a", "time": 2262739.925329, "url": "", "pos": 10822, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36a3a0", "doc": "http://systweak.com/", "row": 116, "column": 341, "tagName": "img", "time": 2262739.925405, "url": "", "pos": 11047, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36a710", "doc": "http://systweak.com/", "row": 116, "column": 345, "tagName": "a", "time": 2262739.925680, "url": "", "pos": 11051, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36bbb0", "doc": "http://systweak.com/", "row": 116, "column": 421, "tagName": "span", "time": 2262739.925691, "url": "", "pos": 11127, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36a4b0", "doc": "http://systweak.com/", "row": 116, "column": 447, "tagName": "span", "time": 2262739.925748, "url": "", "pos": 11153, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36a4e0", "doc": "http://systweak.com/", "row": 116, "column": 477, "tagName": "a", "time": 2262739.925765, "url": "", "pos": 11183, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36a550", "doc": "http://systweak.com/", "row": 116, "column": 481, "tagName": "a", "time": 2262739.925793, "url": "", "pos": 11187, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36bf30", "doc": "http://systweak.com/", "row": 116, "column": 488, "tagName": "span", "time": 2262739.925797, "url": "", "pos": 11194, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36bf60", "doc": "http://systweak.com/", "row": 117, "column": 18, "tagName": "div", "time": 2262739.925808, "url": "", "pos": 11214, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36be20", "doc": "http://systweak.com/", "row": 118, "column": 86, "tagName": "div", "time": 2262739.925822, "url": "", "pos": 11302, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36c090", "doc": "http://systweak.com/", "row": 118, "column": 122, "tagName": "p", "time": 2262739.925867, "url": "", "pos": 11338, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36c6b0", "doc": "http://systweak.com/", "row": 118, "column": 190, "tagName": "a", "time": 2262739.925926, "url": "", "pos": 11406, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36c7e0", "doc": "http://systweak.com/", "row": 118, "column": 211, "tagName": "a", "time": 2262739.925997, "url": "", "pos": 11427, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36c1e0", "doc": "http://systweak.com/", "row": 118, "column": 215, "tagName": "p", "time": 2262739.926002, "url": "", "pos": 11431, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36c210", "doc": "http://systweak.com/", "row": 118, "column": 221, "tagName": "div", "time": 2262739.926005, "url": "", "pos": 11437, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x363de0", "doc": "http://systweak.com/", "row": 119, "column": 68, "tagName": "div", "time": 2262739.926017, "url": "", "pos": 11507, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36a070", "doc": "http://systweak.com/", "row": 125, "column": 18, "tagName": "div", "time": 2262739.926111, "url": "", "pos": 12023, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x363e70", "doc": "http://systweak.com/", "row": 127, "column": 11, "tagName": "div", "time": 2262739.926119, "url": "", "pos": 12050, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36d230", "doc": "http://systweak.com/", "row": 128, "column": 10, "tagName": "div", "time": 2262739.926125, "url": "", "pos": 12062, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36d3c0", "doc": "http://systweak.com/", "row": 129, "column": 35, "tagName": "div", "time": 2262739.926136, "url": "", "pos": 12099, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36d4e0", "doc": "http://systweak.com/", "row": 132, "column": 45, "tagName": "div", "time": 2262739.926183, "url": "", "pos": 12189, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36d710", "doc": "http://systweak.com/", "row": 135, "column": 88, "tagName": "table", "time": 2262739.926228, "url": "", "pos": 12307, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36d320", "doc": "http://systweak.com/", "row": 136, "column": 17, "tagName": "tr", "time": 2262739.926332, "url": "", "pos": 12326, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36d880", "doc": "http://systweak.com/", "row": 137, "column": 31, "tagName": "td", "time": 2262739.926439, "url": "", "pos": 12359, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36e650", "doc": "http://systweak.com/", "row": 138, "column": 363, "tagName": "a", "time": 2262739.926623, "url": "", "pos": 12724, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36eb60", "doc": "http://systweak.com/", "row": 139, "column": 301, "tagName": "img", "time": 2262739.926729, "url": "", "pos": 13027, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36ee80", "doc": "http://systweak.com/", "row": 140, "column": 22, "tagName": "a", "time": 2262739.926973, "url": "", "pos": 13051, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36e990", "doc": "http://systweak.com/", "row": 141, "column": 19, "tagName": "td", "time": 2262739.926986, "url": "", "pos": 13072, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36e9c0", "doc": "http://systweak.com/", "row": 142, "column": 18, "tagName": "tr", "time": 2262739.926991, "url": "", "pos": 13092, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36f4e0", "doc": "http://systweak.com/", "row": 143, "column": 17, "tagName": "tr", "time": 2262739.927000, "url": "", "pos": 13124, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36ef30", "doc": "http://systweak.com/", "row": 144, "column": 32, "tagName": "td", "time": 2262739.927043, "url": "", "pos": 13158, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36fa90", "doc": "http://systweak.com/", "row": 145, "column": 117, "tagName": "table", "time": 2262739.927092, "url": "", "pos": 13277, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36edd0", "doc": "http://systweak.com/", "row": 146, "column": 30, "tagName": "tr", "time": 2262739.927185, "url": "", "pos": 13309, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x36fbf0", "doc": "http://systweak.com/", "row": 147, "column": 42, "tagName": "td", "time": 2262739.927227, "url": "", "pos": 13353, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x370bb0", "doc": "http://systweak.com/", "row": 148, "column": 113, "tagName": "a", "time": 2262739.927268, "url": "", "pos": 13468, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x371180", "doc": "http://systweak.com/", "row": 149, "column": 279, "tagName": "table", "time": 2262739.927351, "url": "", "pos": 13749, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x371c30", "doc": "http://systweak.com/", "row": 150, "column": 44, "tagName": "tr", "time": 2262739.927470, "url": "", "pos": 13795, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x371d70", "doc": "http://systweak.com/", "row": 151, "column": 69, "tagName": "td", "time": 2262739.927528, "url": "", "pos": 13866, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x370fe0", "doc": "http://systweak.com/", "row": 152, "column": 97, "tagName": "p", "time": 2262739.927574, "url": "", "pos": 13965, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x372b70", "doc": "http://systweak.com/", "row": 152, "column": 127, "tagName": "p", "time": 2262739.927656, "url": "", "pos": 13995, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x372e80", "doc": "http://systweak.com/", "row": 153, "column": 46, "tagName": "td", "time": 2262739.927676, "url": "", "pos": 14043, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x372fb0", "doc": "http://systweak.com/", "row": 154, "column": 45, "tagName": "tr", "time": 2262739.927682, "url": "", "pos": 14090, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x372ba0", "doc": "http://systweak.com/", "row": 155, "column": 47, "tagName": "table", "time": 2262739.927691, "url": "", "pos": 14139, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x372ee0", "doc": "http://systweak.com/", "row": 156, "column": 39, "tagName": "a", "time": 2262739.927704, "url": "", "pos": 14180, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x373210", "doc": "http://systweak.com/", "row": 157, "column": 32, "tagName": "td", "time": 2262739.927716, "url": "", "pos": 14214, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x373240", "doc": "http://systweak.com/", "row": 158, "column": 39, "tagName": "td", "time": 2262739.927723, "url": "", "pos": 14255, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x373100", "doc": "http://systweak.com/", "row": 158, "column": 44, "tagName": "td", "time": 2262739.927756, "url": "", "pos": 14260, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x373180", "doc": "http://systweak.com/", "row": 159, "column": 31, "tagName": "td", "time": 2262739.927763, "url": "", "pos": 14293, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x373830", "doc": "http://systweak.com/", "row": 160, "column": 263, "tagName": "table", "time": 2262739.927806, "url": "", "pos": 14558, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x373130", "doc": "http://systweak.com/", "row": 161, "column": 40, "tagName": "tr", "time": 2262739.927889, "url": "", "pos": 14600, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3737a0", "doc": "http://systweak.com/", "row": 162, "column": 65, "tagName": "td", "time": 2262739.927932, "url": "", "pos": 14667, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x374950", "doc": "http://systweak.com/", "row": 163, "column": 93, "tagName": "p", "time": 2262739.927971, "url": "", "pos": 14762, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x374c60", "doc": "http://systweak.com/", "row": 163, "column": 112, "tagName": "p", "time": 2262739.928021, "url": "", "pos": 14781, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x374c90", "doc": "http://systweak.com/", "row": 164, "column": 86, "tagName": "p", "time": 2262739.928048, "url": "", "pos": 14869, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3751f0", "doc": "http://systweak.com/", "row": 164, "column": 124, "tagName": "p", "time": 2262739.928091, "url": "", "pos": 14907, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x375320", "doc": "http://systweak.com/", "row": 165, "column": 114, "tagName": "p", "time": 2262739.928106, "url": "", "pos": 15023, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3754f0", "doc": "http://systweak.com/", "row": 165, "column": 132, "tagName": "p", "time": 2262739.928153, "url": "", "pos": 15041, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x374fe0", "doc": "http://systweak.com/", "row": 166, "column": 42, "tagName": "td", "time": 2262739.928163, "url": "", "pos": 15085, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x375010", "doc": "http://systweak.com/", "row": 167, "column": 41, "tagName": "tr", "time": 2262739.928169, "url": "", "pos": 15128, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x375680", "doc": "http://systweak.com/", "row": 168, "column": 43, "tagName": "table", "time": 2262739.928177, "url": "", "pos": 15173, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x375810", "doc": "http://systweak.com/", "row": 169, "column": 32, "tagName": "td", "time": 2262739.928189, "url": "", "pos": 15207, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x375840", "doc": "http://systweak.com/", "row": 170, "column": 39, "tagName": "td", "time": 2262739.928195, "url": "", "pos": 15248, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x374f80", "doc": "http://systweak.com/", "row": 170, "column": 44, "tagName": "td", "time": 2262739.928215, "url": "", "pos": 15253, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x375a30", "doc": "http://systweak.com/", "row": 171, "column": 31, "tagName": "td", "time": 2262739.928221, "url": "", "pos": 15286, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x375e70", "doc": "http://systweak.com/", "row": 172, "column": 330, "tagName": "table", "time": 2262739.928263, "url": "", "pos": 15622, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3758e0", "doc": "http://systweak.com/", "row": 173, "column": 40, "tagName": "tr", "time": 2262739.928352, "url": "", "pos": 15664, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x375960", "doc": "http://systweak.com/", "row": 174, "column": 52, "tagName": "td", "time": 2262739.928394, "url": "", "pos": 15718, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x376870", "doc": "http://systweak.com/", "row": 175, "column": 106, "tagName": "p", "time": 2262739.928444, "url": "", "pos": 15826, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x377210", "doc": "http://systweak.com/", "row": 175, "column": 137, "tagName": "p", "time": 2262739.928500, "url": "", "pos": 15857, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3773d0", "doc": "http://systweak.com/", "row": 176, "column": 99, "tagName": "p", "time": 2262739.928516, "url": "", "pos": 15958, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x377540", "doc": "http://systweak.com/", "row": 176, "column": 218, "tagName": "a", "time": 2262739.928567, "url": "", "pos": 16077, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x377b00", "doc": "http://systweak.com/", "row": 176, "column": 232, "tagName": "a", "time": 2262739.928648, "url": "", "pos": 16091, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x377640", "doc": "http://systweak.com/", "row": 176, "column": 236, "tagName": "p", "time": 2262739.928652, "url": "", "pos": 16095, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x377bb0", "doc": "http://systweak.com/", "row": 177, "column": 42, "tagName": "td", "time": 2262739.928662, "url": "", "pos": 16139, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x377ce0", "doc": "http://systweak.com/", "row": 178, "column": 41, "tagName": "tr", "time": 2262739.928667, "url": "", "pos": 16182, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x377d40", "doc": "http://systweak.com/", "row": 179, "column": 43, "tagName": "table", "time": 2262739.928676, "url": "", "pos": 16227, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x377860", "doc": "http://systweak.com/", "row": 180, "column": 32, "tagName": "td", "time": 2262739.928688, "url": "", "pos": 16261, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x377890", "doc": "http://systweak.com/", "row": 181, "column": 39, "tagName": "td", "time": 2262739.928695, "url": "", "pos": 16302, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x377670", "doc": "http://systweak.com/", "row": 181, "column": 44, "tagName": "td", "time": 2262739.928717, "url": "", "pos": 16307, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3727b0", "doc": "http://systweak.com/", "row": 182, "column": 31, "tagName": "td", "time": 2262739.928723, "url": "", "pos": 16340, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x377ca0", "doc": "http://systweak.com/", "row": 183, "column": 220, "tagName": "table", "time": 2262739.928769, "url": "", "pos": 16562, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x372770", "doc": "http://systweak.com/", "row": 184, "column": 40, "tagName": "tr", "time": 2262739.928855, "url": "", "pos": 16604, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x378090", "doc": "http://systweak.com/", "row": 185, "column": 65, "tagName": "td", "time": 2262739.928909, "url": "", "pos": 16671, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x379050", "doc": "http://systweak.com/", "row": 186, "column": 93, "tagName": "p", "time": 2262739.928952, "url": "", "pos": 16766, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x379320", "doc": "http://systweak.com/", "row": 186, "column": 111, "tagName": "p", "time": 2262739.929004, "url": "", "pos": 16784, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x379480", "doc": "http://systweak.com/", "row": 187, "column": 84, "tagName": "p", "time": 2262739.929020, "url": "", "pos": 16911, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x379a70", "doc": "http://systweak.com/", "row": 187, "column": 230, "tagName": "a", "time": 2262739.929064, "url": "", "pos": 17057, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x379cb0", "doc": "http://systweak.com/", "row": 187, "column": 253, "tagName": "a", "time": 2262739.929137, "url": "", "pos": 17080, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x379740", "doc": "http://systweak.com/", "row": 187, "column": 257, "tagName": "p", "time": 2262739.929142, "url": "", "pos": 17084, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x379df0", "doc": "http://systweak.com/", "row": 188, "column": 84, "tagName": "p", "time": 2262739.929154, "url": "", "pos": 17170, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x379870", "doc": "http://systweak.com/", "row": 188, "column": 287, "tagName": "a", "time": 2262739.929213, "url": "", "pos": 17373, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37a3c0", "doc": "http://systweak.com/", "row": 188, "column": 323, "tagName": "a", "time": 2262739.929280, "url": "", "pos": 17409, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a150", "doc": "http://systweak.com/", "row": 188, "column": 327, "tagName": "p", "time": 2262739.929284, "url": "", "pos": 17413, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a1e0", "doc": "http://systweak.com/", "row": 189, "column": 42, "tagName": "td", "time": 2262739.929294, "url": "", "pos": 17457, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x379f20", "doc": "http://systweak.com/", "row": 190, "column": 41, "tagName": "tr", "time": 2262739.929299, "url": "", "pos": 17500, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x379f80", "doc": "http://systweak.com/", "row": 191, "column": 43, "tagName": "table", "time": 2262739.929308, "url": "", "pos": 17545, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a4f0", "doc": "http://systweak.com/", "row": 192, "column": 32, "tagName": "td", "time": 2262739.929319, "url": "", "pos": 17579, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a520", "doc": "http://systweak.com/", "row": 193, "column": 31, "tagName": "tr", "time": 2262739.929324, "url": "", "pos": 17612, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a580", "doc": "http://systweak.com/", "row": 194, "column": 33, "tagName": "table", "time": 2262739.929332, "url": "", "pos": 17647, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x36fb50", "doc": "http://systweak.com/", "row": 195, "column": 22, "tagName": "td", "time": 2262739.929343, "url": "", "pos": 17671, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a420", "doc": "http://systweak.com/", "row": 196, "column": 18, "tagName": "tr", "time": 2262739.929347, "url": "", "pos": 17691, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37a480", "doc": "http://systweak.com/", "row": 197, "column": 17, "tagName": "tr", "time": 2262739.929355, "url": "", "pos": 17710, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37a6e0", "doc": "http://systweak.com/", "row": 197, "column": 31, "tagName": "td", "time": 2262739.929373, "url": "", "pos": 17724, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37a7b0", "doc": "http://systweak.com/", "row": 197, "column": 36, "tagName": "td", "time": 2262739.929402, "url": "", "pos": 17729, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37ab60", "doc": "http://systweak.com/", "row": 197, "column": 41, "tagName": "tr", "time": 2262739.929406, "url": "", "pos": 17734, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37abd0", "doc": "http://systweak.com/", "row": 198, "column": 17, "tagName": "tr", "time": 2262739.929410, "url": "", "pos": 17753, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37a5e0", "doc": "http://systweak.com/", "row": 198, "column": 43, "tagName": "td", "time": 2262739.929429, "url": "", "pos": 17779, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37ad20", "doc": "http://systweak.com/", "row": 198, "column": 113, "tagName": "img", "time": 2262739.929471, "url": "", "pos": 17849, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37b550", "doc": "http://systweak.com/", "row": 198, "column": 118, "tagName": "td", "time": 2262739.929683, "url": "", "pos": 17854, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37b730", "doc": "http://systweak.com/", "row": 198, "column": 123, "tagName": "tr", "time": 2262739.929687, "url": "", "pos": 17859, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37bcc0", "doc": "http://systweak.com/", "row": 199, "column": 17, "tagName": "tr", "time": 2262739.929692, "url": "", "pos": 17878, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37bd30", "doc": "http://systweak.com/", "row": 200, "column": 32, "tagName": "td", "time": 2262739.929714, "url": "", "pos": 17912, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37b7a0", "doc": "http://systweak.com/", "row": 203, "column": 240, "tagName": "table", "time": 2262739.929774, "url": "", "pos": 18215, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37c300", "doc": "http://systweak.com/", "row": 204, "column": 30, "tagName": "tr", "time": 2262739.929994, "url": "", "pos": 18247, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37c4c0", "doc": "http://systweak.com/", "row": 205, "column": 42, "tagName": "td", "time": 2262739.930038, "url": "", "pos": 18291, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37d010", "doc": "http://systweak.com/", "row": 206, "column": 157, "tagName": "table", "time": 2262739.930092, "url": "", "pos": 18450, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37cfe0", "doc": "http://systweak.com/", "row": 207, "column": 40, "tagName": "tr", "time": 2262739.930160, "url": "", "pos": 18492, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37d6b0", "doc": "http://systweak.com/", "row": 208, "column": 52, "tagName": "td", "time": 2262739.930211, "url": "", "pos": 18546, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x378000", "doc": "http://systweak.com/", "row": 209, "column": 148, "tagName": "table", "time": 2262739.930256, "url": "", "pos": 18706, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37e000", "doc": "http://systweak.com/", "row": 210, "column": 49, "tagName": "tr", "time": 2262739.930310, "url": "", "pos": 18757, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37e5a0", "doc": "http://systweak.com/", "row": 211, "column": 82, "tagName": "td", "time": 2262739.930352, "url": "", "pos": 18841, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37ec50", "doc": "http://systweak.com/", "row": 212, "column": 50, "tagName": "p", "time": 2262739.930409, "url": "", "pos": 18893, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37f100", "doc": "http://systweak.com/", "row": 212, "column": 150, "tagName": "a", "time": 2262739.930446, "url": "", "pos": 18993, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37f620", "doc": "http://systweak.com/", "row": 212, "column": 165, "tagName": "a", "time": 2262739.930519, "url": "", "pos": 19008, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37f0a0", "doc": "http://systweak.com/", "row": 212, "column": 169, "tagName": "p", "time": 2262739.930524, "url": "", "pos": 19012, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37f7f0", "doc": "http://systweak.com/", "row": 213, "column": 115, "tagName": "p", "time": 2262739.930539, "url": "", "pos": 19129, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37f9b0", "doc": "http://systweak.com/", "row": 213, "column": 211, "tagName": "a", "time": 2262739.930584, "url": "", "pos": 19225, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37fd00", "doc": "http://systweak.com/", "row": 213, "column": 223, "tagName": "a", "time": 2262739.930642, "url": "", "pos": 19237, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37f310", "doc": "http://systweak.com/", "row": 213, "column": 227, "tagName": "p", "time": 2262739.930646, "url": "", "pos": 19241, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37fed0", "doc": "http://systweak.com/", "row": 214, "column": 115, "tagName": "p", "time": 2262739.930660, "url": "", "pos": 19358, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37fa80", "doc": "http://systweak.com/", "row": 214, "column": 221, "tagName": "a", "time": 2262739.930713, "url": "", "pos": 19464, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x37fe50", "doc": "http://systweak.com/", "row": 214, "column": 234, "tagName": "a", "time": 2262739.930759, "url": "", "pos": 19477, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37fe80", "doc": "http://systweak.com/", "row": 214, "column": 238, "tagName": "p", "time": 2262739.930763, "url": "", "pos": 19481, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x380240", "doc": "http://systweak.com/", "row": 215, "column": 115, "tagName": "p", "time": 2262739.930777, "url": "", "pos": 19598, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3802f0", "doc": "http://systweak.com/", "row": 215, "column": 229, "tagName": "a", "time": 2262739.930821, "url": "", "pos": 19712, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x380400", "doc": "http://systweak.com/", "row": 215, "column": 241, "tagName": "a", "time": 2262739.930865, "url": "", "pos": 19724, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x380430", "doc": "http://systweak.com/", "row": 215, "column": 245, "tagName": "p", "time": 2262739.930869, "url": "", "pos": 19728, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3802b0", "doc": "http://systweak.com/", "row": 218, "column": 116, "tagName": "p", "time": 2262739.930889, "url": "", "pos": 19986, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x380660", "doc": "http://systweak.com/", "row": 218, "column": 245, "tagName": "a", "time": 2262739.930934, "url": "", "pos": 20115, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x380c90", "doc": "http://systweak.com/", "row": 218, "column": 256, "tagName": "a", "time": 2262739.930997, "url": "", "pos": 20126, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x380dc0", "doc": "http://systweak.com/", "row": 218, "column": 260, "tagName": "p", "time": 2262739.931001, "url": "", "pos": 20130, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x380df0", "doc": "http://systweak.com/", "row": 219, "column": 115, "tagName": "p", "time": 2262739.931015, "url": "", "pos": 20247, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x380ec0", "doc": "http://systweak.com/", "row": 219, "column": 215, "tagName": "a", "time": 2262739.931066, "url": "", "pos": 20347, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x380d10", "doc": "http://systweak.com/", "row": 219, "column": 227, "tagName": "a", "time": 2262739.931110, "url": "", "pos": 20359, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x380e20", "doc": "http://systweak.com/", "row": 219, "column": 231, "tagName": "p", "time": 2262739.931114, "url": "", "pos": 20363, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x380fa0", "doc": "http://systweak.com/", "row": 220, "column": 115, "tagName": "p", "time": 2262739.931128, "url": "", "pos": 20480, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x381370", "doc": "http://systweak.com/", "row": 220, "column": 219, "tagName": "a", "time": 2262739.931171, "url": "", "pos": 20584, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3815b0", "doc": "http://systweak.com/", "row": 220, "column": 233, "tagName": "a", "time": 2262739.931215, "url": "", "pos": 20598, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3816e0", "doc": "http://systweak.com/", "row": 220, "column": 237, "tagName": "p", "time": 2262739.931219, "url": "", "pos": 20602, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x381280", "doc": "http://systweak.com/", "row": 221, "column": 115, "tagName": "p", "time": 2262739.931232, "url": "", "pos": 20719, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x381750", "doc": "http://systweak.com/", "row": 221, "column": 198, "tagName": "a", "time": 2262739.931274, "url": "", "pos": 20802, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x381890", "doc": "http://systweak.com/", "row": 221, "column": 208, "tagName": "a", "time": 2262739.931325, "url": "", "pos": 20812, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3818c0", "doc": "http://systweak.com/", "row": 221, "column": 212, "tagName": "p", "time": 2262739.931329, "url": "", "pos": 20816, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x381b50", "doc": "http://systweak.com/", "row": 222, "column": 115, "tagName": "p", "time": 2262739.931343, "url": "", "pos": 20933, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x380a70", "doc": "http://systweak.com/", "row": 222, "column": 202, "tagName": "a", "time": 2262739.931385, "url": "", "pos": 21020, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x381f10", "doc": "http://systweak.com/", "row": 222, "column": 213, "tagName": "a", "time": 2262739.931441, "url": "", "pos": 21031, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3818f0", "doc": "http://systweak.com/", "row": 222, "column": 217, "tagName": "p", "time": 2262739.931445, "url": "", "pos": 21035, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x381fc0", "doc": "http://systweak.com/", "row": 225, "column": 48, "tagName": "td", "time": 2262739.931456, "url": "", "pos": 21093, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3820f0", "doc": "http://systweak.com/", "row": 227, "column": 82, "tagName": "td", "time": 2262739.931468, "url": "", "pos": 21224, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3821e0", "doc": "http://systweak.com/", "row": 228, "column": 113, "tagName": "table", "time": 2262739.931522, "url": "", "pos": 21339, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3829c0", "doc": "http://systweak.com/", "row": 229, "column": 55, "tagName": "tr", "time": 2262739.931573, "url": "", "pos": 21396, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x382520", "doc": "http://systweak.com/", "row": 230, "column": 65, "tagName": "td", "time": 2262739.931622, "url": "", "pos": 21463, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3831a0", "doc": "http://systweak.com/", "row": 230, "column": 70, "tagName": "td", "time": 2262739.931655, "url": "", "pos": 21468, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x383250", "doc": "http://systweak.com/", "row": 231, "column": 67, "tagName": "td", "time": 2262739.931664, "url": "", "pos": 21537, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x383210", "doc": "http://systweak.com/", "row": 231, "column": 70, "tagName": "p", "time": 2262739.931692, "url": "", "pos": 21540, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3839a0", "doc": "http://systweak.com/", "row": 231, "column": 170, "tagName": "a", "time": 2262739.931719, "url": "", "pos": 21640, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x383640", "doc": "http://systweak.com/", "row": 231, "column": 190, "tagName": "a", "time": 2262739.931779, "url": "", "pos": 21660, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x383900", "doc": "http://systweak.com/", "row": 231, "column": 194, "tagName": "p", "time": 2262739.931783, "url": "", "pos": 21664, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x383930", "doc": "http://systweak.com/", "row": 231, "column": 199, "tagName": "td", "time": 2262739.931786, "url": "", "pos": 21669, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x383670", "doc": "http://systweak.com/", "row": 232, "column": 56, "tagName": "tr", "time": 2262739.931792, "url": "", "pos": 21727, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x383e10", "doc": "http://systweak.com/", "row": 233, "column": 55, "tagName": "tr", "time": 2262739.931802, "url": "", "pos": 21784, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x383c60", "doc": "http://systweak.com/", "row": 234, "column": 80, "tagName": "td", "time": 2262739.931833, "url": "", "pos": 21866, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x383de0", "doc": "http://systweak.com/", "row": 234, "column": 189, "tagName": "img", "time": 2262739.931864, "url": "", "pos": 21975, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384a30", "doc": "http://systweak.com/", "row": 234, "column": 194, "tagName": "td", "time": 2262739.932080, "url": "", "pos": 21980, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x384870", "doc": "http://systweak.com/", "row": 235, "column": 59, "tagName": "td", "time": 2262739.932088, "url": "", "pos": 22041, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384080", "doc": "http://systweak.com/", "row": 236, "column": 86, "tagName": "p", "time": 2262739.932126, "url": "", "pos": 22129, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384d50", "doc": "http://systweak.com/", "row": 236, "column": 184, "tagName": "a", "time": 2262739.932169, "url": "", "pos": 22227, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3856d0", "doc": "http://systweak.com/", "row": 236, "column": 213, "tagName": "a", "time": 2262739.932239, "url": "", "pos": 22256, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x385700", "doc": "http://systweak.com/", "row": 236, "column": 217, "tagName": "p", "time": 2262739.932244, "url": "", "pos": 22260, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x385170", "doc": "http://systweak.com/", "row": 237, "column": 125, "tagName": "p", "time": 2262739.932258, "url": "", "pos": 22387, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x385cb0", "doc": "http://systweak.com/", "row": 237, "column": 158, "tagName": "p", "time": 2262739.932302, "url": "", "pos": 22420, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x385810", "doc": "http://systweak.com/", "row": 238, "column": 60, "tagName": "td", "time": 2262739.932313, "url": "", "pos": 22482, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x385840", "doc": "http://systweak.com/", "row": 239, "column": 56, "tagName": "tr", "time": 2262739.932320, "url": "", "pos": 22540, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x385dd0", "doc": "http://systweak.com/", "row": 240, "column": 55, "tagName": "tr", "time": 2262739.932329, "url": "", "pos": 22597, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x385e90", "doc": "http://systweak.com/", "row": 242, "column": 59, "tagName": "td", "time": 2262739.932352, "url": "", "pos": 22715, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386080", "doc": "http://systweak.com/", "row": 243, "column": 62, "tagName": "p", "time": 2262739.932386, "url": "", "pos": 22779, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3861b0", "doc": "http://systweak.com/", "row": 243, "column": 159, "tagName": "a", "time": 2262739.932415, "url": "", "pos": 22876, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386300", "doc": "http://systweak.com/", "row": 243, "column": 175, "tagName": "a", "time": 2262739.932468, "url": "", "pos": 22892, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x386430", "doc": "http://systweak.com/", "row": 243, "column": 179, "tagName": "p", "time": 2262739.932472, "url": "", "pos": 22896, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3860b0", "doc": "http://systweak.com/", "row": 244, "column": 125, "tagName": "p", "time": 2262739.932487, "url": "", "pos": 23023, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386110", "doc": "http://systweak.com/", "row": 244, "column": 162, "tagName": "p", "time": 2262739.932510, "url": "", "pos": 23060, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x385fb0", "doc": "http://systweak.com/", "row": 245, "column": 60, "tagName": "td", "time": 2262739.932521, "url": "", "pos": 23122, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x386140", "doc": "http://systweak.com/", "row": 246, "column": 56, "tagName": "tr", "time": 2262739.932527, "url": "", "pos": 23180, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3866e0", "doc": "http://systweak.com/", "row": 247, "column": 55, "tagName": "tr", "time": 2262739.932537, "url": "", "pos": 23237, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3864a0", "doc": "http://systweak.com/", "row": 249, "column": 59, "tagName": "td", "time": 2262739.932558, "url": "", "pos": 23354, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386540", "doc": "http://systweak.com/", "row": 250, "column": 62, "tagName": "p", "time": 2262739.932586, "url": "", "pos": 23473, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3865b0", "doc": "http://systweak.com/", "row": 250, "column": 158, "tagName": "a", "time": 2262739.932605, "url": "", "pos": 23569, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386b50", "doc": "http://systweak.com/", "row": 250, "column": 185, "tagName": "a", "time": 2262739.932656, "url": "", "pos": 23596, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x386740", "doc": "http://systweak.com/", "row": 250, "column": 189, "tagName": "p", "time": 2262739.932661, "url": "", "pos": 23600, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x386c10", "doc": "http://systweak.com/", "row": 251, "column": 128, "tagName": "p", "time": 2262739.932675, "url": "", "pos": 23730, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386e10", "doc": "http://systweak.com/", "row": 251, "column": 166, "tagName": "p", "time": 2262739.932697, "url": "", "pos": 23768, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x386be0", "doc": "http://systweak.com/", "row": 252, "column": 60, "tagName": "td", "time": 2262739.932707, "url": "", "pos": 23830, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x386fc0", "doc": "http://systweak.com/", "row": 253, "column": 56, "tagName": "tr", "time": 2262739.932723, "url": "", "pos": 23888, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387020", "doc": "http://systweak.com/", "row": 254, "column": 55, "tagName": "tr", "time": 2262739.932734, "url": "", "pos": 23945, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386cc0", "doc": "http://systweak.com/", "row": 256, "column": 59, "tagName": "td", "time": 2262739.932755, "url": "", "pos": 24063, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386f70", "doc": "http://systweak.com/", "row": 257, "column": 62, "tagName": "p", "time": 2262739.932780, "url": "", "pos": 24127, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x386ec0", "doc": "http://systweak.com/", "row": 257, "column": 168, "tagName": "a", "time": 2262739.932800, "url": "", "pos": 24233, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387310", "doc": "http://systweak.com/", "row": 257, "column": 197, "tagName": "a", "time": 2262739.932850, "url": "", "pos": 24262, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387440", "doc": "http://systweak.com/", "row": 257, "column": 201, "tagName": "p", "time": 2262739.932854, "url": "", "pos": 24266, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387120", "doc": "http://systweak.com/", "row": 258, "column": 125, "tagName": "p", "time": 2262739.932868, "url": "", "pos": 24393, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387180", "doc": "http://systweak.com/", "row": 258, "column": 164, "tagName": "p", "time": 2262739.932890, "url": "", "pos": 24432, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3870f0", "doc": "http://systweak.com/", "row": 259, "column": 60, "tagName": "td", "time": 2262739.932900, "url": "", "pos": 24494, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3871b0", "doc": "http://systweak.com/", "row": 260, "column": 56, "tagName": "tr", "time": 2262739.932907, "url": "", "pos": 24552, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3876f0", "doc": "http://systweak.com/", "row": 261, "column": 55, "tagName": "tr", "time": 2262739.932916, "url": "", "pos": 24609, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3874b0", "doc": "http://systweak.com/", "row": 263, "column": 59, "tagName": "td", "time": 2262739.932938, "url": "", "pos": 24726, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387890", "doc": "http://systweak.com/", "row": 264, "column": 63, "tagName": "p", "time": 2262739.932963, "url": "", "pos": 24791, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387820", "doc": "http://systweak.com/", "row": 264, "column": 156, "tagName": "a", "time": 2262739.932982, "url": "", "pos": 24884, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387a50", "doc": "http://systweak.com/", "row": 264, "column": 172, "tagName": "a", "time": 2262739.933025, "url": "", "pos": 24900, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387b80", "doc": "http://systweak.com/", "row": 264, "column": 176, "tagName": "p", "time": 2262739.933029, "url": "", "pos": 24904, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387510", "doc": "http://systweak.com/", "row": 265, "column": 125, "tagName": "p", "time": 2262739.933043, "url": "", "pos": 25031, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387ac0", "doc": "http://systweak.com/", "row": 265, "column": 180, "tagName": "p", "time": 2262739.933065, "url": "", "pos": 25086, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387900", "doc": "http://systweak.com/", "row": 266, "column": 60, "tagName": "td", "time": 2262739.933076, "url": "", "pos": 25148, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387930", "doc": "http://systweak.com/", "row": 267, "column": 56, "tagName": "tr", "time": 2262739.933082, "url": "", "pos": 25206, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387e60", "doc": "http://systweak.com/", "row": 268, "column": 58, "tagName": "table", "time": 2262739.933092, "url": "", "pos": 25266, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387de0", "doc": "http://systweak.com/", "row": 275, "column": 45, "tagName": "td", "time": 2262739.933123, "url": "", "pos": 25696, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387d50", "doc": "http://systweak.com/", "row": 276, "column": 56, "tagName": "td", "time": 2262739.933130, "url": "", "pos": 25754, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3880f0", "doc": "http://systweak.com/", "row": 277, "column": 111, "tagName": "table", "time": 2262739.933179, "url": "", "pos": 25867, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387f40", "doc": "http://systweak.com/", "row": 278, "column": 53, "tagName": "tr", "time": 2262739.933206, "url": "", "pos": 25922, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3884f0", "doc": "http://systweak.com/", "row": 280, "column": 93, "tagName": "td", "time": 2262739.933251, "url": "", "pos": 26065, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x388c00", "doc": "http://systweak.com/", "row": 281, "column": 66, "tagName": "p", "time": 2262739.933303, "url": "", "pos": 26133, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x388f90", "doc": "http://systweak.com/", "row": 281, "column": 170, "tagName": "a", "time": 2262739.933338, "url": "", "pos": 26237, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x389100", "doc": "http://systweak.com/", "row": 281, "column": 181, "tagName": "a", "time": 2262739.933397, "url": "", "pos": 26248, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x389130", "doc": "http://systweak.com/", "row": 281, "column": 185, "tagName": "p", "time": 2262739.933401, "url": "", "pos": 26252, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x389390", "doc": "http://systweak.com/", "row": 282, "column": 131, "tagName": "p", "time": 2262739.933416, "url": "", "pos": 26385, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x389490", "doc": "http://systweak.com/", "row": 282, "column": 248, "tagName": "a", "time": 2262739.933463, "url": "", "pos": 26502, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3899b0", "doc": "http://systweak.com/", "row": 282, "column": 271, "tagName": "a", "time": 2262739.933528, "url": "", "pos": 26525, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3899e0", "doc": "http://systweak.com/", "row": 282, "column": 275, "tagName": "p", "time": 2262739.933532, "url": "", "pos": 26529, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x389b30", "doc": "http://systweak.com/", "row": 283, "column": 131, "tagName": "p", "time": 2262739.933548, "url": "", "pos": 26662, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x389ba0", "doc": "http://systweak.com/", "row": 283, "column": 238, "tagName": "a", "time": 2262739.933592, "url": "", "pos": 26769, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x389740", "doc": "http://systweak.com/", "row": 283, "column": 260, "tagName": "a", "time": 2262739.933637, "url": "", "pos": 26791, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x389ad0", "doc": "http://systweak.com/", "row": 283, "column": 264, "tagName": "p", "time": 2262739.933641, "url": "", "pos": 26795, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x389b00", "doc": "http://systweak.com/", "row": 284, "column": 131, "tagName": "p", "time": 2262739.933663, "url": "", "pos": 26928, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38a170", "doc": "http://systweak.com/", "row": 284, "column": 275, "tagName": "a", "time": 2262739.933710, "url": "", "pos": 27072, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x389d60", "doc": "http://systweak.com/", "row": 284, "column": 302, "tagName": "a", "time": 2262739.933763, "url": "", "pos": 27099, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38a4d0", "doc": "http://systweak.com/", "row": 284, "column": 306, "tagName": "p", "time": 2262739.933767, "url": "", "pos": 27103, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x389ee0", "doc": "http://systweak.com/", "row": 285, "column": 86, "tagName": "td", "time": 2262739.933778, "url": "", "pos": 27191, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38a530", "doc": "http://systweak.com/", "row": 286, "column": 97, "tagName": "td", "time": 2262739.933788, "url": "", "pos": 27290, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38a780", "doc": "http://systweak.com/", "row": 288, "column": 110, "tagName": "table", "time": 2262739.933829, "url": "", "pos": 27454, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38a840", "doc": "http://systweak.com/", "row": 290, "column": 94, "tagName": "tr", "time": 2262739.933868, "url": "", "pos": 27700, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38a970", "doc": "http://systweak.com/", "row": 291, "column": 86, "tagName": "td", "time": 2262739.933921, "url": "", "pos": 27788, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38b570", "doc": "http://systweak.com/", "row": 291, "column": 131, "tagName": "p", "time": 2262739.933950, "url": "", "pos": 27833, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38b7b0", "doc": "http://systweak.com/", "row": 291, "column": 231, "tagName": "a", "time": 2262739.933995, "url": "", "pos": 27933, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38bae0", "doc": "http://systweak.com/", "row": 291, "column": 255, "tagName": "span", "time": 2262739.934051, "url": "", "pos": 27957, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38bd90", "doc": "http://systweak.com/", "row": 291, "column": 262, "tagName": "span", "time": 2262739.934260, "url": "", "pos": 27964, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38bec0", "doc": "http://systweak.com/", "row": 291, "column": 270, "tagName": "a", "time": 2262739.934273, "url": "", "pos": 27972, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38bef0", "doc": "http://systweak.com/", "row": 291, "column": 274, "tagName": "p", "time": 2262739.934277, "url": "", "pos": 27976, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38bf20", "doc": "http://systweak.com/", "row": 291, "column": 279, "tagName": "td", "time": 2262739.934280, "url": "", "pos": 27981, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38be80", "doc": "http://systweak.com/", "row": 292, "column": 87, "tagName": "tr", "time": 2262739.934287, "url": "", "pos": 28070, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38bdc0", "doc": "http://systweak.com/", "row": 293, "column": 84, "tagName": "table", "time": 2262739.934299, "url": "", "pos": 28176, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38be50", "doc": "http://systweak.com/", "row": 294, "column": 61, "tagName": "td", "time": 2262739.934313, "url": "", "pos": 28239, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38c430", "doc": "http://systweak.com/", "row": 296, "column": 50, "tagName": "tr", "time": 2262739.934321, "url": "", "pos": 28336, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38c500", "doc": "http://systweak.com/", "row": 297, "column": 49, "tagName": "tr", "time": 2262739.934331, "url": "", "pos": 28387, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38cf30", "doc": "http://systweak.com/", "row": 298, "column": 75, "tagName": "td", "time": 2262739.934354, "url": "", "pos": 28464, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38cef0", "doc": "http://systweak.com/", "row": 299, "column": 151, "tagName": "a", "time": 2262739.934414, "url": "", "pos": 28617, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38d3c0", "doc": "http://systweak.com/", "row": 300, "column": 215, "tagName": "img", "time": 2262739.934483, "url": "", "pos": 28834, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38d420", "doc": "http://systweak.com/", "row": 301, "column": 53, "tagName": "a", "time": 2262739.934684, "url": "", "pos": 28889, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38d490", "doc": "http://systweak.com/", "row": 302, "column": 54, "tagName": "td", "time": 2262739.934699, "url": "", "pos": 28945, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38d550", "doc": "http://systweak.com/", "row": 303, "column": 50, "tagName": "tr", "time": 2262739.934706, "url": "", "pos": 28997, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38df00", "doc": "http://systweak.com/", "row": 304, "column": 49, "tagName": "tr", "time": 2262739.934716, "url": "", "pos": 29048, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38ce50", "doc": "http://systweak.com/", "row": 305, "column": 74, "tagName": "td", "time": 2262739.934740, "url": "", "pos": 29124, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38cdd0", "doc": "http://systweak.com/", "row": 306, "column": 120, "tagName": "table", "time": 2262739.934775, "url": "", "pos": 29246, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38dbf0", "doc": "http://systweak.com/", "row": 307, "column": 62, "tagName": "tr", "time": 2262739.934809, "url": "", "pos": 29310, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38daa0", "doc": "http://systweak.com/", "row": 308, "column": 75, "tagName": "td", "time": 2262739.934851, "url": "", "pos": 29387, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38ec80", "doc": "http://systweak.com/", "row": 309, "column": 184, "tagName": "table", "time": 2262739.934894, "url": "", "pos": 29573, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38eae0", "doc": "http://systweak.com/", "row": 310, "column": 80, "tagName": "tr", "time": 2262739.934953, "url": "", "pos": 29655, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38f210", "doc": "http://systweak.com/", "row": 311, "column": 93, "tagName": "td", "time": 2262739.934996, "url": "", "pos": 29750, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38fb80", "doc": "http://systweak.com/", "row": 312, "column": 155, "tagName": "div", "time": 2262739.935039, "url": "", "pos": 29907, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38fc60", "doc": "http://systweak.com/", "row": 312, "column": 253, "tagName": "a", "time": 2262739.935098, "url": "", "pos": 30005, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390050", "doc": "http://systweak.com/", "row": 312, "column": 271, "tagName": "a", "time": 2262739.935157, "url": "", "pos": 30023, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38fe30", "doc": "http://systweak.com/", "row": 312, "column": 277, "tagName": "div", "time": 2262739.935162, "url": "", "pos": 30029, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390080", "doc": "http://systweak.com/", "row": 313, "column": 143, "tagName": "div", "time": 2262739.935177, "url": "", "pos": 30174, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3906f0", "doc": "http://systweak.com/", "row": 313, "column": 244, "tagName": "a", "time": 2262739.935222, "url": "", "pos": 30275, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390620", "doc": "http://systweak.com/", "row": 313, "column": 260, "tagName": "a", "time": 2262739.935284, "url": "", "pos": 30291, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390490", "doc": "http://systweak.com/", "row": 313, "column": 266, "tagName": "div", "time": 2262739.935288, "url": "", "pos": 30297, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390650", "doc": "http://systweak.com/", "row": 315, "column": 82, "tagName": "td", "time": 2262739.935304, "url": "", "pos": 30460, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390680", "doc": "http://systweak.com/", "row": 316, "column": 81, "tagName": "tr", "time": 2262739.935311, "url": "", "pos": 30543, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390c70", "doc": "http://systweak.com/", "row": 317, "column": 83, "tagName": "table", "time": 2262739.935323, "url": "", "pos": 30628, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3909f0", "doc": "http://systweak.com/", "row": 319, "column": 76, "tagName": "td", "time": 2262739.935342, "url": "", "pos": 30784, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390a20", "doc": "http://systweak.com/", "row": 320, "column": 72, "tagName": "tr", "time": 2262739.935349, "url": "", "pos": 30858, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390e70", "doc": "http://systweak.com/", "row": 321, "column": 71, "tagName": "tr", "time": 2262739.935358, "url": "", "pos": 30931, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x391100", "doc": "http://systweak.com/", "row": 322, "column": 113, "tagName": "td", "time": 2262739.935391, "url": "", "pos": 31046, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390e10", "doc": "http://systweak.com/", "row": 323, "column": 179, "tagName": "a", "time": 2262739.935450, "url": "", "pos": 31227, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x391470", "doc": "http://systweak.com/", "row": 323, "column": 200, "tagName": "a", "time": 2262739.935512, "url": "", "pos": 31248, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391570", "doc": "http://systweak.com/", "row": 324, "column": 76, "tagName": "td", "time": 2262739.935527, "url": "", "pos": 31358, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3914d0", "doc": "http://systweak.com/", "row": 325, "column": 72, "tagName": "tr", "time": 2262739.935534, "url": "", "pos": 31432, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391730", "doc": "http://systweak.com/", "row": 326, "column": 65, "tagName": "table", "time": 2262739.935544, "url": "", "pos": 31499, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3916a0", "doc": "http://systweak.com/", "row": 327, "column": 54, "tagName": "td", "time": 2262739.935558, "url": "", "pos": 31555, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3916d0", "doc": "http://systweak.com/", "row": 328, "column": 50, "tagName": "tr", "time": 2262739.935564, "url": "", "pos": 31607, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391840", "doc": "http://systweak.com/", "row": 329, "column": 52, "tagName": "table", "time": 2262739.935572, "url": "", "pos": 31661, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391940", "doc": "http://systweak.com/", "row": 330, "column": 45, "tagName": "td", "time": 2262739.935584, "url": "", "pos": 31708, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3918a0", "doc": "http://systweak.com/", "row": 334, "column": 54, "tagName": "tr", "time": 2262739.935595, "url": "", "pos": 31898, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391610", "doc": "http://systweak.com/", "row": 335, "column": 52, "tagName": "table", "time": 2262739.935607, "url": "", "pos": 31952, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391c60", "doc": "http://systweak.com/", "row": 336, "column": 42, "tagName": "td", "time": 2262739.935618, "url": "", "pos": 31996, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391c00", "doc": "http://systweak.com/", "row": 338, "column": 41, "tagName": "tr", "time": 2262739.935625, "url": "", "pos": 32078, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391ea0", "doc": "http://systweak.com/", "row": 339, "column": 43, "tagName": "table", "time": 2262739.935635, "url": "", "pos": 32123, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391dc0", "doc": "http://systweak.com/", "row": 340, "column": 32, "tagName": "td", "time": 2262739.935645, "url": "", "pos": 32157, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391df0", "doc": "http://systweak.com/", "row": 341, "column": 31, "tagName": "tr", "time": 2262739.935650, "url": "", "pos": 32190, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391e50", "doc": "http://systweak.com/", "row": 342, "column": 33, "tagName": "table", "time": 2262739.935658, "url": "", "pos": 32225, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3919d0", "doc": "http://systweak.com/", "row": 343, "column": 22, "tagName": "td", "time": 2262739.935678, "url": "", "pos": 32249, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391a00", "doc": "http://systweak.com/", "row": 344, "column": 18, "tagName": "tr", "time": 2262739.935683, "url": "", "pos": 32269, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392000", "doc": "http://systweak.com/", "row": 345, "column": 20, "tagName": "table", "time": 2262739.935690, "url": "", "pos": 32291, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392060", "doc": "http://systweak.com/", "row": 346, "column": 10, "tagName": "div", "time": 2262739.935702, "url": "", "pos": 32303, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3921c0", "doc": "http://systweak.com/", "row": 347, "column": 17, "tagName": "div", "time": 2262739.935710, "url": "", "pos": 32322, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x392280", "doc": "http://systweak.com/", "row": 349, "column": 10, "tagName": "div", "time": 2262739.935743, "url": "", "pos": 32343, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3922e0", "doc": "http://systweak.com/", "row": 350, "column": 6, "tagName": "div", "time": 2262739.935750, "url": "", "pos": 32351, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392440", "doc": "http://systweak.com/", "row": 351, "column": 7, "tagName": "form", "time": 2262739.935755, "url": "", "pos": 32360, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392310", "doc": "http://systweak.com/", "row": 352, "column": 8, "tagName": "script", "time": 2262739.935763, "url": "", "pos": 32370, "chunkLen": 32880, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x360960", "doc": "http://systweak.com/", "row": 361, "column": 9, "tagName": "script", "time": 2262739.935803, "url": "", "pos": 32760, "chunkLen": 32880, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392620", "doc": "http://systweak.com/", "row": 363, "column": 97, "tagName": "img", "time": 2262739.936180, "url": "", "pos": 21240, "chunkLen": 21259, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x392a90", "doc": "http://systweak.com/", "row": 364, "column": 7, "tagName": "body", "time": 2262739.936435, "url": "", "pos": 21249, "chunkLen": 21259, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x34e700", "doc": "http://systweak.com/", "row": 365, "column": 7, "tagName": "html", "time": 2262739.936443, "url": "", "pos": 21258, "chunkLen": 21259, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 39867, "from": "0x15ea80",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2262739.559632, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262739.574718, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2262739.575021, "len": 7099}}
+{"Resource": {"id": 4, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=961333326&utmhn=systweak.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=953x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Systweak%20-%20Download%20Software%20utilities%20for%20Windows%20optimization%2C%20Scan%20%26%20Clean%20Spyware%20for%20Free&utmhid=674470027&utmr=-&utmp=%2F&utmht=1378094153350&utmac=UA-2849924-7&utmcc=__utma%3D2215474.175579575.1378094153.1378094153.1378094153.1%3B%2B__utmz%3D2215474.1378094153.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=H~", "sentTime": -1.000000, "len": 35, "from": "0x15a5a0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 344, "connReused": 1, "cached": 0,                            "requestTime": 2262739.693923, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 3, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262739.701386, "len": 35}}
+{"Resource": {"id": 3, "url": "http://www.systweak.com/css/HomePageNewStylesheet.css", "sentTime": -1.000000, "len": 4051, "from": "0x360450",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 5987, "connReused": 0, "cached": 0,                            "requestTime": 2262739.568563, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 60, "connectStart": 1, "connectEnd": 202, "sendStart": 202, "sendEnd": 203, "receiveHeadersEnd": 345, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262739.914424, "len": 4051}}
+{"Resource": {"id": 12, "url": "http://systweak.com/WebResource.axd?d=OC_L6pfX-W2wUXM2crFR6rY0u_bXY_LjjLxkUtneznpEZzROQAh6vC80fReVYvLIja7eGqj62JSQH_qKYzicKL8oOSs1&t=634604424479085897", "sentTime": -1.000000, "len": 43, "from": "0x36a3a0",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 5969, "connReused": 1, "cached": 0,                            "requestTime": 2262739.926294, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 147, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.089087, "len": 43}}
+{"Resource": {"id": 5, "url": "http://www.systweak.com/Images/common/AsoOffer.jpg", "sentTime": -1.000000, "len": 96130, "from": "0x36eb60",                            "mimeType": "image/jpeg", "contentLength": 96130, "httpStatus": 200, "connId": 5987, "connReused": 1, "cached": 0,                            "requestTime": 2262739.937839, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 11, "sendStart": 13, "sendEnd": 14, "receiveHeadersEnd": 155, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.094822, "len": 1118}}
+{"ReceivedChunk": {"receivedTime": 2262740.095183, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.234881, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.246059, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.246885, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.377441, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.381892, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.382907, "len": 8208}}
+{"ReceivedChunk": {"receivedTime": 2262740.413344, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.520684, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.525299, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.525579, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.528118, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.531928, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.543161, "len": 10944}}
+{"ReceivedChunk": {"receivedTime": 2262740.559077, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.559389, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.559603, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.668156, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.676639, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.676984, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.679351, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.681890, "len": 16416}}
+{"ReceivedChunk": {"receivedTime": 2262740.686933, "len": 4724}}
+{"Resource": {"id": 6, "url": "http://www.systweak.com/Images/common/AsoOffer_hover.jpg", "sentTime": -1.000000, "len": 96271, "from": "0x360870",                            "mimeType": "image/jpeg", "contentLength": 96271, "httpStatus": 200, "connId": 6063, "connReused": 0, "cached": 0,                            "requestTime": 2262739.938727, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 12, "dnsEnd": 12, "connectStart": 12, "connectEnd": 153, "sendStart": 153, "sendEnd": 154, "receiveHeadersEnd": 296, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.247174, "len": 2486}}
+{"ReceivedChunk": {"receivedTime": 2262740.376014, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.376997, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.517933, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.518676, "len": 6840}}
+{"ReceivedChunk": {"receivedTime": 2262740.659559, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.661109, "len": 10944}}
+{"ReceivedChunk": {"receivedTime": 2262740.661572, "len": 6840}}
+{"ReceivedChunk": {"receivedTime": 2262740.801091, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.801582, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.802476, "len": 9576}}
+{"ReceivedChunk": {"receivedTime": 2262740.803428, "len": 9576}}
+{"ReceivedChunk": {"receivedTime": 2262740.804483, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.805297, "len": 9576}}
+{"ReceivedChunk": {"receivedTime": 2262740.942679, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.942994, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.943924, "len": 6840}}
+{"ReceivedChunk": {"receivedTime": 2262740.944579, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.945955, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.946363, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2262740.947842, "len": 2129}}
+{"Resource": {"id": 7, "url": "http://www.systweak.com/Images/common/thumb_box_h.jpg", "sentTime": -1.000000, "len": 16484, "from": "0x360870",                            "mimeType": "image/jpeg", "contentLength": 16484, "httpStatus": 200, "connId": 6048, "connReused": 0, "cached": 0,                            "requestTime": 2262739.939116, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 12, "dnsEnd": 12, "connectStart": 12, "connectEnd": 153, "sendStart": 154, "sendEnd": 154, "receiveHeadersEnd": 297, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.249045, "len": 1119}}
+{"ReceivedChunk": {"receivedTime": 2262740.251665, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.396947, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.543459, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.543733, "len": 3053}}
+{"Resource": {"id": 9, "url": "http://www.systweak.com/Images/common/WhiteBG.jpg", "sentTime": -1.000000, "len": 556, "from": "0x160300",                            "mimeType": "image/jpeg", "contentLength": 556, "httpStatus": 200, "connId": 6058, "connReused": 0, "cached": 0,                            "requestTime": 2262739.939927, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 11, "connectStart": 11, "connectEnd": 153, "sendStart": 154, "sendEnd": 154, "receiveHeadersEnd": 297, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.249363, "len": 556}}
+{"Resource": {"id": 8, "url": "http://www.systweak.com/Images/common/thumb_box_n.jpg", "sentTime": -1.000000, "len": 12584, "from": "0x377ca0",                            "mimeType": "image/jpeg", "contentLength": 12584, "httpStatus": 200, "connId": 6043, "connReused": 0, "cached": 0,                            "requestTime": 2262739.939522, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 11, "connectStart": 11, "connectEnd": 153, "sendStart": 154, "sendEnd": 154, "receiveHeadersEnd": 298, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.249959, "len": 2486}}
+{"ReceivedChunk": {"receivedTime": 2262740.387043, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.531496, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2262740.542771, "len": 1890}}
+{"Resource": {"id": 10, "url": "http://www.systweak.com/Images/Common/HeadHome.jpg", "sentTime": -1.000000, "len": 22916, "from": "0x3671d0",                            "mimeType": "image/jpeg", "contentLength": 22916, "httpStatus": 200, "connId": 6053, "connReused": 0, "cached": 0,                            "requestTime": 2262739.940323, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 11, "connectStart": 11, "connectEnd": 153, "sendStart": 153, "sendEnd": 153, "receiveHeadersEnd": 297, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.250529, "len": 2486}}
+{"ReceivedChunk": {"receivedTime": 2262740.387683, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2262740.528458, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.542442, "len": 9576}}
+{"ReceivedChunk": {"receivedTime": 2262740.666784, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.670161, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2262740.678988, "len": 1278}}
+{"Resource": {"id": 11, "url": "http://www.systweak.com/Images/common/header_bottom_black.jpg", "sentTime": -1.000000, "len": 2800, "from": "0x369050",                            "mimeType": "image/jpeg", "contentLength": 2800, "httpStatus": 200, "connId": 6058, "connReused": 1, "cached": 0,                            "requestTime": 2262739.940698, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 302, "sendStart": 304, "sendEnd": 304, "receiveHeadersEnd": 447, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.397781, "len": 1120}}
+{"ReceivedChunk": {"receivedTime": 2262740.398155, "len": 1680}}
+{"Resource": {"id": 13, "url": "http://www.systweak.com/Images/common/line1.jpg", "sentTime": -1.000000, "len": 1238, "from": "0x37ad20",                            "mimeType": "image/jpeg", "contentLength": 1238, "httpStatus": 200, "connId": 6058, "connReused": 1, "cached": 0,                            "requestTime": 2262739.941080, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 452, "sendStart": 452, "sendEnd": 453, "receiveHeadersEnd": 598, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.544450, "len": 1238}}
+{"Resource": {"id": 14, "url": "http://www.systweak.com/Images/common/footer_bg.jpg", "sentTime": -1.000000, "len": 1151, "from": "0x37b7a0",                            "mimeType": "image/jpeg", "contentLength": 1151, "httpStatus": 200, "connId": 6043, "connReused": 1, "cached": 0,                            "requestTime": 2262739.948560, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 583, "sendStart": 584, "sendEnd": 584, "receiveHeadersEnd": 728, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.681433, "len": 1151}}
+{"Resource": {"id": 15, "url": "http://www.systweak.com/Images/common/product_icon_bottom.gif", "sentTime": -1.000000, "len": 4382, "from": "0x383de0",                            "mimeType": "image/gif", "contentLength": 4382, "httpStatus": 200, "connId": 6048, "connReused": 1, "cached": 0,                            "requestTime": 2262739.948972, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 586, "sendStart": 586, "sendEnd": 586, "receiveHeadersEnd": 730, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.687908, "len": 2489}}
+{"ReceivedChunk": {"receivedTime": 2262740.703311, "len": 1893}}
+{"Resource": {"id": 16, "url": "http://www.systweak.com/Images/common/blog.png", "sentTime": -1.000000, "len": 727, "from": "0x38bae0",                            "mimeType": "image/png", "contentLength": 727, "httpStatus": 200, "connId": 6058, "connReused": 1, "cached": 0,                            "requestTime": 2262739.949333, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 592, "sendStart": 592, "sendEnd": 592, "receiveHeadersEnd": 735, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.704210, "len": 727}}
+{"Resource": {"id": 17, "url": "http://www.systweak.com/Images/common/MGCP_long.jpg", "sentTime": -1.000000, "len": 5850, "from": "0x38d3c0",                            "mimeType": "image/jpeg", "contentLength": 5850, "httpStatus": 200, "connId": 6053, "connReused": 1, "cached": 0,                            "requestTime": 2262739.949693, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 723, "sendStart": 723, "sendEnd": 723, "receiveHeadersEnd": 866, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.817906, "len": 1120}}
+{"ReceivedChunk": {"receivedTime": 2262740.819523, "len": 4730}}
+{"Resource": {"id": 18, "url": "http://r.openx.net/set?pid=a89bb081-118b-032b-5f6a-e4c1a79b1b81&rtb=9f6b7e95-e154-46ee-94ab-1d01e22922e4&cc=1", "sentTime": -1.000000, "len": 43, "from": "0x0",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 6103, "connReused": 0, "cached": 0,                            "requestTime": 2262740.770102, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 1, "connectStart": 1, "connectEnd": 30, "sendStart": 30, "sendEnd": 30, "receiveHeadersEnd": 62, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262740.833308, "len": 43}}
+{"HOL": {"type": 1, "docUrl": "http://systweak.com/", "code": "0x35ff30", "row": 8, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://systweak.com/", "code": "0x15ea80", "row": 12, "column": 84, "url": "http://www.google-analytics.com/ga.js"}}
+{"HOL": {"type": 1, "docUrl": "http://systweak.com/", "code": "0x15e9c0", "row": 13, "column": 31, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://systweak.com/", "code": "0x360450", "row": 16, "column": 102, "url": "http://www.systweak.com/css/HomePageNewStylesheet.css"}}
+{"HOL": {"type": 4, "docUrl": "http://systweak.com/", "code": "0x35fcd0", "row": 18, "column": 7, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://systweak.com/", "code": "0x363100", "row": 67, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://systweak.com/", "code": "0x392310", "row": 352, "column": 8, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x35ed00", "docUrl": "http://systweak.com/", "startTime": 2262739.533575, "endTime": 2262739.567798, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x15ba80", "docUrl": "http://systweak.com/", "startTime": 2262739.568362, "endTime": -1.000000, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "layout", "code": "0x15ba80", "docUrl": "http://systweak.com/", "startTime": 2262739.572980, "endTime": 2262739.573913, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x15ba80", "docUrl": "http://systweak.com/", "startTime": 2262739.573865, "endTime": 2262739.573903, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x15ba80", "docUrl": "http://systweak.com/", "startTime": 2262739.575244, "endTime": 2262739.605111, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "execScript", "code": "0x15a5a0", "docUrl": "http://systweak.com/", "startTime": 2262739.605206, "endTime": 2262739.691992, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x360870", "docUrl": "http://systweak.com/", "startTime": 2262739.693257, "endTime": -1.000000, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x360870", "docUrl": "http://systweak.com/", "startTime": 2262739.701798, "endTime": 2262739.702393, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x360870", "docUrl": "http://systweak.com/", "startTime": 2262739.710645, "endTime": 2262739.710718, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x360870", "docUrl": "http://systweak.com/", "startTime": 2262739.914629, "endTime": 2262739.936708, "urlRecalcStyle": "http://www.systweak.com/css/HomePageNewStylesheet.css"}}
+{"Computation": {"type": "execScript", "code": "0x360870", "docUrl": "http://systweak.com/", "startTime": 2262739.915577, "endTime": 2262739.917568, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x360960", "docUrl": "http://systweak.com/", "startTime": 2262739.935811, "endTime": 2262739.936160, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262739.936469, "endTime": 2262739.936471, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262739.936473, "endTime": 2262739.936475, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262739.942436, "endTime": 2262739.989267, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262739.989164, "endTime": 2262739.989226, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262739.989287, "endTime": 2262739.989289, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.064160, "endTime": 2262740.066879, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.089491, "endTime": 2262740.089493, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.095449, "endTime": 2262740.095707, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.253899, "endTime": 2262740.254199, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.544817, "endTime": 2262740.544818, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.544825, "endTime": 2262740.545054, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.679921, "endTime": 2262740.679922, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.688205, "endTime": 2262740.688521, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.703209, "endTime": 2262740.703210, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.703214, "endTime": 2262740.703215, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.704613, "endTime": 2262740.704614, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.819960, "endTime": 2262740.820334, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.820360, "endTime": 2262740.820361, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x34e700", "docUrl": "http://systweak.com/", "startTime": 2262740.834131, "endTime": 2262740.834132, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.google-analytics.com/ga.js", "time": 2262739.566879}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.systweak.com/css/HomePageNewStylesheet.css", "time": 2262739.567843}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.systweak.com/Images/Common/HeadHome.jpg", "time": 2262739.569078}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://systweak.com/WebResource.axd?d=OC_L6pfX-W2wUXM2crFR6rY0u_bXY_LjjLxkUtneznpEZzROQAh6vC80fReVYvLIja7eGqj62JSQH_qKYzicKL8oOSs1&t=634604424479085897", "time": 2262739.569208}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.systweak.com/Images/common/AsoOffer.jpg", "time": 2262739.570728}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.systweak.com/Images/common/line1.jpg", "time": 2262739.570947}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.systweak.com/Images/common/product_icon_bottom.gif", "time": 2262739.571138}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://www.systweak.com/Images/common/MGCP_long.jpg", "time": 2262739.571644}}
+{"Preload": {"code": "0x15ba80", "docUrl": "http://systweak.com/", "url": "http://match.rundsp.com/redirect?pixid=5", "time": 2262739.571988}}
+{"Complete": "systweak.com_"}

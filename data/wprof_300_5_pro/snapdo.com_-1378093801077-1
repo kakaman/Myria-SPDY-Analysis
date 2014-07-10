@@ -1,0 +1,529 @@
+{"page": "snapdo.com_"}
+{"DOMLoad": 2262510.379202}
+{"Resource": {"id": 1, "url": "http://snapdo.com/", "sentTime": -1.000000, "len": 14927, "from": "0x0",                            "mimeType": "text/html", "contentLength": 14927, "httpStatus": 200, "connId": 4668, "connReused": 0, "cached": 0,                            "requestTime": 2262508.709381, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 49, "connectStart": 1, "connectEnd": 204, "sendStart": 205, "sendEnd": 205, "receiveHeadersEnd": 364, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.122417, "len": 1152}}
+{"ReceivedChunk": {"receivedTime": 2262509.152945, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262509.256418, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262509.407709, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262509.409392, "len": 3639}}
+{"ObjectHash": {"code": "0x135a50", "doc": "http://snapdo.com/", "row": 4, "column": 61, "tagName": "html", "time": 2262509.146422, "url": "", "pos": 190, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1361e0", "doc": "http://snapdo.com/", "row": 5, "column": 17, "tagName": "head", "time": 2262509.146675, "url": "", "pos": 209, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x135090", "doc": "http://snapdo.com/", "row": 5, "column": 116, "tagName": "link", "time": 2262509.146706, "url": "http://fonts.googleapis.com/css?family=Signika:300", "pos": 308, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x136b70", "doc": "http://snapdo.com/", "row": 5, "column": 123, "tagName": "title", "time": 2262509.147147, "url": "", "pos": 315, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384240", "doc": "http://snapdo.com/", "row": 7, "column": 8, "tagName": "title", "time": 2262509.151386, "url": "", "pos": 356, "chunkLen": 1152, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3842c0", "doc": "http://snapdo.com/", "row": 7, "column": 77, "tagName": "meta", "time": 2262509.151404, "url": "", "pos": 425, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384340", "doc": "http://snapdo.com/", "row": 7, "column": 143, "tagName": "meta", "time": 2262509.151439, "url": "", "pos": 491, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384700", "doc": "http://snapdo.com/", "row": 8, "column": 73, "tagName": "meta", "time": 2262509.151475, "url": "", "pos": 722, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384530", "doc": "http://snapdo.com/", "row": 8, "column": 147, "tagName": "meta", "time": 2262509.151500, "url": "", "pos": 796, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384620", "doc": "http://snapdo.com/", "row": 8, "column": 214, "tagName": "meta", "time": 2262509.151513, "url": "", "pos": 863, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384940", "doc": "http://snapdo.com/", "row": 8, "column": 261, "tagName": "link", "time": 2262509.151526, "url": "http://snapdo.com/favicon.ico", "pos": 910, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x384d60", "doc": "http://snapdo.com/", "row": 12, "column": 51, "tagName": "link", "time": 2262509.151660, "url": "http://snapdo.com/css/screen.css", "pos": 1037, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x385020", "doc": "http://snapdo.com/", "row": 12, "column": 97, "tagName": "link", "time": 2262509.152012, "url": "http://snapdo.com/css/flags.css", "pos": 1083, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x385cf0", "doc": "http://snapdo.com/", "row": 12, "column": 144, "tagName": "link", "time": 2262509.152289, "url": "http://snapdo.com/css/social.css", "pos": 1130, "chunkLen": 1152, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x383b80", "doc": "http://snapdo.com/", "row": 13, "column": 35, "tagName": "script", "time": 2262509.152996, "url": "", "pos": 1167, "chunkLen": 2600, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3874e0", "doc": "http://snapdo.com/", "row": 15, "column": 9, "tagName": "script", "time": 2262509.153063, "url": "", "pos": 1180, "chunkLen": 2600, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x37af40", "doc": "http://snapdo.com/", "row": 16, "column": 27, "tagName": "style", "time": 2262509.543436, "url": "", "pos": 57, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3874b0", "doc": "http://snapdo.com/", "row": 21, "column": 12, "tagName": "style", "time": 2262509.543496, "url": "", "pos": 144, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x388e90", "doc": "http://snapdo.com/", "row": 22, "column": 7, "tagName": "head", "time": 2262509.543746, "url": "", "pos": 153, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x388ef0", "doc": "http://snapdo.com/", "row": 23, "column": 6, "tagName": "body", "time": 2262509.543755, "url": "", "pos": 161, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38ab40", "doc": "http://snapdo.com/", "row": 24, "column": 45, "tagName": "form", "time": 2262509.544105, "url": "", "pos": 208, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38b590", "doc": "http://snapdo.com/", "row": 25, "column": 26, "tagName": "div", "time": 2262509.544205, "url": "", "pos": 236, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38b900", "doc": "http://snapdo.com/", "row": 26, "column": 3224, "tagName": "input", "time": 2262509.544441, "url": "", "pos": 3462, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38be80", "doc": "http://snapdo.com/", "row": 27, "column": 6, "tagName": "div", "time": 2262509.546089, "url": "", "pos": 3470, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38d6a0", "doc": "http://snapdo.com/", "row": 29, "column": 9, "tagName": "div", "time": 2262509.546112, "url": "", "pos": 3483, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38d820", "doc": "http://snapdo.com/", "row": 30, "column": 10, "tagName": "nav", "time": 2262509.546156, "url": "", "pos": 3495, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38b190", "doc": "http://snapdo.com/", "row": 31, "column": 27, "tagName": "div", "time": 2262509.546223, "url": "", "pos": 3524, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38e220", "doc": "http://snapdo.com/", "row": 32, "column": 30, "tagName": "div", "time": 2262509.546274, "url": "", "pos": 3556, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38e7d0", "doc": "http://snapdo.com/", "row": 32, "column": 36, "tagName": "div", "time": 2262509.546539, "url": "", "pos": 3562, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38e9f0", "doc": "http://snapdo.com/", "row": 33, "column": 28, "tagName": "ul", "time": 2262509.546552, "url": "", "pos": 3592, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38f2e0", "doc": "http://snapdo.com/", "row": 34, "column": 7, "tagName": "li", "time": 2262509.546710, "url": "", "pos": 3601, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38e710", "doc": "http://snapdo.com/", "row": 34, "column": 61, "tagName": "a", "time": 2262509.546769, "url": "", "pos": 3655, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38fdc0", "doc": "http://snapdo.com/", "row": 34, "column": 68, "tagName": "a", "time": 2262509.546889, "url": "", "pos": 3662, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38f800", "doc": "http://snapdo.com/", "row": 34, "column": 73, "tagName": "li", "time": 2262509.546894, "url": "", "pos": 3667, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x38f890", "doc": "http://snapdo.com/", "row": 35, "column": 16, "tagName": "li", "time": 2262509.546912, "url": "", "pos": 3685, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x38e290", "doc": "http://snapdo.com/", "row": 35, "column": 75, "tagName": "a", "time": 2262509.546936, "url": "", "pos": 3744, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390100", "doc": "http://snapdo.com/", "row": 35, "column": 87, "tagName": "a", "time": 2262509.546978, "url": "", "pos": 3756, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390130", "doc": "http://snapdo.com/", "row": 35, "column": 92, "tagName": "li", "time": 2262509.546982, "url": "", "pos": 3761, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390160", "doc": "http://snapdo.com/", "row": 36, "column": 7, "tagName": "li", "time": 2262509.546990, "url": "", "pos": 3770, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3902a0", "doc": "http://snapdo.com/", "row": 36, "column": 85, "tagName": "a", "time": 2262509.547011, "url": "", "pos": 3848, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390370", "doc": "http://snapdo.com/", "row": 36, "column": 101, "tagName": "a", "time": 2262509.547050, "url": "", "pos": 3864, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3903a0", "doc": "http://snapdo.com/", "row": 36, "column": 106, "tagName": "li", "time": 2262509.547054, "url": "", "pos": 3869, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3905f0", "doc": "http://snapdo.com/", "row": 37, "column": 7, "tagName": "li", "time": 2262509.547061, "url": "", "pos": 3878, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3904f0", "doc": "http://snapdo.com/", "row": 37, "column": 78, "tagName": "a", "time": 2262509.547082, "url": "", "pos": 3949, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3908d0", "doc": "http://snapdo.com/", "row": 37, "column": 92, "tagName": "a", "time": 2262509.547121, "url": "", "pos": 3963, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390900", "doc": "http://snapdo.com/", "row": 37, "column": 97, "tagName": "li", "time": 2262509.547125, "url": "", "pos": 3968, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390a60", "doc": "http://snapdo.com/", "row": 38, "column": 7, "tagName": "li", "time": 2262509.547132, "url": "", "pos": 3977, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3909c0", "doc": "http://snapdo.com/", "row": 38, "column": 71, "tagName": "a", "time": 2262509.547153, "url": "", "pos": 4041, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390750", "doc": "http://snapdo.com/", "row": 38, "column": 83, "tagName": "a", "time": 2262509.547191, "url": "", "pos": 4053, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390780", "doc": "http://snapdo.com/", "row": 38, "column": 88, "tagName": "li", "time": 2262509.547195, "url": "", "pos": 4058, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3907b0", "doc": "http://snapdo.com/", "row": 39, "column": 16, "tagName": "li", "time": 2262509.547202, "url": "", "pos": 4076, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390d70", "doc": "http://snapdo.com/", "row": 39, "column": 89, "tagName": "a", "time": 2262509.547224, "url": "", "pos": 4149, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390ef0", "doc": "http://snapdo.com/", "row": 39, "column": 96, "tagName": "a", "time": 2262509.547262, "url": "", "pos": 4156, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390f20", "doc": "http://snapdo.com/", "row": 39, "column": 101, "tagName": "li", "time": 2262509.547275, "url": "", "pos": 4161, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390f50", "doc": "http://snapdo.com/", "row": 40, "column": 16, "tagName": "li", "time": 2262509.547284, "url": "", "pos": 4179, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390fe0", "doc": "http://snapdo.com/", "row": 40, "column": 108, "tagName": "a", "time": 2262509.547307, "url": "", "pos": 4271, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x390cb0", "doc": "http://snapdo.com/", "row": 40, "column": 119, "tagName": "a", "time": 2262509.547346, "url": "", "pos": 4282, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3907e0", "doc": "http://snapdo.com/", "row": 40, "column": 124, "tagName": "li", "time": 2262509.547350, "url": "", "pos": 4287, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390ce0", "doc": "http://snapdo.com/", "row": 41, "column": 7, "tagName": "ul", "time": 2262509.547357, "url": "", "pos": 4296, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x390d10", "doc": "http://snapdo.com/", "row": 42, "column": 14, "tagName": "div", "time": 2262509.547364, "url": "", "pos": 4312, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3914e0", "doc": "http://snapdo.com/", "row": 43, "column": 7, "tagName": "nav", "time": 2262509.547370, "url": "", "pos": 4321, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3912e0", "doc": "http://snapdo.com/", "row": 45, "column": 58, "tagName": "div", "time": 2262509.547381, "url": "", "pos": 4383, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x391410", "doc": "http://snapdo.com/", "row": 46, "column": 27, "tagName": "div", "time": 2262509.547459, "url": "", "pos": 4412, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x392010", "doc": "http://snapdo.com/", "row": 47, "column": 62, "tagName": "div", "time": 2262509.547672, "url": "", "pos": 4476, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x392440", "doc": "http://snapdo.com/", "row": 48, "column": 80, "tagName": "div", "time": 2262509.547712, "url": "", "pos": 4558, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x391aa0", "doc": "http://snapdo.com/", "row": 48, "column": 86, "tagName": "div", "time": 2262509.547916, "url": "", "pos": 4564, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x391b00", "doc": "http://snapdo.com/", "row": 49, "column": 40, "tagName": "div", "time": 2262509.547930, "url": "", "pos": 4606, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393460", "doc": "http://snapdo.com/", "row": 49, "column": 53, "tagName": "div", "time": 2262509.547986, "url": "", "pos": 4619, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x393490", "doc": "http://snapdo.com/", "row": 50, "column": 14, "tagName": "div", "time": 2262509.547995, "url": "", "pos": 4635, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3934f0", "doc": "http://snapdo.com/", "row": 51, "column": 39, "tagName": "div", "time": 2262509.548004, "url": "", "pos": 4676, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3932e0", "doc": "http://snapdo.com/", "row": 52, "column": 29, "tagName": "ul", "time": 2262509.548046, "url": "", "pos": 4707, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3936d0", "doc": "http://snapdo.com/", "row": 53, "column": 17, "tagName": "li", "time": 2262509.548085, "url": "", "pos": 4726, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393820", "doc": "http://snapdo.com/", "row": 53, "column": 85, "tagName": "a", "time": 2262509.548105, "url": "", "pos": 4794, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3938d0", "doc": "http://snapdo.com/", "row": 53, "column": 109, "tagName": "div", "time": 2262509.548154, "url": "", "pos": 4818, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393a50", "doc": "http://snapdo.com/", "row": 53, "column": 115, "tagName": "div", "time": 2262509.548165, "url": "", "pos": 4824, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x393be0", "doc": "http://snapdo.com/", "row": 53, "column": 126, "tagName": "a", "time": 2262509.548172, "url": "", "pos": 4835, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x393d10", "doc": "http://snapdo.com/", "row": 53, "column": 131, "tagName": "li", "time": 2262509.548175, "url": "", "pos": 4840, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x393c10", "doc": "http://snapdo.com/", "row": 54, "column": 17, "tagName": "li", "time": 2262509.548181, "url": "", "pos": 4859, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393d40", "doc": "http://snapdo.com/", "row": 54, "column": 85, "tagName": "a", "time": 2262509.548196, "url": "", "pos": 4927, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393b10", "doc": "http://snapdo.com/", "row": 54, "column": 109, "tagName": "div", "time": 2262509.548212, "url": "", "pos": 4951, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393bb0", "doc": "http://snapdo.com/", "row": 54, "column": 115, "tagName": "div", "time": 2262509.548233, "url": "", "pos": 4957, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394030", "doc": "http://snapdo.com/", "row": 54, "column": 125, "tagName": "a", "time": 2262509.548241, "url": "", "pos": 4967, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394060", "doc": "http://snapdo.com/", "row": 54, "column": 130, "tagName": "li", "time": 2262509.548244, "url": "", "pos": 4972, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394190", "doc": "http://snapdo.com/", "row": 55, "column": 17, "tagName": "li", "time": 2262509.548250, "url": "", "pos": 4991, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x393f90", "doc": "http://snapdo.com/", "row": 55, "column": 85, "tagName": "a", "time": 2262509.548274, "url": "", "pos": 5059, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3940c0", "doc": "http://snapdo.com/", "row": 55, "column": 109, "tagName": "div", "time": 2262509.548291, "url": "", "pos": 5083, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394160", "doc": "http://snapdo.com/", "row": 55, "column": 115, "tagName": "div", "time": 2262509.548301, "url": "", "pos": 5089, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392ee0", "doc": "http://snapdo.com/", "row": 55, "column": 125, "tagName": "a", "time": 2262509.548307, "url": "", "pos": 5099, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x392f10", "doc": "http://snapdo.com/", "row": 55, "column": 130, "tagName": "li", "time": 2262509.548310, "url": "", "pos": 5104, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394480", "doc": "http://snapdo.com/", "row": 56, "column": 17, "tagName": "li", "time": 2262509.548316, "url": "", "pos": 5123, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394500", "doc": "http://snapdo.com/", "row": 56, "column": 85, "tagName": "a", "time": 2262509.548331, "url": "", "pos": 5191, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x392e10", "doc": "http://snapdo.com/", "row": 56, "column": 109, "tagName": "div", "time": 2262509.548346, "url": "", "pos": 5215, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x392eb0", "doc": "http://snapdo.com/", "row": 56, "column": 115, "tagName": "div", "time": 2262509.548356, "url": "", "pos": 5221, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394980", "doc": "http://snapdo.com/", "row": 56, "column": 126, "tagName": "a", "time": 2262509.548362, "url": "", "pos": 5232, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3949b0", "doc": "http://snapdo.com/", "row": 56, "column": 131, "tagName": "li", "time": 2262509.548365, "url": "", "pos": 5237, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394ae0", "doc": "http://snapdo.com/", "row": 57, "column": 17, "tagName": "li", "time": 2262509.548371, "url": "", "pos": 5256, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3948d0", "doc": "http://snapdo.com/", "row": 57, "column": 85, "tagName": "a", "time": 2262509.548386, "url": "", "pos": 5324, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394a10", "doc": "http://snapdo.com/", "row": 57, "column": 109, "tagName": "div", "time": 2262509.548402, "url": "", "pos": 5348, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394ab0", "doc": "http://snapdo.com/", "row": 57, "column": 115, "tagName": "div", "time": 2262509.548412, "url": "", "pos": 5354, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394de0", "doc": "http://snapdo.com/", "row": 57, "column": 127, "tagName": "a", "time": 2262509.548418, "url": "", "pos": 5366, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394e10", "doc": "http://snapdo.com/", "row": 57, "column": 132, "tagName": "li", "time": 2262509.548421, "url": "", "pos": 5371, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394f40", "doc": "http://snapdo.com/", "row": 58, "column": 17, "tagName": "li", "time": 2262509.548427, "url": "", "pos": 5390, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394d50", "doc": "http://snapdo.com/", "row": 58, "column": 85, "tagName": "a", "time": 2262509.548449, "url": "", "pos": 5458, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394e70", "doc": "http://snapdo.com/", "row": 58, "column": 109, "tagName": "div", "time": 2262509.548465, "url": "", "pos": 5482, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x394f10", "doc": "http://snapdo.com/", "row": 58, "column": 115, "tagName": "div", "time": 2262509.548476, "url": "", "pos": 5488, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x395250", "doc": "http://snapdo.com/", "row": 58, "column": 125, "tagName": "a", "time": 2262509.548482, "url": "", "pos": 5498, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x395280", "doc": "http://snapdo.com/", "row": 58, "column": 130, "tagName": "li", "time": 2262509.548485, "url": "", "pos": 5503, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3953b0", "doc": "http://snapdo.com/", "row": 59, "column": 17, "tagName": "li", "time": 2262509.548491, "url": "", "pos": 5522, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3951b0", "doc": "http://snapdo.com/", "row": 59, "column": 85, "tagName": "a", "time": 2262509.548506, "url": "", "pos": 5590, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3946b0", "doc": "http://snapdo.com/", "row": 59, "column": 109, "tagName": "div", "time": 2262509.548522, "url": "", "pos": 5614, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395320", "doc": "http://snapdo.com/", "row": 59, "column": 115, "tagName": "div", "time": 2262509.548532, "url": "", "pos": 5620, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394580", "doc": "http://snapdo.com/", "row": 59, "column": 125, "tagName": "a", "time": 2262509.548538, "url": "", "pos": 5630, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3945b0", "doc": "http://snapdo.com/", "row": 59, "column": 130, "tagName": "li", "time": 2262509.548541, "url": "", "pos": 5635, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3945e0", "doc": "http://snapdo.com/", "row": 60, "column": 17, "tagName": "li", "time": 2262509.548547, "url": "", "pos": 5654, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395580", "doc": "http://snapdo.com/", "row": 60, "column": 85, "tagName": "a", "time": 2262509.548561, "url": "", "pos": 5722, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395730", "doc": "http://snapdo.com/", "row": 60, "column": 109, "tagName": "div", "time": 2262509.548576, "url": "", "pos": 5746, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3957d0", "doc": "http://snapdo.com/", "row": 60, "column": 115, "tagName": "div", "time": 2262509.548586, "url": "", "pos": 5752, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394740", "doc": "http://snapdo.com/", "row": 60, "column": 126, "tagName": "a", "time": 2262509.548592, "url": "", "pos": 5763, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x394770", "doc": "http://snapdo.com/", "row": 60, "column": 131, "tagName": "li", "time": 2262509.548595, "url": "", "pos": 5768, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3947a0", "doc": "http://snapdo.com/", "row": 61, "column": 17, "tagName": "li", "time": 2262509.548601, "url": "", "pos": 5787, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3958d0", "doc": "http://snapdo.com/", "row": 61, "column": 85, "tagName": "a", "time": 2262509.548616, "url": "", "pos": 5855, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395ab0", "doc": "http://snapdo.com/", "row": 61, "column": 109, "tagName": "div", "time": 2262509.548631, "url": "", "pos": 5879, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395b50", "doc": "http://snapdo.com/", "row": 61, "column": 115, "tagName": "div", "time": 2262509.548641, "url": "", "pos": 5885, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x395e30", "doc": "http://snapdo.com/", "row": 61, "column": 126, "tagName": "a", "time": 2262509.548647, "url": "", "pos": 5896, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x395e60", "doc": "http://snapdo.com/", "row": 61, "column": 131, "tagName": "li", "time": 2262509.548650, "url": "", "pos": 5901, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x395f90", "doc": "http://snapdo.com/", "row": 62, "column": 17, "tagName": "li", "time": 2262509.548663, "url": "", "pos": 5920, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395d80", "doc": "http://snapdo.com/", "row": 62, "column": 85, "tagName": "a", "time": 2262509.548679, "url": "", "pos": 5988, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395ec0", "doc": "http://snapdo.com/", "row": 62, "column": 109, "tagName": "div", "time": 2262509.548694, "url": "", "pos": 6012, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395f60", "doc": "http://snapdo.com/", "row": 62, "column": 115, "tagName": "div", "time": 2262509.548704, "url": "", "pos": 6018, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396280", "doc": "http://snapdo.com/", "row": 62, "column": 125, "tagName": "a", "time": 2262509.548710, "url": "", "pos": 6028, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3962b0", "doc": "http://snapdo.com/", "row": 62, "column": 130, "tagName": "li", "time": 2262509.548713, "url": "", "pos": 6033, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3963e0", "doc": "http://snapdo.com/", "row": 63, "column": 17, "tagName": "li", "time": 2262509.548719, "url": "", "pos": 6052, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396200", "doc": "http://snapdo.com/", "row": 63, "column": 85, "tagName": "a", "time": 2262509.548733, "url": "", "pos": 6120, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396310", "doc": "http://snapdo.com/", "row": 63, "column": 109, "tagName": "div", "time": 2262509.548749, "url": "", "pos": 6144, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3963b0", "doc": "http://snapdo.com/", "row": 63, "column": 115, "tagName": "div", "time": 2262509.548758, "url": "", "pos": 6150, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396710", "doc": "http://snapdo.com/", "row": 63, "column": 126, "tagName": "a", "time": 2262509.548764, "url": "", "pos": 6161, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396740", "doc": "http://snapdo.com/", "row": 63, "column": 131, "tagName": "li", "time": 2262509.548767, "url": "", "pos": 6166, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396870", "doc": "http://snapdo.com/", "row": 64, "column": 17, "tagName": "li", "time": 2262509.548774, "url": "", "pos": 6185, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396660", "doc": "http://snapdo.com/", "row": 64, "column": 85, "tagName": "a", "time": 2262509.548789, "url": "", "pos": 6253, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3967a0", "doc": "http://snapdo.com/", "row": 64, "column": 109, "tagName": "div", "time": 2262509.548804, "url": "", "pos": 6277, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396840", "doc": "http://snapdo.com/", "row": 64, "column": 115, "tagName": "div", "time": 2262509.548813, "url": "", "pos": 6283, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396b70", "doc": "http://snapdo.com/", "row": 64, "column": 126, "tagName": "a", "time": 2262509.548819, "url": "", "pos": 6294, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396ba0", "doc": "http://snapdo.com/", "row": 64, "column": 131, "tagName": "li", "time": 2262509.548822, "url": "", "pos": 6299, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396cd0", "doc": "http://snapdo.com/", "row": 65, "column": 17, "tagName": "li", "time": 2262509.548829, "url": "", "pos": 6318, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396ac0", "doc": "http://snapdo.com/", "row": 65, "column": 85, "tagName": "a", "time": 2262509.548843, "url": "", "pos": 6386, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396c00", "doc": "http://snapdo.com/", "row": 65, "column": 109, "tagName": "div", "time": 2262509.548858, "url": "", "pos": 6410, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396ca0", "doc": "http://snapdo.com/", "row": 65, "column": 115, "tagName": "div", "time": 2262509.548867, "url": "", "pos": 6416, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396fc0", "doc": "http://snapdo.com/", "row": 65, "column": 124, "tagName": "a", "time": 2262509.548881, "url": "", "pos": 6425, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x396ff0", "doc": "http://snapdo.com/", "row": 65, "column": 129, "tagName": "li", "time": 2262509.548885, "url": "", "pos": 6430, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397120", "doc": "http://snapdo.com/", "row": 66, "column": 17, "tagName": "li", "time": 2262509.548891, "url": "", "pos": 6449, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x396f40", "doc": "http://snapdo.com/", "row": 66, "column": 85, "tagName": "a", "time": 2262509.548906, "url": "", "pos": 6517, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397050", "doc": "http://snapdo.com/", "row": 66, "column": 109, "tagName": "div", "time": 2262509.548921, "url": "", "pos": 6541, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3970f0", "doc": "http://snapdo.com/", "row": 66, "column": 115, "tagName": "div", "time": 2262509.548931, "url": "", "pos": 6547, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3972f0", "doc": "http://snapdo.com/", "row": 66, "column": 129, "tagName": "a", "time": 2262509.548937, "url": "", "pos": 6561, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397320", "doc": "http://snapdo.com/", "row": 66, "column": 134, "tagName": "li", "time": 2262509.548940, "url": "", "pos": 6566, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397350", "doc": "http://snapdo.com/", "row": 67, "column": 17, "tagName": "li", "time": 2262509.548946, "url": "", "pos": 6585, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397600", "doc": "http://snapdo.com/", "row": 67, "column": 85, "tagName": "a", "time": 2262509.548961, "url": "", "pos": 6653, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3959b0", "doc": "http://snapdo.com/", "row": 67, "column": 109, "tagName": "div", "time": 2262509.548976, "url": "", "pos": 6677, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x395a50", "doc": "http://snapdo.com/", "row": 67, "column": 115, "tagName": "div", "time": 2262509.548985, "url": "", "pos": 6683, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397930", "doc": "http://snapdo.com/", "row": 67, "column": 126, "tagName": "a", "time": 2262509.548991, "url": "", "pos": 6694, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397960", "doc": "http://snapdo.com/", "row": 67, "column": 131, "tagName": "li", "time": 2262509.548994, "url": "", "pos": 6699, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397a90", "doc": "http://snapdo.com/", "row": 68, "column": 17, "tagName": "li", "time": 2262509.549000, "url": "", "pos": 6718, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397880", "doc": "http://snapdo.com/", "row": 68, "column": 85, "tagName": "a", "time": 2262509.549015, "url": "", "pos": 6786, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3979c0", "doc": "http://snapdo.com/", "row": 68, "column": 109, "tagName": "div", "time": 2262509.549029, "url": "", "pos": 6810, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397a60", "doc": "http://snapdo.com/", "row": 68, "column": 115, "tagName": "div", "time": 2262509.549039, "url": "", "pos": 6816, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397d90", "doc": "http://snapdo.com/", "row": 68, "column": 128, "tagName": "a", "time": 2262509.549045, "url": "", "pos": 6829, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397dc0", "doc": "http://snapdo.com/", "row": 68, "column": 133, "tagName": "li", "time": 2262509.549048, "url": "", "pos": 6834, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397ef0", "doc": "http://snapdo.com/", "row": 69, "column": 17, "tagName": "li", "time": 2262509.549054, "url": "", "pos": 6853, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397ce0", "doc": "http://snapdo.com/", "row": 69, "column": 85, "tagName": "a", "time": 2262509.549076, "url": "", "pos": 6921, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397e20", "doc": "http://snapdo.com/", "row": 69, "column": 109, "tagName": "div", "time": 2262509.549092, "url": "", "pos": 6945, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x397ec0", "doc": "http://snapdo.com/", "row": 69, "column": 115, "tagName": "div", "time": 2262509.549102, "url": "", "pos": 6951, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3981e0", "doc": "http://snapdo.com/", "row": 69, "column": 125, "tagName": "a", "time": 2262509.549108, "url": "", "pos": 6961, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x398210", "doc": "http://snapdo.com/", "row": 69, "column": 130, "tagName": "li", "time": 2262509.549111, "url": "", "pos": 6966, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x398340", "doc": "http://snapdo.com/", "row": 70, "column": 14, "tagName": "ul", "time": 2262509.549117, "url": "", "pos": 6982, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x398140", "doc": "http://snapdo.com/", "row": 71, "column": 15, "tagName": "div", "time": 2262509.549126, "url": "", "pos": 7012, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3983d0", "doc": "http://snapdo.com/", "row": 72, "column": 12, "tagName": "div", "time": 2262509.549133, "url": "", "pos": 7031, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x398530", "doc": "http://snapdo.com/", "row": 73, "column": 10, "tagName": "div", "time": 2262509.549139, "url": "", "pos": 7043, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x398560", "doc": "http://snapdo.com/", "row": 74, "column": 35, "tagName": "div", "time": 2262509.549148, "url": "", "pos": 7080, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x398290", "doc": "http://snapdo.com/", "row": 75, "column": 44, "tagName": "span", "time": 2262509.549192, "url": "", "pos": 7126, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x398ad0", "doc": "http://snapdo.com/", "row": 76, "column": 34, "tagName": "a", "time": 2262509.549237, "url": "", "pos": 7293, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x398980", "doc": "http://snapdo.com/", "row": 76, "column": 72, "tagName": "span", "time": 2262509.549536, "url": "", "pos": 7331, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x399da0", "doc": "http://snapdo.com/", "row": 76, "column": 95, "tagName": "span", "time": 2262509.549610, "url": "", "pos": 7354, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x399ca0", "doc": "http://snapdo.com/", "row": 76, "column": 99, "tagName": "a", "time": 2262509.549615, "url": "", "pos": 7358, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x399d00", "doc": "http://snapdo.com/", "row": 76, "column": 107, "tagName": "span", "time": 2262509.549632, "url": "", "pos": 7366, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x399d70", "doc": "http://snapdo.com/", "row": 76, "column": 140, "tagName": "span", "time": 2262509.549639, "url": "", "pos": 7399, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39a210", "doc": "http://snapdo.com/", "row": 78, "column": 60, "tagName": "a", "time": 2262509.549687, "url": "", "pos": 7582, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39a850", "doc": "http://snapdo.com/", "row": 78, "column": 99, "tagName": "span", "time": 2262509.549920, "url": "", "pos": 7621, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39b7f0", "doc": "http://snapdo.com/", "row": 78, "column": 123, "tagName": "span", "time": 2262509.549969, "url": "", "pos": 7645, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39b820", "doc": "http://snapdo.com/", "row": 78, "column": 127, "tagName": "a", "time": 2262509.549974, "url": "", "pos": 7649, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39b6f0", "doc": "http://snapdo.com/", "row": 79, "column": 23, "tagName": "span", "time": 2262509.549982, "url": "", "pos": 7674, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39b720", "doc": "http://snapdo.com/", "row": 80, "column": 14, "tagName": "div", "time": 2262509.549992, "url": "", "pos": 7690, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39ad00", "doc": "http://snapdo.com/", "row": 81, "column": 36, "tagName": "div", "time": 2262509.550002, "url": "", "pos": 7728, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39b140", "doc": "http://snapdo.com/", "row": 82, "column": 35, "tagName": "div", "time": 2262509.550035, "url": "", "pos": 7765, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39b910", "doc": "http://snapdo.com/", "row": 83, "column": 34, "tagName": "div", "time": 2262509.550082, "url": "", "pos": 7801, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39bda0", "doc": "http://snapdo.com/", "row": 84, "column": 61, "tagName": "a", "time": 2262509.550131, "url": "", "pos": 7864, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39c440", "doc": "http://snapdo.com/", "row": 85, "column": 42, "tagName": "div", "time": 2262509.550336, "url": "", "pos": 7908, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39ce00", "doc": "http://snapdo.com/", "row": 86, "column": 50, "tagName": "span", "time": 2262509.550519, "url": "", "pos": 7960, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39ced0", "doc": "http://snapdo.com/", "row": 86, "column": 57, "tagName": "span", "time": 2262509.550541, "url": "", "pos": 7967, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x397530", "doc": "http://snapdo.com/", "row": 87, "column": 30, "tagName": "div", "time": 2262509.550581, "url": "", "pos": 7999, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39c340", "doc": "http://snapdo.com/", "row": 88, "column": 24, "tagName": "a", "time": 2262509.550590, "url": "", "pos": 8025, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39c3a0", "doc": "http://snapdo.com/", "row": 89, "column": 22, "tagName": "div", "time": 2262509.550598, "url": "", "pos": 8049, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39c400", "doc": "http://snapdo.com/", "row": 90, "column": 24, "tagName": "hgroup", "time": 2262509.550605, "url": "", "pos": 8075, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39d210", "doc": "http://snapdo.com/", "row": 91, "column": 46, "tagName": "h1", "time": 2262509.550636, "url": "", "pos": 8123, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39d8b0", "doc": "http://snapdo.com/", "row": 91, "column": 79, "tagName": "h1", "time": 2262509.550694, "url": "", "pos": 8156, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39db10", "doc": "http://snapdo.com/", "row": 92, "column": 38, "tagName": "h2", "time": 2262509.550705, "url": "", "pos": 8196, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39dcf0", "doc": "http://snapdo.com/", "row": 92, "column": 55, "tagName": "h2", "time": 2262509.550796, "url": "", "pos": 8213, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39da10", "doc": "http://snapdo.com/", "row": 93, "column": 12, "tagName": "hgroup", "time": 2262509.550804, "url": "", "pos": 8227, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39da40", "doc": "http://snapdo.com/", "row": 94, "column": 18, "tagName": "div", "time": 2262509.550811, "url": "", "pos": 8247, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39daa0", "doc": "http://snapdo.com/", "row": 95, "column": 14, "tagName": "div", "time": 2262509.550817, "url": "", "pos": 8263, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39e170", "doc": "http://snapdo.com/", "row": 96, "column": 47, "tagName": "div", "time": 2262509.550827, "url": "", "pos": 8312, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39e110", "doc": "http://snapdo.com/", "row": 97, "column": 46, "tagName": "div", "time": 2262509.550877, "url": "", "pos": 8360, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39e6d0", "doc": "http://snapdo.com/", "row": 98, "column": 115, "tagName": "img", "time": 2262509.550911, "url": "", "pos": 8477, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39e650", "doc": "http://snapdo.com/", "row": 99, "column": 18, "tagName": "div", "time": 2262509.551145, "url": "", "pos": 8497, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39e9b0", "doc": "http://snapdo.com/", "row": 100, "column": 14, "tagName": "div", "time": 2262509.551153, "url": "", "pos": 8513, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39f280", "doc": "http://snapdo.com/", "row": 101, "column": 16, "tagName": "header", "time": 2262509.551160, "url": "", "pos": 8531, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39e200", "doc": "http://snapdo.com/", "row": 103, "column": 4, "tagName": "br", "time": 2262509.551187, "url": "", "pos": 8539, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39ecc0", "doc": "http://snapdo.com/", "row": 104, "column": 4, "tagName": "br", "time": 2262509.551207, "url": "", "pos": 8545, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39ed60", "doc": "http://snapdo.com/", "row": 105, "column": 4, "tagName": "br", "time": 2262509.551223, "url": "", "pos": 8551, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39ef60", "doc": "http://snapdo.com/", "row": 107, "column": 42, "tagName": "section", "time": 2262509.551242, "url": "", "pos": 8598, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39f300", "doc": "http://snapdo.com/", "row": 108, "column": 23, "tagName": "div", "time": 2262509.551275, "url": "", "pos": 8623, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39ee20", "doc": "http://snapdo.com/", "row": 108, "column": 67, "tagName": "h1", "time": 2262509.551306, "url": "", "pos": 8667, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39f760", "doc": "http://snapdo.com/", "row": 108, "column": 87, "tagName": "h1", "time": 2262509.551361, "url": "", "pos": 8687, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39f430", "doc": "http://snapdo.com/", "row": 108, "column": 104, "tagName": "p", "time": 2262509.551368, "url": "", "pos": 8704, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39fa80", "doc": "http://snapdo.com/", "row": 108, "column": 205, "tagName": "br", "time": 2262509.551411, "url": "", "pos": 8805, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x39fc00", "doc": "http://snapdo.com/", "row": 109, "column": 75, "tagName": "p", "time": 2262509.551440, "url": "", "pos": 8881, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39ff50", "doc": "http://snapdo.com/", "row": 110, "column": 37, "tagName": "div", "time": 2262509.551452, "url": "", "pos": 8920, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a0fc0", "doc": "http://snapdo.com/", "row": 111, "column": 27, "tagName": "div", "time": 2262509.551654, "url": "", "pos": 8949, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a13b0", "doc": "http://snapdo.com/", "row": 112, "column": 50, "tagName": "img", "time": 2262509.551695, "url": "", "pos": 9001, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a19c0", "doc": "http://snapdo.com/", "row": 113, "column": 25, "tagName": "h3", "time": 2262509.551881, "url": "", "pos": 9028, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a1ce0", "doc": "http://snapdo.com/", "row": 113, "column": 43, "tagName": "h3", "time": 2262509.551923, "url": "", "pos": 9046, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x387b60", "doc": "http://snapdo.com/", "row": 114, "column": 48, "tagName": "div", "time": 2262509.551936, "url": "", "pos": 9096, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a1dc0", "doc": "http://snapdo.com/", "row": 114, "column": 182, "tagName": "div", "time": 2262509.551967, "url": "", "pos": 9230, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x39fe80", "doc": "http://snapdo.com/", "row": 115, "column": 9, "tagName": "div", "time": 2262509.551975, "url": "", "pos": 9241, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a1e50", "doc": "http://snapdo.com/", "row": 116, "column": 30, "tagName": "div", "time": 2262509.551984, "url": "", "pos": 9273, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a2290", "doc": "http://snapdo.com/", "row": 116, "column": 36, "tagName": "div", "time": 2262509.552015, "url": "", "pos": 9279, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a22f0", "doc": "http://snapdo.com/", "row": 117, "column": 30, "tagName": "div", "time": 2262509.552025, "url": "", "pos": 9311, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x387b20", "doc": "http://snapdo.com/", "row": 118, "column": 49, "tagName": "img", "time": 2262509.552049, "url": "", "pos": 9362, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a2740", "doc": "http://snapdo.com/", "row": 119, "column": 28, "tagName": "h3", "time": 2262509.552405, "url": "", "pos": 9392, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a25d0", "doc": "http://snapdo.com/", "row": 119, "column": 50, "tagName": "h3", "time": 2262509.552431, "url": "", "pos": 9414, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a2870", "doc": "http://snapdo.com/", "row": 120, "column": 43, "tagName": "div", "time": 2262509.552442, "url": "", "pos": 9459, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a28f0", "doc": "http://snapdo.com/", "row": 120, "column": 142, "tagName": "div", "time": 2262509.552467, "url": "", "pos": 9558, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a2d50", "doc": "http://snapdo.com/", "row": 121, "column": 9, "tagName": "div", "time": 2262509.552474, "url": "", "pos": 9569, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a2eb0", "doc": "http://snapdo.com/", "row": 122, "column": 30, "tagName": "div", "time": 2262509.552483, "url": "", "pos": 9601, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a2db0", "doc": "http://snapdo.com/", "row": 122, "column": 36, "tagName": "div", "time": 2262509.552499, "url": "", "pos": 9607, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a2e30", "doc": "http://snapdo.com/", "row": 123, "column": 30, "tagName": "div", "time": 2262509.552509, "url": "", "pos": 9639, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a2fa0", "doc": "http://snapdo.com/", "row": 124, "column": 49, "tagName": "img", "time": 2262509.552532, "url": "", "pos": 9690, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a3460", "doc": "http://snapdo.com/", "row": 125, "column": 22, "tagName": "h3", "time": 2262509.552701, "url": "", "pos": 9714, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a3290", "doc": "http://snapdo.com/", "row": 125, "column": 38, "tagName": "h3", "time": 2262509.552724, "url": "", "pos": 9730, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3340", "doc": "http://snapdo.com/", "row": 126, "column": 42, "tagName": "div", "time": 2262509.552736, "url": "", "pos": 9774, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a36e0", "doc": "http://snapdo.com/", "row": 126, "column": 147, "tagName": "div", "time": 2262509.552761, "url": "", "pos": 9879, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3740", "doc": "http://snapdo.com/", "row": 127, "column": 9, "tagName": "div", "time": 2262509.552769, "url": "", "pos": 9890, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3b10", "doc": "http://snapdo.com/", "row": 131, "column": 8, "tagName": "div", "time": 2262509.552777, "url": "", "pos": 9942, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3b40", "doc": "http://snapdo.com/", "row": 132, "column": 14, "tagName": "div", "time": 2262509.552784, "url": "", "pos": 9958, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3a40", "doc": "http://snapdo.com/", "row": 133, "column": 11, "tagName": "section", "time": 2262509.552790, "url": "", "pos": 9971, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3840", "doc": "http://snapdo.com/", "row": 135, "column": 48, "tagName": "section", "time": 2262509.552801, "url": "", "pos": 10035, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x135a90", "doc": "http://snapdo.com/", "row": 136, "column": 24, "tagName": "div", "time": 2262509.552974, "url": "", "pos": 10061, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1415f0", "doc": "http://snapdo.com/", "row": 137, "column": 45, "tagName": "h1", "time": 2262509.553017, "url": "", "pos": 10108, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a3900", "doc": "http://snapdo.com/", "row": 137, "column": 63, "tagName": "h1", "time": 2262509.553086, "url": "", "pos": 10126, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a39b0", "doc": "http://snapdo.com/", "row": 140, "column": 23, "tagName": "p", "time": 2262509.553098, "url": "", "pos": 10159, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a3c70", "doc": "http://snapdo.com/", "row": 140, "column": 27, "tagName": "h3", "time": 2262509.553117, "url": "", "pos": 10163, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a3ff0", "doc": "http://snapdo.com/", "row": 140, "column": 53, "tagName": "p", "time": 2262509.553137, "url": "", "pos": 10189, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4150", "doc": "http://snapdo.com/", "row": 140, "column": 76, "tagName": "p", "time": 2262509.553168, "url": "", "pos": 10212, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4180", "doc": "http://snapdo.com/", "row": 140, "column": 81, "tagName": "h3", "time": 2262509.553172, "url": "", "pos": 10217, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a3ee0", "doc": "http://snapdo.com/", "row": 141, "column": 55, "tagName": "div", "time": 2262509.553183, "url": "", "pos": 10274, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4350", "doc": "http://snapdo.com/", "row": 143, "column": 12, "tagName": "div", "time": 2262509.553296, "url": "", "pos": 10386, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a43e0", "doc": "http://snapdo.com/", "row": 143, "column": 89, "tagName": "a", "time": 2262509.553307, "url": "", "pos": 10463, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4710", "doc": "http://snapdo.com/", "row": 143, "column": 104, "tagName": "a", "time": 2262509.553364, "url": "", "pos": 10478, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4570", "doc": "http://snapdo.com/", "row": 143, "column": 151, "tagName": "p", "time": 2262509.553372, "url": "", "pos": 10525, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a47f0", "doc": "http://snapdo.com/", "row": 144, "column": 55, "tagName": "p", "time": 2262509.553413, "url": "", "pos": 10601, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4c20", "doc": "http://snapdo.com/", "row": 145, "column": 24, "tagName": "p", "time": 2262509.553426, "url": "", "pos": 10627, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4b50", "doc": "http://snapdo.com/", "row": 146, "column": 23, "tagName": "p", "time": 2262509.553447, "url": "", "pos": 10652, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4bb0", "doc": "http://snapdo.com/", "row": 146, "column": 44, "tagName": "h3", "time": 2262509.553462, "url": "", "pos": 10673, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4d00", "doc": "http://snapdo.com/", "row": 146, "column": 62, "tagName": "h3", "time": 2262509.553483, "url": "", "pos": 10691, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4d80", "doc": "http://snapdo.com/", "row": 147, "column": 37, "tagName": "p", "time": 2262509.553494, "url": "", "pos": 10730, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4e90", "doc": "http://snapdo.com/", "row": 150, "column": 29, "tagName": "p", "time": 2262509.553526, "url": "", "pos": 11068, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4f30", "doc": "http://snapdo.com/", "row": 151, "column": 24, "tagName": "p", "time": 2262509.553542, "url": "", "pos": 11094, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a49e0", "doc": "http://snapdo.com/", "row": 152, "column": 8, "tagName": "p", "time": 2262509.553562, "url": "", "pos": 11104, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a4a80", "doc": "http://snapdo.com/", "row": 152, "column": 31, "tagName": "h3", "time": 2262509.553576, "url": "", "pos": 11127, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a5130", "doc": "http://snapdo.com/", "row": 152, "column": 52, "tagName": "h3", "time": 2262509.553598, "url": "", "pos": 11148, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a4fe0", "doc": "http://snapdo.com/", "row": 153, "column": 43, "tagName": "p", "time": 2262509.553608, "url": "", "pos": 11193, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a5160", "doc": "http://snapdo.com/", "row": 154, "column": 69, "tagName": "p", "time": 2262509.553632, "url": "", "pos": 11300, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a5200", "doc": "http://snapdo.com/", "row": 155, "column": 24, "tagName": "p", "time": 2262509.553640, "url": "", "pos": 11326, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a53f0", "doc": "http://snapdo.com/", "row": 156, "column": 7, "tagName": "div", "time": 2262509.553657, "url": "", "pos": 11335, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a5650", "doc": "http://snapdo.com/", "row": 157, "column": 10, "tagName": "section", "time": 2262509.553664, "url": "", "pos": 11347, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a5420", "doc": "http://snapdo.com/", "row": 160, "column": 40, "tagName": "section", "time": 2262509.553674, "url": "", "pos": 11393, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a5580", "doc": "http://snapdo.com/", "row": 161, "column": 24, "tagName": "div", "time": 2262509.553704, "url": "", "pos": 11419, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a5760", "doc": "http://snapdo.com/", "row": 161, "column": 76, "tagName": "h1", "time": 2262509.553734, "url": "", "pos": 11471, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a5970", "doc": "http://snapdo.com/", "row": 161, "column": 105, "tagName": "h1", "time": 2262509.553768, "url": "", "pos": 11500, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a59a0", "doc": "http://snapdo.com/", "row": 162, "column": 99, "tagName": "div", "time": 2262509.553782, "url": "", "pos": 11601, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a6510", "doc": "http://snapdo.com/", "row": 163, "column": 19, "tagName": "div", "time": 2262509.554001, "url": "", "pos": 11622, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a6750", "doc": "http://snapdo.com/", "row": 163, "column": 25, "tagName": "div", "time": 2262509.554176, "url": "", "pos": 11628, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a6a10", "doc": "http://snapdo.com/", "row": 164, "column": 8, "tagName": "div", "time": 2262509.554186, "url": "", "pos": 11638, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a5ae0", "doc": "http://snapdo.com/", "row": 165, "column": 10, "tagName": "section", "time": 2262509.554193, "url": "", "pos": 11650, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a5b80", "doc": "http://snapdo.com/", "row": 168, "column": 40, "tagName": "section", "time": 2262509.554204, "url": "", "pos": 11702, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a66b0", "doc": "http://snapdo.com/", "row": 169, "column": 24, "tagName": "div", "time": 2262509.554312, "url": "", "pos": 11728, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a61f0", "doc": "http://snapdo.com/", "row": 170, "column": 42, "tagName": "h1", "time": 2262509.554363, "url": "", "pos": 11772, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a6db0", "doc": "http://snapdo.com/", "row": 170, "column": 55, "tagName": "h1", "time": 2262509.554400, "url": "", "pos": 11785, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a6e10", "doc": "http://snapdo.com/", "row": 173, "column": 43, "tagName": "p", "time": 2262509.554412, "url": "", "pos": 11841, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7210", "doc": "http://snapdo.com/", "row": 173, "column": 117, "tagName": "p", "time": 2262509.554438, "url": "", "pos": 11915, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a6fb0", "doc": "http://snapdo.com/", "row": 174, "column": 40, "tagName": "p", "time": 2262509.554449, "url": "", "pos": 11957, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7530", "doc": "http://snapdo.com/", "row": 174, "column": 257, "tagName": "p", "time": 2262509.554478, "url": "", "pos": 12174, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a6fe0", "doc": "http://snapdo.com/", "row": 175, "column": 23, "tagName": "p", "time": 2262509.554486, "url": "", "pos": 12199, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7260", "doc": "http://snapdo.com/", "row": 175, "column": 27, "tagName": "p", "time": 2262509.554499, "url": "", "pos": 12203, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a7300", "doc": "http://snapdo.com/", "row": 176, "column": 25, "tagName": "div", "time": 2262509.554508, "url": "", "pos": 12230, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7790", "doc": "http://snapdo.com/", "row": 177, "column": 27, "tagName": "p", "time": 2262509.554532, "url": "", "pos": 12259, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7870", "doc": "http://snapdo.com/", "row": 177, "column": 71, "tagName": "p", "time": 2262509.554552, "url": "", "pos": 12303, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7930", "doc": "http://snapdo.com/", "row": 177, "column": 89, "tagName": "p", "time": 2262509.554598, "url": "", "pos": 12321, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a7d30", "doc": "http://snapdo.com/", "row": 177, "column": 185, "tagName": "a", "time": 2262509.554610, "url": "", "pos": 12417, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7f60", "doc": "http://snapdo.com/", "row": 177, "column": 204, "tagName": "a", "time": 2262509.554684, "url": "", "pos": 12436, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a7c00", "doc": "http://snapdo.com/", "row": 177, "column": 208, "tagName": "p", "time": 2262509.554689, "url": "", "pos": 12440, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a8090", "doc": "http://snapdo.com/", "row": 178, "column": 26, "tagName": "div", "time": 2262509.554756, "url": "", "pos": 12468, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a7990", "doc": "http://snapdo.com/", "row": 179, "column": 7, "tagName": "div", "time": 2262509.554765, "url": "", "pos": 12477, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a8220", "doc": "http://snapdo.com/", "row": 180, "column": 10, "tagName": "section", "time": 2262509.554771, "url": "", "pos": 12489, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a79f0", "doc": "http://snapdo.com/", "row": 182, "column": 22, "tagName": "div", "time": 2262509.554780, "url": "", "pos": 12516, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a8190", "doc": "http://snapdo.com/", "row": 183, "column": 24, "tagName": "div", "time": 2262509.554807, "url": "", "pos": 12542, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a7fc0", "doc": "http://snapdo.com/", "row": 183, "column": 98, "tagName": "a", "time": 2262509.554858, "url": "", "pos": 12616, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a8700", "doc": "http://snapdo.com/", "row": 183, "column": 109, "tagName": "a", "time": 2262509.554930, "url": "", "pos": 12627, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a8cf0", "doc": "http://snapdo.com/", "row": 183, "column": 177, "tagName": "a", "time": 2262509.554947, "url": "", "pos": 12695, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a8e00", "doc": "http://snapdo.com/", "row": 183, "column": 185, "tagName": "a", "time": 2262509.554989, "url": "", "pos": 12703, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a8ef0", "doc": "http://snapdo.com/", "row": 183, "column": 282, "tagName": "a", "time": 2262509.555008, "url": "", "pos": 12800, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a9060", "doc": "http://snapdo.com/", "row": 183, "column": 308, "tagName": "a", "time": 2262509.555038, "url": "", "pos": 12826, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a9090", "doc": "http://snapdo.com/", "row": 183, "column": 312, "tagName": "br", "time": 2262509.555042, "url": "", "pos": 12830, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a92f0", "doc": "http://snapdo.com/", "row": 183, "column": 317, "tagName": "br", "time": 2262509.555059, "url": "", "pos": 12835, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a91b0", "doc": "http://snapdo.com/", "row": 183, "column": 343, "tagName": "p", "time": 2262509.555072, "url": "", "pos": 12861, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a96a0", "doc": "http://snapdo.com/", "row": 183, "column": 385, "tagName": "p", "time": 2262509.555128, "url": "", "pos": 12903, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a94c0", "doc": "http://snapdo.com/", "row": 185, "column": 6, "tagName": "div", "time": 2262509.555136, "url": "", "pos": 12917, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3a9970", "doc": "http://snapdo.com/", "row": 189, "column": 37, "tagName": "script", "time": 2262509.555146, "url": "http://snapdo.com/js/jquery-1.5.1.min.js", "pos": 12966, "chunkLen": 13761, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3a9830", "doc": "http://snapdo.com/", "row": 189, "column": 46, "tagName": "script", "time": 2262509.555168, "url": "", "pos": 12975, "chunkLen": 13761, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x167510", "doc": "http://snapdo.com/", "row": 0, "column": 10, "tagName": "link", "time": 2262509.939352, "url": "", "pos": 10, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x161500", "doc": "http://snapdo.com/", "row": 0, "column": 17, "tagName": "table", "time": 2262509.939370, "url": "", "pos": 17, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x167210", "doc": "http://snapdo.com/", "row": 0, "column": 25, "tagName": "table", "time": 2262509.939388, "url": "", "pos": 25, "chunkLen": 109, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1674b0", "doc": "http://snapdo.com/", "row": 0, "column": 80, "tagName": "a", "time": 2262509.939401, "url": "", "pos": 80, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x14f930", "doc": "http://snapdo.com/", "row": 0, "column": 85, "tagName": "a", "time": 2262509.939454, "url": "", "pos": 85, "chunkLen": 109, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13f220", "doc": "http://snapdo.com/", "row": 0, "column": 109, "tagName": "input", "time": 2262509.939461, "url": "", "pos": 109, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13ef80", "doc": "http://snapdo.com/", "row": 0, "column": 56, "tagName": "input", "time": 2262509.941316, "url": "", "pos": 56, "chunkLen": 56, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x168810", "doc": "http://snapdo.com/", "row": 0, "column": 31, "tagName": "a", "time": 2262509.950191, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x168f20", "doc": "http://snapdo.com/", "row": 0, "column": 12, "tagName": "a", "time": 2262509.950657, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x169010", "doc": "http://snapdo.com/", "row": 0, "column": 16, "tagName": "a", "time": 2262509.950672, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x168ec0", "doc": "http://snapdo.com/", "row": 0, "column": 16, "tagName": "p", "time": 2262509.950977, "url": "", "pos": 16, "chunkLen": 20, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x169190", "doc": "http://snapdo.com/", "row": 0, "column": 20, "tagName": "p", "time": 2262509.950989, "url": "", "pos": 20, "chunkLen": 20, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1694d0", "doc": "http://snapdo.com/", "row": 0, "column": 20, "tagName": "div", "time": 2262509.951688, "url": "", "pos": 20, "chunkLen": 50, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1695e0", "doc": "http://snapdo.com/", "row": 0, "column": 26, "tagName": "div", "time": 2262509.951699, "url": "", "pos": 26, "chunkLen": 50, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x169610", "doc": "http://snapdo.com/", "row": 0, "column": 44, "tagName": "div", "time": 2262509.951704, "url": "", "pos": 44, "chunkLen": 50, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1696e0", "doc": "http://snapdo.com/", "row": 0, "column": 50, "tagName": "div", "time": 2262509.951711, "url": "", "pos": 50, "chunkLen": 50, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x169d70", "doc": "http://snapdo.com/", "row": 190, "column": 38, "tagName": "script", "time": 2262509.957315, "url": "http://snapdo.com/js/jquery.timers-1.2.js", "pos": 2883, "chunkLen": 3629, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13d710", "doc": "http://snapdo.com/", "row": 190, "column": 47, "tagName": "script", "time": 2262509.957359, "url": "", "pos": 2892, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16a330", "doc": "http://snapdo.com/", "row": 191, "column": 30, "tagName": "script", "time": 2262509.960549, "url": "http://snapdo.com/js/functions.js", "pos": 2924, "chunkLen": 3629, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16a360", "doc": "http://snapdo.com/", "row": 191, "column": 39, "tagName": "script", "time": 2262509.960591, "url": "", "pos": 2933, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x163520", "doc": "http://snapdo.com/", "row": 192, "column": 35, "tagName": "script", "time": 2262509.962970, "url": "", "pos": 2970, "chunkLen": 3629, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x169dd0", "doc": "http://snapdo.com/", "row": 205, "column": 13, "tagName": "script", "time": 2262509.963036, "url": "http://www.google-analytics.com/ga.js", "pos": 3570, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16af40", "doc": "http://snapdo.com/", "row": 206, "column": 11, "tagName": "body", "time": 2262509.964188, "url": "", "pos": 3583, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16a820", "doc": "http://snapdo.com/", "row": 207, "column": 10, "tagName": "div", "time": 2262509.964199, "url": "", "pos": 3595, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16a880", "doc": "http://snapdo.com/", "row": 208, "column": 11, "tagName": "form", "time": 2262509.964209, "url": "", "pos": 3608, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16b9e0", "doc": "http://snapdo.com/", "row": 209, "column": 7, "tagName": "body", "time": 2262509.964218, "url": "", "pos": 3617, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16ba40", "doc": "http://snapdo.com/", "row": 210, "column": 7, "tagName": "html", "time": 2262509.964223, "url": "", "pos": 3626, "chunkLen": 3629, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16c530", "doc": "http://snapdo.com/", "row": 0, "column": 24, "tagName": "div", "time": 2262509.965768, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16abe0", "doc": "http://snapdo.com/", "row": 0, "column": 30, "tagName": "div", "time": 2262509.965803, "url": "", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16c590", "doc": "http://snapdo.com/", "row": 0, "column": 7, "tagName": "table", "time": 2262509.966087, "url": "", "pos": 7, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1679e0", "doc": "http://snapdo.com/", "row": 0, "column": 11, "tagName": "tr", "time": 2262509.966098, "url": "", "pos": 11, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x168c10", "doc": "http://snapdo.com/", "row": 0, "column": 55, "tagName": "td", "time": 2262509.966125, "url": "", "pos": 55, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16c420", "doc": "http://snapdo.com/", "row": 0, "column": 60, "tagName": "td", "time": 2262509.966166, "url": "", "pos": 60, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16c450", "doc": "http://snapdo.com/", "row": 0, "column": 64, "tagName": "td", "time": 2262509.966170, "url": "", "pos": 64, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16c4f0", "doc": "http://snapdo.com/", "row": 0, "column": 70, "tagName": "td", "time": 2262509.966177, "url": "", "pos": 70, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16c1c0", "doc": "http://snapdo.com/", "row": 0, "column": 75, "tagName": "tr", "time": 2262509.966179, "url": "", "pos": 75, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16c1f0", "doc": "http://snapdo.com/", "row": 0, "column": 83, "tagName": "table", "time": 2262509.966182, "url": "", "pos": 83, "chunkLen": 83, "isStartTag": 0}}
+{"Resource": {"id": 3, "url": "http://snapdo.com/css/screen.css", "sentTime": -1.000000, "len": 10726, "from": "0x384d60",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 4702, "connReused": 0, "cached": 0,                            "requestTime": 2262509.154090, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 11, "connectStart": 10, "connectEnd": 167, "sendStart": 167, "sendEnd": 167, "receiveHeadersEnd": 323, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.478753, "len": 10726}}
+{"Resource": {"id": 4, "url": "http://snapdo.com/css/flags.css", "sentTime": -1.000000, "len": 11309, "from": "0x385020",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 4690, "connReused": 0, "cached": 0,                            "requestTime": 2262509.154561, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 10, "dnsEnd": 10, "connectStart": 10, "connectEnd": 166, "sendStart": 166, "sendEnd": 167, "receiveHeadersEnd": 325, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.483647, "len": 11309}}
+{"Resource": {"id": 5, "url": "http://snapdo.com/css/social.css", "sentTime": -1.000000, "len": 2434, "from": "0x385cf0",                            "mimeType": "text/css", "contentLength": 2434, "httpStatus": 200, "connId": 4695, "connReused": 0, "cached": 0,                            "requestTime": 2262509.154955, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 10, "dnsEnd": 10, "connectStart": 10, "connectEnd": 167, "sendStart": 167, "sendEnd": 167, "receiveHeadersEnd": 324, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.487235, "len": 2434}}
+{"Resource": {"id": 2, "url": "http://fonts.googleapis.com/css?family=Signika:300", "sentTime": -1.000000, "len": 244, "from": "0x135090",                            "mimeType": "text/css", "contentLength": 244, "httpStatus": 200, "connId": 4725, "connReused": 0, "cached": 0,                            "requestTime": 2262509.148027, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 340, "connectStart": 1, "connectEnd": 349, "sendStart": 349, "sendEnd": 349, "receiveHeadersEnd": 360, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.509540, "len": 244}}
+{"Resource": {"id": 6, "url": "http://snapdo.com/js/jquery-1.5.1.min.js", "sentTime": -1.000000, "len": 85260, "from": "0x3a9970",                            "mimeType": "application/x-javascript", "contentLength": 85260, "httpStatus": 200, "connId": 4668, "connReused": 1, "cached": 0,                            "requestTime": 2262509.410843, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 166, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.624620, "len": 1185}}
+{"ReceivedChunk": {"receivedTime": 2262509.624906, "len": 15928}}
+{"ReceivedChunk": {"receivedTime": 2262509.734202, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262509.734955, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 2262509.735760, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262509.736625, "len": 7240}}
+{"ReceivedChunk": {"receivedTime": 2262509.889519, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262509.890179, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262509.890706, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 2262509.891210, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262509.891850, "len": 8688}}
+{"ReceivedChunk": {"receivedTime": 2262509.892530, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262509.893965, "len": 5883}}
+{"Resource": {"id": 7, "url": "http://snapdo.com/js/jquery.timers-1.2.js", "sentTime": -1.000000, "len": 3198, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 3198, "httpStatus": 200, "connId": 4702, "connReused": 1, "cached": 0,                            "requestTime": 2262509.411413, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 67, "sendStart": 68, "sendEnd": 68, "receiveHeadersEnd": 228, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.640962, "len": 3198}}
+{"Resource": {"id": 8, "url": "http://snapdo.com/js/functions.js", "sentTime": -1.000000, "len": 6741, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 6741, "httpStatus": 200, "connId": 4690, "connReused": 1, "cached": 0,                            "requestTime": 2262509.411786, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 72, "sendStart": 73, "sendEnd": 73, "receiveHeadersEnd": 236, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.648630, "len": 2633}}
+{"ReceivedChunk": {"receivedTime": 2262509.648902, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262509.806528, "len": 2660}}
+{"Resource": {"id": 9, "url": "http://snapdo.com/img/noise.png", "sentTime": -1.000000, "len": 1245, "from": "0x388ef0",                            "mimeType": "text/html", "contentLength": 1245, "httpStatus": 404, "connId": 4695, "connReused": 1, "cached": 0,                            "requestTime": 2262509.555817, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 159, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.716278, "len": 1245}}
+{"Resource": {"id": 10, "url": "http://snapdo.com/img/logo.png", "sentTime": -1.000000, "len": 7068, "from": "0x38e220",                            "mimeType": "image/png", "contentLength": 7068, "httpStatus": 200, "connId": 4719, "connReused": 0, "cached": 0,                            "requestTime": 2262509.556388, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -142, "dnsEnd": -142, "connectStart": 6, "connectEnd": 16, "sendStart": 16, "sendEnd": 16, "receiveHeadersEnd": 173, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.729873, "len": 2649}}
+{"ReceivedChunk": {"receivedTime": 2262509.885159, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262509.886647, "len": 2971}}
+{"Resource": {"id": 11, "url": "http://snapdo.com/img/flags/arrowC.png", "sentTime": -1.000000, "len": 2963, "from": "0x391410",                            "mimeType": "image/png", "contentLength": 2963, "httpStatus": 200, "connId": 4724, "connReused": 0, "cached": 0,                            "requestTime": 2262509.556722, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -142, "dnsEnd": -142, "connectStart": 6, "connectEnd": 29, "sendStart": 29, "sendEnd": 29, "receiveHeadersEnd": 185, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.743033, "len": 1201}}
+{"ReceivedChunk": {"receivedTime": 2262509.743976, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262509.988423, "len": 314}}
+{"Resource": {"id": 12, "url": "http://snapdo.com/img/flags/flags_new.gif", "sentTime": -1.000000, "len": 7338, "from": "0x392440",                            "mimeType": "image/gif", "contentLength": 7338, "httpStatus": 200, "connId": 4702, "connReused": 1, "cached": 0,                            "requestTime": 2262509.557697, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 84, "sendStart": 84, "sendEnd": 85, "receiveHeadersEnd": 243, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.801909, "len": 1201}}
+{"ReceivedChunk": {"receivedTime": 2262509.803218, "len": 6137}}
+{"Resource": {"id": 13, "url": "http://snapdo.com/img/twitter_ico.png", "sentTime": -1.000000, "len": 3205, "from": "0x398ad0",                            "mimeType": "image/png", "contentLength": 3205, "httpStatus": 200, "connId": 4695, "connReused": 1, "cached": 0,                            "requestTime": 2262509.558032, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 159, "sendStart": 159, "sendEnd": 159, "receiveHeadersEnd": 321, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.879617, "len": 1201}}
+{"ReceivedChunk": {"receivedTime": 2262509.880015, "len": 2004}}
+{"Resource": {"id": 14, "url": "http://snapdo.com/img/facbook_ico.png", "sentTime": -1.000000, "len": 3155, "from": "0x39a210",                            "mimeType": "image/png", "contentLength": 3155, "httpStatus": 200, "connId": 4702, "connReused": 1, "cached": 0,                            "requestTime": 2262509.558465, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 244, "sendStart": 244, "sendEnd": 245, "receiveHeadersEnd": 404, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262509.994574, "len": 1201}}
+{"ReceivedChunk": {"receivedTime": 2262509.994849, "len": 1954}}
+{"Resource": {"id": 15, "url": "http://snapdo.com/img/icon1.png", "sentTime": -1.000000, "len": 9741, "from": "0x39bda0",                            "mimeType": "image/png", "contentLength": 9741, "httpStatus": 200, "connId": 4690, "connReused": 1, "cached": 0,                            "requestTime": 2262509.558799, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 246, "sendStart": 247, "sendEnd": 247, "receiveHeadersEnd": 407, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.000565, "len": 3849}}
+{"ReceivedChunk": {"receivedTime": 2262510.001189, "len": 5892}}
+{"Resource": {"id": 24, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 39867, "from": "0x169dd0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2262509.966408, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.001597, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2262510.001892, "len": 7099}}
+{"Resource": {"id": 23, "url": "http://themes.googleusercontent.com/static/fonts/signika/v3/koFYE26bhT88HgRA8f4vbb3hpw3pgy2gAi-Ip7WPMi0.woff", "sentTime": -1.000000, "len": 24472, "from": "0x0",                            "mimeType": "font/woff", "contentLength": 24472, "httpStatus": 200, "connId": 4808, "connReused": 0, "cached": 0,                            "requestTime": 2262509.626559, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 355, "connectStart": 1, "connectEnd": 356, "sendStart": 356, "sendEnd": 356, "receiveHeadersEnd": 358, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.003125, "len": 823}}
+{"ReceivedChunk": {"receivedTime": 2262510.003446, "len": 23649}}
+{"Resource": {"id": 16, "url": "http://snapdo.com/img/bubble1.jpg", "sentTime": -1.000000, "len": 16026, "from": "0x39c440",                            "mimeType": "image/jpeg", "contentLength": 16026, "httpStatus": 200, "connId": 4695, "connReused": 1, "cached": 0,                            "requestTime": 2262509.559135, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 322, "sendStart": 322, "sendEnd": 323, "receiveHeadersEnd": 481, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.117361, "len": 2648}}
+{"ReceivedChunk": {"receivedTime": 2262510.117714, "len": 7240}}
+{"ReceivedChunk": {"receivedTime": 2262510.200544, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262510.200814, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2262510.201490, "len": 346}}
+{"Resource": {"id": 17, "url": "http://snapdo.com/img/backgrounds/sky.jpg", "sentTime": -1.000000, "len": 29193, "from": "0x39e6d0",                            "mimeType": "image/jpeg", "contentLength": 29193, "httpStatus": 200, "connId": 4719, "connReused": 1, "cached": 0,                            "requestTime": 2262509.559477, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 327, "sendStart": 327, "sendEnd": 327, "receiveHeadersEnd": 487, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.118387, "len": 3847}}
+{"ReceivedChunk": {"receivedTime": 2262510.118602, "len": 6040}}
+{"ReceivedChunk": {"receivedTime": 2262510.210856, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262510.211150, "len": 16410}}
+{"Resource": {"id": 18, "url": "http://snapdo.com/img/info1a.png", "sentTime": -1.000000, "len": 64242, "from": "0x3a13b0",                            "mimeType": "image/png", "contentLength": 64242, "httpStatus": 200, "connId": 4668, "connReused": 1, "cached": 0,                            "requestTime": 2262509.559799, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 334, "sendStart": 336, "sendEnd": 337, "receiveHeadersEnd": 494, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.119237, "len": 1200}}
+{"ReceivedChunk": {"receivedTime": 2262510.119463, "len": 20272}}
+{"ReceivedChunk": {"receivedTime": 2262510.119948, "len": 11584}}
+{"ReceivedChunk": {"receivedTime": 2262510.120170, "len": 8688}}
+{"ReceivedChunk": {"receivedTime": 2262510.120376, "len": 8688}}
+{"ReceivedChunk": {"receivedTime": 2262510.120593, "len": 7240}}
+{"ReceivedChunk": {"receivedTime": 2262510.120817, "len": 6570}}
+{"Resource": {"id": 19, "url": "http://snapdo.com/img/info2.png", "sentTime": -1.000000, "len": 26251, "from": "0x387b20",                            "mimeType": "image/png", "contentLength": 26251, "httpStatus": 200, "connId": 4724, "connReused": 1, "cached": 0,                            "requestTime": 2262509.560113, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 340, "sendStart": 340, "sendEnd": 340, "receiveHeadersEnd": 501, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.121648, "len": 3848}}
+{"ReceivedChunk": {"receivedTime": 2262510.123128, "len": 1696}}
+{"ReceivedChunk": {"receivedTime": 2262510.228863, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262510.229669, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262510.375867, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262510.377284, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2262510.377666, "len": 1883}}
+{"Resource": {"id": 25, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=263411068&utmhn=snapdo.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Snap.do%20-%20Rediscover%20the%20Web&utmhid=1638668431&utmr=-&utmp=%2F&utmht=1378093923754&utmac=UA-31093111-1&utmcc=__utma%3D134988467.1275073190.1378093924.1378093924.1378093924.1%3B%2B__utmz%3D134988467.1378093924.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qB~", "sentTime": -1.000000, "len": 35, "from": "0x16c1f0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 527, "connReused": 1, "cached": 0,                            "requestTime": 2262510.077497, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 6, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.130216, "len": 35}}
+{"Resource": {"id": 20, "url": "http://snapdo.com/img/info3.png", "sentTime": -1.000000, "len": 34043, "from": "0x3a2fa0",                            "mimeType": "image/png", "contentLength": 34043, "httpStatus": 200, "connId": 4702, "connReused": 1, "cached": 0,                            "requestTime": 2262509.560441, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 409, "sendStart": 409, "sendEnd": 409, "receiveHeadersEnd": 572, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.146726, "len": 1200}}
+{"ReceivedChunk": {"receivedTime": 2262510.147314, "len": 17376}}
+{"ReceivedChunk": {"receivedTime": 2262510.290518, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262510.295760, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2262510.296590, "len": 11123}}
+{"Resource": {"id": 21, "url": "http://snapdo.com/img/btn_download_1.png", "sentTime": -1.000000, "len": 11364, "from": "0x3a59a0",                            "mimeType": "image/png", "contentLength": 11364, "httpStatus": 200, "connId": 4690, "connReused": 1, "cached": 0,                            "requestTime": 2262509.560768, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 413, "sendStart": 413, "sendEnd": 414, "receiveHeadersEnd": 573, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.147751, "len": 2649}}
+{"ReceivedChunk": {"receivedTime": 2262510.147966, "len": 8715}}
+{"Resource": {"id": 22, "url": "http://snapdo.com/img/arrows.png", "sentTime": -1.000000, "len": 3519, "from": "0x3a6510",                            "mimeType": "image/png", "contentLength": 3519, "httpStatus": 200, "connId": 4668, "connReused": 1, "cached": 0,                            "requestTime": 2262509.561099, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 499, "sendStart": 499, "sendEnd": 499, "receiveHeadersEnd": 659, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262510.274863, "len": 1201}}
+{"ReceivedChunk": {"receivedTime": 2262510.275195, "len": 2318}}
+{"HOL": {"type": 4, "docUrl": "http://snapdo.com/", "code": "0x135090", "row": 5, "column": 116, "url": "http://fonts.googleapis.com/css?family=Signika:300"}}
+{"HOL": {"type": 4, "docUrl": "http://snapdo.com/", "code": "0x384d60", "row": 12, "column": 51, "url": "http://snapdo.com/css/screen.css"}}
+{"HOL": {"type": 4, "docUrl": "http://snapdo.com/", "code": "0x385020", "row": 12, "column": 97, "url": "http://snapdo.com/css/flags.css"}}
+{"HOL": {"type": 4, "docUrl": "http://snapdo.com/", "code": "0x385cf0", "row": 12, "column": 144, "url": "http://snapdo.com/css/social.css"}}
+{"HOL": {"type": 1, "docUrl": "http://snapdo.com/", "code": "0x383b80", "row": 13, "column": 35, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://snapdo.com/", "code": "0x37af40", "row": 16, "column": 27, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://snapdo.com/", "code": "0x3a9970", "row": 189, "column": 37, "url": "http://snapdo.com/js/jquery-1.5.1.min.js"}}
+{"HOL": {"type": 1, "docUrl": "http://snapdo.com/", "code": "0x169d70", "row": 190, "column": 38, "url": "http://snapdo.com/js/jquery.timers-1.2.js"}}
+{"HOL": {"type": 1, "docUrl": "http://snapdo.com/", "code": "0x16a330", "row": 191, "column": 30, "url": "http://snapdo.com/js/functions.js"}}
+{"HOL": {"type": 1, "docUrl": "http://snapdo.com/", "code": "0x163520", "row": 192, "column": 35, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.153090, "endTime": -1.000000, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.154924, "endTime": 2262509.155846, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.155796, "endTime": 2262509.155836, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.222841, "endTime": 2262509.222920, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.479007, "endTime": 2262509.482137, "urlRecalcStyle": "http://snapdo.com/css/screen.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.484514, "endTime": 2262509.486658, "urlRecalcStyle": "http://snapdo.com/css/flags.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.487725, "endTime": 2262509.488951, "urlRecalcStyle": "http://snapdo.com/css/social.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.510107, "endTime": 2262509.555201, "urlRecalcStyle": "http://fonts.googleapis.com/css?family=Signika:300"}}
+{"Computation": {"type": "execScript", "code": "0x3874e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.520887, "endTime": 2262509.543384, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x3a9830", "docUrl": "http://snapdo.com/", "startTime": 2262509.555194, "endTime": -1.000000, "urlRecalcStyle": "http://snapdo.com/js/jquery-1.5.1.min.js"}}
+{"Computation": {"type": "layout", "code": "0x3a9830", "docUrl": "http://snapdo.com/", "startTime": 2262509.558420, "endTime": 2262509.617729, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x3a9830", "docUrl": "http://snapdo.com/", "startTime": 2262509.617216, "endTime": 2262509.617663, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x3a9830", "docUrl": "http://snapdo.com/", "startTime": 2262509.894245, "endTime": 2262509.957288, "urlRecalcStyle": "http://snapdo.com/js/jquery-1.5.1.min.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x1696e0", "docUrl": "http://snapdo.com/", "startTime": 2262509.957278, "endTime": 2262509.957281, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x13d710", "docUrl": "http://snapdo.com/", "startTime": 2262509.957400, "endTime": 2262509.960522, "urlRecalcStyle": "http://snapdo.com/js/jquery.timers-1.2.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x13d710", "docUrl": "http://snapdo.com/", "startTime": 2262509.960514, "endTime": 2262509.960515, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x16a360", "docUrl": "http://snapdo.com/", "startTime": 2262509.960629, "endTime": 2262509.962947, "urlRecalcStyle": "http://snapdo.com/js/functions.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x16a360", "docUrl": "http://snapdo.com/", "startTime": 2262509.962940, "endTime": 2262509.962941, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x169dd0", "docUrl": "http://snapdo.com/", "startTime": 2262509.963050, "endTime": 2262509.964169, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x16ba40", "docUrl": "http://snapdo.com/", "startTime": 2262509.964253, "endTime": 2262509.964255, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x16ba40", "docUrl": "http://snapdo.com/", "startTime": 2262509.964257, "endTime": 2262509.987692, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x16ba40", "docUrl": "http://snapdo.com/", "startTime": 2262509.965116, "endTime": 2262509.965268, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16ba40", "docUrl": "http://snapdo.com/", "startTime": 2262509.965488, "endTime": 2262509.965638, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16abe0", "docUrl": "http://snapdo.com/", "startTime": 2262509.965935, "endTime": 2262509.966056, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262509.966639, "endTime": 2262509.966839, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262509.967104, "endTime": 2262509.967242, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262509.970316, "endTime": 2262509.970547, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262509.972606, "endTime": 2262509.975206, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262509.977299, "endTime": 2262509.979729, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262509.987697, "endTime": 2262509.987699, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "execScript", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.003898, "endTime": 2262510.081709, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.043936, "endTime": 2262510.054560, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.081725, "endTime": 2262510.081726, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.123638, "endTime": 2262510.124090, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.129381, "endTime": 2262510.129383, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.145774, "endTime": 2262510.146021, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.148556, "endTime": 2262510.148797, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.194664, "endTime": 2262510.199326, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.211648, "endTime": 2262510.211649, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.211651, "endTime": 2262510.215726, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x16c1f0", "docUrl": "http://snapdo.com/", "startTime": 2262510.300412, "endTime": 2262510.300414, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/img/backgrounds/sky.jpg", "time": 2262509.407839}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/img/info1a.png", "time": 2262509.407886}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/img/info2.png", "time": 2262509.407912}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/img/info3.png", "time": 2262509.407953}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/js/jquery-1.5.1.min.js", "time": 2262509.409731}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/js/jquery.timers-1.2.js", "time": 2262509.410024}}
+{"Preload": {"code": "0x3874e0", "docUrl": "http://snapdo.com/", "url": "http://snapdo.com/js/functions.js", "time": 2262509.410267}}
+{"Complete": "snapdo.com_"}

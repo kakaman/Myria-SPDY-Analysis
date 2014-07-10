@@ -1,0 +1,706 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.stumbleupon.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.stumbleupon.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 390.742999967188,
+               "time" : 66.196999978274,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 456.939999945462
+            },
+            {
+               "s_time" : 961.184999905527,
+               "time" : 333.823000080883,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1295.00799998641
+            },
+            {
+               "s_time" : 1298.08000009507,
+               "time" : 0.078999903049862,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1298.15899999812
+            },
+            {
+               "s_time" : 1359.51399989426,
+               "time" : 0.119000207630052,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 1359.63300010189
+            },
+            {
+               "s_time" : 1409.50400009751,
+               "time" : 0.105000101029873,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 1409.60900019854
+            },
+            {
+               "s_time" : 1411.96900000796,
+               "time" : 117.988999933,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 1529.95799994096
+            },
+            {
+               "s_time" : 1581.14799996838,
+               "time" : 2.97900009900013,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 1584.12700006738
+            },
+            {
+               "s_time" : 1588.75800017267,
+               "time" : 374.91500005126,
+               "type" : "evalhtml",
+               "id" : "r1_c8",
+               "e_time" : 1963.67300022393
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.compete.com/bootstrap/s/ded5f366b027ace826a030b685d7ec36/stumbleupon-com/bootstrap.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 1582.93499983847,
+               "time" : 5.82300033420006,
+               "type" : 1,
+               "id" : "comp_55",
+               "e_time" : 1588.75800017267
+            }
+         ],
+         "download" : {
+            "s_time" : 456.939999945462,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/S8Ijg3X2UPfPLofzyFo7-Q",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 923.070000018924,
+               "time" : 62.0200000703339,
+               "type" : 4,
+               "id" : "comp_12",
+               "e_time" : 985.090000089258
+            }
+         ],
+         "download" : {
+            "s_time" : 447.680999990553,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/Y9onl6-5ZqgtyJDHdaqAOw",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 787.887000013143,
+               "time" : 12.1789998374879,
+               "type" : 4,
+               "id" : "comp_8",
+               "e_time" : 800.065999850631
+            }
+         ],
+         "download" : {
+            "s_time" : 447.238999884576,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/3xtxtaCvHwNoa3SUz6_SHg",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 779.599000234157,
+               "time" : 2.00899969786406,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 781.607999932021
+            }
+         ],
+         "download" : {
+            "s_time" : 448.420000262558,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/hm5kPJHXFV_shE8Uz78Fog",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 936.455000191927,
+               "time" : 24.7299997136,
+               "type" : 1,
+               "id" : "comp_13",
+               "e_time" : 961.184999905527
+            }
+         ],
+         "download" : {
+            "s_time" : 454.489000141621,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/TZYDOYGCVML6cL9hm2hKaQ",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1096.48999990895,
+               "time" : 201.59000018612,
+               "type" : 1,
+               "id" : "comp_24",
+               "e_time" : 1298.08000009507
+            }
+         ],
+         "download" : {
+            "s_time" : 454.931000247598,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/QUbWSFVLLClcz93wXUavCQ",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 1409.66199990362,
+               "time" : 2.30700010433998,
+               "type" : 1,
+               "id" : "comp_34",
+               "e_time" : 1411.96900000796
+            }
+         ],
+         "download" : {
+            "s_time" : 456.145999953151,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/KwQORU-p0jXe7IeCZ_gy_w",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 861.512000206858,
+               "time" : 0.246999785303956,
+               "type" : 4,
+               "id" : "comp_10",
+               "e_time" : 861.758999992162
+            }
+         ],
+         "download" : {
+            "s_time" : 448.065999895334,
+            "id" : "download_8",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/SeYur-jkSTiBCpvKmmNCBA",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 1359.68900006264,
+               "time" : 49.8150000348701,
+               "type" : 1,
+               "id" : "comp_30",
+               "e_time" : 1409.50400009751
+            }
+         ],
+         "download" : {
+            "s_time" : 455.692000221461,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/HJBTWwl4stykx51g_CC5OQ",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 1298.20899991319,
+               "time" : 61.3049999810701,
+               "type" : 1,
+               "id" : "comp_27",
+               "e_time" : 1359.51399989426
+            }
+         ],
+         "download" : {
+            "s_time" : 455.298000015318,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 1435.19299989566,
+               "time" : 78.41600012034,
+               "type" : 2,
+               "id" : "comp_42",
+               "e_time" : 1513.609000016
+            }
+         ],
+         "download" : {
+            "s_time" : 963.920000009239,
+            "id" : "download_11",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 1513.65099987015,
+               "time" : 16.3040002808,
+               "type" : 2,
+               "id" : "comp_44",
+               "e_time" : 1529.95500015095
+            }
+         ],
+         "download" : {
+            "s_time" : 970.060000196099,
+            "id" : "download_12",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d2flrkr957qc5j.cloudfront.net/bitdeli.min.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 1529.99299997464,
+               "time" : 23.0310000479199,
+               "type" : 2,
+               "id" : "comp_46",
+               "e_time" : 1553.02400002256
+            }
+         ],
+         "download" : {
+            "s_time" : 972.343000117689,
+            "id" : "download_13",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/Ts6XfoZDYpCxQKsZzP6Cww",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 986.529000103474,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/4i5xoqF0LSjYAY7gpnKl6w",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 986.934999935329,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/3OFqWahmiDq_pYhQn1swHQ",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 987.662999890745,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nb9.stumbleupon.netdna-cdn.com/DPUjhWlBLdy0NI3w5dsC6g",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 987.302000168711,
+            "id" : "download_17",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://loader.engage.gsfn.us/loader.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 1575.91899996623,
+               "time" : 5.22900000214986,
+               "type" : 1,
+               "id" : "comp_49",
+               "e_time" : 1581.14799996838
+            }
+         ],
+         "download" : {
+            "s_time" : 456.528999842703,
+            "id" : "download_18",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1754715409&utmhn=www.stumbleupon.com&utme=8(user_class)9(v)11(1)&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x1014&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Explore%20more.%20Web%20pages%2C%20photos%2C%20and%20videos%20%7C%20StumbleUpon.com&utmhid=917890107&utmr=-&utmp=%2Fclassic-visitor&utmht=1378100802376&utmac=UA-16124905-1&utmcc=__utma%3D189632489.207439042.1378100802.1378100802.1378100802.1%3B%2B__utmz%3D189632489.1378100802.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=uRC~",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1504.76399995387,
+            "id" : "download_19",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fonts.googleapis.com/css?family=Oswald&subset=latin",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 1571.305999998,
+               "time" : 69.65800002218,
+               "type" : 2,
+               "id" : "comp_48",
+               "e_time" : 1640.96400002018
+            }
+         ],
+         "download" : {
+            "s_time" : 1529.95799994096,
+            "id" : "download_20",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dev.visualwebsiteoptimizer.com/j.php?a=30464&u=http%3A%2F%2Fwww.stumbleupon.com%2F&r=0.1622114994097501",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 1697.06400018185,
+               "time" : 1.00299995393016,
+               "type" : null,
+               "id" : "comp_78",
+               "e_time" : 1698.06700013578
+            }
+         ],
+         "download" : {
+            "s_time" : 1295.00799998641,
+            "id" : "download_21",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/beacon.js",
+         "id" : "r24",
+         "comps" : [
+            {
+               "s_time" : 1698.09099985287,
+               "time" : 11.8840001523499,
+               "type" : null,
+               "id" : "comp_81",
+               "e_time" : 1709.97500000522
+            }
+         ],
+         "download" : {
+            "s_time" : 1584.12700006738,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://themes.googleusercontent.com/static/fonts/oswald/v7/qpy-UiLNKP-VfOdbcs6r6-vvDin1pK8aKteLpeZ5c0A.woff",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1699.96700016782,
+            "id" : "download_23",
+            "type" : "font/woff"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stumbleupon-com-ded5f3.c-col.com/blank.gif",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1963.67300022393,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_13"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_24"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_27"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_30"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_34"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_49"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_55"
+      },
+      {
+         "a2" : "comp_13",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_13",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "comp_13",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "comp_13",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_27",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_24"
+      },
+      {
+         "a2" : "comp_30",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_27"
+      },
+      {
+         "a2" : "comp_34",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_30"
+      },
+      {
+         "a2" : "download_24",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 1.87600031495003,
+         "id" : "dep16",
+         "a1" : "comp_81"
+      },
+      {
+         "a2" : "download_22",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_21",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_20",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 92.7949999459101,
+         "id" : "dep20",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_18",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 26.117000263184,
+         "id" : "dep22",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 26.477999985218,
+         "id" : "dep23",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 25.750000029802,
+         "id" : "dep24",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 25.344000197947,
+         "id" : "dep25",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 11.1580002121621,
+         "id" : "dep26",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 8.87500029057207,
+         "id" : "dep27",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 2.73500010371197,
+         "id" : "dep28",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 64.55500004813,
+         "id" : "dep29",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 64.949000254273,
+         "id" : "dep30",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 57.322999928146,
+         "id" : "dep31",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 65.402999985963,
+         "id" : "dep32",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 64.18800028041,
+         "id" : "dep33",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 63.746000174433,
+         "id" : "dep34",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 57.67700029537,
+         "id" : "dep35",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 56.495999917388,
+         "id" : "dep36",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 56.938000023365,
+         "id" : "dep37",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : -1,
+         "id" : "dep38",
+         "a1" : "r1_c1"
+      }
+   ]
+}

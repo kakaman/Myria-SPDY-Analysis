@@ -1,0 +1,155 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.google.pl_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.pl/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 223.979000002146,
+               "time" : 234.853999689221,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 458.832999691367
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.pl/logos/doodles/2013/first_day_of_school_2013_poland__russia-2021005.2-res.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 450.655999593437,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.pl/logos/doodles/2013/first_day_of_school_2013_poland__russia-2021005.2-hp.jpg",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 451.397999655455,
+            "id" : "download_2",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.pl/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,epb,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 567.555999848992,
+               "time" : 627.793999854478,
+               "type" : null,
+               "id" : "comp_39",
+               "e_time" : 1195.34999970347
+            }
+         ],
+         "download" : {
+            "s_time" : 458.832999691367,
+            "id" : "download_3",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.pl/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 1241.49199994281,
+               "time" : 390.15599992126,
+               "type" : null,
+               "id" : "comp_51",
+               "e_time" : 1631.64799986407
+            }
+         ],
+         "download" : {
+            "s_time" : 984.709999989718,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.pl/extern_chrome/a6b9ae671e26b124.js?bav=on.2,or.r_qf.",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1631.68799970299,
+               "time" : 16.03299984708,
+               "type" : null,
+               "id" : "comp_56",
+               "e_time" : 1647.72099955007
+            }
+         ],
+         "download" : {
+            "s_time" : 962.796999607235,
+            "id" : "download_5",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.gstatic.com/inputtools/images/tia.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.46599988267,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_7",
+         "time" : 546.910000033678,
+         "id" : "dep1",
+         "a1" : "comp_39"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 395.240999758243,
+         "id" : "dep2",
+         "a1" : "comp_39"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 417.154000140726,
+         "id" : "dep3",
+         "a1" : "comp_39"
+      },
+      {
+         "a2" : "download_3",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 227.418999653309,
+         "id" : "dep5",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 226.676999591291,
+         "id" : "dep6",
+         "a1" : "r1_c1"
+      }
+   ]
+}

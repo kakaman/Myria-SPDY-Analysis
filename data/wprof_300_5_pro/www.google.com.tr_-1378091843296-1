@@ -1,0 +1,492 @@
+{"page": "www.google.com.tr_"}
+{"DOMLoad": 2260437.477765}
+{"Resource": {"id": 1, "url": "http://www.google.com.tr/", "sentTime": -1.000000, "len": 99830, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 105, "connReused": 0, "cached": 0,                            "requestTime": 2260436.059320, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 19, "connectStart": 1, "connectEnd": 27, "sendStart": 28, "sendEnd": 28, "receiveHeadersEnd": 67, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.148840, "len": 435}}
+{"ReceivedChunk": {"receivedTime": 2260436.187486, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260436.247412, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2260436.369318, "len": 1091}}
+{"ObjectHash": {"code": "0x1555e0", "doc": "http://www.google.com.tr/", "row": 0, "column": 71, "tagName": "html", "time": 2260436.183283, "url": "", "pos": 71, "chunkLen": 435, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x155aa0", "doc": "http://www.google.com.tr/", "row": 0, "column": 77, "tagName": "head", "time": 2260436.183453, "url": "", "pos": 77, "chunkLen": 435, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x155b50", "doc": "http://www.google.com.tr/", "row": 0, "column": 141, "tagName": "meta", "time": 2260436.183477, "url": "", "pos": 141, "chunkLen": 435, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x155b00", "doc": "http://www.google.com.tr/", "row": 0, "column": 148, "tagName": "title", "time": 2260436.183502, "url": "", "pos": 148, "chunkLen": 435, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x162c10", "doc": "http://www.google.com.tr/", "row": 0, "column": 162, "tagName": "title", "time": 2260436.187049, "url": "", "pos": 162, "chunkLen": 435, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1625d0", "doc": "http://www.google.com.tr/", "row": 0, "column": 170, "tagName": "script", "time": 2260436.187059, "url": "", "pos": 170, "chunkLen": 435, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x162be0", "doc": "http://www.google.com.tr/", "row": 9, "column": 2393, "tagName": "script", "time": 2260436.192901, "url": "", "pos": 6034, "chunkLen": 33203, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x163600", "doc": "http://www.google.com.tr/", "row": 9, "column": 2400, "tagName": "style", "time": 2260436.242715, "url": "", "pos": 5606, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x31ab20", "doc": "http://www.google.com.tr/", "row": 9, "column": 46976, "tagName": "style", "time": 2260436.255197, "url": "", "pos": 50182, "chunkLen": 98133, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x169d80", "doc": "http://www.google.com.tr/", "row": 9, "column": 46995, "tagName": "style", "time": 2260436.275422, "url": "", "pos": 50201, "chunkLen": 98133, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16b220", "doc": "http://www.google.com.tr/", "row": 9, "column": 50024, "tagName": "style", "time": 2260436.275572, "url": "", "pos": 53230, "chunkLen": 98133, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x324ae0", "doc": "http://www.google.com.tr/", "row": 9, "column": 50031, "tagName": "style", "time": 2260436.282776, "url": "", "pos": 53237, "chunkLen": 98133, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x324c90", "doc": "http://www.google.com.tr/", "row": 9, "column": 54002, "tagName": "style", "time": 2260436.282981, "url": "", "pos": 57208, "chunkLen": 98133, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x324980", "doc": "http://www.google.com.tr/", "row": 9, "column": 54010, "tagName": "script", "time": 2260436.285081, "url": "", "pos": 57216, "chunkLen": 98133, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x181680", "doc": "http://www.google.com.tr/", "row": 65, "column": 766, "tagName": "script", "time": 2260436.286356, "url": "", "pos": 82745, "chunkLen": 98133, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x319fe0", "doc": "http://www.google.com.tr/", "row": 65, "column": 774, "tagName": "head", "time": 2260436.302239, "url": "", "pos": 49985, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x169c20", "doc": "http://www.google.com.tr/", "row": 65, "column": 1058, "tagName": "body", "time": 2260436.302770, "url": "", "pos": 50269, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1727f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1091, "tagName": "div", "time": 2260436.303259, "url": "", "pos": 50302, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x168400", "doc": "http://www.google.com.tr/", "row": 65, "column": 1145, "tagName": "div", "time": 2260436.303355, "url": "", "pos": 50356, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1821d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1161, "tagName": "div", "time": 2260436.303437, "url": "", "pos": 50372, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182280", "doc": "http://www.google.com.tr/", "row": 65, "column": 1167, "tagName": "span", "time": 2260436.303448, "url": "", "pos": 50378, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182310", "doc": "http://www.google.com.tr/", "row": 65, "column": 1173, "tagName": "span", "time": 2260436.303462, "url": "", "pos": 50384, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1823e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1186, "tagName": "span", "time": 2260436.303473, "url": "", "pos": 50397, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182580", "doc": "http://www.google.com.tr/", "row": 65, "column": 1254, "tagName": "span", "time": 2260436.303494, "url": "", "pos": 50465, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182640", "doc": "http://www.google.com.tr/", "row": 65, "column": 1339, "tagName": "a", "time": 2260436.303525, "url": "", "pos": 50550, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1827d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1366, "tagName": "a", "time": 2260436.303564, "url": "", "pos": 50577, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1826b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1372, "tagName": "div", "time": 2260436.303567, "url": "", "pos": 50583, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182700", "doc": "http://www.google.com.tr/", "row": 65, "column": 1388, "tagName": "div", "time": 2260436.303572, "url": "", "pos": 50599, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182340", "doc": "http://www.google.com.tr/", "row": 65, "column": 1394, "tagName": "span", "time": 2260436.303582, "url": "", "pos": 50605, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182960", "doc": "http://www.google.com.tr/", "row": 65, "column": 1407, "tagName": "span", "time": 2260436.303590, "url": "", "pos": 50618, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182b40", "doc": "http://www.google.com.tr/", "row": 65, "column": 1497, "tagName": "div", "time": 2260436.303599, "url": "", "pos": 50708, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182a80", "doc": "http://www.google.com.tr/", "row": 65, "column": 1513, "tagName": "div", "time": 2260436.303603, "url": "", "pos": 50724, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182bf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1549, "tagName": "div", "time": 2260436.303615, "url": "", "pos": 50760, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182c20", "doc": "http://www.google.com.tr/", "row": 65, "column": 1555, "tagName": "div", "time": 2260436.303617, "url": "", "pos": 50766, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182c50", "doc": "http://www.google.com.tr/", "row": 65, "column": 1569, "tagName": "div", "time": 2260436.303621, "url": "", "pos": 50780, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182d80", "doc": "http://www.google.com.tr/", "row": 65, "column": 1595, "tagName": "div", "time": 2260436.303646, "url": "", "pos": 50806, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x182f80", "doc": "http://www.google.com.tr/", "row": 65, "column": 1607, "tagName": "div", "time": 2260436.303706, "url": "", "pos": 50818, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182ef0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1613, "tagName": "div", "time": 2260436.303710, "url": "", "pos": 50824, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x182f20", "doc": "http://www.google.com.tr/", "row": 65, "column": 1758, "tagName": "a", "time": 2260436.303730, "url": "", "pos": 50969, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1835b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1844, "tagName": "a", "time": 2260436.303883, "url": "", "pos": 51055, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1830f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1897, "tagName": "textarea", "time": 2260436.303896, "url": "", "pos": 51108, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x183b90", "doc": "http://www.google.com.tr/", "row": 65, "column": 1908, "tagName": "textarea", "time": 2260436.312747, "url": "", "pos": 51119, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1861a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 1916, "tagName": "script", "time": 2260436.312770, "url": "", "pos": 51127, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16f760", "doc": "http://www.google.com.tr/", "row": 65, "column": 1979, "tagName": "script", "time": 2260436.312831, "url": "", "pos": 51190, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x186230", "doc": "http://www.google.com.tr/", "row": 65, "column": 1994, "tagName": "div", "time": 2260436.313284, "url": "", "pos": 51205, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x154560", "doc": "http://www.google.com.tr/", "row": 65, "column": 2005, "tagName": "div", "time": 2260436.313329, "url": "", "pos": 51216, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x186540", "doc": "http://www.google.com.tr/", "row": 65, "column": 2013, "tagName": "script", "time": 2260436.313368, "url": "", "pos": 51224, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1863a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2055, "tagName": "script", "time": 2260436.313391, "url": "", "pos": 51266, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x186ce0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2067, "tagName": "div", "time": 2260436.314171, "url": "", "pos": 51278, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187530", "doc": "http://www.google.com.tr/", "row": 65, "column": 2080, "tagName": "div", "time": 2260436.314209, "url": "", "pos": 51291, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187790", "doc": "http://www.google.com.tr/", "row": 65, "column": 2092, "tagName": "div", "time": 2260436.314249, "url": "", "pos": 51303, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187a90", "doc": "http://www.google.com.tr/", "row": 65, "column": 2110, "tagName": "span", "time": 2260436.314288, "url": "", "pos": 51321, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187d90", "doc": "http://www.google.com.tr/", "row": 65, "column": 2117, "tagName": "span", "time": 2260436.314319, "url": "", "pos": 51328, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x187dc0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2140, "tagName": "ol", "time": 2260436.314329, "url": "", "pos": 51351, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1880b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2154, "tagName": "li", "time": 2260436.314392, "url": "", "pos": 51365, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x188530", "doc": "http://www.google.com.tr/", "row": 65, "column": 2264, "tagName": "a", "time": 2260436.314460, "url": "", "pos": 51475, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1888d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2282, "tagName": "span", "time": 2260436.314595, "url": "", "pos": 51493, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x186d70", "doc": "http://www.google.com.tr/", "row": 65, "column": 2289, "tagName": "span", "time": 2260436.314622, "url": "", "pos": 51500, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x188d60", "doc": "http://www.google.com.tr/", "row": 65, "column": 2306, "tagName": "span", "time": 2260436.314628, "url": "", "pos": 51517, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1893e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2317, "tagName": "span", "time": 2260436.314711, "url": "", "pos": 51528, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189410", "doc": "http://www.google.com.tr/", "row": 65, "column": 2321, "tagName": "a", "time": 2260436.314715, "url": "", "pos": 51532, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189440", "doc": "http://www.google.com.tr/", "row": 65, "column": 2326, "tagName": "li", "time": 2260436.314717, "url": "", "pos": 51537, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189470", "doc": "http://www.google.com.tr/", "row": 65, "column": 2340, "tagName": "li", "time": 2260436.314721, "url": "", "pos": 51551, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189710", "doc": "http://www.google.com.tr/", "row": 65, "column": 2459, "tagName": "a", "time": 2260436.314754, "url": "", "pos": 51670, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189940", "doc": "http://www.google.com.tr/", "row": 65, "column": 2477, "tagName": "span", "time": 2260436.314814, "url": "", "pos": 51688, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189c50", "doc": "http://www.google.com.tr/", "row": 65, "column": 2484, "tagName": "span", "time": 2260436.314840, "url": "", "pos": 51695, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189c80", "doc": "http://www.google.com.tr/", "row": 65, "column": 2501, "tagName": "span", "time": 2260436.314846, "url": "", "pos": 51712, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a190", "doc": "http://www.google.com.tr/", "row": 65, "column": 2513, "tagName": "span", "time": 2260436.314905, "url": "", "pos": 51724, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a2d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2517, "tagName": "a", "time": 2260436.314909, "url": "", "pos": 51728, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189900", "doc": "http://www.google.com.tr/", "row": 65, "column": 2522, "tagName": "li", "time": 2260436.314913, "url": "", "pos": 51733, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1881b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2536, "tagName": "li", "time": 2260436.314916, "url": "", "pos": 51747, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a5a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2656, "tagName": "a", "time": 2260436.314947, "url": "", "pos": 51867, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x188220", "doc": "http://www.google.com.tr/", "row": 65, "column": 2674, "tagName": "span", "time": 2260436.314995, "url": "", "pos": 51885, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x188250", "doc": "http://www.google.com.tr/", "row": 65, "column": 2681, "tagName": "span", "time": 2260436.315013, "url": "", "pos": 51892, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a7c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2698, "tagName": "span", "time": 2260436.315018, "url": "", "pos": 51909, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a970", "doc": "http://www.google.com.tr/", "row": 65, "column": 2714, "tagName": "span", "time": 2260436.315056, "url": "", "pos": 51925, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a9a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2718, "tagName": "a", "time": 2260436.315060, "url": "", "pos": 51929, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a9d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2723, "tagName": "li", "time": 2260436.315062, "url": "", "pos": 51934, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18aa00", "doc": "http://www.google.com.tr/", "row": 65, "column": 2737, "tagName": "li", "time": 2260436.315066, "url": "", "pos": 51948, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ac80", "doc": "http://www.google.com.tr/", "row": 65, "column": 2853, "tagName": "a", "time": 2260436.315095, "url": "", "pos": 52064, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18aa70", "doc": "http://www.google.com.tr/", "row": 65, "column": 2871, "tagName": "span", "time": 2260436.315155, "url": "", "pos": 52082, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18aaa0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2878, "tagName": "span", "time": 2260436.315174, "url": "", "pos": 52089, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18ae80", "doc": "http://www.google.com.tr/", "row": 65, "column": 2895, "tagName": "span", "time": 2260436.315179, "url": "", "pos": 52106, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18afd0", "doc": "http://www.google.com.tr/", "row": 65, "column": 2906, "tagName": "span", "time": 2260436.315210, "url": "", "pos": 52117, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b000", "doc": "http://www.google.com.tr/", "row": 65, "column": 2910, "tagName": "a", "time": 2260436.315213, "url": "", "pos": 52121, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b030", "doc": "http://www.google.com.tr/", "row": 65, "column": 2915, "tagName": "li", "time": 2260436.315226, "url": "", "pos": 52126, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b060", "doc": "http://www.google.com.tr/", "row": 65, "column": 2929, "tagName": "li", "time": 2260436.315230, "url": "", "pos": 52140, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b350", "doc": "http://www.google.com.tr/", "row": 65, "column": 3044, "tagName": "a", "time": 2260436.315260, "url": "", "pos": 52255, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a360", "doc": "http://www.google.com.tr/", "row": 65, "column": 3062, "tagName": "span", "time": 2260436.315313, "url": "", "pos": 52273, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a390", "doc": "http://www.google.com.tr/", "row": 65, "column": 3069, "tagName": "span", "time": 2260436.315331, "url": "", "pos": 52280, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b550", "doc": "http://www.google.com.tr/", "row": 65, "column": 3086, "tagName": "span", "time": 2260436.315336, "url": "", "pos": 52297, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b6d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3100, "tagName": "span", "time": 2260436.315366, "url": "", "pos": 52311, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b700", "doc": "http://www.google.com.tr/", "row": 65, "column": 3104, "tagName": "a", "time": 2260436.315370, "url": "", "pos": 52315, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b580", "doc": "http://www.google.com.tr/", "row": 65, "column": 3109, "tagName": "li", "time": 2260436.315372, "url": "", "pos": 52320, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b730", "doc": "http://www.google.com.tr/", "row": 65, "column": 3123, "tagName": "li", "time": 2260436.315376, "url": "", "pos": 52334, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b990", "doc": "http://www.google.com.tr/", "row": 65, "column": 3230, "tagName": "a", "time": 2260436.315405, "url": "", "pos": 52441, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18bb30", "doc": "http://www.google.com.tr/", "row": 65, "column": 3248, "tagName": "span", "time": 2260436.315458, "url": "", "pos": 52459, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18bba0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3255, "tagName": "span", "time": 2260436.315477, "url": "", "pos": 52466, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a830", "doc": "http://www.google.com.tr/", "row": 65, "column": 3272, "tagName": "span", "time": 2260436.315482, "url": "", "pos": 52483, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18bd60", "doc": "http://www.google.com.tr/", "row": 65, "column": 3287, "tagName": "span", "time": 2260436.315513, "url": "", "pos": 52498, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18bd90", "doc": "http://www.google.com.tr/", "row": 65, "column": 3291, "tagName": "a", "time": 2260436.315516, "url": "", "pos": 52502, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18bdc0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3296, "tagName": "li", "time": 2260436.315519, "url": "", "pos": 52507, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18bdf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3310, "tagName": "li", "time": 2260436.315522, "url": "", "pos": 52521, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18bfd0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3411, "tagName": "a", "time": 2260436.315548, "url": "", "pos": 52622, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c1d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3429, "tagName": "span", "time": 2260436.315610, "url": "", "pos": 52640, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c240", "doc": "http://www.google.com.tr/", "row": 65, "column": 3436, "tagName": "span", "time": 2260436.315628, "url": "", "pos": 52647, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c270", "doc": "http://www.google.com.tr/", "row": 65, "column": 3453, "tagName": "span", "time": 2260436.315633, "url": "", "pos": 52664, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c3c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3465, "tagName": "span", "time": 2260436.315663, "url": "", "pos": 52676, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c3f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3469, "tagName": "a", "time": 2260436.315667, "url": "", "pos": 52680, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b090", "doc": "http://www.google.com.tr/", "row": 65, "column": 3474, "tagName": "li", "time": 2260436.315670, "url": "", "pos": 52685, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b0c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3488, "tagName": "li", "time": 2260436.315674, "url": "", "pos": 52699, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c420", "doc": "http://www.google.com.tr/", "row": 65, "column": 3585, "tagName": "a", "time": 2260436.315699, "url": "", "pos": 52796, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c620", "doc": "http://www.google.com.tr/", "row": 65, "column": 3603, "tagName": "span", "time": 2260436.315752, "url": "", "pos": 52814, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c690", "doc": "http://www.google.com.tr/", "row": 65, "column": 3610, "tagName": "span", "time": 2260436.315770, "url": "", "pos": 52821, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c700", "doc": "http://www.google.com.tr/", "row": 65, "column": 3627, "tagName": "span", "time": 2260436.315775, "url": "", "pos": 52838, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18c870", "doc": "http://www.google.com.tr/", "row": 65, "column": 3639, "tagName": "span", "time": 2260436.315805, "url": "", "pos": 52850, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c8a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3643, "tagName": "a", "time": 2260436.315809, "url": "", "pos": 52854, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c8d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3648, "tagName": "li", "time": 2260436.315811, "url": "", "pos": 52859, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c900", "doc": "http://www.google.com.tr/", "row": 65, "column": 3662, "tagName": "li", "time": 2260436.315815, "url": "", "pos": 52873, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cae0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3765, "tagName": "a", "time": 2260436.315840, "url": "", "pos": 52976, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cce0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3783, "tagName": "span", "time": 2260436.315893, "url": "", "pos": 52994, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cd50", "doc": "http://www.google.com.tr/", "row": 65, "column": 3790, "tagName": "span", "time": 2260436.315911, "url": "", "pos": 53001, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18cd80", "doc": "http://www.google.com.tr/", "row": 65, "column": 3807, "tagName": "span", "time": 2260436.315916, "url": "", "pos": 53018, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ced0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3820, "tagName": "span", "time": 2260436.315946, "url": "", "pos": 53031, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18cf00", "doc": "http://www.google.com.tr/", "row": 65, "column": 3824, "tagName": "a", "time": 2260436.315950, "url": "", "pos": 53035, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18cf30", "doc": "http://www.google.com.tr/", "row": 65, "column": 3829, "tagName": "li", "time": 2260436.315952, "url": "", "pos": 53040, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18cf60", "doc": "http://www.google.com.tr/", "row": 65, "column": 3843, "tagName": "li", "time": 2260436.315956, "url": "", "pos": 53054, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d2a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 3966, "tagName": "a", "time": 2260436.315996, "url": "", "pos": 53177, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18bc40", "doc": "http://www.google.com.tr/", "row": 65, "column": 3984, "tagName": "span", "time": 2260436.316051, "url": "", "pos": 53195, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d190", "doc": "http://www.google.com.tr/", "row": 65, "column": 3991, "tagName": "span", "time": 2260436.316069, "url": "", "pos": 53202, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d440", "doc": "http://www.google.com.tr/", "row": 65, "column": 4008, "tagName": "span", "time": 2260436.316074, "url": "", "pos": 53219, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d5b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4021, "tagName": "span", "time": 2260436.316105, "url": "", "pos": 53232, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d5e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4025, "tagName": "a", "time": 2260436.316109, "url": "", "pos": 53236, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d610", "doc": "http://www.google.com.tr/", "row": 65, "column": 4030, "tagName": "li", "time": 2260436.316111, "url": "", "pos": 53241, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d640", "doc": "http://www.google.com.tr/", "row": 65, "column": 4044, "tagName": "li", "time": 2260436.316115, "url": "", "pos": 53255, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d850", "doc": "http://www.google.com.tr/", "row": 65, "column": 4179, "tagName": "a", "time": 2260436.316143, "url": "", "pos": 53390, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d730", "doc": "http://www.google.com.tr/", "row": 65, "column": 4197, "tagName": "span", "time": 2260436.316198, "url": "", "pos": 53408, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d910", "doc": "http://www.google.com.tr/", "row": 65, "column": 4204, "tagName": "span", "time": 2260436.316218, "url": "", "pos": 53415, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18db50", "doc": "http://www.google.com.tr/", "row": 65, "column": 4239, "tagName": "span", "time": 2260436.316225, "url": "", "pos": 53450, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18df70", "doc": "http://www.google.com.tr/", "row": 65, "column": 4256, "tagName": "span", "time": 2260436.316271, "url": "", "pos": 53467, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18e150", "doc": "http://www.google.com.tr/", "row": 65, "column": 4275, "tagName": "span", "time": 2260436.316316, "url": "", "pos": 53486, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e210", "doc": "http://www.google.com.tr/", "row": 65, "column": 4292, "tagName": "span", "time": 2260436.316322, "url": "", "pos": 53503, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18e6c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4299, "tagName": "span", "time": 2260436.316362, "url": "", "pos": 53510, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e6f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4306, "tagName": "span", "time": 2260436.316365, "url": "", "pos": 53517, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e7d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4310, "tagName": "a", "time": 2260436.316367, "url": "", "pos": 53521, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e830", "doc": "http://www.google.com.tr/", "row": 65, "column": 4349, "tagName": "div", "time": 2260436.316374, "url": "", "pos": 53560, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18eb40", "doc": "http://www.google.com.tr/", "row": 65, "column": 4388, "tagName": "div", "time": 2260436.316422, "url": "", "pos": 53599, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18f0c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4421, "tagName": "ol", "time": 2260436.316473, "url": "", "pos": 53632, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18f440", "doc": "http://www.google.com.tr/", "row": 65, "column": 4437, "tagName": "li", "time": 2260436.316570, "url": "", "pos": 53648, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18f780", "doc": "http://www.google.com.tr/", "row": 65, "column": 4532, "tagName": "a", "time": 2260436.316622, "url": "", "pos": 53743, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18fd10", "doc": "http://www.google.com.tr/", "row": 65, "column": 4543, "tagName": "a", "time": 2260436.316700, "url": "", "pos": 53754, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18fd40", "doc": "http://www.google.com.tr/", "row": 65, "column": 4548, "tagName": "li", "time": 2260436.316704, "url": "", "pos": 53759, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18fd70", "doc": "http://www.google.com.tr/", "row": 65, "column": 4564, "tagName": "li", "time": 2260436.316708, "url": "", "pos": 53775, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ff70", "doc": "http://www.google.com.tr/", "row": 65, "column": 4680, "tagName": "a", "time": 2260436.316734, "url": "", "pos": 53891, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18fde0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4695, "tagName": "a", "time": 2260436.316797, "url": "", "pos": 53906, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1901d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4700, "tagName": "li", "time": 2260436.316801, "url": "", "pos": 53911, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190200", "doc": "http://www.google.com.tr/", "row": 65, "column": 4716, "tagName": "li", "time": 2260436.316805, "url": "", "pos": 53927, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190240", "doc": "http://www.google.com.tr/", "row": 65, "column": 4739, "tagName": "div", "time": 2260436.316824, "url": "", "pos": 53950, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1905a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4745, "tagName": "div", "time": 2260436.316865, "url": "", "pos": 53956, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1905d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4750, "tagName": "li", "time": 2260436.316869, "url": "", "pos": 53961, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190690", "doc": "http://www.google.com.tr/", "row": 65, "column": 4766, "tagName": "li", "time": 2260436.316873, "url": "", "pos": 53977, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1907b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4863, "tagName": "a", "time": 2260436.316895, "url": "", "pos": 54074, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190a20", "doc": "http://www.google.com.tr/", "row": 65, "column": 4882, "tagName": "a", "time": 2260436.316946, "url": "", "pos": 54093, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190700", "doc": "http://www.google.com.tr/", "row": 65, "column": 4887, "tagName": "li", "time": 2260436.316950, "url": "", "pos": 54098, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190730", "doc": "http://www.google.com.tr/", "row": 65, "column": 4892, "tagName": "ol", "time": 2260436.316952, "url": "", "pos": 54103, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190a60", "doc": "http://www.google.com.tr/", "row": 65, "column": 4909, "tagName": "div", "time": 2260436.316956, "url": "", "pos": 54120, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x191310", "doc": "http://www.google.com.tr/", "row": 65, "column": 4915, "tagName": "div", "time": 2260436.317064, "url": "", "pos": 54126, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x191340", "doc": "http://www.google.com.tr/", "row": 65, "column": 4932, "tagName": "div", "time": 2260436.317070, "url": "", "pos": 54143, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187b90", "doc": "http://www.google.com.tr/", "row": 65, "column": 4938, "tagName": "div", "time": 2260436.317176, "url": "", "pos": 54149, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1728f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4944, "tagName": "div", "time": 2260436.317180, "url": "", "pos": 54155, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18f540", "doc": "http://www.google.com.tr/", "row": 65, "column": 4950, "tagName": "div", "time": 2260436.317182, "url": "", "pos": 54161, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a260", "doc": "http://www.google.com.tr/", "row": 65, "column": 4955, "tagName": "li", "time": 2260436.317184, "url": "", "pos": 54166, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190660", "doc": "http://www.google.com.tr/", "row": 65, "column": 4960, "tagName": "ol", "time": 2260436.317187, "url": "", "pos": 54171, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x191fd0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4966, "tagName": "div", "time": 2260436.317189, "url": "", "pos": 54177, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18f190", "doc": "http://www.google.com.tr/", "row": 65, "column": 4972, "tagName": "div", "time": 2260436.317191, "url": "", "pos": 54183, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1889d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 4984, "tagName": "div", "time": 2260436.317195, "url": "", "pos": 54195, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192320", "doc": "http://www.google.com.tr/", "row": 65, "column": 5015, "tagName": "div", "time": 2260436.317233, "url": "", "pos": 54226, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192650", "doc": "http://www.google.com.tr/", "row": 65, "column": 5123, "tagName": "a", "time": 2260436.317279, "url": "", "pos": 54334, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1928d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5139, "tagName": "table", "time": 2260436.317297, "url": "", "pos": 54350, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192950", "doc": "http://www.google.com.tr/", "row": 65, "column": 5143, "tagName": "tr", "time": 2260436.317325, "url": "", "pos": 54354, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192a00", "doc": "http://www.google.com.tr/", "row": 65, "column": 5167, "tagName": "td", "time": 2260436.317345, "url": "", "pos": 54378, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192a70", "doc": "http://www.google.com.tr/", "row": 65, "column": 5181, "tagName": "span", "time": 2260436.317356, "url": "", "pos": 54392, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192b00", "doc": "http://www.google.com.tr/", "row": 65, "column": 5188, "tagName": "span", "time": 2260436.317365, "url": "", "pos": 54399, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192b30", "doc": "http://www.google.com.tr/", "row": 65, "column": 5193, "tagName": "td", "time": 2260436.317368, "url": "", "pos": 54404, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192b60", "doc": "http://www.google.com.tr/", "row": 65, "column": 5198, "tagName": "tr", "time": 2260436.317371, "url": "", "pos": 54409, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192b90", "doc": "http://www.google.com.tr/", "row": 65, "column": 5206, "tagName": "table", "time": 2260436.317373, "url": "", "pos": 54417, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192bc0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5224, "tagName": "div", "time": 2260436.317378, "url": "", "pos": 54435, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192c60", "doc": "http://www.google.com.tr/", "row": 65, "column": 5230, "tagName": "div", "time": 2260436.317388, "url": "", "pos": 54441, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192c90", "doc": "http://www.google.com.tr/", "row": 65, "column": 5234, "tagName": "a", "time": 2260436.317390, "url": "", "pos": 54445, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192cc0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5240, "tagName": "div", "time": 2260436.317393, "url": "", "pos": 54451, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192cf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5271, "tagName": "div", "time": 2260436.317397, "url": "", "pos": 54482, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192f20", "doc": "http://www.google.com.tr/", "row": 65, "column": 5286, "tagName": "div", "time": 2260436.317450, "url": "", "pos": 54497, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193140", "doc": "http://www.google.com.tr/", "row": 65, "column": 5369, "tagName": "form", "time": 2260436.317478, "url": "", "pos": 54580, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1930a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5390, "tagName": "fieldset", "time": 2260436.317644, "url": "", "pos": 54601, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1936b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5409, "tagName": "legend", "time": 2260436.317695, "url": "", "pos": 54620, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1939a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5431, "tagName": "legend", "time": 2260436.317715, "url": "", "pos": 54642, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1939d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5446, "tagName": "div", "time": 2260436.317721, "url": "", "pos": 54657, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193a80", "doc": "http://www.google.com.tr/", "row": 65, "column": 5494, "tagName": "input", "time": 2260436.317734, "url": "", "pos": 54705, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193fb0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5543, "tagName": "input", "time": 2260436.317881, "url": "", "pos": 54754, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194070", "doc": "http://www.google.com.tr/", "row": 65, "column": 5549, "tagName": "div", "time": 2260436.317914, "url": "", "pos": 54760, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1941e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5560, "tagName": "fieldset", "time": 2260436.317918, "url": "", "pos": 54771, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x194210", "doc": "http://www.google.com.tr/", "row": 65, "column": 5591, "tagName": "fieldset", "time": 2260436.317923, "url": "", "pos": 54802, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194520", "doc": "http://www.google.com.tr/", "row": 65, "column": 5610, "tagName": "legend", "time": 2260436.317980, "url": "", "pos": 54821, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190280", "doc": "http://www.google.com.tr/", "row": 65, "column": 5619, "tagName": "legend", "time": 2260436.318007, "url": "", "pos": 54830, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x194680", "doc": "http://www.google.com.tr/", "row": 65, "column": 5649, "tagName": "div", "time": 2260436.318014, "url": "", "pos": 54860, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194870", "doc": "http://www.google.com.tr/", "row": 65, "column": 5677, "tagName": "div", "time": 2260436.318045, "url": "", "pos": 54888, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194bf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5707, "tagName": "div", "time": 2260436.318091, "url": "", "pos": 54918, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194f40", "doc": "http://www.google.com.tr/", "row": 65, "column": 5780, "tagName": "input", "time": 2260436.318128, "url": "", "pos": 54991, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32d8b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5786, "tagName": "div", "time": 2260436.334609, "url": "", "pos": 54997, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32d8e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5792, "tagName": "div", "time": 2260436.334621, "url": "", "pos": 55003, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32d910", "doc": "http://www.google.com.tr/", "row": 65, "column": 5798, "tagName": "div", "time": 2260436.334623, "url": "", "pos": 55009, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32d940", "doc": "http://www.google.com.tr/", "row": 65, "column": 5809, "tagName": "fieldset", "time": 2260436.334627, "url": "", "pos": 55020, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32d980", "doc": "http://www.google.com.tr/", "row": 65, "column": 5824, "tagName": "div", "time": 2260436.334635, "url": "", "pos": 55035, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32db90", "doc": "http://www.google.com.tr/", "row": 65, "column": 5890, "tagName": "button", "time": 2260436.334715, "url": "", "pos": 55101, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32dd40", "doc": "http://www.google.com.tr/", "row": 65, "column": 5908, "tagName": "span", "time": 2260436.334761, "url": "", "pos": 55119, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32ddf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5915, "tagName": "span", "time": 2260436.334783, "url": "", "pos": 55126, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32de20", "doc": "http://www.google.com.tr/", "row": 65, "column": 5924, "tagName": "button", "time": 2260436.334787, "url": "", "pos": 55135, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32de50", "doc": "http://www.google.com.tr/", "row": 65, "column": 5930, "tagName": "div", "time": 2260436.334790, "url": "", "pos": 55141, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32dea0", "doc": "http://www.google.com.tr/", "row": 65, "column": 5956, "tagName": "div", "time": 2260436.334795, "url": "", "pos": 55167, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32e050", "doc": "http://www.google.com.tr/", "row": 65, "column": 6024, "tagName": "button", "time": 2260436.334853, "url": "", "pos": 55235, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32f7c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6040, "tagName": "span", "time": 2260436.335211, "url": "", "pos": 55251, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32fc10", "doc": "http://www.google.com.tr/", "row": 65, "column": 6060, "tagName": "span", "time": 2260436.335263, "url": "", "pos": 55271, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32fc40", "doc": "http://www.google.com.tr/", "row": 65, "column": 6069, "tagName": "button", "time": 2260436.335268, "url": "", "pos": 55280, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x32fcf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6234, "tagName": "button", "time": 2260436.335284, "url": "", "pos": 55445, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x32fc70", "doc": "http://www.google.com.tr/", "row": 65, "column": 6250, "tagName": "span", "time": 2260436.335382, "url": "", "pos": 55461, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x330820", "doc": "http://www.google.com.tr/", "row": 65, "column": 6284, "tagName": "span", "time": 2260436.335419, "url": "", "pos": 55495, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x330850", "doc": "http://www.google.com.tr/", "row": 65, "column": 6293, "tagName": "button", "time": 2260436.335423, "url": "", "pos": 55504, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x330880", "doc": "http://www.google.com.tr/", "row": 65, "column": 6299, "tagName": "div", "time": 2260436.335425, "url": "", "pos": 55510, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3308b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6306, "tagName": "form", "time": 2260436.335428, "url": "", "pos": 55517, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3308e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6312, "tagName": "div", "time": 2260436.335431, "url": "", "pos": 55523, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x330910", "doc": "http://www.google.com.tr/", "row": 65, "column": 6318, "tagName": "div", "time": 2260436.335433, "url": "", "pos": 55529, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x330940", "doc": "http://www.google.com.tr/", "row": 65, "column": 6324, "tagName": "div", "time": 2260436.335435, "url": "", "pos": 55535, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x330970", "doc": "http://www.google.com.tr/", "row": 65, "column": 6336, "tagName": "div", "time": 2260436.335439, "url": "", "pos": 55547, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x330be0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6360, "tagName": "div", "time": 2260436.335488, "url": "", "pos": 55571, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x330dd0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6375, "tagName": "h2", "time": 2260436.335513, "url": "", "pos": 55586, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3310c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6395, "tagName": "h2", "time": 2260436.335555, "url": "", "pos": 55606, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x331190", "doc": "http://www.google.com.tr/", "row": 65, "column": 6413, "tagName": "span", "time": 2260436.335562, "url": "", "pos": 55624, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x331250", "doc": "http://www.google.com.tr/", "row": 65, "column": 6420, "tagName": "span", "time": 2260436.335588, "url": "", "pos": 55631, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3312b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6442, "tagName": "ol", "time": 2260436.335594, "url": "", "pos": 55653, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x331470", "doc": "http://www.google.com.tr/", "row": 65, "column": 6456, "tagName": "li", "time": 2260436.335622, "url": "", "pos": 55667, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x331690", "doc": "http://www.google.com.tr/", "row": 65, "column": 6461, "tagName": "li", "time": 2260436.335660, "url": "", "pos": 55672, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3316c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6475, "tagName": "li", "time": 2260436.335666, "url": "", "pos": 55686, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x331ba0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6635, "tagName": "a", "time": 2260436.335718, "url": "", "pos": 55846, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3317e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6652, "tagName": "span", "time": 2260436.335838, "url": "", "pos": 55863, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332430", "doc": "http://www.google.com.tr/", "row": 65, "column": 6669, "tagName": "span", "time": 2260436.335891, "url": "", "pos": 55880, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332540", "doc": "http://www.google.com.tr/", "row": 65, "column": 6687, "tagName": "span", "time": 2260436.335956, "url": "", "pos": 55898, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x332930", "doc": "http://www.google.com.tr/", "row": 65, "column": 6694, "tagName": "span", "time": 2260436.335961, "url": "", "pos": 55905, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x332960", "doc": "http://www.google.com.tr/", "row": 65, "column": 6698, "tagName": "a", "time": 2260436.335963, "url": "", "pos": 55909, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x332990", "doc": "http://www.google.com.tr/", "row": 65, "column": 6703, "tagName": "li", "time": 2260436.335966, "url": "", "pos": 55914, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x332ac0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6729, "tagName": "div", "time": 2260436.335972, "url": "", "pos": 55940, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3329e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6768, "tagName": "div", "time": 2260436.336022, "url": "", "pos": 55979, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332830", "doc": "http://www.google.com.tr/", "row": 65, "column": 6784, "tagName": "div", "time": 2260436.336035, "url": "", "pos": 55995, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3328f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6808, "tagName": "ol", "time": 2260436.336047, "url": "", "pos": 56019, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332c00", "doc": "http://www.google.com.tr/", "row": 65, "column": 6831, "tagName": "li", "time": 2260436.336059, "url": "", "pos": 56042, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332d40", "doc": "http://www.google.com.tr/", "row": 65, "column": 6872, "tagName": "a", "time": 2260436.336074, "url": "", "pos": 56083, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332e50", "doc": "http://www.google.com.tr/", "row": 65, "column": 6890, "tagName": "a", "time": 2260436.336099, "url": "", "pos": 56101, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x332f80", "doc": "http://www.google.com.tr/", "row": 65, "column": 6895, "tagName": "li", "time": 2260436.336104, "url": "", "pos": 56106, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3330b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6911, "tagName": "li", "time": 2260436.336108, "url": "", "pos": 56122, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333100", "doc": "http://www.google.com.tr/", "row": 65, "column": 6934, "tagName": "div", "time": 2260436.336121, "url": "", "pos": 56145, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x332f40", "doc": "http://www.google.com.tr/", "row": 65, "column": 6940, "tagName": "div", "time": 2260436.336130, "url": "", "pos": 56151, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x332fb0", "doc": "http://www.google.com.tr/", "row": 65, "column": 6945, "tagName": "li", "time": 2260436.336134, "url": "", "pos": 56156, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333010", "doc": "http://www.google.com.tr/", "row": 65, "column": 6967, "tagName": "li", "time": 2260436.336138, "url": "", "pos": 56178, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333200", "doc": "http://www.google.com.tr/", "row": 65, "column": 7021, "tagName": "a", "time": 2260436.336153, "url": "", "pos": 56232, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333410", "doc": "http://www.google.com.tr/", "row": 65, "column": 7039, "tagName": "a", "time": 2260436.336167, "url": "", "pos": 56250, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333440", "doc": "http://www.google.com.tr/", "row": 65, "column": 7044, "tagName": "li", "time": 2260436.336171, "url": "", "pos": 56255, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333470", "doc": "http://www.google.com.tr/", "row": 65, "column": 7066, "tagName": "li", "time": 2260436.336175, "url": "", "pos": 56277, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333310", "doc": "http://www.google.com.tr/", "row": 65, "column": 7110, "tagName": "a", "time": 2260436.336188, "url": "", "pos": 56321, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333630", "doc": "http://www.google.com.tr/", "row": 65, "column": 7126, "tagName": "a", "time": 2260436.336200, "url": "", "pos": 56337, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333660", "doc": "http://www.google.com.tr/", "row": 65, "column": 7131, "tagName": "li", "time": 2260436.336203, "url": "", "pos": 56342, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333690", "doc": "http://www.google.com.tr/", "row": 65, "column": 7147, "tagName": "li", "time": 2260436.336209, "url": "", "pos": 56358, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3334e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7170, "tagName": "div", "time": 2260436.336220, "url": "", "pos": 56381, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333570", "doc": "http://www.google.com.tr/", "row": 65, "column": 7176, "tagName": "div", "time": 2260436.336229, "url": "", "pos": 56387, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3335a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7181, "tagName": "li", "time": 2260436.336232, "url": "", "pos": 56392, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333750", "doc": "http://www.google.com.tr/", "row": 65, "column": 7204, "tagName": "li", "time": 2260436.336236, "url": "", "pos": 56415, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333900", "doc": "http://www.google.com.tr/", "row": 65, "column": 7271, "tagName": "a", "time": 2260436.336252, "url": "", "pos": 56482, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3339b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7286, "tagName": "a", "time": 2260436.336275, "url": "", "pos": 56497, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3339e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7291, "tagName": "li", "time": 2260436.336278, "url": "", "pos": 56502, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333a10", "doc": "http://www.google.com.tr/", "row": 65, "column": 7296, "tagName": "ol", "time": 2260436.336281, "url": "", "pos": 56507, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333870", "doc": "http://www.google.com.tr/", "row": 65, "column": 7302, "tagName": "div", "time": 2260436.336283, "url": "", "pos": 56513, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3338a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7308, "tagName": "div", "time": 2260436.336285, "url": "", "pos": 56519, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3338d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7314, "tagName": "div", "time": 2260436.336288, "url": "", "pos": 56525, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333ae0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7319, "tagName": "ol", "time": 2260436.336290, "url": "", "pos": 56530, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333b10", "doc": "http://www.google.com.tr/", "row": 65, "column": 7332, "tagName": "div", "time": 2260436.336294, "url": "", "pos": 56543, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x333cc0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7338, "tagName": "div", "time": 2260436.336316, "url": "", "pos": 56549, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333cf0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7344, "tagName": "div", "time": 2260436.336319, "url": "", "pos": 56555, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333d20", "doc": "http://www.google.com.tr/", "row": 65, "column": 7350, "tagName": "div", "time": 2260436.336322, "url": "", "pos": 56561, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333e50", "doc": "http://www.google.com.tr/", "row": 65, "column": 7356, "tagName": "div", "time": 2260436.336324, "url": "", "pos": 56567, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x333e80", "doc": "http://www.google.com.tr/", "row": 65, "column": 7383, "tagName": "div", "time": 2260436.336329, "url": "", "pos": 56594, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3340b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7389, "tagName": "div", "time": 2260436.336404, "url": "", "pos": 56600, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3340e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7402, "tagName": "div", "time": 2260436.336410, "url": "", "pos": 56613, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x3345b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7408, "tagName": "div", "time": 2260436.336452, "url": "", "pos": 56619, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3345e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7416, "tagName": "script", "time": 2260436.336456, "url": "", "pos": 56627, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x334710", "doc": "http://www.google.com.tr/", "row": 65, "column": 7458, "tagName": "script", "time": 2260436.336482, "url": "", "pos": 56669, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19aa70", "doc": "http://www.google.com.tr/", "row": 65, "column": 7464, "tagName": "div", "time": 2260436.364575, "url": "", "pos": 56675, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19aa10", "doc": "http://www.google.com.tr/", "row": 65, "column": 7470, "tagName": "div", "time": 2260436.364587, "url": "", "pos": 56681, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19aae0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7523, "tagName": "textarea", "time": 2260436.364599, "url": "", "pos": 56734, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19b1c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7534, "tagName": "textarea", "time": 2260436.364729, "url": "", "pos": 56745, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19b1f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7587, "tagName": "textarea", "time": 2260436.364737, "url": "", "pos": 56798, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19b530", "doc": "http://www.google.com.tr/", "row": 65, "column": 7598, "tagName": "textarea", "time": 2260436.364796, "url": "", "pos": 56809, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19b560", "doc": "http://www.google.com.tr/", "row": 65, "column": 7651, "tagName": "textarea", "time": 2260436.364804, "url": "", "pos": 56862, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19b8b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7662, "tagName": "textarea", "time": 2260436.364859, "url": "", "pos": 56873, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19b8e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7719, "tagName": "textarea", "time": 2260436.364868, "url": "", "pos": 56930, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19bc30", "doc": "http://www.google.com.tr/", "row": 65, "column": 7730, "tagName": "textarea", "time": 2260436.364921, "url": "", "pos": 56941, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19bc60", "doc": "http://www.google.com.tr/", "row": 65, "column": 7761, "tagName": "div", "time": 2260436.364928, "url": "", "pos": 56972, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19bef0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7791, "tagName": "span", "time": 2260436.364979, "url": "", "pos": 57002, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19c1d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7799, "tagName": "center", "time": 2260436.365011, "url": "", "pos": 57010, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19c6e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 7851, "tagName": "div", "time": 2260436.365036, "url": "", "pos": 57062, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19c820", "doc": "http://www.google.com.tr/", "row": 65, "column": 7882, "tagName": "div", "time": 2260436.365080, "url": "", "pos": 57093, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19cd10", "doc": "http://www.google.com.tr/", "row": 65, "column": 8062, "tagName": "div", "time": 2260436.365143, "url": "", "pos": 57273, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19dff0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8166, "tagName": "div", "time": 2260436.365503, "url": "", "pos": 57377, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19dbe0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8179, "tagName": "div", "time": 2260436.365581, "url": "", "pos": 57390, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19d080", "doc": "http://www.google.com.tr/", "row": 65, "column": 8185, "tagName": "div", "time": 2260436.365585, "url": "", "pos": 57396, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19d0b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8191, "tagName": "div", "time": 2260436.365587, "url": "", "pos": 57402, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19d0e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8197, "tagName": "div", "time": 2260436.365589, "url": "", "pos": 57408, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19dc40", "doc": "http://www.google.com.tr/", "row": 65, "column": 8223, "tagName": "div", "time": 2260436.365594, "url": "", "pos": 57434, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19dd40", "doc": "http://www.google.com.tr/", "row": 65, "column": 8229, "tagName": "div", "time": 2260436.365624, "url": "", "pos": 57440, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19ddc0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8285, "tagName": "div", "time": 2260436.365632, "url": "", "pos": 57496, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19e260", "doc": "http://www.google.com.tr/", "row": 65, "column": 8289, "tagName": "br", "time": 2260436.365668, "url": "", "pos": 57500, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19e390", "doc": "http://www.google.com.tr/", "row": 65, "column": 8297, "tagName": "script", "time": 2260436.365691, "url": "", "pos": 57508, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19e420", "doc": "http://www.google.com.tr/", "row": 65, "column": 8353, "tagName": "script", "time": 2260436.365718, "url": "", "pos": 57564, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19e630", "doc": "http://www.google.com.tr/", "row": 65, "column": 8365, "tagName": "div", "time": 2260436.366192, "url": "", "pos": 57576, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19e740", "doc": "http://www.google.com.tr/", "row": 65, "column": 8390, "tagName": "font", "time": 2260436.366240, "url": "", "pos": 57601, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19ed30", "doc": "http://www.google.com.tr/", "row": 65, "column": 8534, "tagName": "a", "time": 2260436.366299, "url": "", "pos": 57745, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19f180", "doc": "http://www.google.com.tr/", "row": 65, "column": 8545, "tagName": "a", "time": 2260436.366388, "url": "", "pos": 57756, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19ec60", "doc": "http://www.google.com.tr/", "row": 65, "column": 8552, "tagName": "font", "time": 2260436.366393, "url": "", "pos": 57763, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19ec90", "doc": "http://www.google.com.tr/", "row": 65, "column": 8556, "tagName": "br", "time": 2260436.366395, "url": "", "pos": 57767, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19ed00", "doc": "http://www.google.com.tr/", "row": 65, "column": 8560, "tagName": "br", "time": 2260436.366409, "url": "", "pos": 57771, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19f230", "doc": "http://www.google.com.tr/", "row": 65, "column": 8566, "tagName": "div", "time": 2260436.366422, "url": "", "pos": 57777, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19f260", "doc": "http://www.google.com.tr/", "row": 65, "column": 8572, "tagName": "div", "time": 2260436.366425, "url": "", "pos": 57783, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19f290", "doc": "http://www.google.com.tr/", "row": 65, "column": 8581, "tagName": "center", "time": 2260436.366427, "url": "", "pos": 57792, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19f2c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8588, "tagName": "span", "time": 2260436.366430, "url": "", "pos": 57799, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x19f2f0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8619, "tagName": "div", "time": 2260436.366436, "url": "", "pos": 57830, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19f600", "doc": "http://www.google.com.tr/", "row": 65, "column": 8624, "tagName": "div", "time": 2260436.366483, "url": "", "pos": 57835, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19f630", "doc": "http://www.google.com.tr/", "row": 65, "column": 8639, "tagName": "div", "time": 2260436.366514, "url": "", "pos": 57850, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19fb50", "doc": "http://www.google.com.tr/", "row": 65, "column": 8653, "tagName": "div", "time": 2260436.366541, "url": "", "pos": 57864, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19fd30", "doc": "http://www.google.com.tr/", "row": 65, "column": 8668, "tagName": "div", "time": 2260436.366568, "url": "", "pos": 57879, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19fed0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8692, "tagName": "a", "time": 2260436.366596, "url": "", "pos": 57903, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a0360", "doc": "http://www.google.com.tr/", "row": 65, "column": 8723, "tagName": "a", "time": 2260436.366656, "url": "", "pos": 57934, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0500", "doc": "http://www.google.com.tr/", "row": 65, "column": 8777, "tagName": "a", "time": 2260436.366683, "url": "", "pos": 57988, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a05c0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8798, "tagName": "a", "time": 2260436.366732, "url": "", "pos": 58009, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0440", "doc": "http://www.google.com.tr/", "row": 65, "column": 8828, "tagName": "a", "time": 2260436.366743, "url": "", "pos": 58039, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a0700", "doc": "http://www.google.com.tr/", "row": 65, "column": 8851, "tagName": "a", "time": 2260436.366773, "url": "", "pos": 58062, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0780", "doc": "http://www.google.com.tr/", "row": 65, "column": 8858, "tagName": "div", "time": 2260436.366781, "url": "", "pos": 58069, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a07d0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8873, "tagName": "div", "time": 2260436.366786, "url": "", "pos": 58084, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a08a0", "doc": "http://www.google.com.tr/", "row": 65, "column": 8903, "tagName": "a", "time": 2260436.366805, "url": "", "pos": 58114, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a0a20", "doc": "http://www.google.com.tr/", "row": 65, "column": 8922, "tagName": "a", "time": 2260436.366844, "url": "", "pos": 58133, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0c30", "doc": "http://www.google.com.tr/", "row": 65, "column": 9034, "tagName": "a", "time": 2260436.366864, "url": "", "pos": 58245, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a0d30", "doc": "http://www.google.com.tr/", "row": 65, "column": 9048, "tagName": "a", "time": 2260436.366907, "url": "", "pos": 58259, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0ad0", "doc": "http://www.google.com.tr/", "row": 65, "column": 9055, "tagName": "div", "time": 2260436.366915, "url": "", "pos": 58266, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0b00", "doc": "http://www.google.com.tr/", "row": 65, "column": 9061, "tagName": "div", "time": 2260436.366918, "url": "", "pos": 58272, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0d60", "doc": "http://www.google.com.tr/", "row": 65, "column": 9076, "tagName": "div", "time": 2260436.366922, "url": "", "pos": 58287, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a0fb0", "doc": "http://www.google.com.tr/", "row": 65, "column": 9082, "tagName": "div", "time": 2260436.366961, "url": "", "pos": 58293, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a0fe0", "doc": "http://www.google.com.tr/", "row": 65, "column": 9088, "tagName": "div", "time": 2260436.366965, "url": "", "pos": 58299, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a10b0", "doc": "http://www.google.com.tr/", "row": 65, "column": 9094, "tagName": "div", "time": 2260436.366967, "url": "", "pos": 58305, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a10e0", "doc": "http://www.google.com.tr/", "row": 65, "column": 9100, "tagName": "div", "time": 2260436.366969, "url": "", "pos": 58311, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1110", "doc": "http://www.google.com.tr/", "row": 65, "column": 9106, "tagName": "div", "time": 2260436.366971, "url": "", "pos": 58317, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1140", "doc": "http://www.google.com.tr/", "row": 65, "column": 9114, "tagName": "script", "time": 2260436.366973, "url": "", "pos": 58325, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x19e510", "doc": "http://www.google.com.tr/", "row": 68, "column": 16, "tagName": "script", "time": 2260436.367015, "url": "", "pos": 58973, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a16a0", "doc": "http://www.google.com.tr/", "row": 68, "column": 91, "tagName": "script", "time": 2260436.368187, "url": "", "pos": 59048, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a1240", "doc": "http://www.google.com.tr/", "row": 68, "column": 290, "tagName": "script", "time": 2260436.368245, "url": "", "pos": 59247, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1600", "doc": "http://www.google.com.tr/", "row": 68, "column": 303, "tagName": "div", "time": 2260436.368539, "url": "", "pos": 59260, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x186830", "doc": "http://www.google.com.tr/", "row": 68, "column": 309, "tagName": "div", "time": 2260436.368575, "url": "", "pos": 59266, "chunkLen": 65365, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1940", "doc": "http://www.google.com.tr/", "row": 68, "column": 322, "tagName": "div", "time": 2260436.368582, "url": "", "pos": 59279, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a19e0", "doc": "http://www.google.com.tr/", "row": 68, "column": 330, "tagName": "script", "time": 2260436.368597, "url": "", "pos": 59287, "chunkLen": 65365, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a18f0", "doc": "http://www.google.com.tr/", "row": 69, "column": 5874, "tagName": "script", "time": 2260436.369389, "url": "", "pos": 65407, "chunkLen": 66456, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a2200", "doc": "http://www.google.com.tr/", "row": 69, "column": 5880, "tagName": "div", "time": 2260436.371516, "url": "", "pos": 48, "chunkLen": 1091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1ec0", "doc": "http://www.google.com.tr/", "row": 69, "column": 5898, "tagName": "style", "time": 2260436.371540, "url": "", "pos": 66, "chunkLen": 1091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a20c0", "doc": "http://www.google.com.tr/", "row": 69, "column": 5906, "tagName": "style", "time": 2260436.371637, "url": "", "pos": 74, "chunkLen": 1091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a3150", "doc": "http://www.google.com.tr/", "row": 69, "column": 5914, "tagName": "script", "time": 2260436.371846, "url": "", "pos": 82, "chunkLen": 1091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x14da50", "doc": "http://www.google.com.tr/", "row": 72, "column": 9, "tagName": "script", "time": 2260436.371911, "url": "", "pos": 1071, "chunkLen": 1091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x330260", "doc": "http://www.google.com.tr/", "row": 72, "column": 15, "tagName": "div", "time": 2260436.374392, "url": "", "pos": 1077, "chunkLen": 1091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x336230", "doc": "http://www.google.com.tr/", "row": 72, "column": 22, "tagName": "body", "time": 2260436.374409, "url": "", "pos": 1084, "chunkLen": 1091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x339020", "doc": "http://www.google.com.tr/", "row": 72, "column": 29, "tagName": "html", "time": 2260436.374411, "url": "http://www.google.com.tr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,idck,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "pos": 1091, "chunkLen": 1091, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://www.google.com.tr/images/srpr/logo4w.png", "sentTime": -1.000000, "len": 18946, "from": "0x19cd10",                            "mimeType": "image/png", "contentLength": 18946, "httpStatus": 200, "connId": 105, "connReused": 1, "cached": 0,                            "requestTime": 2260436.376513, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 12, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.469992, "len": 867}}
+{"ReceivedChunk": {"receivedTime": 2260436.470372, "len": 18079}}
+{"Resource": {"id": 3, "url": "http://www.google.com.tr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "sentTime": -1.000000, "len": 364913, "from": "0x339020",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 118, "connReused": 0, "cached": 0,                            "requestTime": 2260436.377461, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 2, "connectStart": 2, "connectEnd": 11, "sendStart": 11, "sendEnd": 11, "receiveHeadersEnd": 20, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.471276, "len": 5624}}
+{"ReceivedChunk": {"receivedTime": 2260436.471533, "len": 25100}}
+{"ReceivedChunk": {"receivedTime": 2260436.471764, "len": 3281}}
+{"ReceivedChunk": {"receivedTime": 2260436.471980, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260436.472276, "len": 14919}}
+{"ReceivedChunk": {"receivedTime": 2260436.472524, "len": 9431}}
+{"ReceivedChunk": {"receivedTime": 2260436.472770, "len": 39696}}
+{"ReceivedChunk": {"receivedTime": 2260436.473110, "len": 43008}}
+{"ReceivedChunk": {"receivedTime": 2260436.473466, "len": 29284}}
+{"ReceivedChunk": {"receivedTime": 2260436.473762, "len": 48805}}
+{"ReceivedChunk": {"receivedTime": 2260436.474131, "len": 59207}}
+{"ReceivedChunk": {"receivedTime": 2260436.474509, "len": 7719}}
+{"ReceivedChunk": {"receivedTime": 2260436.474765, "len": 27879}}
+{"ReceivedChunk": {"receivedTime": 2260436.475052, "len": 18192}}
+{"Resource": {"id": 5, "url": "http://www.google.com.tr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,idck,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "sentTime": -1.000000, "len": 351673, "from": "0x339020",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 105, "connReused": 1, "cached": 0,                            "requestTime": 2260436.802761, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 12, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.980302, "len": 1432}}
+{"ReceivedChunk": {"receivedTime": 2260436.980572, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260436.980809, "len": 19816}}
+{"ReceivedChunk": {"receivedTime": 2260436.981046, "len": 47345}}
+{"ReceivedChunk": {"receivedTime": 2260436.983235, "len": 64824}}
+{"ReceivedChunk": {"receivedTime": 2260436.983515, "len": 50269}}
+{"ReceivedChunk": {"receivedTime": 2260436.983775, "len": 44286}}
+{"ReceivedChunk": {"receivedTime": 2260436.984029, "len": 20995}}
+{"ReceivedChunk": {"receivedTime": 2260436.984252, "len": 3596}}
+{"ReceivedChunk": {"receivedTime": 2260436.984447, "len": 13678}}
+{"ReceivedChunk": {"receivedTime": 2260436.984660, "len": 3713}}
+{"ReceivedChunk": {"receivedTime": 2260436.984872, "len": 21580}}
+{"ReceivedChunk": {"receivedTime": 2260436.985094, "len": 27371}}
+{"Resource": {"id": 4, "url": "http://www.google.com.tr/extern_chrome/de8c1f0fae77a424.js?bav=on.2,or.r_qf.", "sentTime": -1.000000, "len": 93541, "from": "0x339020",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 118, "connReused": 1, "cached": 0,                            "requestTime": 2260436.792777, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 28, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.982402, "len": 1249}}
+{"ReceivedChunk": {"receivedTime": 2260436.982607, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260436.982841, "len": 59524}}
+{"Resource": {"id": 6, "url": "http://www.gstatic.com/inputtools/images/tia.png", "sentTime": -1.000000, "len": 151, "from": "0x339020",                            "mimeType": "image/png", "contentLength": 151, "httpStatus": 200, "connId": 157, "connReused": 0, "cached": 0,                            "requestTime": 2260436.904617, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 5, "connectStart": 1, "connectEnd": 6, "sendStart": 6, "sendEnd": 6, "receiveHeadersEnd": 9, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.986194, "len": 151}}
+{"Resource": {"id": 7, "url": "data:image/gif;base64,R0lGODlhEwALAKECAAAAABISEv///////yH5BAEKAAIALAAAAAATAAsAAAIdDI6pZ+suQJyy0ocV3bbm33EcCArmiUYk1qxAUAAAOw==", "sentTime": -1.000000, "len": 76, "from": "0x339020",                            "mimeType": "image/gif", "contentLength": 76, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260436.987238, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.987374, "len": 76}}
+{"Resource": {"id": 8, "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D", "sentTime": -1.000000, "len": 43, "from": "0x339020",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260436.987976, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260436.988102, "len": 43}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x1625d0", "row": 0, "column": 170, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.google.com.tr/", "code": "0x163600", "row": 9, "column": 2400, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.google.com.tr/", "code": "0x169d80", "row": 9, "column": 46995, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.google.com.tr/", "code": "0x324ae0", "row": 9, "column": 50031, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x324980", "row": 9, "column": 54010, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x1861a0", "row": 65, "column": 1916, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x186540", "row": 65, "column": 2013, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x3345e0", "row": 65, "column": 7416, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x19e390", "row": 65, "column": 8297, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x1a1140", "row": 65, "column": 9114, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x1a16a0", "row": 68, "column": 91, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x1a19e0", "row": 68, "column": 330, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "http://www.google.com.tr/", "code": "0x1a1ec0", "row": 69, "column": 5898, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.google.com.tr/", "code": "0x1a3150", "row": 69, "column": 5914, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x162be0", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.192941, "endTime": 2260436.242702, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x181680", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.286373, "endTime": 2260436.302210, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x16f760", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.312847, "endTime": 2260436.313275, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x1863a0", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.313397, "endTime": 2260436.314163, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x334710", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.336493, "endTime": 2260436.364562, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x334710", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.339456, "endTime": 2260436.362379, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x334710", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.361959, "endTime": 2260436.362098, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x334710", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.362106, "endTime": 2260436.362309, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x19e420", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.365726, "endTime": 2260436.366184, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x19e510", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.367021, "endTime": 2260436.368171, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x1a1240", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.368255, "endTime": 2260436.368533, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x1a18f0", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.369398, "endTime": 2260436.371499, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x14da50", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.371922, "endTime": 2260436.374378, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.375355, "endTime": 2260436.375359, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.375361, "endTime": 2260436.375362, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376024, "endTime": 2260436.376025, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376026, "endTime": 2260436.376027, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376032, "endTime": 2260436.376033, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376034, "endTime": 2260436.376036, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376040, "endTime": 2260436.376041, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376042, "endTime": 2260436.376043, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376048, "endTime": 2260436.376048, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.376049, "endTime": 2260436.376050, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.377388, "endTime": 2260436.379736, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.476243, "endTime": 2260436.962147, "urlRecalcStyle": "http://www.google.com.tr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw"}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.916206, "endTime": 2260436.918533, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.934922, "endTime": 2260436.935325, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.943241, "endTime": 2260436.943507, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.962165, "endTime": 2260436.962167, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.962168, "endTime": 2260436.962169, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.962170, "endTime": 2260436.962171, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.976975, "endTime": 2260436.977367, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.987590, "endTime": 2260436.987899, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.989117, "endTime": 2260436.989119, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.989120, "endTime": 2260436.989122, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260436.992918, "endTime": 2260437.002854, "urlRecalcStyle": "http://www.google.com.tr/extern_chrome/de8c1f0fae77a424.js?bav=on.2,or.r_qf."}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.002870, "endTime": 2260437.002872, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.002873, "endTime": 2260437.002874, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.002875, "endTime": 2260437.002876, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.002892, "endTime": 2260437.435805, "urlRecalcStyle": "http://www.google.com.tr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,idck,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw"}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.431528, "endTime": 2260437.433645, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.435822, "endTime": 2260437.435824, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.435825, "endTime": 2260437.435827, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.435828, "endTime": 2260437.435829, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.460468, "endTime": 2260437.462921, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466699, "endTime": 2260437.466701, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466703, "endTime": 2260437.466704, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466705, "endTime": 2260437.466706, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466709, "endTime": 2260437.466714, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466723, "endTime": 2260437.466730, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466737, "endTime": 2260437.466742, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.466748, "endTime": 2260437.466750, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.477714, "endTime": 2260437.477716, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.477718, "endTime": 2260437.477719, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x339020", "docUrl": "http://www.google.com.tr/", "startTime": 2260437.477720, "endTime": 2260437.477721, "urlRecalcStyle": "load"}}
+{"Complete": "www.google.com.tr_"}

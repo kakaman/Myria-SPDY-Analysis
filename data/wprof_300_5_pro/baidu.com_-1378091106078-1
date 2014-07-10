@@ -1,0 +1,10 @@
+{"page": "baidu.com_"}
+{"DOMLoad": 2259745.275597}
+{"Resource": {"id": 1, "url": "http://baidu.com/", "sentTime": -1.000000, "len": 81, "from": "0x0",                            "mimeType": "text/html", "contentLength": 81, "httpStatus": 200, "connId": 2547, "connReused": 0, "cached": 0,                            "requestTime": 2259744.625391, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 207, "connectStart": 2, "connectEnd": 403, "sendStart": 403, "sendEnd": 404, "receiveHeadersEnd": 603, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2259745.253882, "len": 81}}
+{"ObjectHash": {"code": "0x426f520", "doc": "http://baidu.com/", "row": 0, "column": 6, "tagName": "html", "time": 2259745.275131, "url": "", "pos": 6, "chunkLen": 81, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x426fdc0", "doc": "http://baidu.com/", "row": 1, "column": 65, "tagName": "meta", "time": 2259745.275305, "url": "", "pos": 72, "chunkLen": 81, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4270110", "doc": "http://baidu.com/", "row": 2, "column": 7, "tagName": "html", "time": 2259745.275390, "url": "", "pos": 80, "chunkLen": 81, "isStartTag": 0}}
+{"Computation": {"type": "fireEvent", "code": "0x4270110", "docUrl": "http://baidu.com/", "startTime": 2259745.275459, "endTime": 2259745.275461, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x4270110", "docUrl": "http://baidu.com/", "startTime": 2259745.275463, "endTime": 2259745.275464, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete": "baidu.com_"}

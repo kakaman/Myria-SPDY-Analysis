@@ -1,0 +1,4357 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.pch.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pch.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 1374.57900000004,
+               "time" : 21.77799999993,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1396.35699999997
+            },
+            {
+               "s_time" : 1523.52099999996,
+               "time" : 0.128000000020165,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1523.64899999998
+            },
+            {
+               "s_time" : 1599.37600000001,
+               "time" : 0.0669999999399806,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1599.44299999995
+            },
+            {
+               "s_time" : 1719.17799999994,
+               "time" : 0.0680000000600103,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 1719.246
+            },
+            {
+               "s_time" : 1721.498,
+               "time" : 0.0519999999798983,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 1721.54999999998
+            },
+            {
+               "s_time" : 1864.84099999996,
+               "time" : 0.0479999999899974,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 1864.88899999995
+            },
+            {
+               "s_time" : 1937.69999999995,
+               "time" : 0.0690000000499822,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 1937.769
+            },
+            {
+               "s_time" : 1975.35200000004,
+               "time" : 0.0639999999598331,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 1975.416
+            },
+            {
+               "s_time" : 1976.55399999996,
+               "time" : 0.0440000000098735,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 1976.59799999997
+            },
+            {
+               "s_time" : 1977.8,
+               "time" : 12.57499999997,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 1990.37499999997
+            },
+            {
+               "s_time" : 2065.46200000003,
+               "time" : 0.0619999999498759,
+               "id" : "r1_c11",
+               "type" : "evalhtml",
+               "e_time" : 2065.52399999998
+            },
+            {
+               "s_time" : 2066.644,
+               "time" : 0.0360000000200671,
+               "id" : "r1_c12",
+               "type" : "evalhtml",
+               "e_time" : 2066.68000000002
+            },
+            {
+               "s_time" : 2071.28,
+               "time" : 2.7659999999496,
+               "id" : "r1_c13",
+               "type" : "evalhtml",
+               "e_time" : 2074.04599999995
+            },
+            {
+               "s_time" : 2172.11999999995,
+               "time" : 0.0710000000499349,
+               "id" : "r1_c14",
+               "type" : "evalhtml",
+               "e_time" : 2172.191
+            },
+            {
+               "s_time" : 2173.15099999996,
+               "time" : 0.0420000000103755,
+               "id" : "r1_c15",
+               "type" : "evalhtml",
+               "e_time" : 2173.19299999997
+            },
+            {
+               "s_time" : 2174.11500000003,
+               "time" : 5.03099999992037,
+               "id" : "r1_c16",
+               "type" : "evalhtml",
+               "e_time" : 2179.14599999995
+            },
+            {
+               "s_time" : 2180.31899999994,
+               "time" : 0.0580000000800283,
+               "id" : "r1_c17",
+               "type" : "evalhtml",
+               "e_time" : 2180.37700000002
+            },
+            {
+               "s_time" : 2180.69600000001,
+               "time" : 3.60699999998997,
+               "id" : "r1_c18",
+               "type" : "evalhtml",
+               "e_time" : 2184.303
+            },
+            {
+               "s_time" : 2207.68399999997,
+               "time" : 0.123000000029606,
+               "id" : "r1_c19",
+               "type" : "evalhtml",
+               "e_time" : 2207.807
+            },
+            {
+               "s_time" : 2216.26600000002,
+               "time" : 1.07000000002972,
+               "id" : "r1_c20",
+               "type" : "evalhtml",
+               "e_time" : 2217.33600000005
+            },
+            {
+               "s_time" : 2230.36200000001,
+               "time" : 431.40499999993,
+               "id" : "r1_c21",
+               "type" : "evalhtml",
+               "e_time" : 2661.76699999994
+            },
+            {
+               "s_time" : 2663.08400000003,
+               "time" : 13.0419999999203,
+               "id" : "r1_c22",
+               "type" : "evalhtml",
+               "e_time" : 2676.12599999995
+            },
+            {
+               "s_time" : 2827.00499999999,
+               "time" : 233.608,
+               "id" : "r1_c23",
+               "type" : "evalhtml",
+               "e_time" : 3060.61299999999
+            },
+            {
+               "s_time" : 3061.08800000004,
+               "time" : 16.6809999999496,
+               "id" : "r1_c24",
+               "type" : "evalhtml",
+               "e_time" : 3077.76899999999
+            },
+            {
+               "s_time" : 3113.30199999998,
+               "time" : 0.106000000069798,
+               "id" : "r1_c25",
+               "type" : "evalhtml",
+               "e_time" : 3113.40800000005
+            },
+            {
+               "s_time" : 3130.30700000002,
+               "time" : 5.76499999999032,
+               "id" : "r1_c26",
+               "type" : "evalhtml",
+               "e_time" : 3136.07200000001
+            },
+            {
+               "s_time" : 3138.373,
+               "time" : 54.7950000000101,
+               "id" : "r1_c27",
+               "type" : "evalhtml",
+               "e_time" : 3193.16800000001
+            },
+            {
+               "s_time" : 3195.78300000001,
+               "time" : 0.114999999930205,
+               "id" : "r1_c28",
+               "type" : "evalhtml",
+               "e_time" : 3195.89799999994
+            },
+            {
+               "s_time" : 3202.14399999998,
+               "time" : 0.110000000059699,
+               "id" : "r1_c29",
+               "type" : "evalhtml",
+               "e_time" : 3202.25400000004
+            },
+            {
+               "s_time" : 3204.77600000004,
+               "time" : 0.0910000000003492,
+               "id" : "r1_c30",
+               "type" : "evalhtml",
+               "e_time" : 3204.86700000004
+            },
+            {
+               "s_time" : 3208.84799999999,
+               "time" : 0.100999999970099,
+               "id" : "r1_c31",
+               "type" : "evalhtml",
+               "e_time" : 3208.94899999996
+            },
+            {
+               "s_time" : 3209.86000000005,
+               "time" : 11.5929999999498,
+               "id" : "r1_c32",
+               "type" : "evalhtml",
+               "e_time" : 3221.453
+            },
+            {
+               "s_time" : 3221.73799999996,
+               "time" : 29.5100000000702,
+               "id" : "r1_c33",
+               "type" : "evalhtml",
+               "e_time" : 3251.24800000003
+            },
+            {
+               "s_time" : 3440.34799999997,
+               "time" : 0.100999999970099,
+               "id" : "r1_c34",
+               "type" : "evalhtml",
+               "e_time" : 3440.44899999994
+            },
+            {
+               "s_time" : 3446.25499999995,
+               "time" : 0.0780000000299879,
+               "id" : "r1_c35",
+               "type" : "evalhtml",
+               "e_time" : 3446.33299999998
+            },
+            {
+               "s_time" : 3452.37699999996,
+               "time" : 1531.48400000009,
+               "id" : "r1_c36",
+               "type" : "evalhtml",
+               "e_time" : 4983.86100000005
+            },
+            {
+               "s_time" : 4984.55000000001,
+               "time" : 1696.14000000002,
+               "type" : "evalhtml",
+               "id" : "r1_c37",
+               "e_time" : 6680.69000000003
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/css/all.css?v=r24-rb1",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1475.93500000005,
+               "time" : 47.7629999999201,
+               "type" : 4,
+               "id" : "comp_4",
+               "e_time" : 1523.69799999997
+            }
+         ],
+         "download" : {
+            "s_time" : 1375.75100000004,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/css/popups.css?v=r24-rb1",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1463.72399999996,
+               "time" : 0.69500000006019,
+               "type" : 4,
+               "id" : "comp_2",
+               "e_time" : 1464.41900000002
+            }
+         ],
+         "download" : {
+            "s_time" : 1376.39899999999,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/css/videoad.css?v=r24-rb1",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1465.11199999998,
+               "time" : 0.730999999969981,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 1465.84299999995
+            }
+         ],
+         "download" : {
+            "s_time" : 1376.93400000001,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/js/modernizr-2.5.3.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 1721.588,
+               "time" : 143.25299999996,
+               "type" : 1,
+               "id" : "comp_20",
+               "e_time" : 1864.84099999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1379.30600000004,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/js/pchtrack.js?v=r24-rb1",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1484.00000000004,
+               "time" : 39.5209999999199,
+               "type" : 1,
+               "id" : "comp_5",
+               "e_time" : 1523.52099999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1377.35299999997,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/js/jquery-1.6.4.min.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 1864.93199999995,
+               "time" : 72.768,
+               "type" : 1,
+               "id" : "comp_26",
+               "e_time" : 1937.69999999995
+            }
+         ],
+         "download" : {
+            "s_time" : 1379.72000000002,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/js/jquery.tools.min.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 1937.81999999999,
+               "time" : 37.5320000000502,
+               "type" : 1,
+               "id" : "comp_38",
+               "e_time" : 1975.35200000004
+            }
+         ],
+         "download" : {
+            "s_time" : 1380.15399999995,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/js/jquery.main.js?v=r24-rb1",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 1975.46799999998,
+               "time" : 1.08599999998,
+               "type" : 1,
+               "id" : "comp_40",
+               "e_time" : 1976.55399999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1380.55999999995,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/js/pchads.js?v=r24-rb1",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 1976.62700000001,
+               "time" : 1.17299999999,
+               "type" : 1,
+               "id" : "comp_42",
+               "e_time" : 1977.8
+            }
+         ],
+         "download" : {
+            "s_time" : 1380.95799999996,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_contentcategory/assets/css/hp_winners.css?v=r24-rb1",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 1542.35700000004,
+               "time" : 0.0229999999401116,
+               "type" : 4,
+               "id" : "comp_8",
+               "e_time" : 1542.37999999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1382.22699999994,
+            "id" : "download_10",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/css/metagames.css?v=r24-rb1",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 1542.72600000002,
+               "time" : 0.0739999999200336,
+               "type" : 4,
+               "id" : "comp_9",
+               "e_time" : 1542.79999999994
+            }
+         ],
+         "download" : {
+            "s_time" : 1382.62299999997,
+            "id" : "download_11",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/css/hp_overlay.css?v=r24-rb1",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 1544.77499999996,
+               "time" : 0.00900000008982715,
+               "type" : 4,
+               "id" : "comp_10",
+               "e_time" : 1544.78400000005
+            }
+         ],
+         "download" : {
+            "s_time" : 1383.04700000003,
+            "id" : "download_12",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/css/uni-nav.css?v=r24-rb1",
+         "id" : "r18",
+         "comps" : [
+            {
+               "s_time" : 1546.58800000004,
+               "time" : 0.279999999979964,
+               "type" : 4,
+               "id" : "comp_12",
+               "e_time" : 1546.86800000002
+            }
+         ],
+         "download" : {
+            "s_time" : 1383.48599999995,
+            "id" : "download_13",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_contentcategory/assets/css/winners.css?v=r24-rb1",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 1545.46500000004,
+               "time" : 0.0189999999499832,
+               "type" : 4,
+               "id" : "comp_11",
+               "e_time" : 1545.48399999999
+            }
+         ],
+         "download" : {
+            "s_time" : 1381.798,
+            "id" : "download_14",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/media/system/js/mootools-core.js",
+         "id" : "r19",
+         "comps" : [
+            {
+               "s_time" : 1990.41,
+               "time" : 75.0520000000299,
+               "type" : 1,
+               "id" : "comp_44",
+               "e_time" : 2065.46200000003
+            }
+         ],
+         "download" : {
+            "s_time" : 1383.87399999999,
+            "id" : "download_15",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/media/system/js/core.js",
+         "id" : "r20",
+         "comps" : [
+            {
+               "s_time" : 2065.57399999997,
+               "time" : 1.07000000002972,
+               "type" : 1,
+               "id" : "comp_49",
+               "e_time" : 2066.644
+            }
+         ],
+         "download" : {
+            "s_time" : 1384.25800000005,
+            "id" : "download_16",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/components/com_pchcom_content/assets/js/swfobject.js?v=r24-rb1",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 2066.70699999995,
+               "time" : 4.57300000005034,
+               "type" : 1,
+               "id" : "comp_51",
+               "e_time" : 2071.28
+            }
+         ],
+         "download" : {
+            "s_time" : 1384.66400000004,
+            "id" : "download_17",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/libraries/pch/gigya/gigya.js",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 2172.234,
+               "time" : 0.916999999959899,
+               "type" : 1,
+               "id" : "comp_66",
+               "e_time" : 2173.15099999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1385.65900000003,
+            "id" : "download_18",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_sso/assets/js/sso_pchtrack.js?v=r24-rb1",
+         "id" : "r25",
+         "comps" : [
+            {
+               "s_time" : 2179.17199999999,
+               "time" : 1.14699999994991,
+               "type" : 1,
+               "id" : "comp_71",
+               "e_time" : 2180.31899999994
+            },
+            {
+               "s_time" : 3208.98499999998,
+               "time" : 0.875000000070031,
+               "type" : 1,
+               "id" : "comp_183",
+               "e_time" : 3209.86000000005
+            }
+         ],
+         "download" : {
+            "s_time" : 1386.44899999997,
+            "id" : "download_19",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/js/pchcom.js?v=r24-rb1",
+         "id" : "r26",
+         "comps" : [
+            {
+               "s_time" : 2180.40399999995,
+               "time" : 0.292000000059943,
+               "type" : 1,
+               "id" : "comp_73",
+               "e_time" : 2180.69600000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1386.89299999999,
+            "id" : "download_20",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/js/uni-nav.js?v=r24-rb1",
+         "id" : "r27",
+         "comps" : [
+            {
+               "s_time" : 2184.33000000005,
+               "time" : 23.3539999999202,
+               "type" : 1,
+               "id" : "comp_76",
+               "e_time" : 2207.68399999997
+            }
+         ],
+         "download" : {
+            "s_time" : 1387.30399999997,
+            "id" : "download_21",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/js/win-bar.js?v=r24-rb1",
+         "id" : "r28",
+         "comps" : [
+            {
+               "s_time" : 2207.87399999995,
+               "time" : 8.39200000007031,
+               "type" : 1,
+               "id" : "comp_81",
+               "e_time" : 2216.26600000002
+            }
+         ],
+         "download" : {
+            "s_time" : 1387.70899999997,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/js/uni-shelf.js?v=r24-rb1",
+         "id" : "r29",
+         "comps" : [
+            {
+               "s_time" : 2217.36199999998,
+               "time" : 13.00000000003,
+               "type" : 1,
+               "id" : "comp_84",
+               "e_time" : 2230.36200000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1388.12799999994,
+            "id" : "download_23",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/js/hp_overlay.js?v=r24-rb1",
+         "id" : "r34",
+         "comps" : [
+            {
+               "s_time" : 3113.45099999994,
+               "time" : 16.8560000000798,
+               "type" : 1,
+               "id" : "comp_156",
+               "e_time" : 3130.30700000002
+            }
+         ],
+         "download" : {
+            "s_time" : 1391.61000000001,
+            "id" : "download_24",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_saveandwin/assets/js/pchsaveandwin.js?v=r24-rb1",
+         "id" : "r35",
+         "comps" : [
+            {
+               "s_time" : 3136.09499999995,
+               "time" : 2.27800000005027,
+               "type" : 1,
+               "id" : "comp_164",
+               "e_time" : 3138.373
+            }
+         ],
+         "download" : {
+            "s_time" : 1392.02299999999,
+            "id" : "download_25",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.pch.com/spectrum/mobile/js/pchDeviceDetection.v2.min.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 1576.89700000003,
+               "time" : 22.47899999998,
+               "type" : 1,
+               "id" : "comp_14",
+               "e_time" : 1599.37600000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1378.09800000002,
+            "id" : "download_26",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.pch.com/scripts/js/pchBrowserDetection.min.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 1719.29799999998,
+               "time" : 2.20000000002005,
+               "type" : 1,
+               "id" : "comp_19",
+               "e_time" : 1721.498
+            }
+         ],
+         "download" : {
+            "s_time" : 1378.88799999996,
+            "id" : "download_27",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_sso/assets/js/SsoLightbox.js?v=r24-rb1",
+         "id" : "r37",
+         "comps" : [
+            {
+               "s_time" : 3193.19799999994,
+               "time" : 2.58500000007007,
+               "type" : 1,
+               "id" : "comp_175",
+               "e_time" : 3195.78300000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1392.75699999996,
+            "id" : "download_28",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_sso/assets/js/json2.js",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 3202.29199999994,
+               "time" : 2.48400000009997,
+               "type" : 1,
+               "id" : "comp_179",
+               "e_time" : 3204.77600000004
+            }
+         ],
+         "download" : {
+            "s_time" : 1393.553,
+            "id" : "download_29",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_sso/assets/js/mod_pch_sso.js?v=r24-rb1",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 3204.89899999995,
+               "time" : 3.94900000004009,
+               "type" : 1,
+               "id" : "comp_181",
+               "e_time" : 3208.84799999999
+            }
+         ],
+         "download" : {
+            "s_time" : 1393.93900000005,
+            "id" : "download_30",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_sso/assets/css/sso_lightbox.css?v=r24-rb1",
+         "id" : "r41",
+         "comps" : [
+            {
+               "s_time" : 1604.692,
+               "time" : 0.0380000000200198,
+               "type" : 4,
+               "id" : "comp_15",
+               "e_time" : 1604.73000000002
+            }
+         ],
+         "download" : {
+            "s_time" : 1394.33599999995,
+            "id" : "download_31",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_sso/assets/css/sso_desktop_ui.css?v=r24-rb1",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 1606.089,
+               "time" : 0.00599999998007661,
+               "type" : 4,
+               "id" : "comp_16",
+               "e_time" : 1606.09499999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1394.74099999995,
+            "id" : "download_32",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/js/tutorial.js?v=2.2.19p1",
+         "id" : "r43",
+         "comps" : [
+            {
+               "s_time" : 3220.98400000004,
+               "time" : 0.75399999991987,
+               "type" : 1,
+               "id" : "comp_189",
+               "e_time" : 3221.73799999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1395.15600000004,
+            "id" : "download_33",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/js/metagames.js?v=r24-rb1",
+         "id" : "r33",
+         "comps" : [
+            {
+               "s_time" : 3077.79700000003,
+               "time" : 35.5049999999501,
+               "type" : 1,
+               "id" : "comp_153",
+               "e_time" : 3113.30199999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1391.18199999996,
+            "id" : "download_34",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/css/tutorial.css?v=2.2.19",
+         "id" : "r44",
+         "comps" : [
+            {
+               "s_time" : 1607.94799999996,
+               "time" : 0.0320000000399432,
+               "type" : 4,
+               "id" : "comp_17",
+               "e_time" : 1607.98
+            }
+         ],
+         "download" : {
+            "s_time" : 1395.56000000005,
+            "id" : "download_35",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.pch.com/spectrum/mobile/redirect/pchDeviceRedirect.v2.min.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1715.03399999995,
+               "time" : 4.14399999999,
+               "type" : 1,
+               "id" : "comp_18",
+               "e_time" : 1719.17799999994
+            }
+         ],
+         "download" : {
+            "s_time" : 1378.51699999999,
+            "id" : "download_36",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.pch.com/spectrum/OPS/PCHtakeover/css/pchTakeover.css",
+         "id" : "r45",
+         "comps" : [
+            {
+               "s_time" : 2076.06099999998,
+               "time" : 0.00699999998005296,
+               "type" : 4,
+               "id" : "comp_62",
+               "e_time" : 2076.06799999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1395.96500000005,
+            "id" : "download_37",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.pch.com/RegistrationFoundation/V5/SSO/build/prod/sso_lib_desktop_min.js?v=r24-rb1",
+         "id" : "r38",
+         "comps" : [
+            {
+               "s_time" : 3195.95700000002,
+               "time" : 6.18699999996034,
+               "type" : 1,
+               "id" : "comp_177",
+               "e_time" : 3202.14399999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1393.16699999995,
+            "id" : "download_38",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.pch.com/spectrum/OPS/PCHtakeover/js/pchTakeover.js",
+         "id" : "r46",
+         "comps" : [
+            {
+               "s_time" : 4983.90800000004,
+               "time" : 0.641999999969812,
+               "type" : 1,
+               "id" : "comp_531",
+               "e_time" : 4984.55000000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1396.35699999997,
+            "id" : "download_39",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://preferences.truste.com/webservices/js?type=generic&domain=pch.com",
+         "id" : "r24",
+         "comps" : [
+            {
+               "s_time" : 2173.22000000001,
+               "time" : 0.895000000019991,
+               "type" : 1,
+               "id" : "comp_68",
+               "e_time" : 2174.11500000003
+            }
+         ],
+         "download" : {
+            "s_time" : 1386.06200000004,
+            "id" : "download_40",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fonts.googleapis.com/css?family=Fugaz+One|Dancing+Script",
+         "id" : "r32",
+         "comps" : [
+            {
+               "s_time" : 2090.38299999997,
+               "time" : 0.0069999999900574,
+               "type" : 4,
+               "id" : "comp_63",
+               "e_time" : 2090.38999999996
+            }
+         ],
+         "download" : {
+            "s_time" : 1390.76,
+            "id" : "download_41",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://cdns.gigya.com/js/socialize.js?apiKey=2_77lwXlHGyz38LNKvNWnuNv_LPb0XpMIXIjUmcWz55KmqdAosx-WFXZL2h-sNY3tD",
+         "id" : "r22",
+         "comps" : [
+            {
+               "s_time" : 2092.87399999994,
+               "time" : 79.2460000000096,
+               "type" : 1,
+               "id" : "comp_64",
+               "e_time" : 2172.11999999995
+            }
+         ],
+         "download" : {
+            "s_time" : 1385.28699999995,
+            "id" : "download_42",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.optimatic.com/shell.js",
+         "id" : "r30",
+         "comps" : [
+            {
+               "s_time" : 2672.08800000003,
+               "time" : 154.91699999996,
+               "type" : 1,
+               "id" : "comp_117",
+               "e_time" : 2827.00499999999
+            }
+         ],
+         "download" : {
+            "s_time" : 1389.80100000003,
+            "id" : "download_43",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pub.sponsorselect.com/script/pch.js",
+         "id" : "r31",
+         "comps" : [
+            {
+               "s_time" : 3060.64800000001,
+               "time" : 0.440000000030068,
+               "type" : 1,
+               "id" : "comp_148",
+               "e_time" : 3061.08800000004
+            }
+         ],
+         "download" : {
+            "s_time" : 1390.19999999994,
+            "id" : "download_44",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r47",
+         "comps" : [
+            {
+               "s_time" : 2333.31799999996,
+               "time" : 99.5790000000698,
+               "type" : 2,
+               "id" : "comp_94",
+               "e_time" : 2432.89700000003
+            }
+         ],
+         "download" : {
+            "s_time" : 2073.74200000004,
+            "id" : "download_45",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/images/uni-nav/nav-assets/nav-sprite2013.png",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2175.95900000003,
+            "id" : "download_46",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/uninav_sites_new.png",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2243.73100000003,
+            "id" : "download_47",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/images/ajax-loader.gif",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2243.24799999999,
+            "id" : "download_48",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/images/uni-nav/site-default/tab-bkgd-grey.png",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2244.89300000005,
+            "id" : "download_49",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/images/uni-nav/site-default/header-bkgd.png",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2246.219,
+            "id" : "download_50",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/images/uni-nav/nav-assets/list-separator.png",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2245.678,
+            "id" : "download_51",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/pch-logo-portal-73113.png",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2245.31000000002,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/pixel.png",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2246.60800000004,
+            "id" : "download_53",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3607/HPMOD_650x400_5_2013_HEX-4e0101.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2247.35699999997,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/components/com_pchcom_content/assets/images/PCH_NeedFlashPlayer.jpg",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2246.983,
+            "id" : "download_55",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3527/HPMOD_650x400_5_2013_HEX-1b010c.jpg",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2247.71999999996,
+            "id" : "download_56",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3596/25th_650x400.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2248.07699999997,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3614/BlackEventHP_module_hex_050505.png",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2251.21100000001,
+            "id" : "download_58",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/36/52KFordF150_650x400_HEX_2b2a28.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2248.47199999999,
+            "id" : "download_59",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3061/HPMOD_5KBONUS_650x400_HEX-2098c2.jpg",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2251.66200000001,
+            "id" : "download_60",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1095395827&utmhn=www.pch.com&utme=8(6!MobileType*LoginStatus*12!PCHSourceCategory*PCHSources)9(6!Desktop*Guest*12!organic*organic)11(6!2*2*12!2*2)&utmcs=UTF-8&utmsr=2048x1152&utmvp=934x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Free%20Online%20Sweepstakes%20%26%20Contests%20%7C%20PCH.com&utmhid=1429577411&utmr=-&utmp=%2FPCHCOM%2FPortalUC_Overlay&utmht=1378144377594&utmac=UA-4102833-1&utmcc=__utma%3D102336542.2147122734.1378144378.1378144378.1378144378.1%3B%2B__utmz%3D102336542.1378144378.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qxCAg~",
+         "id" : "r96",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2425.65000000002,
+            "id" : "download_61",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3350/HPMOD_650x400_5IWpath_HEX-590a02.jpg",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2252.04699999995,
+            "id" : "download_62",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3052/1KScratchCentral_650x400_HEX_002859.jpg",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2252.80999999995,
+            "id" : "download_63",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/pch.pch/homepage;s1=homepage;dcopt=ist;kw=;pos=box;gn=;g=;ar=;a=;seg=;tile=1;sz=300x250;ord=3933137699496001?",
+         "id" : "r57",
+         "comps" : [
+            {
+               "s_time" : 2640.38900000003,
+               "time" : 22.6949999999997,
+               "type" : 1,
+               "id" : "comp_103",
+               "e_time" : 2663.08400000003
+            }
+         ],
+         "download" : {
+            "s_time" : 2236.13999999998,
+            "id" : "download_64",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3064/HP_MOD_650X400_HEX_231f20.png",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2253.20999999997,
+            "id" : "download_65",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3549/HP_MOD_650x400_HEX_128ce2.jpg",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2252.42200000002,
+            "id" : "download_66",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.doubleclick.net/N5499/adi/pch.pch;pos=top;g=;ar=;a=;seg=;sz=728x90;ord=3933137699496001?",
+         "id" : "r56",
+         "comps" : [
+            {
+               "s_time" : 2861.97500000003,
+               "time" : 590.51599999998,
+               "id" : "r56_c1",
+               "type" : "evalhtml",
+               "e_time" : 3452.49100000001
+            },
+            {
+               "s_time" : 3459.11899999999,
+               "time" : 161.08099999996,
+               "type" : "evalhtml",
+               "id" : "r56_c2",
+               "e_time" : 3620.19999999995
+            }
+         ],
+         "download" : {
+            "s_time" : 2235.14399999999,
+            "id" : "download_67",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/47/100KHomeImprov_650x400_HEX_55392b.jpg",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2253.63800000002,
+            "id" : "download_68",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/31/HPMOD_10KBONUS_650x400_HEX-2098c2.jpg",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2254.09200000001,
+            "id" : "download_69",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3607/HP_MOD_THUMB_172x136_2.jpg",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2254.52699999994,
+            "id" : "download_70",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3527/HP_MOD_THUMB_172x136.jpg",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2254.93600000004,
+            "id" : "download_71",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3596/25tht_FA_thumb_172x136.jpg",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2255.39200000003,
+            "id" : "download_72",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/36/52KFordF150_172x136.jpg",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2257.34899999998,
+            "id" : "download_73",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3614/BlackEvent_thumb_172x136.jpg",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2257.80599999996,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3061/5Kbonus_172X172.png",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2258.17600000005,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cdn.optimatic.com/iframe.html",
+         "id" : "r100",
+         "comps" : [
+            {
+               "s_time" : 2912.04900000002,
+               "time" : 0.373999999970238,
+               "type" : "evalhtml",
+               "id" : "r100_c1",
+               "e_time" : 2912.42299999999
+            }
+         ],
+         "download" : {
+            "s_time" : 2676.12599999995,
+            "id" : "download_76",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3350/HP_MOD_THUMB_172x136.jpg",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2258.554,
+            "id" : "download_77",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3549/HP_MOD_THUMB_172x136.jpg",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2258.92099999999,
+            "id" : "download_78",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3052/1KScratchCentral_172x136.jpg",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.28099999999,
+            "id" : "download_79",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3064/HP_MOD_THUMB_172X136.png",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.63899999999,
+            "id" : "download_80",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/47/100KHomeImprov_172x136.jpg",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.01399999996,
+            "id" : "download_81",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/31/10Kbonus_172X172.png",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.38200000005,
+            "id" : "download_82",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/145/1KRollenCash172x136.jpg",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.74900000003,
+            "id" : "download_83",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_contentcategory/assets/images/iwmod_playnow_btn.png",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2261.13399999997,
+            "id" : "download_84",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/146/1KKingPin172x136.jpg",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2261.55099999994,
+            "id" : "download_85",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3622/pchtv_thumb_085_88x59.jpg",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2261.92100000003,
+            "id" : "download_86",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/3536/pchtv_thumb_084_88x59.jpg",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2262.28600000002,
+            "id" : "download_87",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pch_uninav/assets/images/loader.gif",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2264.68699999998,
+            "id" : "download_88",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/147/SWPS_MOD_300X247.jpg",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2262.65000000001,
+            "id" : "download_89",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_contentcategory/assets/images/img-fast-ribbon_240.png",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2265.09499999997,
+            "id" : "download_90",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/leader-board.jpg",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2265.45499999997,
+            "id" : "download_91",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/img/close.png",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2265.88000000004,
+            "id" : "download_92",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/img/prizes.png",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2266.65200000002,
+            "id" : "download_93",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/img/bonus.png",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2266.25999999999,
+            "id" : "download_94",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/img/carmoney.png",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2267.03699999996,
+            "id" : "download_95",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.dmtry.com/channel.js",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 3184.46900000004,
+               "time" : 8.03699999993978,
+               "type" : 2,
+               "id" : "comp_172",
+               "e_time" : 3192.50599999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1392.38899999998,
+            "id" : "download_96",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.doubleclick.net/N5499/adi/pch.pch;pos=top;g=;ar=;a=;seg=;sz=728x90;ord=3933137699496001?",
+         "id" : "r101",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2829.522,
+            "id" : "download_97",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/pch.pch/homepage;s1=homepage;dcopt=ist;kw=;pos=box;gn=;g=;ar=;a=;seg=;tile=2;sz=300x250;ord=3933137699496001?",
+         "id" : "r102",
+         "comps" : [
+            {
+               "s_time" : 3045.67399999996,
+               "time" : 14.2460000000701,
+               "type" : 2,
+               "id" : "comp_137",
+               "e_time" : 3059.92000000003
+            }
+         ],
+         "download" : {
+            "s_time" : 2831.04300000002,
+            "id" : "download_98",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/images/scrollbar_bg.png",
+         "id" : "r105",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3074.58099999997,
+            "id" : "download_99",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20110914/abg.js",
+         "id" : "r99",
+         "comps" : [
+            {
+               "s_time" : 3412.70499999996,
+               "time" : 27.64300000001,
+               "type" : 1,
+               "id" : "comp_295",
+               "e_time" : 3440.34799999997
+            },
+            {
+               "s_time" : 3440.45600000004,
+               "time" : 5.79899999990994,
+               "type" : 1,
+               "id" : "comp_297",
+               "e_time" : 3446.25499999995
+            },
+            {
+               "s_time" : 3446.33899999997,
+               "time" : 6.03799999999001,
+               "type" : 1,
+               "id" : "comp_299",
+               "e_time" : 3452.37699999996
+            },
+            {
+               "s_time" : 3452.50099999998,
+               "time" : 6.61800000000994,
+               "type" : 1,
+               "id" : "comp_301",
+               "e_time" : 3459.11899999999
+            },
+            {
+               "s_time" : 4499.90300000002,
+               "time" : 8.29299999997966,
+               "type" : 1,
+               "id" : "comp_509",
+               "e_time" : 4508.196
+            }
+         ],
+         "download" : {
+            "s_time" : 2661.76699999994,
+            "id" : "download_100",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/simgad/7807197674675277819",
+         "id" : "r98",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2656.567,
+            "id" : "download_101",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/simgad/17220046824501832942",
+         "id" : "r103",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2870.87099999997,
+            "id" : "download_102",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/beacon.js",
+         "id" : "r129",
+         "comps" : [
+            {
+               "s_time" : 3538.58200000002,
+               "time" : 5.73499999996011,
+               "type" : 2,
+               "id" : "comp_351",
+               "e_time" : 3544.31699999998
+            }
+         ],
+         "download" : {
+            "s_time" : 3219.02599999999,
+            "id" : "download_103",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/images/hp_overlay_arrow.png",
+         "id" : "r108",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3243.61799999997,
+            "id" : "download_104",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/images/thumb_lock.png",
+         "id" : "r107",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3243.17199999996,
+            "id" : "download_105",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_featured/assets/images/thumb_arrow.png",
+         "id" : "r106",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3242.69700000002,
+            "id" : "download_106",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_contentcategory/assets/images/submit_arrow.png",
+         "id" : "r110",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3244.50300000001,
+            "id" : "download_107",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/modules/mod_pchcom_contentcategory/assets/images/TokenValue.png",
+         "id" : "r109",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3244.06199999999,
+            "id" : "download_108",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/bg-fast-ribbon.png",
+         "id" : "r111",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3244.95100000001,
+            "id" : "download_109",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/text-sprite.png",
+         "id" : "r112",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3245.38800000005,
+            "id" : "download_110",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/bg-winners-list.gif",
+         "id" : "r113",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3245.82099999998,
+            "id" : "download_111",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/bullets-sprite.png",
+         "id" : "r114",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3246.24400000005,
+            "id" : "download_112",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/buttons-sprite.png",
+         "id" : "r115",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3246.65800000002,
+            "id" : "download_113",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/whatsnew_btn.png",
+         "id" : "r118",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3247.072,
+            "id" : "download_114",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/oc_head_text.png",
+         "id" : "r119",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3247.84099999999,
+            "id" : "download_115",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/bg-border01.gif",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3248.29399999999,
+            "id" : "download_116",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/bg-footer02.png",
+         "id" : "r121",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3248.76900000004,
+            "id" : "download_117",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/oc_arrow.png",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3249.17900000003,
+            "id" : "download_118",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/split01.gif",
+         "id" : "r123",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3249.58000000004,
+            "id" : "download_119",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/pchblog_footer.png",
+         "id" : "r124",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3249.98700000003,
+            "id" : "download_120",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/ico-f.gif",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3250.39400000003,
+            "id" : "download_121",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/footer/ico-t.gif",
+         "id" : "r126",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3250.83700000005,
+            "id" : "download_122",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/templates/publishersclearinghouse4/images/logo-truste.gif",
+         "id" : "r127",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3251.24800000003,
+            "id" : "download_123",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pch.com/pch_global/empty.html",
+         "id" : "r130",
+         "comps" : [
+            {
+               "s_time" : 3551.57999999994,
+               "time" : 0.210000000040054,
+               "type" : "evalhtml",
+               "id" : "r130_c1",
+               "e_time" : 3551.78999999998
+            }
+         ],
+         "download" : {
+            "s_time" : 3221.453,
+            "id" : "download_124",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pch.com/1907-pch-box2-ad?tmpl=raw&layout=banner",
+         "id" : "r117",
+         "comps" : [
+            {
+               "s_time" : 3597.83400000003,
+               "time" : 2093.00599999995,
+               "type" : "evalhtml",
+               "id" : "r117_c1",
+               "e_time" : 5690.83999999998
+            }
+         ],
+         "download" : {
+            "s_time" : 3171.78200000001,
+            "id" : "download_125",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211",
+         "id" : "r132",
+         "comps" : [
+            {
+               "s_time" : 3608.58199999996,
+               "time" : 42.0860000000403,
+               "type" : "evalhtml",
+               "id" : "r132_c1",
+               "e_time" : 3650.668
+            }
+         ],
+         "download" : {
+            "s_time" : 3461.862,
+            "id" : "download_126",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://cdns.gigya.com/js/gigya.services.socialize.plugins.min.js",
+         "id" : "r133",
+         "comps" : [
+            {
+               "s_time" : 3660.74100000003,
+               "time" : 5.08699999999999,
+               "type" : 2,
+               "id" : "comp_411",
+               "e_time" : 3665.82800000003
+            }
+         ],
+         "download" : {
+            "s_time" : 3498.06599999999,
+            "id" : "download_127",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://cdns.gigya.com/js/gigya.services.socialize.plugins.reactions.min.js",
+         "id" : "r134",
+         "comps" : [
+            {
+               "s_time" : 3666.04499999994,
+               "time" : 16.82800000003,
+               "type" : 2,
+               "id" : "comp_414",
+               "e_time" : 3682.87299999997
+            }
+         ],
+         "download" : {
+            "s_time" : 3499.84600000005,
+            "id" : "download_128",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211",
+         "id" : "r136",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3516.62899999997,
+            "id" : "download_129",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211",
+         "id" : "r137",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3519.85999999999,
+            "id" : "download_130",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211",
+         "id" : "r139",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3524.78499999995,
+            "id" : "download_131",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-4356837284097081",
+         "id" : "r138",
+         "comps" : [
+            {
+               "s_time" : 3743.61499999998,
+               "time" : 779.22499999999,
+               "type" : "evalhtml",
+               "id" : "r138_c1",
+               "e_time" : 4522.83999999997
+            }
+         ],
+         "download" : {
+            "s_time" : 3521.27499999995,
+            "id" : "download_132",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-4356837284097081",
+         "id" : "r140",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3526.41500000004,
+            "id" : "download_133",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pch.com/52-home-page-ad?tmpl=raw&layout=banner",
+         "id" : "r116",
+         "comps" : [
+            {
+               "s_time" : 3759.33399999997,
+               "time" : 599.13800000004,
+               "id" : "r116_c1",
+               "type" : "evalhtml",
+               "e_time" : 4358.47200000001
+            },
+            {
+               "s_time" : 4495.05099999999,
+               "time" : 4.80000000004929,
+               "id" : "r116_c2",
+               "type" : "evalhtml",
+               "e_time" : 4499.85100000004
+            },
+            {
+               "s_time" : 4508.196,
+               "time" : 0.0450000000000728,
+               "type" : "evalhtml",
+               "id" : "r116_c3",
+               "e_time" : 4508.241
+            }
+         ],
+         "download" : {
+            "s_time" : 3169.60800000004,
+            "id" : "download_134",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ox-d.mods.pch.com/w/1.0/jstag",
+         "id" : "r131",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3242.17699999997,
+            "id" : "download_135",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.gstatic.com/bg/tjsDBsmLuJ7wXAjVgfghuWaq-F1tQ6NsQnyRzBFBjRY.js",
+         "id" : "r144",
+         "comps" : [
+            {
+               "s_time" : 3783.458,
+               "time" : 6.45899999994981,
+               "type" : 2,
+               "id" : "comp_424",
+               "e_time" : 3789.91699999995
+            }
+         ],
+         "download" : {
+            "s_time" : 3661.08499999996,
+            "id" : "download_136",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/N5499/adj/pch.pch;pos=box2;g=;ar=;a=;seg=;sz=300x250;ord=6188867022283375?",
+         "id" : "r142",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3599.559,
+            "id" : "download_137",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=Brandscreen&google_sc&google_push=AHNF13LIP0O5sbLt6ZnQtEfmOYzr8DD-1NCHVy8o&google_hm=NTIyNGQwN2I0NDA5NjI1MzljZDI5YTRk",
+         "id" : "r145",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3954.835,
+            "id" : "download_138",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/pch.pch/homepage;s1=homepage;dcopt=ist;kw=;pos=box;gn=;g=;ar=;a=;seg=;tile=1;sz=300x250;ord=3203435135073960?",
+         "id" : "r147",
+         "comps" : [
+            {
+               "s_time" : 4000.96899999994,
+               "time" : 17.5770000000698,
+               "type" : 2,
+               "id" : "comp_451",
+               "e_time" : 4018.54600000001
+            }
+         ],
+         "download" : {
+            "s_time" : 3762.10700000001,
+            "id" : "download_139",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://themes.googleusercontent.com/static/fonts/fugazone/v3/foh--NswBHNPbRHy7yEyyLO3LdcAZYWl9Si6vvxL-qU.woff",
+         "id" : "r135",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3500.74099999995,
+            "id" : "download_140",
+            "type" : "font/woff"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_hm=gWQALhP4EeOSzAAlkAXHxg==&google_nid=chango&google_sc=&partner=adxhm&token=8164002e-13f8-11e3-92cc-00259005c7c6&uid=1&google_push=AHNF13Lj6Wm6b_zR90fh93kRI0R_1cbE1CvkqthI",
+         "id" : "r146",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4358.47200000001,
+            "id" : "download_141",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z.sitescoutadserver.com/tag.jsp?pid=BA05852F7E&w=300&h=250&rnd=1227681590&cm=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCd8RRetAkUpKNPI6JlAKI6YCoAtHJnOwDqbaU3lq_mMCLiAEQASDW9fcWYMmOxo30pNAZoAGP8qHWA8gBCeACAKgDAaoEpQFP0L9MVTpjZOkTfQu4ycHBJYTORIjdPOGCMiczBmdJj2_TNI_4Ls7q-E1QFFOzumZ6q-upZvq6Qvk1NMYkg9_rFHwIQqGxmLIKauPS8OAdaLN357YI1dYF6u1Tmaq59OGpai2Y3q4ISeWLKQXPsfcTYsIEN1zEQcf_qSgqTKKwLDc_8920KpGtU4-xs6RfoKQJVAb3nUXOhBd72AopOLrBpoChBxLgBAGgBhGAB9mN3ik%26num%3D1%26sig%3DAOD64_2qTEkftIKBpsRAPAV0f1tFudGN6A%26client%3Dca-pub-4356837284097081%26adurl%3D",
+         "id" : "r153",
+         "comps" : [
+            {
+               "s_time" : 4492.72199999996,
+               "time" : 2.32900000003065,
+               "type" : 1,
+               "id" : "comp_502",
+               "e_time" : 4495.05099999999
+            }
+         ],
+         "download" : {
+            "s_time" : 4016.92500000001,
+            "id" : "download_142",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-4356837284097081",
+         "id" : "r156",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4497.68299999994,
+            "id" : "download_143",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://z.sitescoutadserver.com/disp?pid=BA05852F7E&rw=1&cm=http%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%253Fsa%253Dl%2526ai%253DCd8RRetAkUpKNPI6JlAKI6YCoAtHJnOwDqbaU3lq_mMCLiAEQASDW9fcWYMmOxo30pNAZoAGP8qHWA8gBCeACAKgDAaoEpQFP0L9MVTpjZOkTfQu4ycHBJYTORIjdPOGCMiczBmdJj2_TNI_4Ls7q-E1QFFOzumZ6q-upZvq6Qvk1NMYkg9_rFHwIQqGxmLIKauPS8OAdaLN357YI1dYF6u1Tmaq59OGpai2Y3q4ISeWLKQXPsfcTYsIEN1zEQcf_qSgqTKKwLDc_8920KpGtU4-xs6RfoKQJVAb3nUXOhBd72AopOLrBpoChBxLgBAGgBhGAB9mN3ik%2526num%253D1%2526sig%253DAOD64_2qTEkftIKBpsRAPAV0f1tFudGN6A%2526client%253Dca-pub-4356837284097081%2526adurl%253D&rand=28406245",
+         "id" : "r155",
+         "comps" : [
+            {
+               "s_time" : 4574.53999999996,
+               "time" : 1.77600000005987,
+               "type" : "evalhtml",
+               "id" : "r155_c1",
+               "e_time" : 4576.31600000002
+            }
+         ],
+         "download" : {
+            "s_time" : 4495.33399999996,
+            "id" : "download_144",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.casalemedia.com/casaleJTag.js",
+         "id" : "r151",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3899.55999999995,
+            "id" : "download_145",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ox-d.mods.pch.com/w/1.0/arj?mi=cf97fefd-d9e9-4fbf-8a3a-0ab34f08f669&mn=1&mc=1&cc=1&ai=2bd93d87-9523-7bfb-1b8d-1d465a96f20c&o=4058950645&callback=OX_4058950645&ju=http%3A//www.pch.com/&auid=285475&res=2048x1152x24&plg=swf%2Cqt%2Cshk%2Cpm&ch=UTF-8&tz=420",
+         "id" : "r149",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4884.60599999996,
+            "id" : "download_146",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pch.com/index.php?option=com_pchcom_printablecoupons&task=getHPDealOfDay&no_html=1&printer_id=0",
+         "id" : "r160",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4989.94900000002,
+            "id" : "download_147",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://themes.googleusercontent.com/static/fonts/dancingscript/v3/DK0eTGXiZjN6yA8zAEyM2bDH3ri20rYH10B2w3wbVeU.woff",
+         "id" : "r162",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5241.79500000002,
+            "id" : "download_148",
+            "type" : "font/woff"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=9675309&google_hm=MzFmMTc2ZjEtNzRjYy00Y2VkLWFiNGItNDFmMGIzYWY2YjVh&google_gid=CAESEJZ8z0HEljls2LTikZqSgKU&google_cver=1&google_push=AHNF13IVcWK9bFti81EciwWpl2fYzsrPUP8cXeq2",
+         "id" : "r157",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5247.10300000004,
+            "id" : "download_149",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/tutorial/media/img/whatsnewlogo.png",
+         "id" : "r161",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5240.53200000003,
+            "id" : "download_150",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/images/25/install_printer.png",
+         "id" : "r165",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5307.79399999994,
+            "id" : "download_151",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pch.com/components/com_pchcom_content/assets/images/countAmount_060812.swf",
+         "id" : "r164",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5307.26000000004,
+            "id" : "download_152",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2sitescout.edgesuite.net/cpcode99/tide_vivid_300_8-be6bd66.gif",
+         "id" : "r158",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4832.68299999997,
+            "id" : "download_153",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://as.casalemedia.com/j?s=141147&a=4&id=334860459&p=11&v=2&inif=1&l=0&t=8&w=1965&h=1130&z=420&u=http%3A%2F%2Fwww.pch.com%2F&C=1",
+         "id" : "r159",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5491.21100000002,
+            "id" : "download_154",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.doubleclick.net/adi/N7384.126265.CASALEMEDIA1/B7479695.4;sz=300x250;click0=http://c.casalemedia.com/c/0/76eac/2275b/5224d07c/VWlUUWZNQW9JajRBQUM1OHVhd0FBQUFp/4dff8bcf67e709ea7789f3217a821198/;ord=2470572411",
+         "id" : "r166",
+         "comps" : [
+            {
+               "s_time" : 5805.04099999996,
+               "time" : 0.825000000079854,
+               "type" : "evalhtml",
+               "id" : "r166_c1",
+               "e_time" : 5805.86600000004
+            }
+         ],
+         "download" : {
+            "s_time" : 5691.27200000003,
+            "id" : "download_155",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ums.adtechus.com/mapuser?providerid=1010;userid=UiTQfMAoIj4AAC58uawAAAAi%26079&cfp",
+         "id" : "r167",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6358.34799999998,
+            "id" : "download_156",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/viewad/3948219/13_PEM0014_Rating+Banner+Updates_300x250_Fd.jpg",
+         "id" : "r169",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5808.34900000002,
+            "id" : "download_157",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.casalemedia.com/rum?cm_dsp_id=22&expiration=1378230781",
+         "id" : "r168",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6680.69000000003,
+            "id" : "download_158",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_38"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_40"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_42"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_44"
+      },
+      {
+         "a2" : "r1_c12",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_49"
+      },
+      {
+         "a2" : "r1_c13",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_51"
+      },
+      {
+         "a2" : "r1_c14",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_64"
+      },
+      {
+         "a2" : "r1_c15",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_66"
+      },
+      {
+         "a2" : "r1_c16",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_68"
+      },
+      {
+         "a2" : "r1_c17",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_71"
+      },
+      {
+         "a2" : "r1_c18",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_73"
+      },
+      {
+         "a2" : "r1_c19",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_76"
+      },
+      {
+         "a2" : "r1_c20",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_81"
+      },
+      {
+         "a2" : "r1_c21",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_84"
+      },
+      {
+         "a2" : "r1_c22",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_103"
+      },
+      {
+         "a2" : "r1_c23",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "comp_117"
+      },
+      {
+         "a2" : "r1_c24",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "comp_148"
+      },
+      {
+         "a2" : "r1_c25",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "comp_153"
+      },
+      {
+         "a2" : "r1_c26",
+         "time" : -1,
+         "id" : "dep25",
+         "a1" : "comp_156"
+      },
+      {
+         "a2" : "r1_c27",
+         "time" : -1,
+         "id" : "dep26",
+         "a1" : "comp_164"
+      },
+      {
+         "a2" : "r1_c28",
+         "time" : -1,
+         "id" : "dep27",
+         "a1" : "comp_175"
+      },
+      {
+         "a2" : "r1_c29",
+         "time" : -1,
+         "id" : "dep28",
+         "a1" : "comp_177"
+      },
+      {
+         "a2" : "r1_c30",
+         "time" : -1,
+         "id" : "dep29",
+         "a1" : "comp_179"
+      },
+      {
+         "a2" : "r1_c31",
+         "time" : -1,
+         "id" : "dep30",
+         "a1" : "comp_181"
+      },
+      {
+         "a2" : "r1_c32",
+         "time" : -1,
+         "id" : "dep31",
+         "a1" : "comp_183"
+      },
+      {
+         "a2" : "r1_c33",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "comp_189"
+      },
+      {
+         "a2" : "r1_c34",
+         "time" : -1,
+         "id" : "dep33",
+         "a1" : "comp_295"
+      },
+      {
+         "a2" : "r1_c35",
+         "time" : -1,
+         "id" : "dep34",
+         "a1" : "comp_297"
+      },
+      {
+         "a2" : "r1_c36",
+         "time" : -1,
+         "id" : "dep35",
+         "a1" : "comp_299"
+      },
+      {
+         "a2" : "r1_c37",
+         "time" : -1,
+         "id" : "dep36",
+         "a1" : "comp_531"
+      },
+      {
+         "a2" : "comp_5",
+         "time" : -1,
+         "id" : "dep37",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "comp_5",
+         "time" : -1,
+         "id" : "dep38",
+         "a1" : "comp_2"
+      },
+      {
+         "a2" : "comp_5",
+         "time" : -1,
+         "id" : "dep39",
+         "a1" : "comp_3"
+      },
+      {
+         "a2" : "comp_14",
+         "time" : -1,
+         "id" : "dep40",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_18",
+         "time" : -1,
+         "id" : "dep41",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "comp_19",
+         "time" : -1,
+         "id" : "dep42",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "comp_20",
+         "time" : -1,
+         "id" : "dep43",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "comp_26",
+         "time" : -1,
+         "id" : "dep44",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "comp_38",
+         "time" : -1,
+         "id" : "dep45",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "comp_40",
+         "time" : -1,
+         "id" : "dep46",
+         "a1" : "comp_38"
+      },
+      {
+         "a2" : "comp_42",
+         "time" : -1,
+         "id" : "dep47",
+         "a1" : "comp_40"
+      },
+      {
+         "a2" : "comp_44",
+         "time" : -1,
+         "id" : "dep48",
+         "a1" : "comp_42"
+      },
+      {
+         "a2" : "comp_44",
+         "time" : -1,
+         "id" : "dep49",
+         "a1" : "comp_11"
+      },
+      {
+         "a2" : "comp_44",
+         "time" : -1,
+         "id" : "dep50",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_44",
+         "time" : -1,
+         "id" : "dep51",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "comp_44",
+         "time" : -1,
+         "id" : "dep52",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "comp_44",
+         "time" : -1,
+         "id" : "dep53",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "comp_49",
+         "time" : -1,
+         "id" : "dep54",
+         "a1" : "comp_44"
+      },
+      {
+         "a2" : "comp_51",
+         "time" : -1,
+         "id" : "dep55",
+         "a1" : "comp_49"
+      },
+      {
+         "a2" : "comp_66",
+         "time" : -1,
+         "id" : "dep56",
+         "a1" : "comp_64"
+      },
+      {
+         "a2" : "comp_68",
+         "time" : -1,
+         "id" : "dep57",
+         "a1" : "comp_66"
+      },
+      {
+         "a2" : "comp_73",
+         "time" : -1,
+         "id" : "dep58",
+         "a1" : "comp_71"
+      },
+      {
+         "a2" : "comp_81",
+         "time" : -1,
+         "id" : "dep59",
+         "a1" : "comp_76"
+      },
+      {
+         "a2" : "comp_148",
+         "time" : -1,
+         "id" : "dep60",
+         "a1" : "comp_301"
+      },
+      {
+         "a2" : "comp_156",
+         "time" : -1,
+         "id" : "dep61",
+         "a1" : "comp_153"
+      },
+      {
+         "a2" : "comp_177",
+         "time" : -1,
+         "id" : "dep62",
+         "a1" : "comp_175"
+      },
+      {
+         "a2" : "comp_179",
+         "time" : -1,
+         "id" : "dep63",
+         "a1" : "comp_177"
+      },
+      {
+         "a2" : "comp_181",
+         "time" : -1,
+         "id" : "dep64",
+         "a1" : "comp_179"
+      },
+      {
+         "a2" : "r56_c2",
+         "time" : -1,
+         "id" : "dep65",
+         "a1" : "comp_301"
+      },
+      {
+         "a2" : "r116_c2",
+         "time" : -1,
+         "id" : "dep66",
+         "a1" : "comp_502"
+      },
+      {
+         "a2" : "r116_c3",
+         "time" : -1,
+         "id" : "dep67",
+         "a1" : "comp_509"
+      },
+      {
+         "a2" : "download_158",
+         "time" : -1,
+         "id" : "dep68",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_157",
+         "time" : 823.79900000001,
+         "id" : "dep69",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_156",
+         "time" : 1373.79799999997,
+         "id" : "dep70",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_155",
+         "time" : 706.72200000002,
+         "id" : "dep71",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_154",
+         "time" : 1893.37699999999,
+         "id" : "dep72",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_153",
+         "time" : 1234.84899999994,
+         "id" : "dep73",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_153",
+         "time" : 1380.30600000001,
+         "id" : "dep74",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_152",
+         "time" : 1709.42600000001,
+         "id" : "dep75",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_151",
+         "time" : 1709.95999999991,
+         "id" : "dep76",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_150",
+         "time" : 1642.698,
+         "id" : "dep77",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_150",
+         "time" : 255.98200000002,
+         "id" : "dep78",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_149",
+         "time" : 1649.26900000001,
+         "id" : "dep79",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_149",
+         "time" : 262.55300000003,
+         "id" : "dep80",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_148",
+         "time" : 1643.96099999999,
+         "id" : "dep81",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_148",
+         "time" : 257.24500000001,
+         "id" : "dep82",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_147",
+         "time" : 1392.11499999999,
+         "id" : "dep83",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_147",
+         "time" : 5.39900000000944,
+         "id" : "dep84",
+         "a1" : "r1_c37"
+      },
+      {
+         "a2" : "download_146",
+         "time" : 1286.77199999993,
+         "id" : "dep85",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_146",
+         "time" : 1432.229,
+         "id" : "dep86",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 447.18299999999,
+         "id" : "dep87",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 140.22599999998,
+         "id" : "dep88",
+         "a1" : "r116_c1"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 155.94499999997,
+         "id" : "dep89",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 301.72599999992,
+         "id" : "dep90",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 447.18299999999,
+         "id" : "dep91",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 0.282999999969434,
+         "id" : "dep92",
+         "a1" : "r116_c2"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 751.71899999998,
+         "id" : "dep93",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 897.49999999993,
+         "id" : "dep94",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 1042.957,
+         "id" : "dep95",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 2.63199999994958,
+         "id" : "dep96",
+         "a1" : "r116_c2"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 754.06799999996,
+         "id" : "dep97",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 899.84899999991,
+         "id" : "dep98",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 1045.30599999998,
+         "id" : "dep99",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 257.59100000004,
+         "id" : "dep100",
+         "a1" : "r116_c1"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 273.31000000003,
+         "id" : "dep101",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 419.09099999998,
+         "id" : "dep102",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 564.54800000005,
+         "id" : "dep103",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_141",
+         "time" : -1,
+         "id" : "dep104",
+         "a1" : "r116_c1"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 614.85700000003,
+         "id" : "dep105",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 760.63799999998,
+         "id" : "dep106",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 906.09500000005,
+         "id" : "dep107",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 41.6219999999598,
+         "id" : "dep108",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 48.36399999999,
+         "id" : "dep109",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 2.77300000004016,
+         "id" : "dep110",
+         "a1" : "r116_c1"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 18.4920000000302,
+         "id" : "dep111",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 164.27299999998,
+         "id" : "dep112",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 309.73000000005,
+         "id" : "dep113",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 195.50100000003,
+         "id" : "dep114",
+         "a1" : "r116_c1"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 211.22000000002,
+         "id" : "dep115",
+         "a1" : "r138_c1"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 357.00099999997,
+         "id" : "dep116",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 502.45800000004,
+         "id" : "dep117",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 147.18200000004,
+         "id" : "dep118",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 1.72499999997035,
+         "id" : "dep119",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 140.44000000001,
+         "id" : "dep120",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 147.18200000004,
+         "id" : "dep121",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 63.2509999999302,
+         "id" : "dep122",
+         "a1" : "r117_c1"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 208.708,
+         "id" : "dep123",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_135",
+         "time" : 380.20199999994,
+         "id" : "dep124",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_135",
+         "time" : -1,
+         "id" : "dep125",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 307.63300000001,
+         "id" : "dep126",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 31.2350000000401,
+         "id" : "dep127",
+         "a1" : "r1_c27"
+      },
+      {
+         "a2" : "download_133",
+         "time" : 67.2960000000498,
+         "id" : "dep128",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_133",
+         "time" : 74.03800000008,
+         "id" : "dep129",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_132",
+         "time" : 62.1559999999599,
+         "id" : "dep130",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_132",
+         "time" : 68.8979999999901,
+         "id" : "dep131",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_131",
+         "time" : 65.6659999999597,
+         "id" : "dep132",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_131",
+         "time" : 72.4079999999899,
+         "id" : "dep133",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_130",
+         "time" : 60.741,
+         "id" : "dep134",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_130",
+         "time" : 67.4830000000302,
+         "id" : "dep135",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_129",
+         "time" : 57.5099999999798,
+         "id" : "dep136",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_129",
+         "time" : 64.25200000001,
+         "id" : "dep137",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_128",
+         "time" : 40.7270000000599,
+         "id" : "dep138",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_128",
+         "time" : 47.4690000000901,
+         "id" : "dep139",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_127",
+         "time" : 38.9469999999997,
+         "id" : "dep140",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_127",
+         "time" : 45.6890000000299,
+         "id" : "dep141",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_126",
+         "time" : 2.74300000000994,
+         "id" : "dep142",
+         "a1" : "r56_c2"
+      },
+      {
+         "a2" : "download_126",
+         "time" : 9.48500000004015,
+         "id" : "dep143",
+         "a1" : "r1_c36"
+      },
+      {
+         "a2" : "download_125",
+         "time" : 309.80699999998,
+         "id" : "dep144",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_125",
+         "time" : 33.4090000000101,
+         "id" : "dep145",
+         "a1" : "r1_c27"
+      },
+      {
+         "a2" : "download_124",
+         "time" : 359.47799999997,
+         "id" : "dep146",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_124",
+         "time" : -1,
+         "id" : "dep147",
+         "a1" : "r1_c32"
+      },
+      {
+         "a2" : "download_123",
+         "time" : 389.273,
+         "id" : "dep148",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_123",
+         "time" : -1,
+         "id" : "dep149",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 388.86200000002,
+         "id" : "dep150",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 29.0990000000902,
+         "id" : "dep151",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_121",
+         "time" : 388.419,
+         "id" : "dep152",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_121",
+         "time" : 28.65600000007,
+         "id" : "dep153",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 388.012,
+         "id" : "dep154",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 28.2490000000703,
+         "id" : "dep155",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 387.60500000001,
+         "id" : "dep156",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 27.8420000000801,
+         "id" : "dep157",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_118",
+         "time" : 387.204,
+         "id" : "dep158",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_118",
+         "time" : 27.4410000000703,
+         "id" : "dep159",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 386.79400000001,
+         "id" : "dep160",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 27.03100000008,
+         "id" : "dep161",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 386.31899999996,
+         "id" : "dep162",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 26.5560000000301,
+         "id" : "dep163",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 385.86599999996,
+         "id" : "dep164",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 26.1030000000301,
+         "id" : "dep165",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 385.09699999997,
+         "id" : "dep166",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 25.3340000000403,
+         "id" : "dep167",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 384.68299999999,
+         "id" : "dep168",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 24.9200000000601,
+         "id" : "dep169",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 384.26900000002,
+         "id" : "dep170",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 24.5060000000904,
+         "id" : "dep171",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 383.84599999995,
+         "id" : "dep172",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 24.0830000000201,
+         "id" : "dep173",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 383.41300000002,
+         "id" : "dep174",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 23.6500000000901,
+         "id" : "dep175",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 382.97599999998,
+         "id" : "dep176",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 23.2130000000502,
+         "id" : "dep177",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 382.08699999996,
+         "id" : "dep178",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 22.3240000000301,
+         "id" : "dep179",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 382.52799999998,
+         "id" : "dep180",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 22.7650000000503,
+         "id" : "dep181",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 380.72199999999,
+         "id" : "dep182",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 20.9590000000603,
+         "id" : "dep183",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 381.19699999993,
+         "id" : "dep184",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 21.4340000000002,
+         "id" : "dep185",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 381.64299999994,
+         "id" : "dep186",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 21.8800000000101,
+         "id" : "dep187",
+         "a1" : "r1_c33"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 357.05099999996,
+         "id" : "dep188",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 9.16599999993969,
+         "id" : "dep189",
+         "a1" : "r1_c32"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 8.89599999994016,
+         "id" : "dep190",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 43.86599999998,
+         "id" : "dep191",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_101",
+         "time" : -1,
+         "id" : "dep192",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_100",
+         "time" : -1,
+         "id" : "dep193",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 212.60599999994,
+         "id" : "dep194",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 13.4929999999299,
+         "id" : "dep195",
+         "a1" : "r1_c24"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 4.03800000003002,
+         "id" : "dep196",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 2.51700000000983,
+         "id" : "dep197",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_96",
+         "time" : -1,
+         "id" : "dep198",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 36.6749999999497,
+         "id" : "dep199",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 35.8979999999801,
+         "id" : "dep200",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 36.29000000001,
+         "id" : "dep201",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 35.51800000003,
+         "id" : "dep202",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 35.0929999999598,
+         "id" : "dep203",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 34.7329999999597,
+         "id" : "dep204",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 32.288,
+         "id" : "dep205",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 34.3249999999698,
+         "id" : "dep206",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 31.92400000001,
+         "id" : "dep207",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 31.5590000000198,
+         "id" : "dep208",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 31.1889999999298,
+         "id" : "dep209",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 30.7719999999599,
+         "id" : "dep210",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 30.3870000000197,
+         "id" : "dep211",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 30.02000000004,
+         "id" : "dep212",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 29.65199999995,
+         "id" : "dep213",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 29.27699999998,
+         "id" : "dep214",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 28.9189999999799,
+         "id" : "dep215",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 28.5589999999797,
+         "id" : "dep216",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 28.19199999999,
+         "id" : "dep217",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_76",
+         "time" : -1,
+         "id" : "dep218",
+         "a1" : "r1_c22"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 27.8140000000399,
+         "id" : "dep219",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 27.4439999999499,
+         "id" : "dep220",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 26.9869999999701,
+         "id" : "dep221",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 25.0300000000198,
+         "id" : "dep222",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 24.5740000000301,
+         "id" : "dep223",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 24.1649999999299,
+         "id" : "dep224",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 23.73,
+         "id" : "dep225",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 23.2760000000098,
+         "id" : "dep226",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 4.78199999997969,
+         "id" : "dep227",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 22.0600000000099,
+         "id" : "dep228",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 22.8479999999599,
+         "id" : "dep229",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 5.77799999996978,
+         "id" : "dep230",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 5.77799999996978,
+         "id" : "dep231",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 22.4479999999398,
+         "id" : "dep232",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 21.6849999999399,
+         "id" : "dep233",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 195.28800000001,
+         "id" : "dep234",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 21.2999999999997,
+         "id" : "dep235",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 18.1099999999801,
+         "id" : "dep236",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 20.8489999999997,
+         "id" : "dep237",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 17.7149999999601,
+         "id" : "dep238",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 17.3579999999497,
+         "id" : "dep239",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 16.6209999999901,
+         "id" : "dep240",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 16.9949999999599,
+         "id" : "dep241",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 16.2460000000301,
+         "id" : "dep242",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 14.9480000000099,
+         "id" : "dep243",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 15.3159999999898,
+         "id" : "dep244",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 15.85699999999,
+         "id" : "dep245",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 14.53100000004,
+         "id" : "dep246",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 12.88599999998,
+         "id" : "dep247",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 13.3690000000197,
+         "id" : "dep248",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 1.84400000000005,
+         "id" : "dep249",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 2.46200000004001,
+         "id" : "dep250",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 15.6209999999001,
+         "id" : "dep251",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 15.22199999999,
+         "id" : "dep252",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 10.70799999991,
+         "id" : "dep253",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 16.18099999996,
+         "id" : "dep254",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 11.4829999999999,
+         "id" : "dep255",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_39",
+         "time" : -1,
+         "id" : "dep256",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 18.5879999999099,
+         "id" : "dep257",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 21.38600000001,
+         "id" : "dep258",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 3.93799999995008,
+         "id" : "dep259",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 20.98100000001,
+         "id" : "dep260",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 16.60299999992,
+         "id" : "dep261",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 20.577,
+         "id" : "dep262",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 20.16199999991,
+         "id" : "dep263",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 19.75699999991,
+         "id" : "dep264",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 19.3600000000101,
+         "id" : "dep265",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 18.9739999999601,
+         "id" : "dep266",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 18.1779999999201,
+         "id" : "dep267",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 4.30899999991993,
+         "id" : "dep268",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 3.51899999998,
+         "id" : "dep269",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 17.4439999999499,
+         "id" : "dep270",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 17.0309999999699,
+         "id" : "dep271",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 13.5489999998999,
+         "id" : "dep272",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 13.1299999999301,
+         "id" : "dep273",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 12.7249999999301,
+         "id" : "dep274",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 12.3139999999501,
+         "id" : "dep275",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 11.8699999999301,
+         "id" : "dep276",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 11.8699999999301,
+         "id" : "dep277",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 11.0799999999899,
+         "id" : "dep278",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 10.085,
+         "id" : "dep279",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 9.67900000001009,
+         "id" : "dep280",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 9.29499999995005,
+         "id" : "dep281",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 7.21899999996003,
+         "id" : "dep282",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 8.90699999991011,
+         "id" : "dep283",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 8.46799999999007,
+         "id" : "dep284",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 8.04399999993007,
+         "id" : "dep285",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 7.64799999990009,
+         "id" : "dep286",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 6.3789999999201,
+         "id" : "dep287",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 5.98099999990995,
+         "id" : "dep288",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 5.57499999991001,
+         "id" : "dep289",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 5.14099999998007,
+         "id" : "dep290",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 2.77399999993008,
+         "id" : "dep291",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 4.72700000000009,
+         "id" : "dep292",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 2.35499999997,
+         "id" : "dep293",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 1.81999999995014,
+         "id" : "dep294",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 1.17200000000003,
+         "id" : "dep295",
+         "a1" : "r1_c1"
+      }
+   ]
+}

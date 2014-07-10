@@ -1,0 +1,3307 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.4shared.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.4shared.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 209.327999968082,
+               "time" : 42.592999991029,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 251.920999959111
+            },
+            {
+               "s_time" : 407.587999943644,
+               "time" : 12.864000163972,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 420.452000107616
+            },
+            {
+               "s_time" : 433.069999795407,
+               "time" : 0.0990000553430264,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 433.16899985075
+            },
+            {
+               "s_time" : 454.586999956518,
+               "time" : 0.0680000521250008,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 454.655000008643
+            },
+            {
+               "s_time" : 456.238999962807,
+               "time" : 0.0510001555080066,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 456.290000118315
+            },
+            {
+               "s_time" : 457.005999982357,
+               "time" : 0.0450001098219559,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 457.051000092179
+            },
+            {
+               "s_time" : 460.003999993205,
+               "time" : 0.0799996778370087,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 460.083999671042
+            },
+            {
+               "s_time" : 466.978999786079,
+               "time" : 1.61099992692499,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 468.589999713004
+            },
+            {
+               "s_time" : 493.445999920368,
+               "time" : 1.82999996468396,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 495.275999885052
+            },
+            {
+               "s_time" : 496.088999789208,
+               "time" : 75.922999996692,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 572.0119997859
+            },
+            {
+               "s_time" : 580.672999843955,
+               "time" : 0.0809999182819183,
+               "id" : "r1_c11",
+               "type" : "evalhtml",
+               "e_time" : 580.753999762237
+            },
+            {
+               "s_time" : 582.955999765545,
+               "time" : 0.0570002011959332,
+               "id" : "r1_c12",
+               "type" : "evalhtml",
+               "e_time" : 583.012999966741
+            },
+            {
+               "s_time" : 753.571999724954,
+               "time" : 171.703000087291,
+               "id" : "r1_c13",
+               "type" : "evalhtml",
+               "e_time" : 925.274999812245
+            },
+            {
+               "s_time" : 927.825999911875,
+               "time" : 0.827999785542033,
+               "id" : "r1_c14",
+               "type" : "evalhtml",
+               "e_time" : 928.653999697417
+            },
+            {
+               "s_time" : 929.057999979705,
+               "time" : 2.32600001618209,
+               "id" : "r1_c15",
+               "type" : "evalhtml",
+               "e_time" : 931.383999995887
+            },
+            {
+               "s_time" : 934.218999929726,
+               "time" : 0.0909999944269657,
+               "id" : "r1_c16",
+               "type" : "evalhtml",
+               "e_time" : 934.309999924153
+            },
+            {
+               "s_time" : 937.495999969542,
+               "time" : 2.36599985510099,
+               "id" : "r1_c17",
+               "type" : "evalhtml",
+               "e_time" : 939.861999824643
+            },
+            {
+               "s_time" : 944.69999987632,
+               "time" : 0.119000207633007,
+               "id" : "r1_c18",
+               "type" : "evalhtml",
+               "e_time" : 944.819000083953
+            },
+            {
+               "s_time" : 944.902000017464,
+               "time" : 0.0390000641349388,
+               "id" : "r1_c19",
+               "type" : "evalhtml",
+               "e_time" : 944.941000081599
+            },
+            {
+               "s_time" : 945.853999815881,
+               "time" : 0.0640000216669705,
+               "id" : "r1_c20",
+               "type" : "evalhtml",
+               "e_time" : 945.917999837548
+            },
+            {
+               "s_time" : 958.259999752045,
+               "time" : 0.0950000248849392,
+               "id" : "r1_c21",
+               "type" : "evalhtml",
+               "e_time" : 958.35499977693
+            },
+            {
+               "s_time" : 958.877999801189,
+               "time" : 0.045999884604953,
+               "id" : "r1_c22",
+               "type" : "evalhtml",
+               "e_time" : 958.923999685794
+            },
+            {
+               "s_time" : 959.392999764532,
+               "time" : 0.0410000793630161,
+               "id" : "r1_c23",
+               "type" : "evalhtml",
+               "e_time" : 959.433999843895
+            },
+            {
+               "s_time" : 960.221000015736,
+               "time" : 0.0469996593890301,
+               "id" : "r1_c24",
+               "type" : "evalhtml",
+               "e_time" : 960.267999675125
+            },
+            {
+               "s_time" : 963.416999671608,
+               "time" : 0.0650002621119938,
+               "id" : "r1_c25",
+               "type" : "evalhtml",
+               "e_time" : 963.48199993372
+            },
+            {
+               "s_time" : 963.911999948323,
+               "time" : 0.0450001098209896,
+               "id" : "r1_c26",
+               "type" : "evalhtml",
+               "e_time" : 963.957000058144
+            },
+            {
+               "s_time" : 964.410999789834,
+               "time" : 0.043000094593026,
+               "id" : "r1_c27",
+               "type" : "evalhtml",
+               "e_time" : 964.453999884427
+            },
+            {
+               "s_time" : 965.956999920309,
+               "time" : 0.0550001859659233,
+               "id" : "r1_c28",
+               "type" : "evalhtml",
+               "e_time" : 966.012000106275
+            },
+            {
+               "s_time" : 966.664999723434,
+               "time" : 0.0440003350380493,
+               "id" : "r1_c29",
+               "type" : "evalhtml",
+               "e_time" : 966.709000058472
+            },
+            {
+               "s_time" : 967.0329997316,
+               "time" : 0.0420003198090626,
+               "id" : "r1_c30",
+               "type" : "evalhtml",
+               "e_time" : 967.075000051409
+            },
+            {
+               "s_time" : 967.485999688506,
+               "time" : 0.0410000793640393,
+               "id" : "r1_c31",
+               "type" : "evalhtml",
+               "e_time" : 967.52699976787
+            },
+            {
+               "s_time" : 968.491999898106,
+               "time" : 0.0439998693760799,
+               "id" : "r1_c32",
+               "type" : "evalhtml",
+               "e_time" : 968.535999767482
+            },
+            {
+               "s_time" : 969.380999915302,
+               "time" : 0.0479998998339397,
+               "id" : "r1_c33",
+               "type" : "evalhtml",
+               "e_time" : 969.428999815136
+            },
+            {
+               "s_time" : 970.325000118464,
+               "time" : 0.0539999455220368,
+               "id" : "r1_c34",
+               "type" : "evalhtml",
+               "e_time" : 970.379000063986
+            },
+            {
+               "s_time" : 971.706999931484,
+               "time" : 0.051000155508973,
+               "id" : "r1_c35",
+               "type" : "evalhtml",
+               "e_time" : 971.758000086993
+            },
+            {
+               "s_time" : 972.128000110388,
+               "time" : 0.0449996441599296,
+               "id" : "r1_c36",
+               "type" : "evalhtml",
+               "e_time" : 972.172999754548
+            },
+            {
+               "s_time" : 973.03200000897,
+               "time" : 0.0489996746189263,
+               "id" : "r1_c37",
+               "type" : "evalhtml",
+               "e_time" : 973.080999683589
+            },
+            {
+               "s_time" : 978.720000013709,
+               "time" : 0.0919997692110428,
+               "id" : "r1_c38",
+               "type" : "evalhtml",
+               "e_time" : 978.81199978292
+            },
+            {
+               "s_time" : 979.380999691784,
+               "time" : 0.0530001707379597,
+               "id" : "r1_c39",
+               "type" : "evalhtml",
+               "e_time" : 979.433999862522
+            },
+            {
+               "s_time" : 981.549999676645,
+               "time" : 0.0780001282689682,
+               "id" : "r1_c40",
+               "type" : "evalhtml",
+               "e_time" : 981.627999804914
+            },
+            {
+               "s_time" : 982.119000051171,
+               "time" : 0.0499999150629264,
+               "id" : "r1_c41",
+               "type" : "evalhtml",
+               "e_time" : 982.168999966234
+            },
+            {
+               "s_time" : 983.213999774307,
+               "time" : 2.19599995762098,
+               "id" : "r1_c42",
+               "type" : "evalhtml",
+               "e_time" : 985.409999731928
+            },
+            {
+               "s_time" : 987.844000104815,
+               "time" : 0.287999864666972,
+               "id" : "r1_c43",
+               "type" : "evalhtml",
+               "e_time" : 988.131999969482
+            },
+            {
+               "s_time" : 988.675999920815,
+               "time" : 1.66800012811996,
+               "id" : "r1_c44",
+               "type" : "evalhtml",
+               "e_time" : 990.344000048935
+            },
+            {
+               "s_time" : 992.73099983111,
+               "time" : 2.18999991193402,
+               "id" : "r1_c45",
+               "type" : "evalhtml",
+               "e_time" : 994.920999743044
+            },
+            {
+               "s_time" : 995.945999864489,
+               "time" : 10.968999937181,
+               "id" : "r1_c46",
+               "type" : "evalhtml",
+               "e_time" : 1006.91499980167
+            },
+            {
+               "s_time" : 1042.81099978834,
+               "time" : 0.115999951960021,
+               "id" : "r1_c47",
+               "type" : "evalhtml",
+               "e_time" : 1042.9269997403
+            },
+            {
+               "s_time" : 1046.13099992275,
+               "time" : 0.088999979199798,
+               "id" : "r1_c48",
+               "type" : "evalhtml",
+               "e_time" : 1046.21999990195
+            },
+            {
+               "s_time" : 1056.49499967694,
+               "time" : 0.412000343209911,
+               "id" : "r1_c49",
+               "type" : "evalhtml",
+               "e_time" : 1056.90700002015
+            },
+            {
+               "s_time" : 1062.89099995047,
+               "time" : 37.9459997639001,
+               "id" : "r1_c50",
+               "type" : "evalhtml",
+               "e_time" : 1100.83699971437
+            },
+            {
+               "s_time" : 1133.56499979272,
+               "time" : 1.32400030270992,
+               "id" : "r1_c51",
+               "type" : "evalhtml",
+               "e_time" : 1134.88900009543
+            },
+            {
+               "s_time" : 1147.58099988103,
+               "time" : 827.40300009027,
+               "type" : "evalhtml",
+               "id" : "r1_c52",
+               "e_time" : 1974.9839999713
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 276.984000112861,
+               "time" : 130.603999830783,
+               "type" : 1,
+               "id" : "comp_2",
+               "e_time" : 407.587999943644
+            }
+         ],
+         "download" : {
+            "s_time" : 215.983999893069,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 583.058000076562,
+               "time" : 170.513999648392,
+               "type" : 1,
+               "id" : "comp_42",
+               "e_time" : 753.571999724954
+            }
+         ],
+         "download" : {
+            "s_time" : 220.867000054568,
+            "id" : "download_2",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/favicon.js?ver=2905551109",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 431.658999994397,
+               "time" : 1.41099980101001,
+               "type" : 1,
+               "id" : "comp_14",
+               "e_time" : 433.069999795407
+            }
+         ],
+         "download" : {
+            "s_time" : 217.064999975264,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.form.js?ver=2429648863",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 446.138000115752,
+               "time" : 8.44899984076602,
+               "type" : 1,
+               "id" : "comp_17",
+               "e_time" : 454.586999956518
+            }
+         ],
+         "download" : {
+            "s_time" : 217.497000005096,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.checkbox.js?ver=1454674743",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 456.328999716789,
+               "time" : 0.67700026556804,
+               "type" : 1,
+               "id" : "comp_21",
+               "e_time" : 457.005999982357
+            }
+         ],
+         "download" : {
+            "s_time" : 218.365999870002,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.placeholder.patch.js?ver=2488144095",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 454.708999954164,
+               "time" : 1.53000000864296,
+               "type" : 1,
+               "id" : "comp_19",
+               "e_time" : 456.238999962807
+            }
+         ],
+         "download" : {
+            "s_time" : 217.937000095844,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.localStorage.js?ver=2999387803",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 460.140000097454,
+               "time" : 6.83899968862499,
+               "type" : 1,
+               "id" : "comp_25",
+               "e_time" : 466.978999786079
+            }
+         ],
+         "download" : {
+            "s_time" : 219.190999865532,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.cookie.js?ver=3361025129",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 457.08499988541,
+               "time" : 2.919000107795,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 460.003999993205
+            }
+         ],
+         "download" : {
+            "s_time" : 218.791999854147,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/header.js?ver=1213932242",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 495.304999873042,
+               "time" : 0.78399991616601,
+               "type" : 1,
+               "id" : "comp_32",
+               "e_time" : 496.088999789208
+            }
+         ],
+         "download" : {
+            "s_time" : 219.589000102133,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/slimScroll.min.js?ver=1763673539",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 580.800999887288,
+               "time" : 2.15499987825706,
+               "type" : 1,
+               "id" : "comp_40",
+               "e_time" : 582.955999765545
+            }
+         ],
+         "download" : {
+            "s_time" : 220.419999677688,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/account/AccountFacade.js?ver=3656442343",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 576.372999697924,
+               "time" : 4.30000014603104,
+               "type" : 1,
+               "id" : "comp_38",
+               "e_time" : 580.672999843955
+            }
+         ],
+         "download" : {
+            "s_time" : 220.007000025362,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/css/ui/elements.css?ver=3550081551",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 470.315000042319,
+               "time" : 0.0479998998349629,
+               "type" : 4,
+               "id" : "comp_28",
+               "e_time" : 470.362999942154
+            }
+         ],
+         "download" : {
+            "s_time" : 221.266000065953,
+            "id" : "download_12",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/bundles/includeNewHeaderStylesAndScripts.css?ver=2400067321",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 762.860999908298,
+               "time" : 26.223999913782,
+               "type" : 4,
+               "id" : "comp_44",
+               "e_time" : 789.08499982208
+            }
+         ],
+         "download" : {
+            "s_time" : 221.706999931484,
+            "id" : "download_13",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure.quantserve.com/quant.js",
+         "id" : "r58",
+         "comps" : [
+            {
+               "s_time" : 1134.92200011387,
+               "time" : 12.6589997671601,
+               "type" : 1,
+               "id" : "comp_161",
+               "e_time" : 1147.58099988103
+            }
+         ],
+         "download" : {
+            "s_time" : 420.452000107616,
+            "id" : "download_14",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/bundles/indexnew2.css?ver=199281483",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 502.261999994516,
+               "time" : 0.343999825418052,
+               "type" : 4,
+               "id" : "comp_35",
+               "e_time" : 502.605999819934
+            }
+         ],
+         "download" : {
+            "s_time" : 226.344000082463,
+            "id" : "download_15",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/login_fnc.js?ver=2099574303",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 925.069000106305,
+               "time" : 2.75699980556999,
+               "type" : 1,
+               "id" : "comp_59",
+               "e_time" : 927.825999911875
+            }
+         ],
+         "download" : {
+            "s_time" : 232.942999806255,
+            "id" : "download_16",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.statcounter.com/counter/counter.js",
+         "id" : "r57",
+         "comps" : [
+            {
+               "s_time" : 1101.44499968737,
+               "time" : 32.1200001053501,
+               "type" : 1,
+               "id" : "comp_158",
+               "e_time" : 1133.56499979272
+            }
+         ],
+         "download" : {
+            "s_time" : 420.053000096232,
+            "id" : "download_17",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/css/osfix/mac.css?ver=144572932",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 497.358999680728,
+               "time" : 0.00600004568701706,
+               "type" : 4,
+               "id" : "comp_34",
+               "e_time" : 497.364999726415
+            }
+         ],
+         "download" : {
+            "s_time" : 235.957999713719,
+            "id" : "download_18",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r60",
+         "comps" : [
+            {
+               "s_time" : 506.009999662638,
+               "time" : 68.851000163704,
+               "type" : 2,
+               "id" : "comp_36",
+               "e_time" : 574.860999826342
+            },
+            {
+               "s_time" : 1197.98599975184,
+               "time" : 22.6360000669902,
+               "type" : 2,
+               "id" : "comp_169",
+               "e_time" : 1220.62199981883
+            }
+         ],
+         "download" : {
+            "s_time" : 498.1619999744,
+            "id" : "download_19",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/rotatorRegisterClick.js?ver=3138605780",
+         "id" : "r18",
+         "comps" : [
+            {
+               "s_time" : 928.690999746323,
+               "time" : 0.367000233381987,
+               "type" : 1,
+               "id" : "comp_61",
+               "e_time" : 929.057999979705
+            }
+         ],
+         "download" : {
+            "s_time" : 236.405000090599,
+            "id" : "download_20",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/bundles/indexnew2.js?ver=3366432131",
+         "id" : "r19",
+         "comps" : [
+            {
+               "s_time" : 931.429000105709,
+               "time" : 2.78999982401706,
+               "type" : 1,
+               "id" : "comp_64",
+               "e_time" : 934.218999929726
+            }
+         ],
+         "download" : {
+            "s_time" : 236.821999773383,
+            "id" : "download_21",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/ajaxHelper.js?ver=3308885292",
+         "id" : "r20",
+         "comps" : [
+            {
+               "s_time" : 935.173999983817,
+               "time" : 2.32199998572503,
+               "type" : 1,
+               "id" : "comp_66",
+               "e_time" : 937.495999969542
+            }
+         ],
+         "download" : {
+            "s_time" : 237.249999772757,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/json2.js?ver=2156414635",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 939.902999904007,
+               "time" : 4.79699997231307,
+               "type" : 1,
+               "id" : "comp_69",
+               "e_time" : 944.69999987632
+            }
+         ],
+         "download" : {
+            "s_time" : 238.353000022471,
+            "id" : "download_23",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.openid.js?ver=196798327",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 944.96600003913,
+               "time" : 0.88799977675103,
+               "type" : 1,
+               "id" : "comp_73",
+               "e_time" : 945.853999815881
+            }
+         ],
+         "download" : {
+            "s_time" : 239.232999738306,
+            "id" : "download_24",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.cycle.all.min.js?ver=3581432058",
+         "id" : "r24",
+         "comps" : [
+            {
+               "s_time" : 945.952999871224,
+               "time" : 12.306999880821,
+               "type" : 1,
+               "id" : "comp_75",
+               "e_time" : 958.259999752045
+            }
+         ],
+         "download" : {
+            "s_time" : 239.653999917209,
+            "id" : "download_25",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1415535594&utmhn=www.4shared.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=952x978&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=4shared.com%20-%20free%20file%20sharing%20and%20storage&utmhid=118945172&utmr=-&utmp=%2F2797291832%2Ftest&utmht=1378093986020&utmac=UA-306602-3&utmcc=__utma%3D210074320.627022724.1378093986.1378093986.1378093986.1%3B%2B__utmz%3D210074320.1378093986.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qACg~",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 572.0119997859,
+            "id" : "download_26",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/purchaseStats.js?ver=824748598",
+         "id" : "r25",
+         "comps" : [
+            {
+               "s_time" : 958.41099973768,
+               "time" : 0.46700006350909,
+               "type" : 1,
+               "id" : "comp_77",
+               "e_time" : 958.877999801189
+            }
+         ],
+         "download" : {
+            "s_time" : 240.063000004739,
+            "id" : "download_27",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/upload.js?ver=575386402",
+         "id" : "r26",
+         "comps" : [
+            {
+               "s_time" : 958.950999658555,
+               "time" : 0.442000105976945,
+               "type" : 1,
+               "id" : "comp_79",
+               "e_time" : 959.392999764532
+            }
+         ],
+         "download" : {
+            "s_time" : 240.462999790907,
+            "id" : "download_28",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/webtoolkit.base64.js?ver=3383901933",
+         "id" : "r27",
+         "comps" : [
+            {
+               "s_time" : 959.458999801427,
+               "time" : 0.762000214308955,
+               "type" : 1,
+               "id" : "comp_81",
+               "e_time" : 960.221000015736
+            }
+         ],
+         "download" : {
+            "s_time" : 240.886999759823,
+            "id" : "download_29",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/ajaxSuggestions.js?ver=4277492602",
+         "id" : "r28",
+         "comps" : [
+            {
+               "s_time" : 960.295000113547,
+               "time" : 3.12199955806102,
+               "type" : 1,
+               "id" : "comp_83",
+               "e_time" : 963.416999671608
+            }
+         ],
+         "download" : {
+            "s_time" : 241.301000118256,
+            "id" : "download_30",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/dw_event.js?ver=1044802526",
+         "id" : "r29",
+         "comps" : [
+            {
+               "s_time" : 963.516999967396,
+               "time" : 0.394999980926968,
+               "type" : 1,
+               "id" : "comp_85",
+               "e_time" : 963.911999948323
+            }
+         ],
+         "download" : {
+            "s_time" : 241.731999907643,
+            "id" : "download_31",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/dw_viewport.js?ver=3541546364",
+         "id" : "r30",
+         "comps" : [
+            {
+               "s_time" : 963.98299979046,
+               "time" : 0.427999999374038,
+               "type" : 1,
+               "id" : "comp_87",
+               "e_time" : 964.410999789834
+            }
+         ],
+         "download" : {
+            "s_time" : 242.170999757946,
+            "id" : "download_32",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/dw_writedrag.js?ver=2669743209",
+         "id" : "r31",
+         "comps" : [
+            {
+               "s_time" : 964.478999841958,
+               "time" : 1.4780000783511,
+               "type" : 1,
+               "id" : "comp_89",
+               "e_time" : 965.956999920309
+            }
+         ],
+         "download" : {
+            "s_time" : 242.562999948859,
+            "id" : "download_33",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/dw_drag.js?ver=925597799",
+         "id" : "r32",
+         "comps" : [
+            {
+               "s_time" : 966.045999899507,
+               "time" : 0.61899982392697,
+               "type" : 1,
+               "id" : "comp_91",
+               "e_time" : 966.664999723434
+            }
+         ],
+         "download" : {
+            "s_time" : 242.980999872088,
+            "id" : "download_34",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/index.js?ver=3700674317",
+         "id" : "r33",
+         "comps" : [
+            {
+               "s_time" : 966.734999790788,
+               "time" : 0.297999940811906,
+               "type" : 1,
+               "id" : "comp_93",
+               "e_time" : 967.0329997316
+            }
+         ],
+         "download" : {
+            "s_time" : 243.400000035763,
+            "id" : "download_35",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/afs_request_done.js?ver=3429899744",
+         "id" : "r34",
+         "comps" : [
+            {
+               "s_time" : 967.100000008941,
+               "time" : 0.385999679564975,
+               "type" : 1,
+               "id" : "comp_95",
+               "e_time" : 967.485999688506
+            }
+         ],
+         "download" : {
+            "s_time" : 243.81099967286,
+            "id" : "download_36",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/play.js?ver=668954148",
+         "id" : "r35",
+         "comps" : [
+            {
+               "s_time" : 967.551999725401,
+               "time" : 0.940000172705027,
+               "type" : 1,
+               "id" : "comp_97",
+               "e_time" : 968.491999898106
+            }
+         ],
+         "download" : {
+            "s_time" : 244.198999833316,
+            "id" : "download_37",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/cookie.js?ver=891093458",
+         "id" : "r37",
+         "comps" : [
+            {
+               "s_time" : 969.457999803126,
+               "time" : 0.867000315338032,
+               "type" : 1,
+               "id" : "comp_101",
+               "e_time" : 970.325000118464
+            }
+         ],
+         "download" : {
+            "s_time" : 245.034999679774,
+            "id" : "download_38",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/dphistfav.js?ver=4077852520",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 968.560999725014,
+               "time" : 0.820000190288056,
+               "type" : 1,
+               "id" : "comp_99",
+               "e_time" : 969.380999915302
+            }
+         ],
+         "download" : {
+            "s_time" : 244.634000118822,
+            "id" : "download_39",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/adlogger_tracker.js?ver=631600940",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 972.196999937296,
+               "time" : 0.835000071674017,
+               "type" : 1,
+               "id" : "comp_107",
+               "e_time" : 973.03200000897
+            }
+         ],
+         "download" : {
+            "s_time" : 246.258999686688,
+            "id" : "download_40",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/quickedit_fnc.js?ver=2821364179",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 971.785999834538,
+               "time" : 0.342000275850069,
+               "type" : 1,
+               "id" : "comp_105",
+               "e_time" : 972.128000110388
+            }
+         ],
+         "download" : {
+            "s_time" : 245.839999988675,
+            "id" : "download_41",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/swfobject.js?ver=3650717771",
+         "id" : "r38",
+         "comps" : [
+            {
+               "s_time" : 970.472999848425,
+               "time" : 1.23400008305896,
+               "type" : 1,
+               "id" : "comp_103",
+               "e_time" : 971.706999931484
+            }
+         ],
+         "download" : {
+            "s_time" : 245.44299999252,
+            "id" : "download_42",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/utils.js?ver=2970853491",
+         "id" : "r41",
+         "comps" : [
+            {
+               "s_time" : 973.109999671578,
+               "time" : 5.610000342131,
+               "type" : 1,
+               "id" : "comp_109",
+               "e_time" : 978.720000013709
+            }
+         ],
+         "download" : {
+            "s_time" : 246.657999698073,
+            "id" : "download_43",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/Events.js?ver=1053394277",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 978.862999938428,
+               "time" : 0.517999753356094,
+               "type" : 1,
+               "id" : "comp_111",
+               "e_time" : 979.380999691784
+            }
+         ],
+         "download" : {
+            "s_time" : 247.06199998036,
+            "id" : "download_44",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/smallPlugins.js?ver=389921162",
+         "id" : "r44",
+         "comps" : [
+            {
+               "s_time" : 981.697000097483,
+               "time" : 0.421999953687987,
+               "type" : 1,
+               "id" : "comp_115",
+               "e_time" : 982.119000051171
+            }
+         ],
+         "download" : {
+            "s_time" : 247.950999997556,
+            "id" : "download_45",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/authScripts.js?ver=994666202",
+         "id" : "r43",
+         "comps" : [
+            {
+               "s_time" : 979.462999850512,
+               "time" : 2.08699982613302,
+               "type" : 1,
+               "id" : "comp_113",
+               "e_time" : 981.549999676645
+            }
+         ],
+         "download" : {
+            "s_time" : 247.460999991745,
+            "id" : "download_46",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.jsonWithError.js?ver=2940546744",
+         "id" : "r45",
+         "comps" : [
+            {
+               "s_time" : 982.201999984682,
+               "time" : 1.01199978962507,
+               "type" : 1,
+               "id" : "comp_117",
+               "e_time" : 983.213999774307
+            }
+         ],
+         "download" : {
+            "s_time" : 248.397999908775,
+            "id" : "download_47",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/auth-popup.css?ver=4147426277",
+         "id" : "r46",
+         "comps" : [
+            {
+               "s_time" : 829.578000120819,
+               "time" : 0.0139996409410514,
+               "type" : 4,
+               "id" : "comp_47",
+               "e_time" : 829.59199976176
+            }
+         ],
+         "download" : {
+            "s_time" : 248.790999874473,
+            "id" : "download_48",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/PopupModule.js?ver=2875539727",
+         "id" : "r48",
+         "comps" : [
+            {
+               "s_time" : 987.000999972224,
+               "time" : 0.843000132590987,
+               "type" : 1,
+               "id" : "comp_119",
+               "e_time" : 987.844000104815
+            }
+         ],
+         "download" : {
+            "s_time" : 249.624999705702,
+            "id" : "download_49",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/css/popup_n.css?ver=4060608369",
+         "id" : "r47",
+         "comps" : [
+            {
+               "s_time" : 840.733000077307,
+               "time" : 0.00999961048398745,
+               "type" : 4,
+               "id" : "comp_49",
+               "e_time" : 840.742999687791
+            }
+         ],
+         "download" : {
+            "s_time" : 249.189000111073,
+            "id" : "download_50",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/tips.js?ver=775574541",
+         "id" : "r49",
+         "comps" : [
+            {
+               "s_time" : 988.16499998793,
+               "time" : 0.510999932885056,
+               "type" : 1,
+               "id" : "comp_121",
+               "e_time" : 988.675999920815
+            }
+         ],
+         "download" : {
+            "s_time" : 250.033999793231,
+            "id" : "download_51",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/css/tipTip.css?ver=2581533619",
+         "id" : "r50",
+         "comps" : [
+            {
+               "s_time" : 841.649999842048,
+               "time" : 0.00600004568696022,
+               "type" : 4,
+               "id" : "comp_50",
+               "e_time" : 841.655999887735
+            }
+         ],
+         "download" : {
+            "s_time" : 251.156999729574,
+            "id" : "download_52",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plugins/jquery.tipTip.js?ver=799491696",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 990.381999872625,
+               "time" : 2.34899995848502,
+               "type" : 1,
+               "id" : "comp_123",
+               "e_time" : 992.73099983111
+            }
+         ],
+         "download" : {
+            "s_time" : 251.920999959111,
+            "id" : "download_53",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/AjaxSuggestion.js?ver=3635016842",
+         "id" : "r52",
+         "comps" : [
+            {
+               "s_time" : 994.950999971479,
+               "time" : 0.994999893010004,
+               "type" : 1,
+               "id" : "comp_126",
+               "e_time" : 995.945999864489
+            }
+         ],
+         "download" : {
+            "s_time" : 412.281000055373,
+            "id" : "download_54",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/Jsonp.js?ver=1807481537",
+         "id" : "r56",
+         "comps" : [
+            {
+               "s_time" : 1057.02599976212,
+               "time" : 5.86500018835,
+               "type" : 1,
+               "id" : "comp_148",
+               "e_time" : 1062.89099995047
+            }
+         ],
+         "download" : {
+            "s_time" : 414.429000113159,
+            "id" : "download_55",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plupload/plupload.flash.js?ver=4002807703",
+         "id" : "r54",
+         "comps" : [
+            {
+               "s_time" : 1042.98199992627,
+               "time" : 3.14899999648014,
+               "type" : 1,
+               "id" : "comp_144",
+               "e_time" : 1046.13099992275
+            }
+         ],
+         "download" : {
+            "s_time" : 413.647999987006,
+            "id" : "download_56",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/plupload/plupload.js?ver=3367959465",
+         "id" : "r53",
+         "comps" : [
+            {
+               "s_time" : 1032.6809999533,
+               "time" : 10.1299998350401,
+               "type" : 1,
+               "id" : "comp_142",
+               "e_time" : 1042.81099978834
+            }
+         ],
+         "download" : {
+            "s_time" : 413.151999935508,
+            "id" : "download_57",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/js/UploadModule.js?ver=3072325443",
+         "id" : "r55",
+         "comps" : [
+            {
+               "s_time" : 1047.72299993783,
+               "time" : 8.77199973911002,
+               "type" : 1,
+               "id" : "comp_146",
+               "e_time" : 1056.49499967694
+            }
+         ],
+         "download" : {
+            "s_time" : 414.044999983162,
+            "id" : "download_58",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/css/common.css",
+         "id" : "r62",
+         "comps" : [
+            {
+               "s_time" : 897.98799995333,
+               "time" : 3.88099998235703,
+               "type" : 2,
+               "id" : "comp_51",
+               "e_time" : 901.868999935687
+            }
+         ],
+         "download" : {
+            "s_time" : 769.475999753922,
+            "id" : "download_59",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/css/mainWithoutCommon.css",
+         "id" : "r63",
+         "comps" : [
+            {
+               "s_time" : 910.228999797255,
+               "time" : 93.663000036035,
+               "type" : 2,
+               "id" : "comp_52",
+               "e_time" : 1003.89199983329
+            }
+         ],
+         "download" : {
+            "s_time" : 770.043000113219,
+            "id" : "download_60",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://edge.quantserve.com/quant.js",
+         "id" : "r64",
+         "comps" : [
+            {
+               "s_time" : 1220.66099988297,
+               "time" : 1.38199981302,
+               "type" : 2,
+               "id" : "comp_171",
+               "e_time" : 1222.04299969599
+            }
+         ],
+         "download" : {
+            "s_time" : 925.274999812245,
+            "id" : "download_61",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/blank.gif?ver=3934586961",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1004.5829997398,
+            "id" : "download_62",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/icons/16x16/close.gif?ver=1559612610",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1005.15599967912,
+            "id" : "download_63",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/newUi/header-logo.png?4108638225",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1006.52599986643,
+            "id" : "download_64",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/spacer.gif?ver=1912669180",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1006.1079999432,
+            "id" : "download_65",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/header.png?3887086628",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1005.59700001031,
+            "id" : "download_66",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/sprite1.png?1789291019",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1006.91499980167,
+            "id" : "download_67",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/js/plusone.js",
+         "id" : "r82",
+         "comps" : [
+            {
+               "s_time" : 1293.21799986064,
+               "time" : 62.5999998301299,
+               "type" : 2,
+               "id" : "comp_180",
+               "e_time" : 1355.81799969077
+            }
+         ],
+         "download" : {
+            "s_time" : 1089.23200005665,
+            "id" : "download_68",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/pixel;r=1477401613;a=p-1ccGOdbKpIUgU;labels=_fp.event.4Shared%20Homepage;fpan=1;fpa=P0-1728849967-1378093986596;ns=0;ce=1;cm=;je=1;sr=2048x1152x24;enc=n;dst=1;et=1378093986591;tzo=420;ref=;url=http%3A%2F%2Fwww.4shared.com%2F;ogl=",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1148.25999969617,
+            "id" : "download_69",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=238646472&utmhn=www.4shared.com&utme=8(User%20Type)9(Guest)11(2)&utmcs=UTF-8&utmsr=2048x1152&utmvp=952x978&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=4shared.com%20-%20free%20file%20sharing%20and%20storage&utmhid=118945172&utmr=-&utmp=%2F&utmht=1378093986621&utmac=UA-306602-1&utmcc=__utma%3D210074320.627022724.1378093986.1378093986.1378093986.1%3B%2B__utmz%3D210074320.1378093986.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qQCg~",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1171.51999985799,
+            "id" : "download_70",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/filter-type.png?466196605",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1179.73099974915,
+            "id" : "download_71",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/upload.png?3989885575",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1181.01899977773,
+            "id" : "download_72",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/spacer.gif?3825338360",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1181.46099988371,
+            "id" : "download_73",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/uploader.png?1298845860",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1180.35499984398,
+            "id" : "download_74",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/bluebox.png?2429066996",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1179.07299986109,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/sprite2.png?3348197489",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1181.86999997124,
+            "id" : "download_76",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/slider_arr.png?2516074915",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1182.281000074,
+            "id" : "download_77",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/sprite3.png?140137268",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1182.68999969587,
+            "id" : "download_78",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/truste_big.png?10717925",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1183.09699976817,
+            "id" : "download_79",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_0",
+         "id" : "r92",
+         "comps" : [
+            {
+               "s_time" : 1420.28099996969,
+               "time" : 57.9030001536,
+               "type" : 2,
+               "id" : "comp_187",
+               "e_time" : 1478.18400012329
+            }
+         ],
+         "download" : {
+            "s_time" : 1328.54699995369,
+            "id" : "download_80",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/socialBg.png?4245184241",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1184.1279999353,
+            "id" : "download_81",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/truste_line.png?3249269800",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1183.58399998397,
+            "id" : "download_82",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/index_bottom_social_icons.png?856287736",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1184.59499999881,
+            "id" : "download_83",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_1",
+         "id" : "r93",
+         "comps" : [
+            {
+               "s_time" : 1478.22499973699,
+               "time" : 62.77600023896,
+               "type" : 2,
+               "id" : "comp_189",
+               "e_time" : 1541.00099997595
+            }
+         ],
+         "download" : {
+            "s_time" : 1344.89700011909,
+            "id" : "download_84",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/counterCorner.png?3447547103",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1185.02900004387,
+            "id" : "download_85",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.4shared.com/images/indexPage/footerBg.png?3819168784",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1185.44499995187,
+            "id" : "download_86",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://apis.google.com/_/+1/fastbutton?bsv=o&usegapi=1&hl=en-US&origin=http%3A%2F%2Fwww.4shared.com&url=http%3A%2F%2Fwww.4shared.com%2F&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.7cPSuHVtCCI.O%2Fm%3D__features__%2Fam%3DIQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I0_1378093986797&parent=http%3A%2F%2Fwww.4shared.com&pfname=&rpctoken=89325256",
+         "id" : "r94",
+         "comps" : [
+            {
+               "s_time" : 1582.9050000757,
+               "time" : 34.56799965352,
+               "type" : "evalhtml",
+               "id" : "r94_c1",
+               "e_time" : 1617.47299972922
+            }
+         ],
+         "download" : {
+            "s_time" : 1353.51500008255,
+            "id" : "download_87",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.adshost1.com/ads-sync.js?key=f11d7770d28f06c628386d47cb6eb053&tz=-7",
+         "id" : "r91",
+         "comps" : [
+            {
+               "s_time" : 1630.08499983698,
+               "time" : 1.32599985227012,
+               "type" : null,
+               "id" : "comp_217",
+               "e_time" : 1631.41099968925
+            }
+         ],
+         "download" : {
+            "s_time" : 1177.92299995199,
+            "id" : "download_88",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.jscount.com/a/4/28b1a41b/z?ref=&url=http%3A//www.4shared.com/&rand=0.5542921368032694",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1155.21800005808,
+            "id" : "download_89",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1478.53099973872,
+            "id" : "download_90",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fwww.4shared.com#rpctoken=678983966&forcesecure=1",
+         "id" : "r96",
+         "comps" : [
+            {
+               "s_time" : 1687.33599968255,
+               "time" : 3.02100041880999,
+               "id" : "r96_c1",
+               "type" : "evalhtml",
+               "e_time" : 1690.35700010136
+            },
+            {
+               "s_time" : 1772.58099988103,
+               "time" : 0.0939997844400295,
+               "id" : "r96_c2",
+               "type" : "evalhtml",
+               "e_time" : 1772.67499966547
+            },
+            {
+               "s_time" : 1777.97199971974,
+               "time" : 0.135000329459899,
+               "type" : "evalhtml",
+               "id" : "r96_c3",
+               "e_time" : 1778.1070000492
+            }
+         ],
+         "download" : {
+            "s_time" : 1499.40299987793,
+            "id" : "download_91",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=googleapis_client,iframes_styles_bubble_internal,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_0",
+         "id" : "r97",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1610.14800006524,
+            "id" : "download_92",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.plusone.en_US.paC4a_aPClQ.O/m=p1b,p1p/rt=j/sv=1/d=1/ed=1/am=jAI/rs=AItRSTNTOQ60ne5eR6rkGn2o0yK1Dp7QIQ/cb=gapi.loaded_1",
+         "id" : "r98",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1610.62099970877,
+            "id" : "download_93",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://oauth.googleusercontent.com/gadgets/js/core:rpc:shindig.random:shindig.sha1.js?c=2",
+         "id" : "r100",
+         "comps" : [
+            {
+               "s_time" : 1737.93500009924,
+               "time" : 34.6459997817901,
+               "type" : 1,
+               "id" : "comp_234",
+               "e_time" : 1772.58099988103
+            }
+         ],
+         "download" : {
+            "s_time" : 1689.69199992716,
+            "id" : "download_94",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/accounts/o/327579480-postmessagerelay.js",
+         "id" : "r101",
+         "comps" : [
+            {
+               "s_time" : 1776.07499994338,
+               "time" : 1.89699977636019,
+               "type" : 1,
+               "id" : "comp_235",
+               "e_time" : 1777.97199971974
+            }
+         ],
+         "download" : {
+            "s_time" : 1690.35700010136,
+            "id" : "download_95",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cms.quantserve.com/dpixel?eid=7&xid=E0",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1784.8779996857,
+            "id" : "download_96",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.adshost2.com/no-impression.gif?p=115&ch=&l=US&h=fd86747a8758cbcd7c8e99ee73a45299&t=1378093987083&s=73beb87c9c75b989c5ca7e5000d297cc",
+         "id" : "r99",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1632.32199987397,
+            "id" : "download_97",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://counter.yadro.ru/hit?q;r;s2048*1152*24;uhttp%3A//www.4shared.com/;0.5703083130065352",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1974.9839999713,
+            "id" : "download_98",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_2"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_17"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_21"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_25"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_29"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_32"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_38"
+      },
+      {
+         "a2" : "r1_c12",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_40"
+      },
+      {
+         "a2" : "r1_c13",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_42"
+      },
+      {
+         "a2" : "r1_c14",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_59"
+      },
+      {
+         "a2" : "r1_c15",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_61"
+      },
+      {
+         "a2" : "r1_c16",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_64"
+      },
+      {
+         "a2" : "r1_c17",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_66"
+      },
+      {
+         "a2" : "r1_c18",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_69"
+      },
+      {
+         "a2" : "r1_c19",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_71"
+      },
+      {
+         "a2" : "r1_c20",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_73"
+      },
+      {
+         "a2" : "r1_c21",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_75"
+      },
+      {
+         "a2" : "r1_c22",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_77"
+      },
+      {
+         "a2" : "r1_c23",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "comp_79"
+      },
+      {
+         "a2" : "r1_c24",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "comp_81"
+      },
+      {
+         "a2" : "r1_c25",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "comp_83"
+      },
+      {
+         "a2" : "r1_c26",
+         "time" : -1,
+         "id" : "dep25",
+         "a1" : "comp_85"
+      },
+      {
+         "a2" : "r1_c27",
+         "time" : -1,
+         "id" : "dep26",
+         "a1" : "comp_87"
+      },
+      {
+         "a2" : "r1_c28",
+         "time" : -1,
+         "id" : "dep27",
+         "a1" : "comp_89"
+      },
+      {
+         "a2" : "r1_c29",
+         "time" : -1,
+         "id" : "dep28",
+         "a1" : "comp_91"
+      },
+      {
+         "a2" : "r1_c30",
+         "time" : -1,
+         "id" : "dep29",
+         "a1" : "comp_93"
+      },
+      {
+         "a2" : "r1_c31",
+         "time" : -1,
+         "id" : "dep30",
+         "a1" : "comp_95"
+      },
+      {
+         "a2" : "r1_c32",
+         "time" : -1,
+         "id" : "dep31",
+         "a1" : "comp_97"
+      },
+      {
+         "a2" : "r1_c33",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "comp_99"
+      },
+      {
+         "a2" : "r1_c34",
+         "time" : -1,
+         "id" : "dep33",
+         "a1" : "comp_101"
+      },
+      {
+         "a2" : "r1_c35",
+         "time" : -1,
+         "id" : "dep34",
+         "a1" : "comp_103"
+      },
+      {
+         "a2" : "r1_c36",
+         "time" : -1,
+         "id" : "dep35",
+         "a1" : "comp_105"
+      },
+      {
+         "a2" : "r1_c37",
+         "time" : -1,
+         "id" : "dep36",
+         "a1" : "comp_107"
+      },
+      {
+         "a2" : "r1_c38",
+         "time" : -1,
+         "id" : "dep37",
+         "a1" : "comp_109"
+      },
+      {
+         "a2" : "r1_c39",
+         "time" : -1,
+         "id" : "dep38",
+         "a1" : "comp_111"
+      },
+      {
+         "a2" : "r1_c40",
+         "time" : -1,
+         "id" : "dep39",
+         "a1" : "comp_113"
+      },
+      {
+         "a2" : "r1_c41",
+         "time" : -1,
+         "id" : "dep40",
+         "a1" : "comp_115"
+      },
+      {
+         "a2" : "r1_c42",
+         "time" : -1,
+         "id" : "dep41",
+         "a1" : "comp_117"
+      },
+      {
+         "a2" : "r1_c43",
+         "time" : -1,
+         "id" : "dep42",
+         "a1" : "comp_119"
+      },
+      {
+         "a2" : "r1_c44",
+         "time" : -1,
+         "id" : "dep43",
+         "a1" : "comp_121"
+      },
+      {
+         "a2" : "r1_c45",
+         "time" : -1,
+         "id" : "dep44",
+         "a1" : "comp_123"
+      },
+      {
+         "a2" : "r1_c46",
+         "time" : -1,
+         "id" : "dep45",
+         "a1" : "comp_126"
+      },
+      {
+         "a2" : "r1_c47",
+         "time" : -1,
+         "id" : "dep46",
+         "a1" : "comp_142"
+      },
+      {
+         "a2" : "r1_c48",
+         "time" : -1,
+         "id" : "dep47",
+         "a1" : "comp_144"
+      },
+      {
+         "a2" : "r1_c49",
+         "time" : -1,
+         "id" : "dep48",
+         "a1" : "comp_146"
+      },
+      {
+         "a2" : "r1_c50",
+         "time" : -1,
+         "id" : "dep49",
+         "a1" : "comp_148"
+      },
+      {
+         "a2" : "r1_c51",
+         "time" : -1,
+         "id" : "dep50",
+         "a1" : "comp_158"
+      },
+      {
+         "a2" : "r1_c52",
+         "time" : -1,
+         "id" : "dep51",
+         "a1" : "comp_161"
+      },
+      {
+         "a2" : "comp_17",
+         "time" : -1,
+         "id" : "dep52",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "comp_19",
+         "time" : -1,
+         "id" : "dep53",
+         "a1" : "comp_17"
+      },
+      {
+         "a2" : "comp_21",
+         "time" : -1,
+         "id" : "dep54",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "comp_23",
+         "time" : -1,
+         "id" : "dep55",
+         "a1" : "comp_21"
+      },
+      {
+         "a2" : "comp_25",
+         "time" : -1,
+         "id" : "dep56",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "comp_38",
+         "time" : -1,
+         "id" : "dep57",
+         "a1" : "comp_32"
+      },
+      {
+         "a2" : "comp_40",
+         "time" : -1,
+         "id" : "dep58",
+         "a1" : "comp_38"
+      },
+      {
+         "a2" : "comp_42",
+         "time" : -1,
+         "id" : "dep59",
+         "a1" : "comp_40"
+      },
+      {
+         "a2" : "comp_61",
+         "time" : -1,
+         "id" : "dep60",
+         "a1" : "comp_59"
+      },
+      {
+         "a2" : "comp_61",
+         "time" : -1,
+         "id" : "dep61",
+         "a1" : "comp_34"
+      },
+      {
+         "a2" : "comp_66",
+         "time" : -1,
+         "id" : "dep62",
+         "a1" : "comp_64"
+      },
+      {
+         "a2" : "comp_73",
+         "time" : -1,
+         "id" : "dep63",
+         "a1" : "comp_71"
+      },
+      {
+         "a2" : "comp_75",
+         "time" : -1,
+         "id" : "dep64",
+         "a1" : "comp_73"
+      },
+      {
+         "a2" : "comp_77",
+         "time" : -1,
+         "id" : "dep65",
+         "a1" : "comp_75"
+      },
+      {
+         "a2" : "comp_79",
+         "time" : -1,
+         "id" : "dep66",
+         "a1" : "comp_77"
+      },
+      {
+         "a2" : "comp_81",
+         "time" : -1,
+         "id" : "dep67",
+         "a1" : "comp_79"
+      },
+      {
+         "a2" : "comp_83",
+         "time" : -1,
+         "id" : "dep68",
+         "a1" : "comp_81"
+      },
+      {
+         "a2" : "comp_85",
+         "time" : -1,
+         "id" : "dep69",
+         "a1" : "comp_83"
+      },
+      {
+         "a2" : "comp_87",
+         "time" : -1,
+         "id" : "dep70",
+         "a1" : "comp_85"
+      },
+      {
+         "a2" : "comp_89",
+         "time" : -1,
+         "id" : "dep71",
+         "a1" : "comp_87"
+      },
+      {
+         "a2" : "comp_91",
+         "time" : -1,
+         "id" : "dep72",
+         "a1" : "comp_89"
+      },
+      {
+         "a2" : "comp_93",
+         "time" : -1,
+         "id" : "dep73",
+         "a1" : "comp_91"
+      },
+      {
+         "a2" : "comp_95",
+         "time" : -1,
+         "id" : "dep74",
+         "a1" : "comp_93"
+      },
+      {
+         "a2" : "comp_97",
+         "time" : -1,
+         "id" : "dep75",
+         "a1" : "comp_95"
+      },
+      {
+         "a2" : "comp_99",
+         "time" : -1,
+         "id" : "dep76",
+         "a1" : "comp_97"
+      },
+      {
+         "a2" : "comp_101",
+         "time" : -1,
+         "id" : "dep77",
+         "a1" : "comp_99"
+      },
+      {
+         "a2" : "comp_103",
+         "time" : -1,
+         "id" : "dep78",
+         "a1" : "comp_101"
+      },
+      {
+         "a2" : "comp_105",
+         "time" : -1,
+         "id" : "dep79",
+         "a1" : "comp_103"
+      },
+      {
+         "a2" : "comp_107",
+         "time" : -1,
+         "id" : "dep80",
+         "a1" : "comp_105"
+      },
+      {
+         "a2" : "comp_109",
+         "time" : -1,
+         "id" : "dep81",
+         "a1" : "comp_107"
+      },
+      {
+         "a2" : "comp_111",
+         "time" : -1,
+         "id" : "dep82",
+         "a1" : "comp_109"
+      },
+      {
+         "a2" : "comp_113",
+         "time" : -1,
+         "id" : "dep83",
+         "a1" : "comp_111"
+      },
+      {
+         "a2" : "comp_115",
+         "time" : -1,
+         "id" : "dep84",
+         "a1" : "comp_113"
+      },
+      {
+         "a2" : "comp_117",
+         "time" : -1,
+         "id" : "dep85",
+         "a1" : "comp_115"
+      },
+      {
+         "a2" : "comp_119",
+         "time" : -1,
+         "id" : "dep86",
+         "a1" : "comp_117"
+      },
+      {
+         "a2" : "comp_119",
+         "time" : -1,
+         "id" : "dep87",
+         "a1" : "comp_47"
+      },
+      {
+         "a2" : "comp_119",
+         "time" : -1,
+         "id" : "dep88",
+         "a1" : "comp_49"
+      },
+      {
+         "a2" : "comp_121",
+         "time" : -1,
+         "id" : "dep89",
+         "a1" : "comp_119"
+      },
+      {
+         "a2" : "comp_123",
+         "time" : -1,
+         "id" : "dep90",
+         "a1" : "comp_121"
+      },
+      {
+         "a2" : "comp_123",
+         "time" : -1,
+         "id" : "dep91",
+         "a1" : "comp_50"
+      },
+      {
+         "a2" : "comp_144",
+         "time" : -1,
+         "id" : "dep92",
+         "a1" : "comp_142"
+      },
+      {
+         "a2" : "comp_146",
+         "time" : -1,
+         "id" : "dep93",
+         "a1" : "comp_144"
+      },
+      {
+         "a2" : "comp_148",
+         "time" : -1,
+         "id" : "dep94",
+         "a1" : "comp_146"
+      },
+      {
+         "a2" : "r96_c2",
+         "time" : -1,
+         "id" : "dep95",
+         "a1" : "comp_234"
+      },
+      {
+         "a2" : "r96_c3",
+         "time" : -1,
+         "id" : "dep96",
+         "a1" : "comp_235"
+      },
+      {
+         "a2" : "comp_235",
+         "time" : -1,
+         "id" : "dep97",
+         "a1" : "comp_234"
+      },
+      {
+         "a2" : "download_98",
+         "time" : -1,
+         "id" : "dep98",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 484.74099999294,
+         "id" : "dep99",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 637.29699980467,
+         "id" : "dep100",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_95",
+         "time" : -1,
+         "id" : "dep101",
+         "a1" : "r96_c1"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 2.35600024460996,
+         "id" : "dep102",
+         "a1" : "r96_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 27.7159996330699,
+         "id" : "dep103",
+         "a1" : "r94_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 463.03999982774,
+         "id" : "dep104",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 27.2429999895401,
+         "id" : "dep105",
+         "a1" : "r94_c1"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 462.56700018421,
+         "id" : "dep106",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 351.8219999969,
+         "id" : "dep107",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 330.94999985769,
+         "id" : "dep108",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 7.63700017704991,
+         "id" : "dep109",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 30.34200007096,
+         "id" : "dep110",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 30.34200007096,
+         "id" : "dep111",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 205.93400020152,
+         "id" : "dep112",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 37.8640000708399,
+         "id" : "dep113",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 37.4480001628399,
+         "id" : "dep114",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 197.31600023806,
+         "id" : "dep115",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 37.0140001177799,
+         "id" : "dep116",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 36.00300010294,
+         "id" : "dep117",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 36.54700005427,
+         "id" : "dep118",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 180.96600007266,
+         "id" : "dep119",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 35.51599988714,
+         "id" : "dep120",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 35.10899981484,
+         "id" : "dep121",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 34.70000019297,
+         "id" : "dep122",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 34.28900009021,
+         "id" : "dep123",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 31.49199998006,
+         "id" : "dep124",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 32.77399996295,
+         "id" : "dep125",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 33.8800000026799,
+         "id" : "dep126",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 33.4379998966999,
+         "id" : "dep127",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 32.1499998681199,
+         "id" : "dep128",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 23.9389999769598,
+         "id" : "dep129",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 0.67899981514006,
+         "id" : "dep130",
+         "a1" : "r1_c52"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 26.34100010618,
+         "id" : "dep131",
+         "a1" : "r1_c50"
+      },
+      {
+         "a2" : "download_67",
+         "time" : -1,
+         "id" : "dep132",
+         "a1" : "r1_c46"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 9.65100014582106,
+         "id" : "dep133",
+         "a1" : "r1_c46"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 10.162000078711,
+         "id" : "dep134",
+         "a1" : "r1_c46"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 10.580000001941,
+         "id" : "dep135",
+         "a1" : "r1_c46"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 9.20999981463103,
+         "id" : "dep136",
+         "a1" : "r1_c46"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 8.63699987531106,
+         "id" : "dep137",
+         "a1" : "r1_c46"
+      },
+      {
+         "a2" : "download_61",
+         "time" : -1,
+         "id" : "dep138",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 16.471000388265,
+         "id" : "dep139",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 15.904000028968,
+         "id" : "dep140",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_58",
+         "time" : -1,
+         "id" : "dep141",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 6.45700003951799,
+         "id" : "dep142",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 5.56399999186402,
+         "id" : "dep143",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 5.56399999186402,
+         "id" : "dep144",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 6.06000004336204,
+         "id" : "dep145",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 6.06000004336204,
+         "id" : "dep146",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_55",
+         "time" : -1,
+         "id" : "dep147",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 6.84100016951504,
+         "id" : "dep148",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 4.69300011172902,
+         "id" : "dep149",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 4.69300011172902,
+         "id" : "dep150",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_53",
+         "time" : -1,
+         "id" : "dep151",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 41.828999761492,
+         "id" : "dep152",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 40.705999825149,
+         "id" : "dep153",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 39.861000142991,
+         "id" : "dep154",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 40.29699973762,
+         "id" : "dep155",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 39.462999906391,
+         "id" : "dep156",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 39.069999940693,
+         "id" : "dep157",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 38.133000023663,
+         "id" : "dep158",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 38.623000029474,
+         "id" : "dep159",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 37.734000012278,
+         "id" : "dep160",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 37.329999729991,
+         "id" : "dep161",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 36.115000024438,
+         "id" : "dep162",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 36.512000020593,
+         "id" : "dep163",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 36.930999718606,
+         "id" : "dep164",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 35.30600015074,
+         "id" : "dep165",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 35.706999711692,
+         "id" : "dep166",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 34.870999865234,
+         "id" : "dep167",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 34.482999704778,
+         "id" : "dep168",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 34.072000067681,
+         "id" : "dep169",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 33.652999904006,
+         "id" : "dep170",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 33.234999980777,
+         "id" : "dep171",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 32.842999789864,
+         "id" : "dep172",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 32.403999939561,
+         "id" : "dep173",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 31.973000150174,
+         "id" : "dep174",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 31.558999791741,
+         "id" : "dep175",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 31.134999822825,
+         "id" : "dep176",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 31.134999822825,
+         "id" : "dep177",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 30.735000036657,
+         "id" : "dep178",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 30.735000036657,
+         "id" : "dep179",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_26",
+         "time" : -1,
+         "id" : "dep180",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 30.325999949127,
+         "id" : "dep181",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 30.325999949127,
+         "id" : "dep182",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 29.904999770224,
+         "id" : "dep183",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 29.904999770224,
+         "id" : "dep184",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 29.025000054389,
+         "id" : "dep185",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 27.921999804675,
+         "id" : "dep186",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 27.921999804675,
+         "id" : "dep187",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 27.493999805301,
+         "id" : "dep188",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 27.493999805301,
+         "id" : "dep189",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 27.077000122517,
+         "id" : "dep190",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 27.077000122517,
+         "id" : "dep191",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 2.07300018519197,
+         "id" : "dep192",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 26.629999745637,
+         "id" : "dep193",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : -1,
+         "id" : "dep194",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 23.614999838173,
+         "id" : "dep195",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 17.016000114381,
+         "id" : "dep196",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : -1,
+         "id" : "dep197",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 12.378999963402,
+         "id" : "dep198",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 11.938000097871,
+         "id" : "dep199",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 10.67900005728,
+         "id" : "dep200",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 11.091999709606,
+         "id" : "dep201",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 10.261000134051,
+         "id" : "dep202",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 9.46399988606501,
+         "id" : "dep203",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 9.86299989745001,
+         "id" : "dep204",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 8.60900012776202,
+         "id" : "dep205",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 8.60900012776202,
+         "id" : "dep206",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 9.03799990192002,
+         "id" : "dep207",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 8.169000037014,
+         "id" : "dep208",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 8.169000037014,
+         "id" : "dep209",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 7.73700000718199,
+         "id" : "dep210",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 7.73700000718199,
+         "id" : "dep211",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 11.539000086486,
+         "id" : "dep212",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 6.65599992498701,
+         "id" : "dep213",
+         "a1" : "r1_c1"
+      }
+   ]
+}

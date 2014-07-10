@@ -1,0 +1,2459 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.reference.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.reference.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 296.426999848336,
+               "time" : 45.878000091761,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 342.304999940097
+            },
+            {
+               "s_time" : 753.730999771506,
+               "time" : 0.0590002164238967,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 753.78999998793
+            },
+            {
+               "s_time" : 848.524999804795,
+               "time" : 0.0620000064369606,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 848.586999811232
+            },
+            {
+               "s_time" : 850.49399966374,
+               "time" : 8.61799996346292,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 859.111999627203
+            },
+            {
+               "s_time" : 860.40599970147,
+               "time" : 4.90300031378899,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 865.309000015259
+            },
+            {
+               "s_time" : 865.328999701887,
+               "time" : 154.574000276623,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 1019.90299997851
+            },
+            {
+               "s_time" : 1020.4940000549,
+               "time" : 26.9179996103001,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 1047.4119996652
+            },
+            {
+               "s_time" : 1067.92599987239,
+               "time" : 4.81999991460998,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 1072.745999787
+            },
+            {
+               "s_time" : 1073.54399980977,
+               "time" : 9.82700008898996,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 1083.37099989876
+            },
+            {
+               "s_time" : 1212.58699987084,
+               "time" : 0.0769998878201932,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 1212.66399975866
+            },
+            {
+               "s_time" : 1214.8730000481,
+               "time" : 3717.46600000188,
+               "type" : "evalhtml",
+               "id" : "r1_c11",
+               "e_time" : 4932.33900004998
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/js/plusone.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 918.523999862373,
+               "time" : 101.970000192527,
+               "type" : 1,
+               "id" : "comp_26",
+               "e_time" : 1020.4940000549
+            }
+         ],
+         "download" : {
+            "s_time" : 305.869999807328,
+            "id" : "download_1",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/api/segments.json?a=p-51zXP5Cc9sxvQ&callback=qc_results&ttl=86400",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 864.34999993071,
+               "time" : 0.978999771176973,
+               "type" : 1,
+               "id" : "comp_21",
+               "e_time" : 865.328999701887
+            }
+         ],
+         "download" : {
+            "s_time" : 305.377000011504,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/css/topheavy_header_footer.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 633.946999907494,
+               "time" : 6.71199988573699,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 640.658999793231
+            }
+         ],
+         "download" : {
+            "s_time" : 302.139000035822,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/js/topheavy_header_footer.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 848.642999771982,
+               "time" : 1.85099989175808,
+               "type" : 1,
+               "id" : "comp_14",
+               "e_time" : 850.49399966374
+            }
+         ],
+         "download" : {
+            "s_time" : 304.238999728113,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/js/jquery-1.7.1.min.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 663.661999627948,
+               "time" : 90.069000143558,
+               "type" : 1,
+               "id" : "comp_7",
+               "e_time" : 753.730999771506
+            }
+         ],
+         "download" : {
+            "s_time" : 303.40199964121,
+            "id" : "download_5",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/css/home.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 651.981999631971,
+               "time" : 8.18700017407502,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 660.168999806046
+            }
+         ],
+         "download" : {
+            "s_time" : 302.916999906301,
+            "id" : "download_6",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/js/jquery-ui.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 757.073999848217,
+               "time" : 91.450999956578,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 848.524999804795
+            }
+         ],
+         "download" : {
+            "s_time" : 303.807999938726,
+            "id" : "download_7",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/js/home.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 850.585999898612,
+               "time" : 9.81999980285798,
+               "type" : 1,
+               "id" : "comp_16",
+               "e_time" : 860.40599970147
+            }
+         ],
+         "download" : {
+            "s_time" : 304.656999651343,
+            "id" : "download_8",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/js/seo_anchor.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 1047.45399998501,
+               "time" : 20.4719998873802,
+               "type" : 1,
+               "id" : "comp_33",
+               "e_time" : 1067.92599987239
+            }
+         ],
+         "download" : {
+            "s_time" : 340.801999904215,
+            "id" : "download_9",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/js/click_tracking.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 1073.02400004119,
+               "time" : 0.519999768579964,
+               "type" : 1,
+               "id" : "comp_35",
+               "e_time" : 1073.54399980977
+            }
+         ],
+         "download" : {
+            "s_time" : 341.312999837101,
+            "id" : "download_10",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/js/gw.min.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 1198.08800006285,
+               "time" : 14.49899980799,
+               "type" : 1,
+               "id" : "comp_46",
+               "e_time" : 1212.58699987084
+            }
+         ],
+         "download" : {
+            "s_time" : 341.727999970317,
+            "id" : "download_11",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/js/ghostwriter_adcall.js",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 1212.70200004801,
+               "time" : 2.17100000009009,
+               "type" : 1,
+               "id" : "comp_49",
+               "e_time" : 1214.8730000481
+            }
+         ],
+         "download" : {
+            "s_time" : 342.304999940097,
+            "id" : "download_12",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://edge.quantserve.com/quant.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 1416.00099997595,
+               "time" : 7.52899982035001,
+               "type" : 2,
+               "id" : "comp_130",
+               "e_time" : 1423.5299997963
+            }
+         ],
+         "download" : {
+            "s_time" : 865.309000015259,
+            "id" : "download_13",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 1423.56599960476,
+               "time" : 57.3430000804399,
+               "type" : 2,
+               "id" : "comp_132",
+               "e_time" : 1480.9089996852
+            }
+         ],
+         "download" : {
+            "s_time" : 865.808999631554,
+            "id" : "download_14",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rt.legolas-media.com/lgrt?ci=2&ti=1222&pbi=10791&_=1378100935756",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 1480.95300002024,
+               "time" : 0.274999998509884,
+               "type" : 2,
+               "id" : "comp_134",
+               "e_time" : 1481.22800001875
+            }
+         ],
+         "download" : {
+            "s_time" : 859.111999627203,
+            "id" : "download_15",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_0",
+         "id" : "r34",
+         "comps" : [
+            {
+               "s_time" : 1482.3169996962,
+               "time" : 54.7040002420501,
+               "type" : 2,
+               "id" : "comp_137",
+               "e_time" : 1537.02099993825
+            }
+         ],
+         "download" : {
+            "s_time" : 1019.90299997851,
+            "id" : "download_16",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/img/topheavy_hdr_bg.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1069.43799974397,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/img/topheavy_hdr.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1069.01099998504,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2505-5536910-0.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1070.13599993661,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/Sprite_Hdr_Ftr.png",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1070.84900001064,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/bg-sidebar.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1071.3009997271,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/icons.png",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1071.67499978095,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/separator.gif",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1072.0259998925,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/divider2.png",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1072.36299989745,
+            "id" : "download_24",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/divider.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1072.745999787,
+            "id" : "download_25",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://platform.twitter.com/widgets.js",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 1537.06600004807,
+               "time" : 82.2089998982899,
+               "type" : 2,
+               "id" : "comp_139",
+               "e_time" : 1619.27499994636
+            }
+         ],
+         "download" : {
+            "s_time" : 1023.12799962237,
+            "id" : "download_26",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/1413-7438240-0.png",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1073.93099972978,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2598-7078908-2.png",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1074.66299971566,
+            "id" : "download_28",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/Reference_Hp.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1069.79099987075,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/r19817/img/bg-main.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1070.48500003293,
+            "id" : "download_30",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2661-6815998-1.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1074.30600002408,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/dictcloud/r16287/img/icons.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1075.03599999472,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-12.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1075.42799971998,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-16.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1076.94000005722,
+            "id" : "download_34",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-15.jpg",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1076.55599992722,
+            "id" : "download_35",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-5.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1077.33999984339,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-6.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1077.69399974495,
+            "id" : "download_37",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2142-2083816-7.jpeg",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1078.04299984127,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-9.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1078.73900001869,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-8.jpg",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1078.38899968192,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.dictionary.com/homepage/carousel/2013/sustainability_cl.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 912.34300006181,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.dictionary.com/homepage/carousel/July-2012/img05.gif",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1079.68800002709,
+            "id" : "download_42",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.dictionary.com/homepage/carousel/2013/literally_cr.png",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1080.13899996877,
+            "id" : "download_43",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/app/r19817/img/Sprite_Hdr_Ftr.png",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1079.10599978641,
+            "id" : "download_44",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-14.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1076.18299964815,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/assets/2522-7626595-13.jpg",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1075.79499995336,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://connect.facebook.net/en_US/all.js",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 1742.80599970371,
+               "time" : 153.75800011679,
+               "type" : 2,
+               "id" : "comp_155",
+               "e_time" : 1896.5639998205
+            }
+         ],
+         "download" : {
+            "s_time" : 1259.98999970034,
+            "id" : "download_48",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=plus/exm=plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_1",
+         "id" : "r52",
+         "comps" : [
+            {
+               "s_time" : 1897.14299980551,
+               "time" : 25.28699999675,
+               "type" : 2,
+               "id" : "comp_157",
+               "e_time" : 1922.42999980226
+            }
+         ],
+         "download" : {
+            "s_time" : 1295.41699960828,
+            "id" : "download_49",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-805928h&cg=0&cc=1&si=http%3A//www.reference.com/&rp=&ts=compact&rnd=1378100935973",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1083.37099989876,
+            "id" : "download_50",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=auth/exm=plus,plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_2",
+         "id" : "r53",
+         "comps" : [
+            {
+               "s_time" : 1922.62399988249,
+               "time" : 38.7359997257602,
+               "type" : 2,
+               "id" : "comp_159",
+               "e_time" : 1961.35999960825
+            }
+         ],
+         "download" : {
+            "s_time" : 1305.36599969491,
+            "id" : "download_51",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/refcloud/img/speaker.swf",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1334.94600001723,
+            "id" : "download_52",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/5480.iac.reference/home;tile=1;sz=728x90;ord=1250943478?",
+         "id" : "r50",
+         "comps" : [
+            {
+               "s_time" : 1961.4959997125,
+               "time" : 4.39799996093006,
+               "type" : null,
+               "id" : "comp_173",
+               "e_time" : 1965.89399967343
+            }
+         ],
+         "download" : {
+            "s_time" : 1231.11999966204,
+            "id" : "download_53",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/pixel;r=60474029;a=p-51zXP5Cc9sxvQ;fpan=1;fpa=P0-891473759-1378100936320;ns=0;ce=1;cm=;je=1;sr=2048x1152x24;enc=n;dst=1;et=1378100936317;tzo=420;ref=;url=http%3A%2F%2Fwww.reference.com%2F;ogl=title.Reference%252Ecom%20-%20A%20Free%20Online%20Encyclopedia%20%26%20Information%20Reference%2Csite_name.Reference%252Ecom%2Cimage.http%3A%2F%2Fstatic%252Esfdict%252Ecom%2Frefcloud%2Fimg%2Fsocial_logo%252Epng",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1424.27099961787,
+            "id" : "download_54",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=2106702336&utmhn=www.reference.com&utme=8(LD)9(0)11(2)&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x673&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Reference.com%20-%20A%20Free%20Online%20Encyclopedia%20%26%20Information%20Reference&utmhid=1488700839&utmr=-&utmp=%2F&utmht=1378100936368&utmac=UA-4036279-9&utmcc=__utma%3D1.776179480.1378100936.1378100936.1378100936.1%3B%2B__utmz%3D1.1378100936.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q1AAAAAAAAAAAAAAAAAAAAB~",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1472.83099964261,
+            "id" : "download_55",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://apis.google.com/u/0/_/pages/badge?bsv=o&width=300&rel=author&hl=en-US&origin=http%3A%2F%2Fwww.reference.com&url=https%3A%2F%2Fplus.google.com%2F117428481782081853923&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.7cPSuHVtCCI.O%2Fm%3D__features__%2Fam%3DIQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth&id=I0_1378100936205&parent=http%3A%2F%2Fwww.reference.com&pfname=&rpctoken=27547973",
+         "id" : "r54",
+         "comps" : [
+            {
+               "s_time" : 1735.56599998847,
+               "time" : 654.05899984762,
+               "id" : "r54_c1",
+               "type" : "evalhtml",
+               "e_time" : 2389.62499983609
+            },
+            {
+               "s_time" : 2520.40999988094,
+               "time" : 6.83599989860977,
+               "id" : "r54_c2",
+               "type" : "evalhtml",
+               "e_time" : 2527.24599977955
+            },
+            {
+               "s_time" : 2617.54999961704,
+               "time" : 0.0260001979800109,
+               "type" : "evalhtml",
+               "id" : "r54_c3",
+               "e_time" : 2617.57599981502
+            }
+         ],
+         "download" : {
+            "s_time" : 1315.20099984482,
+            "id" : "download_56",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1533.79899961874,
+            "id" : "download_57",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://platform.twitter.com/widgets/follow_button.1375828408.html#_=1378100936495&id=twitter-widget-0&lang=en&screen_name=dictionarycom&show_count=true&show_screen_name=true&size=m",
+         "id" : "r60",
+         "comps" : [
+            {
+               "s_time" : 1974.45399966091,
+               "time" : 58.2739999517798,
+               "type" : "evalhtml",
+               "id" : "r60_c1",
+               "e_time" : 2032.72799961269
+            }
+         ],
+         "download" : {
+            "s_time" : 1618.99499967694,
+            "id" : "download_58",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/ss/k=oz.brandbadge.-fp4vf49y21tn.L.W.O/am=GAU/rs=AItRSTMmwpfp-GmevqG_iJ4tqa0j5D9JGw",
+         "id" : "r61",
+         "comps" : [
+            {
+               "s_time" : 2044.82800001279,
+               "time" : 18.6709999106799,
+               "type" : null,
+               "id" : "comp_186",
+               "e_time" : 2063.49899992347
+            }
+         ],
+         "download" : {
+            "s_time" : 1738.30999992788,
+            "id" : "download_59",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=googleapis_client,iframes_styles_bubble_internal/am=IQ/rt=j/d=1/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw",
+         "id" : "r62",
+         "comps" : [
+            {
+               "s_time" : 2389.66899970546,
+               "time" : 130.74100017548,
+               "type" : 1,
+               "id" : "comp_257",
+               "e_time" : 2520.40999988094
+            }
+         ],
+         "download" : {
+            "s_time" : 1738.94999967888,
+            "id" : "download_60",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.brandbadge.en_US.QnMd_l81mdc.O/m=plps_bg,p1btn/am=GAU/rt=j/d=1/rs=AItRSTNHuGcxmjw__iMUvpAe6pL8DJ09hg",
+         "id" : "r63",
+         "comps" : [
+            {
+               "s_time" : 2527.29699993506,
+               "time" : 90.2529996819803,
+               "type" : 1,
+               "id" : "comp_260",
+               "e_time" : 2617.54999961704
+            }
+         ],
+         "download" : {
+            "s_time" : 1739.52699964866,
+            "id" : "download_61",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fwww.reference.com#rpctoken=1001215854&forcesecure=1",
+         "id" : "r64",
+         "comps" : [
+            {
+               "s_time" : 2091.19999967515,
+               "time" : 2.76400009170993,
+               "id" : "r64_c1",
+               "type" : "evalhtml",
+               "e_time" : 2093.96399976686
+            },
+            {
+               "s_time" : 2248.7699999474,
+               "time" : 0.0859997235202172,
+               "id" : "r64_c2",
+               "type" : "evalhtml",
+               "e_time" : 2248.85599967092
+            },
+            {
+               "s_time" : 2251.99399981648,
+               "time" : 0.126000028099952,
+               "type" : "evalhtml",
+               "id" : "r64_c3",
+               "e_time" : 2252.11999984458
+            }
+         ],
+         "download" : {
+            "s_time" : 1944.69799986109,
+            "id" : "download_63",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.twitter.com/f.gif?_=1378100936495&id=twitter-widget-0&lang=en&screen_name=dictionarycom&show_count=true&show_screen_name=true&size=m&twttr_variant=2.0&twttr_referrer=http%3A%2F%2Fwww.reference.com%2F&twttr_widget=1&twttr_hask=0&twttr_li=0&twttr_pid=",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2023.98099983111,
+            "id" : "download_65",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.api.twitter.com/1/users/show.json?screen_name=dictionarycom&callback=twttr.setFollowersCount",
+         "id" : "r69",
+         "comps" : [
+            {
+               "s_time" : 2265.45399986207,
+               "time" : 6.92699989304037,
+               "type" : 2,
+               "id" : "comp_228",
+               "e_time" : 2272.38099975511
+            }
+         ],
+         "download" : {
+            "s_time" : 2033.57199998572,
+            "id" : "download_66",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://oauth.googleusercontent.com/gadgets/js/core:rpc:shindig.random:shindig.sha1.js?c=2",
+         "id" : "r75",
+         "comps" : [
+            {
+               "s_time" : 2200.79699996859,
+               "time" : 47.9729999788096,
+               "type" : 1,
+               "id" : "comp_210",
+               "e_time" : 2248.7699999474
+            }
+         ],
+         "download" : {
+            "s_time" : 2093.53199973702,
+            "id" : "download_67",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/accounts/o/327579480-postmessagerelay.js",
+         "id" : "r76",
+         "comps" : [
+            {
+               "s_time" : 2249.96899999678,
+               "time" : 2.02499981970004,
+               "type" : 1,
+               "id" : "comp_212",
+               "e_time" : 2251.99399981648
+            }
+         ],
+         "download" : {
+            "s_time" : 2093.96399976686,
+            "id" : "download_68",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://twitter.com/i/jot?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22language%22%3A%22en%22%2C%22client_version%22%3A%222.0%3Am%22%2C%22widget_origin%22%3A%22http%3A%2F%2Fwww.reference.com%2F%22%2C%22format_version%22%3A1%2C%22dnt%22%3Afalse%2C%22triggered_on%22%3A1378100936923%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22button%22%2C%22section%22%3A%22follow%22%2C%22action%22%3A%22impression%22%7D%7D",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2027.90199965239,
+            "id" : "download_69",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/images/icons/gplus-29.png",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.31399983913,
+            "id" : "download_70",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://static.ak.facebook.com/connect/xd_arbiter.php?version=26#channel=ff6e2e45&channel_path=%2F%3Ffb_xd_fragment%23xd_sig%3Df300a7ec4c%26&origin=http%3A%2F%2Fwww.reference.com",
+         "id" : "r81",
+         "comps" : [
+            {
+               "s_time" : 2306.89899995923,
+               "time" : 24.6890000999001,
+               "type" : "evalhtml",
+               "id" : "r81_c1",
+               "e_time" : 2331.58800005913
+            }
+         ],
+         "download" : {
+            "s_time" : 2265.96299977973,
+            "id" : "download_71",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=26#channel=ff6e2e45&channel_path=%2F%3Ffb_xd_fragment%23xd_sig%3Df300a7ec4c%26&origin=http%3A%2F%2Fwww.reference.com",
+         "id" : "r82",
+         "comps" : [
+            {
+               "s_time" : 2354.51800003648,
+               "time" : 21.3239998556701,
+               "type" : "evalhtml",
+               "id" : "r82_c1",
+               "e_time" : 2375.84199989215
+            }
+         ],
+         "download" : {
+            "s_time" : 2268.22899980471,
+            "id" : "download_72",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://lh3.googleusercontent.com/-f1FZWhoYmf8/AAAAAAAAAAI/AAAAAAAAAAA/EIpGN8nTGVw/s24/photo.jpg?sz=24",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2069.45799989626,
+            "id" : "download_73",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://lh4.googleusercontent.com/-7XuXNfUA82k/AAAAAAAAAAI/AAAAAAAAAAA/ejtnEhJYrEs/s24/photo.jpg?sz=24",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2065.0720000267,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://lh3.googleusercontent.com/-PGV1yLMSues/AAAAAAAAAAI/AAAAAAAAAAA/DDugiF-oFcU/s24/photo.jpg?sz=24",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2070.67100005224,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://lh3.googleusercontent.com/-TAuLJ4Y9T74/AAAAAAAAAAI/AAAAAAAAAAA/09RMK58AeMQ/s24/photo.jpg?sz=24",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2071.24499976635,
+            "id" : "download_76",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://lh3.googleusercontent.com/-Bg73LtbGtuM/AAAAAAAAAAI/AAAAAAAAAAA/bWMMi_oGlDw/s24/photo.jpg?sz=24",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2069.98099992052,
+            "id" : "download_77",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.casalemedia.com/casaleJTag.js",
+         "id" : "r80",
+         "comps" : [
+            {
+               "s_time" : 2680.61999976635,
+               "time" : 5.22499997169007,
+               "type" : null,
+               "id" : "comp_282",
+               "e_time" : 2685.84499973804
+            },
+            {
+               "s_time" : 3191.2829997018,
+               "time" : 3.64600028842005,
+               "type" : null,
+               "id" : "comp_312",
+               "e_time" : 3194.92899999022
+            }
+         ],
+         "download" : {
+            "s_time" : 2261.98399998248,
+            "id" : "download_78",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.sfdict.com/staticrep/dictaudio/A08/A0818700.mp3",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2718.15699990839,
+            "id" : "download_79",
+            "type" : "audio/mpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://as.casalemedia.com/j?s=143080&a=2&id=493972776&p=11&v=2&inif=0&l=126&t=117&w=1970&h=1130&z=420&u=http%3A%2F%2Fwww.reference.com%2F",
+         "id" : "r84",
+         "comps" : [
+            {
+               "s_time" : 2969.11099972203,
+               "time" : 6.97500025853969,
+               "type" : null,
+               "id" : "comp_287",
+               "e_time" : 2976.08599998057
+            }
+         ],
+         "download" : {
+            "s_time" : 2693.74400004745,
+            "id" : "download_80",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rtb.gumgum.com/usersync?b=cas&i=UiQmtcAoIj4AAE01LywAAAA0%26079",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2977.40199975669,
+            "id" : "download_82",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/5480.iac.reference/home;tile=2;sz=300x250;ord=1250943478?",
+         "id" : "r91",
+         "comps" : [
+            {
+               "s_time" : 3171.74699995667,
+               "time" : 7.28000001981991,
+               "type" : null,
+               "id" : "comp_305",
+               "e_time" : 3179.02699997649
+            }
+         ],
+         "download" : {
+            "s_time" : 2996.83199962601,
+            "id" : "download_83",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.casalemedia.com/rum?cm_dsp_id=10&external_user_id=00000000-0000-0000-0000-00055f9e0828",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3107.26299975067,
+            "id" : "download_84",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.casalemedia.com/casaleJTag.js",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3188.107999973,
+            "id" : "download_86",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://as.casalemedia.com/j?s=143304&a=4&id=493972776&p=11&v=2&inif=0&l=660&t=311&w=1970&h=1130&z=420&u=http%3A%2F%2Fwww.reference.com%2F",
+         "id" : "r94",
+         "comps" : [
+            {
+               "s_time" : 3351.64899984375,
+               "time" : 4.65099979191973,
+               "type" : null,
+               "id" : "comp_316",
+               "e_time" : 3356.29999963567
+            }
+         ],
+         "download" : {
+            "s_time" : 3196.35499967262,
+            "id" : "download_87",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tags.mathtag.com/notify/js?exch=cas&id=5aW95q2jLzIvVldsUmJYUmpRVzlKYWpSQlFVVXdNVXg1ZDBGQlFVRXcvWkRNeE9XTmpZemd0TjJRd05DMDFPRGN5TFRBd01EQXRNREF3TURBd01EQXdNREF3LzI0OTUwNjc4MDA4Mjg1NzA1NjQvNDU4NjAzLzI2MzEyNi8xNS8tN2kweHNyOVZOX2xpVnhGZ0lFajlQWWlmclNqNFFVZURTVmdvMF9FdFBBLzEvMTUvMTM3NzcyMDkwMi8wLw/ksing7t897l9x0kEfXztw2cgiB8&sid=263126&cid=458603&price=1.76",
+         "id" : "r97",
+         "comps" : [
+            {
+               "s_time" : 3404.80599971488,
+               "time" : 5.11500006542019,
+               "type" : null,
+               "id" : "comp_321",
+               "e_time" : 3409.9209997803
+            }
+         ],
+         "download" : {
+            "s_time" : 3357.25699970499,
+            "id" : "download_88",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cdn.optmd.com/V2/192386/534157/index.html",
+         "id" : "r87",
+         "comps" : [
+            {
+               "s_time" : 3417.68199997023,
+               "time" : 1003.65199986845,
+               "id" : "r87_c1",
+               "type" : "evalhtml",
+               "e_time" : 4421.33399983868
+            },
+            {
+               "s_time" : 4422.27600002661,
+               "time" : 510.06300002337,
+               "id" : "r87_c2",
+               "type" : "evalhtml",
+               "e_time" : 4932.33900004998
+            },
+            {
+               "s_time" : 5114.18899986893,
+               "time" : 4.81300009414008,
+               "type" : "evalhtml",
+               "id" : "r87_c3",
+               "e_time" : 5119.00199996307
+            }
+         ],
+         "download" : {
+            "s_time" : 2980.38399964571,
+            "id" : "download_89",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ums.adtechus.com/mapuser?providerid=1010;userid=UiQmtcAoIj4AAE01LywAAAA0%26079",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3354.23399973661,
+            "id" : "download_91",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://connexity.net/c/cse?a=Q&B=30",
+         "id" : "r96",
+         "comps" : [
+            {
+               "s_time" : 3547.31999989599,
+               "time" : 8.9229997247503,
+               "type" : "evalhtml",
+               "id" : "r96_c1",
+               "e_time" : 3556.24299962074
+            }
+         ],
+         "download" : {
+            "s_time" : 3357.60099999607,
+            "id" : "download_92",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.cxt.ms/swfobject.js",
+         "id" : "r100",
+         "comps" : [
+            {
+               "s_time" : 3794.21600000933,
+               "time" : 5.32299978658011,
+               "type" : null,
+               "id" : "comp_335",
+               "e_time" : 3799.53899979591
+            }
+         ],
+         "download" : {
+            "s_time" : 3556.45200004801,
+            "id" : "download_93",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.yieldmanager.com/st?ad_type=ad&ad_size=728x90&section=4302433&pub_url=${PUB_URL}",
+         "id" : "r99",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3418.67099981755,
+            "id" : "download_94",
+            "type" : "text/plain"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://t.cxt.ms/lso.swf",
+         "id" : "r103",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3926.60999996588,
+            "id" : "download_95",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.yieldmanager.com/imp?Z=728x90&s=4302433&_salt=4095073308&B=10&r=0",
+         "id" : "r101",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3925.57299975306,
+            "id" : "download_96",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.casalemedia.com/rum?cm_dsp_id=55&external_user_id=e97b36539d07814a-064a296585cd6f74",
+         "id" : "r104",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4157.63799985871,
+            "id" : "download_97",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://a1.interclick.com/getInPageJS.aspx?a=53&b=51897&cid=634632593927657750",
+         "id" : "r105",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4187.60399986058,
+            "id" : "download_98",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://a1.interclick.com/getInPageJSProcess.aspx?a=53&b=51897&cid=634632593927657750&isif=t&rurld=www.reference.com&sl=false&dvp=http%3A//www.reference.com/&rurl=http%3A%2F%2Fwww.reference.com%2F",
+         "id" : "r106",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4275.20200004801,
+            "id" : "download_99",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/N2434.yahoo/B7685065.11;sz=728x90;pc=;click=http://a1.interclick.com/icaid/446615/tid/f6b93af0-bc6b-4f79-8a6e-2a214444f96d/click.ic?;ord=635136833391190642?",
+         "id" : "r107",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4310.3099996224,
+            "id" : "download_100",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/879366/flashwrite_1_2.js",
+         "id" : "r109",
+         "comps" : [
+            {
+               "s_time" : 4421.40599992126,
+               "time" : 0.870000105349391,
+               "type" : 1,
+               "id" : "comp_353",
+               "e_time" : 4422.27600002661
+            }
+         ],
+         "download" : {
+            "s_time" : 4417.92199993506,
+            "id" : "download_101",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/1411188/Fuel.ChevronFuelW24_728x90-PORSEA.swf",
+         "id" : "r112",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4482.67699964345,
+            "id" : "download_102",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.gstatic.com/doubleclick/studio/innovation/multisurvey/multisurvey.js?(ST1@http://d.p-td.com/r/di/id/L21rdC80L21waWQvMjUyNDU1MDA/segid/-99/advid/18218891/pkgid/98391162/crid/54833237)(ST2@http://cdn.doubleverify.com/dvtp_src.js?ctx=1369890&cmp=7685065&sid=108954&plc=98391162&num=&adid=&advid=1411188&adsrv=1&region=30&btreg=272959705&btadsrv=doubleclick&crt=54833237&crtname=&chnl=&unit=&pid=&uid=&dvtagver=6.1.src)",
+         "id" : "r110",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4421.33399983868,
+            "id" : "download_103",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.doubleverify.com/dvtp_src.js?ctx=1369890&cmp=7685065&sid=108954&plc=98391162&num=&adid=&advid=1411188&adsrv=1&region=30&btreg=272959705&btadsrv=doubleclick&crt=54833237&crtname=&chnl=&unit=&pid=&uid=&dvtagver=6.1.src",
+         "id" : "r114",
+         "comps" : [
+            {
+               "s_time" : 4901.69900003821,
+               "time" : 29.9949999898599,
+               "type" : 2,
+               "id" : "comp_365",
+               "e_time" : 4931.69400002807
+            }
+         ],
+         "download" : {
+            "s_time" : 4508.48099961877,
+            "id" : "download_104",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://connexity.net/c/cse?a=W&B=30&N=0-ca7506c614&R=2048x1152c24&T=16&U=e97b36539d07814a-064a296585cd6f74-2175fb38de8265a2",
+         "id" : "r108",
+         "comps" : [
+            {
+               "s_time" : 4683.61599976197,
+               "time" : 1.23499985784019,
+               "type" : "evalhtml",
+               "id" : "r108_c1",
+               "e_time" : 4684.85099961981
+            }
+         ],
+         "download" : {
+            "s_time" : 4411.67699964717,
+            "id" : "download_105",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d.p-td.com/r/di/id/L21rdC80L21waWQvMjUyNDU1MDA/segid/-99/advid/18218891/pkgid/98391162/crid/54833237",
+         "id" : "r113",
+         "comps" : [
+            {
+               "s_time" : 4898.64699961618,
+               "time" : 2.8560003265693,
+               "type" : null,
+               "id" : "comp_364",
+               "e_time" : 4901.50299994275
+            }
+         ],
+         "download" : {
+            "s_time" : 4506.25999970362,
+            "id" : "download_106",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tps30.doubleverify.com/visit.js?ctx=1369890&cmp=7685065&ipos=&sid=108954&plc=98391162&adid=&crt=54833237&dvtagver=6.1.src&srcurlD=0&curl=&qpgid=&btreg=272959705&btadsrv=doubleclick&adsrv=1&advid=1411188&num=&pid=&crtname=&unit=&chnl=&ssl=0&uid=1378100939814474&scusrid=&refD=1&referrer=http%3A%2F%2Fcdn.optmd.com%2FV2%2F192386%2F534157%2Findex.html&aUrlD=&jsver=12&eparams=DC4FC%3Dl9EEATbpTauTauHHH%5DC676C6%3F46%5D4%40%3ETauU2%3F4r92%3A%3Fl9EEATbpTauTauHHH%5DC676C6%3F46%5D4%40%3ETar9EEATbpTauTau45%3F%5D%40AE%3E5%5D4%40%3EU2%26C%3Dl&jsCallback=dvCallback_1378100939814924",
+         "id" : "r116",
+         "comps" : [
+            {
+               "s_time" : 5111.69099994004,
+               "time" : 2.49799992889075,
+               "type" : 1,
+               "id" : "comp_375",
+               "e_time" : 5114.18899986893
+            }
+         ],
+         "download" : {
+            "s_time" : 4932.33900004998,
+            "id" : "download_107",
+            "type" : "text/javascript"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_21"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_33"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_35"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_46"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_49"
+      },
+      {
+         "a2" : "comp_7",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_7",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_12",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "comp_14",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "comp_16",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "comp_35",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_33"
+      },
+      {
+         "a2" : "comp_49",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_46"
+      },
+      {
+         "a2" : "r54_c2",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_257"
+      },
+      {
+         "a2" : "r54_c3",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_260"
+      },
+      {
+         "a2" : "r64_c2",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_210"
+      },
+      {
+         "a2" : "r64_c3",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_212"
+      },
+      {
+         "a2" : "comp_212",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "comp_210"
+      },
+      {
+         "a2" : "r87_c2",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "comp_353"
+      },
+      {
+         "a2" : "r87_c3",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "comp_375"
+      },
+      {
+         "a2" : "download_107",
+         "time" : -1,
+         "id" : "dep25",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_107",
+         "time" : -1,
+         "id" : "dep26",
+         "a1" : "r87_c2"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 3291.38699965552,
+         "id" : "dep27",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 83.9839996770106,
+         "id" : "dep28",
+         "a1" : "r87_c2"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 993.99499967694,
+         "id" : "dep29",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 86.2049995921598,
+         "id" : "dep30",
+         "a1" : "r87_c2"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 3206.46099979058,
+         "id" : "dep31",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_103",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 60.4009996168397,
+         "id" : "dep33",
+         "a1" : "r87_c2"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 3203.04899988696,
+         "id" : "dep34",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 1000.23999996483,
+         "id" : "dep35",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 892.62799965217,
+         "id" : "dep36",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 3060.32899999991,
+         "id" : "dep37",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 857.52000007778,
+         "id" : "dep38",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 2972.73099981248,
+         "id" : "dep39",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 769.92199989035,
+         "id" : "dep40",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 739.95599988848,
+         "id" : "dep41",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 507.89099978283,
+         "id" : "dep42",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 508.92799999565,
+         "id" : "dep43",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 0.988999847319974,
+         "id" : "dep44",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 138.77000007778,
+         "id" : "dep45",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 2142.72799994797,
+         "id" : "dep46",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 2.58499989285974,
+         "id" : "dep47",
+         "a1" : "comp_316"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 1765.51099959761,
+         "id" : "dep48",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 2142.38399965689,
+         "id" : "dep49",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 1981.48199962452,
+         "id" : "dep50",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 1973.2349999249,
+         "id" : "dep51",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 1892.38999970257,
+         "id" : "dep52",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 1781.95899957791,
+         "id" : "dep53",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 1762.52899970859,
+         "id" : "dep54",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 1478.87099999935,
+         "id" : "dep55",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 1503.28399986029,
+         "id" : "dep56",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 526.41799999401,
+         "id" : "dep57",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 334.41499993205,
+         "id" : "dep58",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 335.67899977788,
+         "id" : "dep59",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 335.10500006377,
+         "id" : "dep60",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 329.50600003823,
+         "id" : "dep61",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 333.89199990779,
+         "id" : "dep62",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 532.66299981624,
+         "id" : "dep63",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 530.39699979126,
+         "id" : "dep64",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 524.74799985066,
+         "id" : "dep65",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 53.4479999914799,
+         "id" : "dep66",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 292.33599966392,
+         "id" : "dep67",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_68",
+         "time" : -1,
+         "id" : "dep68",
+         "a1" : "r64_c1"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 358.39799977839,
+         "id" : "dep69",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 2.33200006187008,
+         "id" : "dep70",
+         "a1" : "r64_c1"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 357.96599974855,
+         "id" : "dep71",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 818.69899993762,
+         "id" : "dep72",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 49.5270001701999,
+         "id" : "dep73",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 288.41499984264,
+         "id" : "dep74",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 209.13199987262,
+         "id" : "dep75",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 729.82499981299,
+         "id" : "dep76",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 3.96099966019005,
+         "id" : "dep77",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 524.65399960056,
+         "id" : "dep78",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 3.38399969041006,
+         "id" : "dep79",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 524.07699963078,
+         "id" : "dep80",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 2.74399993941006,
+         "id" : "dep81",
+         "a1" : "r54_c1"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 523.43699987978,
+         "id" : "dep82",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 404.12199962884,
+         "id" : "dep83",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 318.92599957064,
+         "id" : "dep84",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 100.32799979672,
+         "id" : "dep85",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 257.95799959451,
+         "id" : "dep86",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 209.39799956977,
+         "id" : "dep87",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 16.24699961394,
+         "id" : "dep88",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 120.07299996913,
+         "id" : "dep89",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 90.4929996468099,
+         "id" : "dep90",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_50",
+         "time" : -1,
+         "id" : "dep91",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 80.5439995601801,
+         "id" : "dep92",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 45.1169996522399,
+         "id" : "dep93",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 2.25100014359009,
+         "id" : "dep94",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 2.63899983837996,
+         "id" : "dep95",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 5.56199997663998,
+         "id" : "dep96",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 6.59500015899994,
+         "id" : "dep97",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 6.14400021732013,
+         "id" : "dep98",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 47.014000359923,
+         "id" : "dep99",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 4.84499987215008,
+         "id" : "dep100",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 5.19500020891996,
+         "id" : "dep101",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 4.49900003150015,
+         "id" : "dep102",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 4.14999993517995,
+         "id" : "dep103",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 3.79600003361998,
+         "id" : "dep104",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 3.01200011745004,
+         "id" : "dep105",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 3.39600024745005,
+         "id" : "dep106",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 1.88399991021015,
+         "id" : "dep107",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 1.49200018495003,
+         "id" : "dep108",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 0.762000214310092,
+         "id" : "dep109",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_30",
+         "time" : -1,
+         "id" : "dep110",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 1.86499999835996,
+         "id" : "dep111",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 1.11899990588995,
+         "id" : "dep112",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 0.386999920010112,
+         "id" : "dep113",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 2.63399956747003,
+         "id" : "dep114",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_25",
+         "time" : -1,
+         "id" : "dep115",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 4.43700002505989,
+         "id" : "dep116",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 4.10000002010997,
+         "id" : "dep117",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 3.74899990855988,
+         "id" : "dep118",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 3.37499985470981,
+         "id" : "dep119",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 2.92300013825002,
+         "id" : "dep120",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 2.21000006421991,
+         "id" : "dep121",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 1.08500011264982,
+         "id" : "dep122",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 1.51199987157997,
+         "id" : "dep123",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_16",
+         "time" : -1,
+         "id" : "dep124",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_15",
+         "time" : -1,
+         "id" : "dep125",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 0.479999929666974,
+         "id" : "dep126",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_13",
+         "time" : -1,
+         "id" : "dep127",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_12",
+         "time" : -1,
+         "id" : "dep128",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 45.301000121981,
+         "id" : "dep129",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 44.885999988765,
+         "id" : "dep130",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 44.375000055879,
+         "id" : "dep131",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 8.22999980300705,
+         "id" : "dep132",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 7.38100009039005,
+         "id" : "dep133",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 6.49000005796501,
+         "id" : "dep134",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 6.97499979287403,
+         "id" : "dep135",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 7.81199987977703,
+         "id" : "dep136",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 5.71200018748601,
+         "id" : "dep137",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 8.950000163168,
+         "id" : "dep138",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 9.442999958992,
+         "id" : "dep139",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 9.442999958992,
+         "id" : "dep140",
+         "a1" : "r1_c1"
+      }
+   ]
+}

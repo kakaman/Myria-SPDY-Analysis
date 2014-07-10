@@ -1,0 +1,565 @@
+{"page": "www.google.ro_"}
+{"DOMLoad": 2264968.955567}
+{"Resource": {"id": 1, "url": "https://www.google.ro/", "sentTime": -1.000000, "len": 103191, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 6474, "connReused": 0, "cached": 0,                            "requestTime": 2264967.376584, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 414, "sendStart": 414, "sendEnd": 415, "receiveHeadersEnd": 463, "sslStart": 9, "sslEnd": 414}}
+{"ReceivedChunk": {"receivedTime": 2264967.870172, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2264967.930118, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2264968.059132, "len": 4887}}
+{"ObjectHash": {"code": "0x40463c0", "doc": "https://www.google.ro/", "row": 0, "column": 71, "tagName": "html", "time": 2264967.894646, "url": "", "pos": 71, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404be50", "doc": "https://www.google.ro/", "row": 0, "column": 77, "tagName": "head", "time": 2264967.894972, "url": "", "pos": 77, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404bf80", "doc": "https://www.google.ro/", "row": 0, "column": 141, "tagName": "meta", "time": 2264967.894997, "url": "", "pos": 141, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404c1b0", "doc": "https://www.google.ro/", "row": 0, "column": 190, "tagName": "meta", "time": 2264967.895029, "url": "", "pos": 190, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404c260", "doc": "https://www.google.ro/", "row": 0, "column": 197, "tagName": "title", "time": 2264967.895050, "url": "", "pos": 197, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059b90", "doc": "https://www.google.ro/", "row": 0, "column": 211, "tagName": "title", "time": 2264967.901031, "url": "", "pos": 211, "chunkLen": 32768, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059550", "doc": "https://www.google.ro/", "row": 0, "column": 219, "tagName": "script", "time": 2264967.901040, "url": "", "pos": 219, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059b60", "doc": "https://www.google.ro/", "row": 9, "column": 2393, "tagName": "script", "time": 2264967.901313, "url": "", "pos": 6131, "chunkLen": 32768, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ad50", "doc": "https://www.google.ro/", "row": 9, "column": 2400, "tagName": "style", "time": 2264967.928528, "url": "", "pos": 6138, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059440", "doc": "https://www.google.ro/", "row": 9, "column": 46976, "tagName": "style", "time": 2264967.931795, "url": "", "pos": 50714, "chunkLen": 98233, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4374c30", "doc": "https://www.google.ro/", "row": 9, "column": 46995, "tagName": "style", "time": 2264967.941704, "url": "", "pos": 50733, "chunkLen": 98233, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43800b0", "doc": "https://www.google.ro/", "row": 9, "column": 50068, "tagName": "style", "time": 2264967.941845, "url": "", "pos": 53806, "chunkLen": 98233, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4374a30", "doc": "https://www.google.ro/", "row": 9, "column": 50075, "tagName": "style", "time": 2264967.942927, "url": "", "pos": 53813, "chunkLen": 98233, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380080", "doc": "https://www.google.ro/", "row": 9, "column": 54046, "tagName": "style", "time": 2264967.943087, "url": "", "pos": 57784, "chunkLen": 98233, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382380", "doc": "https://www.google.ro/", "row": 9, "column": 54054, "tagName": "script", "time": 2264967.943981, "url": "", "pos": 57792, "chunkLen": 98233, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4370b80", "doc": "https://www.google.ro/", "row": 65, "column": 770, "tagName": "script", "time": 2264967.945125, "url": "", "pos": 83337, "chunkLen": 98233, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b030", "doc": "https://www.google.ro/", "row": 65, "column": 778, "tagName": "head", "time": 2264967.962185, "url": "", "pos": 50577, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b4f0", "doc": "https://www.google.ro/", "row": 65, "column": 1062, "tagName": "body", "time": 2264967.962238, "url": "", "pos": 50861, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405ba70", "doc": "https://www.google.ro/", "row": 65, "column": 1095, "tagName": "div", "time": 2264967.962481, "url": "", "pos": 50894, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405b2a0", "doc": "https://www.google.ro/", "row": 65, "column": 1149, "tagName": "div", "time": 2264967.962565, "url": "", "pos": 50948, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c160", "doc": "https://www.google.ro/", "row": 65, "column": 1165, "tagName": "div", "time": 2264967.962645, "url": "", "pos": 50964, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c210", "doc": "https://www.google.ro/", "row": 65, "column": 1171, "tagName": "span", "time": 2264967.962655, "url": "", "pos": 50970, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405bfe0", "doc": "https://www.google.ro/", "row": 65, "column": 1177, "tagName": "span", "time": 2264967.962666, "url": "", "pos": 50976, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c080", "doc": "https://www.google.ro/", "row": 65, "column": 1190, "tagName": "span", "time": 2264967.962675, "url": "", "pos": 50989, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c0e0", "doc": "https://www.google.ro/", "row": 65, "column": 1257, "tagName": "span", "time": 2264967.962693, "url": "", "pos": 51056, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c450", "doc": "https://www.google.ro/", "row": 65, "column": 1342, "tagName": "a", "time": 2264967.962720, "url": "", "pos": 51141, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c5b0", "doc": "https://www.google.ro/", "row": 65, "column": 1362, "tagName": "a", "time": 2264967.962753, "url": "", "pos": 51161, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c330", "doc": "https://www.google.ro/", "row": 65, "column": 1368, "tagName": "div", "time": 2264967.962756, "url": "", "pos": 51167, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c380", "doc": "https://www.google.ro/", "row": 65, "column": 1384, "tagName": "div", "time": 2264967.962760, "url": "", "pos": 51183, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c670", "doc": "https://www.google.ro/", "row": 65, "column": 1390, "tagName": "span", "time": 2264967.962769, "url": "", "pos": 51189, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c730", "doc": "https://www.google.ro/", "row": 65, "column": 1403, "tagName": "span", "time": 2264967.962777, "url": "", "pos": 51202, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c930", "doc": "https://www.google.ro/", "row": 65, "column": 1502, "tagName": "div", "time": 2264967.962786, "url": "", "pos": 51301, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c880", "doc": "https://www.google.ro/", "row": 65, "column": 1518, "tagName": "div", "time": 2264967.962790, "url": "", "pos": 51317, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c9f0", "doc": "https://www.google.ro/", "row": 65, "column": 1556, "tagName": "div", "time": 2264967.962801, "url": "", "pos": 51355, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ca20", "doc": "https://www.google.ro/", "row": 65, "column": 1562, "tagName": "div", "time": 2264967.963073, "url": "", "pos": 51361, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405c5e0", "doc": "https://www.google.ro/", "row": 65, "column": 1576, "tagName": "div", "time": 2264967.963080, "url": "", "pos": 51375, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405cb70", "doc": "https://www.google.ro/", "row": 65, "column": 1602, "tagName": "div", "time": 2264967.963112, "url": "", "pos": 51401, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405cd80", "doc": "https://www.google.ro/", "row": 65, "column": 1614, "tagName": "div", "time": 2264967.963146, "url": "", "pos": 51413, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ccf0", "doc": "https://www.google.ro/", "row": 65, "column": 1620, "tagName": "div", "time": 2264967.963149, "url": "", "pos": 51419, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405cd20", "doc": "https://www.google.ro/", "row": 65, "column": 1762, "tagName": "a", "time": 2264967.963180, "url": "", "pos": 51561, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405d360", "doc": "https://www.google.ro/", "row": 65, "column": 1861, "tagName": "a", "time": 2264967.963334, "url": "", "pos": 51660, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ce50", "doc": "https://www.google.ro/", "row": 65, "column": 1914, "tagName": "textarea", "time": 2264967.963348, "url": "", "pos": 51713, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4386890", "doc": "https://www.google.ro/", "row": 65, "column": 1925, "tagName": "textarea", "time": 2264967.974139, "url": "", "pos": 51724, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383370", "doc": "https://www.google.ro/", "row": 65, "column": 1933, "tagName": "script", "time": 2264967.974159, "url": "", "pos": 51732, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43779c0", "doc": "https://www.google.ro/", "row": 65, "column": 1996, "tagName": "script", "time": 2264967.974219, "url": "", "pos": 51795, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4386d30", "doc": "https://www.google.ro/", "row": 65, "column": 2011, "tagName": "div", "time": 2264967.974918, "url": "", "pos": 51810, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4386ec0", "doc": "https://www.google.ro/", "row": 65, "column": 2022, "tagName": "div", "time": 2264967.974965, "url": "", "pos": 51821, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4387140", "doc": "https://www.google.ro/", "row": 65, "column": 2030, "tagName": "script", "time": 2264967.975022, "url": "", "pos": 51829, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4386cb0", "doc": "https://www.google.ro/", "row": 65, "column": 2072, "tagName": "script", "time": 2264967.975047, "url": "", "pos": 51871, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43877e0", "doc": "https://www.google.ro/", "row": 65, "column": 2084, "tagName": "div", "time": 2264967.975995, "url": "", "pos": 51883, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4387890", "doc": "https://www.google.ro/", "row": 65, "column": 2097, "tagName": "div", "time": 2264967.976041, "url": "", "pos": 51896, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388240", "doc": "https://www.google.ro/", "row": 65, "column": 2109, "tagName": "div", "time": 2264967.976094, "url": "", "pos": 51908, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388540", "doc": "https://www.google.ro/", "row": 65, "column": 2127, "tagName": "span", "time": 2264967.976133, "url": "", "pos": 51926, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388840", "doc": "https://www.google.ro/", "row": 65, "column": 2134, "tagName": "span", "time": 2264967.976165, "url": "", "pos": 51933, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388870", "doc": "https://www.google.ro/", "row": 65, "column": 2157, "tagName": "ol", "time": 2264967.976174, "url": "", "pos": 51956, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388b90", "doc": "https://www.google.ro/", "row": 65, "column": 2171, "tagName": "li", "time": 2264967.976251, "url": "", "pos": 51970, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388fd0", "doc": "https://www.google.ro/", "row": 65, "column": 2281, "tagName": "a", "time": 2264967.976319, "url": "", "pos": 52080, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4389270", "doc": "https://www.google.ro/", "row": 65, "column": 2299, "tagName": "span", "time": 2264967.976454, "url": "", "pos": 52098, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4389670", "doc": "https://www.google.ro/", "row": 65, "column": 2306, "tagName": "span", "time": 2264967.976482, "url": "", "pos": 52105, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43896a0", "doc": "https://www.google.ro/", "row": 65, "column": 2323, "tagName": "span", "time": 2264967.976487, "url": "", "pos": 52122, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4389d80", "doc": "https://www.google.ro/", "row": 65, "column": 2335, "tagName": "span", "time": 2264967.976563, "url": "", "pos": 52134, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4389db0", "doc": "https://www.google.ro/", "row": 65, "column": 2339, "tagName": "a", "time": 2264967.976567, "url": "", "pos": 52138, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4389de0", "doc": "https://www.google.ro/", "row": 65, "column": 2344, "tagName": "li", "time": 2264967.976570, "url": "", "pos": 52143, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4389e10", "doc": "https://www.google.ro/", "row": 65, "column": 2358, "tagName": "li", "time": 2264967.976574, "url": "", "pos": 52157, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438a020", "doc": "https://www.google.ro/", "row": 65, "column": 2474, "tagName": "a", "time": 2264967.976615, "url": "", "pos": 52273, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438a2b0", "doc": "https://www.google.ro/", "row": 65, "column": 2492, "tagName": "span", "time": 2264967.976668, "url": "", "pos": 52291, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438a5c0", "doc": "https://www.google.ro/", "row": 65, "column": 2499, "tagName": "span", "time": 2264967.976694, "url": "", "pos": 52298, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438a5f0", "doc": "https://www.google.ro/", "row": 65, "column": 2516, "tagName": "span", "time": 2264967.976699, "url": "", "pos": 52315, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ac70", "doc": "https://www.google.ro/", "row": 65, "column": 2530, "tagName": "span", "time": 2264967.976750, "url": "", "pos": 52329, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388950", "doc": "https://www.google.ro/", "row": 65, "column": 2534, "tagName": "a", "time": 2264967.976755, "url": "", "pos": 52333, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438a270", "doc": "https://www.google.ro/", "row": 65, "column": 2539, "tagName": "li", "time": 2264967.976757, "url": "", "pos": 52338, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388980", "doc": "https://www.google.ro/", "row": 65, "column": 2553, "tagName": "li", "time": 2264967.976761, "url": "", "pos": 52352, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438af70", "doc": "https://www.google.ro/", "row": 65, "column": 2670, "tagName": "a", "time": 2264967.976791, "url": "", "pos": 52469, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43889f0", "doc": "https://www.google.ro/", "row": 65, "column": 2688, "tagName": "span", "time": 2264967.976847, "url": "", "pos": 52487, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4389000", "doc": "https://www.google.ro/", "row": 65, "column": 2695, "tagName": "span", "time": 2264967.976866, "url": "", "pos": 52494, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4389030", "doc": "https://www.google.ro/", "row": 65, "column": 2712, "tagName": "span", "time": 2264967.976871, "url": "", "pos": 52511, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b310", "doc": "https://www.google.ro/", "row": 65, "column": 2726, "tagName": "span", "time": 2264967.976901, "url": "", "pos": 52525, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b340", "doc": "https://www.google.ro/", "row": 65, "column": 2730, "tagName": "a", "time": 2264967.976904, "url": "", "pos": 52529, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b370", "doc": "https://www.google.ro/", "row": 65, "column": 2735, "tagName": "li", "time": 2264967.976907, "url": "", "pos": 52534, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b3a0", "doc": "https://www.google.ro/", "row": 65, "column": 2749, "tagName": "li", "time": 2264967.976910, "url": "", "pos": 52548, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b620", "doc": "https://www.google.ro/", "row": 65, "column": 2866, "tagName": "a", "time": 2264967.976939, "url": "", "pos": 52665, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b410", "doc": "https://www.google.ro/", "row": 65, "column": 2884, "tagName": "span", "time": 2264967.976984, "url": "", "pos": 52683, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b800", "doc": "https://www.google.ro/", "row": 65, "column": 2891, "tagName": "span", "time": 2264967.977002, "url": "", "pos": 52690, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b830", "doc": "https://www.google.ro/", "row": 65, "column": 2908, "tagName": "span", "time": 2264967.977007, "url": "", "pos": 52707, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b970", "doc": "https://www.google.ro/", "row": 65, "column": 2920, "tagName": "span", "time": 2264967.977036, "url": "", "pos": 52719, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b9a0", "doc": "https://www.google.ro/", "row": 65, "column": 2924, "tagName": "a", "time": 2264967.977040, "url": "", "pos": 52723, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b9d0", "doc": "https://www.google.ro/", "row": 65, "column": 2929, "tagName": "li", "time": 2264967.977042, "url": "", "pos": 52728, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438aca0", "doc": "https://www.google.ro/", "row": 65, "column": 2943, "tagName": "li", "time": 2264967.977046, "url": "", "pos": 52742, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438bd00", "doc": "https://www.google.ro/", "row": 65, "column": 3059, "tagName": "a", "time": 2264967.977075, "url": "", "pos": 52858, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ad30", "doc": "https://www.google.ro/", "row": 65, "column": 3077, "tagName": "span", "time": 2264967.977121, "url": "", "pos": 52876, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ad60", "doc": "https://www.google.ro/", "row": 65, "column": 3084, "tagName": "span", "time": 2264967.977138, "url": "", "pos": 52883, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438bf00", "doc": "https://www.google.ro/", "row": 65, "column": 3101, "tagName": "span", "time": 2264967.977143, "url": "", "pos": 52900, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c070", "doc": "https://www.google.ro/", "row": 65, "column": 3115, "tagName": "span", "time": 2264967.977183, "url": "", "pos": 52914, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c0a0", "doc": "https://www.google.ro/", "row": 65, "column": 3119, "tagName": "a", "time": 2264967.977186, "url": "", "pos": 52918, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c0d0", "doc": "https://www.google.ro/", "row": 65, "column": 3124, "tagName": "li", "time": 2264967.977189, "url": "", "pos": 52923, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c100", "doc": "https://www.google.ro/", "row": 65, "column": 3138, "tagName": "li", "time": 2264967.977192, "url": "", "pos": 52937, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c2c0", "doc": "https://www.google.ro/", "row": 65, "column": 3239, "tagName": "a", "time": 2264967.977219, "url": "", "pos": 53038, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c4f0", "doc": "https://www.google.ro/", "row": 65, "column": 3257, "tagName": "span", "time": 2264967.977267, "url": "", "pos": 53056, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c560", "doc": "https://www.google.ro/", "row": 65, "column": 3264, "tagName": "span", "time": 2264967.977284, "url": "", "pos": 53063, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c590", "doc": "https://www.google.ro/", "row": 65, "column": 3281, "tagName": "span", "time": 2264967.977289, "url": "", "pos": 53080, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c6e0", "doc": "https://www.google.ro/", "row": 65, "column": 3293, "tagName": "span", "time": 2264967.977319, "url": "", "pos": 53092, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c710", "doc": "https://www.google.ro/", "row": 65, "column": 3297, "tagName": "a", "time": 2264967.977323, "url": "", "pos": 53096, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c740", "doc": "https://www.google.ro/", "row": 65, "column": 3302, "tagName": "li", "time": 2264967.977325, "url": "", "pos": 53101, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c770", "doc": "https://www.google.ro/", "row": 65, "column": 3316, "tagName": "li", "time": 2264967.977329, "url": "", "pos": 53115, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c8f0", "doc": "https://www.google.ro/", "row": 65, "column": 3413, "tagName": "a", "time": 2264967.977371, "url": "", "pos": 53212, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438caf0", "doc": "https://www.google.ro/", "row": 65, "column": 3431, "tagName": "span", "time": 2264967.977419, "url": "", "pos": 53230, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438cbc0", "doc": "https://www.google.ro/", "row": 65, "column": 3438, "tagName": "span", "time": 2264967.977437, "url": "", "pos": 53237, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438cbf0", "doc": "https://www.google.ro/", "row": 65, "column": 3455, "tagName": "span", "time": 2264967.977442, "url": "", "pos": 53254, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438cd40", "doc": "https://www.google.ro/", "row": 65, "column": 3467, "tagName": "span", "time": 2264967.977472, "url": "", "pos": 53266, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ba00", "doc": "https://www.google.ro/", "row": 65, "column": 3471, "tagName": "a", "time": 2264967.977477, "url": "", "pos": 53270, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ba30", "doc": "https://www.google.ro/", "row": 65, "column": 3476, "tagName": "li", "time": 2264967.977479, "url": "", "pos": 53275, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ba60", "doc": "https://www.google.ro/", "row": 65, "column": 3490, "tagName": "li", "time": 2264967.977483, "url": "", "pos": 53289, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ce20", "doc": "https://www.google.ro/", "row": 65, "column": 3593, "tagName": "a", "time": 2264967.977509, "url": "", "pos": 53392, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d000", "doc": "https://www.google.ro/", "row": 65, "column": 3611, "tagName": "span", "time": 2264967.977555, "url": "", "pos": 53410, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d070", "doc": "https://www.google.ro/", "row": 65, "column": 3618, "tagName": "span", "time": 2264967.977582, "url": "", "pos": 53417, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d0a0", "doc": "https://www.google.ro/", "row": 65, "column": 3635, "tagName": "span", "time": 2264967.977587, "url": "", "pos": 53434, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d220", "doc": "https://www.google.ro/", "row": 65, "column": 3650, "tagName": "span", "time": 2264967.977618, "url": "", "pos": 53449, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d250", "doc": "https://www.google.ro/", "row": 65, "column": 3654, "tagName": "a", "time": 2264967.977622, "url": "", "pos": 53453, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d280", "doc": "https://www.google.ro/", "row": 65, "column": 3659, "tagName": "li", "time": 2264967.977624, "url": "", "pos": 53458, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d2b0", "doc": "https://www.google.ro/", "row": 65, "column": 3673, "tagName": "li", "time": 2264967.977628, "url": "", "pos": 53472, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d540", "doc": "https://www.google.ro/", "row": 65, "column": 3793, "tagName": "a", "time": 2264967.977657, "url": "", "pos": 53592, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d320", "doc": "https://www.google.ro/", "row": 65, "column": 3811, "tagName": "span", "time": 2264967.977704, "url": "", "pos": 53610, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d720", "doc": "https://www.google.ro/", "row": 65, "column": 3818, "tagName": "span", "time": 2264967.977721, "url": "", "pos": 53617, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d750", "doc": "https://www.google.ro/", "row": 65, "column": 3835, "tagName": "span", "time": 2264967.977726, "url": "", "pos": 53634, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d910", "doc": "https://www.google.ro/", "row": 65, "column": 3851, "tagName": "span", "time": 2264967.977757, "url": "", "pos": 53650, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d940", "doc": "https://www.google.ro/", "row": 65, "column": 3855, "tagName": "a", "time": 2264967.977761, "url": "", "pos": 53654, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d970", "doc": "https://www.google.ro/", "row": 65, "column": 3860, "tagName": "li", "time": 2264967.977763, "url": "", "pos": 53659, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d9a0", "doc": "https://www.google.ro/", "row": 65, "column": 3874, "tagName": "li", "time": 2264967.977767, "url": "", "pos": 53673, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438db80", "doc": "https://www.google.ro/", "row": 65, "column": 4005, "tagName": "a", "time": 2264967.977795, "url": "", "pos": 53804, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438da70", "doc": "https://www.google.ro/", "row": 65, "column": 4023, "tagName": "span", "time": 2264967.977837, "url": "", "pos": 53822, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438dc40", "doc": "https://www.google.ro/", "row": 65, "column": 4030, "tagName": "span", "time": 2264967.977854, "url": "", "pos": 53829, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438de80", "doc": "https://www.google.ro/", "row": 65, "column": 4065, "tagName": "span", "time": 2264967.977861, "url": "", "pos": 53864, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438e2a0", "doc": "https://www.google.ro/", "row": 65, "column": 4082, "tagName": "span", "time": 2264967.977911, "url": "", "pos": 53881, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438e480", "doc": "https://www.google.ro/", "row": 65, "column": 4098, "tagName": "span", "time": 2264967.977955, "url": "", "pos": 53897, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438e540", "doc": "https://www.google.ro/", "row": 65, "column": 4115, "tagName": "span", "time": 2264967.977961, "url": "", "pos": 53914, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438e9f0", "doc": "https://www.google.ro/", "row": 65, "column": 4122, "tagName": "span", "time": 2264967.978002, "url": "", "pos": 53921, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ea20", "doc": "https://www.google.ro/", "row": 65, "column": 4129, "tagName": "span", "time": 2264967.978005, "url": "", "pos": 53928, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438eb00", "doc": "https://www.google.ro/", "row": 65, "column": 4133, "tagName": "a", "time": 2264967.978009, "url": "", "pos": 53932, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438eb60", "doc": "https://www.google.ro/", "row": 65, "column": 4172, "tagName": "div", "time": 2264967.978015, "url": "", "pos": 53971, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ee70", "doc": "https://www.google.ro/", "row": 65, "column": 4211, "tagName": "div", "time": 2264967.978074, "url": "", "pos": 54010, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f3f0", "doc": "https://www.google.ro/", "row": 65, "column": 4244, "tagName": "ol", "time": 2264967.978118, "url": "", "pos": 54043, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f770", "doc": "https://www.google.ro/", "row": 65, "column": 4260, "tagName": "li", "time": 2264967.978215, "url": "", "pos": 54059, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438fac0", "doc": "https://www.google.ro/", "row": 65, "column": 4356, "tagName": "a", "time": 2264967.978306, "url": "", "pos": 54155, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390040", "doc": "https://www.google.ro/", "row": 65, "column": 4367, "tagName": "a", "time": 2264967.978394, "url": "", "pos": 54166, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390070", "doc": "https://www.google.ro/", "row": 65, "column": 4372, "tagName": "li", "time": 2264967.978399, "url": "", "pos": 54171, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43900a0", "doc": "https://www.google.ro/", "row": 65, "column": 4388, "tagName": "li", "time": 2264967.978403, "url": "", "pos": 54187, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43902c0", "doc": "https://www.google.ro/", "row": 65, "column": 4504, "tagName": "a", "time": 2264967.978445, "url": "", "pos": 54303, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390110", "doc": "https://www.google.ro/", "row": 65, "column": 4518, "tagName": "a", "time": 2264967.978497, "url": "", "pos": 54317, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390140", "doc": "https://www.google.ro/", "row": 65, "column": 4523, "tagName": "li", "time": 2264967.978501, "url": "", "pos": 54322, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390170", "doc": "https://www.google.ro/", "row": 65, "column": 4539, "tagName": "li", "time": 2264967.978505, "url": "", "pos": 54338, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390730", "doc": "https://www.google.ro/", "row": 65, "column": 4654, "tagName": "a", "time": 2264967.978548, "url": "", "pos": 54453, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390560", "doc": "https://www.google.ro/", "row": 65, "column": 4670, "tagName": "a", "time": 2264967.978592, "url": "", "pos": 54469, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390590", "doc": "https://www.google.ro/", "row": 65, "column": 4675, "tagName": "li", "time": 2264967.978596, "url": "", "pos": 54474, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390600", "doc": "https://www.google.ro/", "row": 65, "column": 4691, "tagName": "li", "time": 2264967.978599, "url": "", "pos": 54490, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390990", "doc": "https://www.google.ro/", "row": 65, "column": 4714, "tagName": "div", "time": 2264967.978631, "url": "", "pos": 54513, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390c80", "doc": "https://www.google.ro/", "row": 65, "column": 4720, "tagName": "div", "time": 2264967.978676, "url": "", "pos": 54519, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390cb0", "doc": "https://www.google.ro/", "row": 65, "column": 4725, "tagName": "li", "time": 2264967.978680, "url": "", "pos": 54524, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390db0", "doc": "https://www.google.ro/", "row": 65, "column": 4741, "tagName": "li", "time": 2264967.978683, "url": "", "pos": 54540, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438d870", "doc": "https://www.google.ro/", "row": 65, "column": 4834, "tagName": "a", "time": 2264967.978708, "url": "", "pos": 54633, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4391180", "doc": "https://www.google.ro/", "row": 65, "column": 4850, "tagName": "a", "time": 2264967.978776, "url": "", "pos": 54649, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d7c0", "doc": "https://www.google.ro/", "row": 65, "column": 4855, "tagName": "li", "time": 2264967.978779, "url": "", "pos": 54654, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438d7f0", "doc": "https://www.google.ro/", "row": 65, "column": 4860, "tagName": "ol", "time": 2264967.978782, "url": "", "pos": 54659, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43911b0", "doc": "https://www.google.ro/", "row": 65, "column": 4877, "tagName": "div", "time": 2264967.978786, "url": "", "pos": 54676, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4391a60", "doc": "https://www.google.ro/", "row": 65, "column": 4883, "tagName": "div", "time": 2264967.978905, "url": "", "pos": 54682, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4391a90", "doc": "https://www.google.ro/", "row": 65, "column": 4900, "tagName": "div", "time": 2264967.978911, "url": "", "pos": 54699, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ac00", "doc": "https://www.google.ro/", "row": 65, "column": 4906, "tagName": "div", "time": 2264967.979039, "url": "", "pos": 54705, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390d80", "doc": "https://www.google.ro/", "row": 65, "column": 4912, "tagName": "div", "time": 2264967.979042, "url": "", "pos": 54711, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388640", "doc": "https://www.google.ro/", "row": 65, "column": 4918, "tagName": "div", "time": 2264967.979045, "url": "", "pos": 54717, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438f870", "doc": "https://www.google.ro/", "row": 65, "column": 4923, "tagName": "li", "time": 2264967.979060, "url": "", "pos": 54722, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43928c0", "doc": "https://www.google.ro/", "row": 65, "column": 4928, "tagName": "ol", "time": 2264967.979064, "url": "", "pos": 54727, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438f4c0", "doc": "https://www.google.ro/", "row": 65, "column": 4934, "tagName": "div", "time": 2264967.979066, "url": "", "pos": 54733, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4389370", "doc": "https://www.google.ro/", "row": 65, "column": 4940, "tagName": "div", "time": 2264967.979068, "url": "", "pos": 54739, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438fff0", "doc": "https://www.google.ro/", "row": 65, "column": 4952, "tagName": "div", "time": 2264967.979073, "url": "", "pos": 54751, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4392ad0", "doc": "https://www.google.ro/", "row": 65, "column": 4983, "tagName": "div", "time": 2264967.979112, "url": "", "pos": 54782, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4392fd0", "doc": "https://www.google.ro/", "row": 65, "column": 5097, "tagName": "a", "time": 2264967.979174, "url": "", "pos": 54896, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393140", "doc": "https://www.google.ro/", "row": 65, "column": 5113, "tagName": "table", "time": 2264967.979200, "url": "", "pos": 54912, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393170", "doc": "https://www.google.ro/", "row": 65, "column": 5117, "tagName": "tr", "time": 2264967.979230, "url": "", "pos": 54916, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393220", "doc": "https://www.google.ro/", "row": 65, "column": 5141, "tagName": "td", "time": 2264967.979251, "url": "", "pos": 54940, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393290", "doc": "https://www.google.ro/", "row": 65, "column": 5155, "tagName": "span", "time": 2264967.979276, "url": "", "pos": 54954, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393320", "doc": "https://www.google.ro/", "row": 65, "column": 5162, "tagName": "span", "time": 2264967.979287, "url": "", "pos": 54961, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4393350", "doc": "https://www.google.ro/", "row": 65, "column": 5167, "tagName": "td", "time": 2264967.979291, "url": "", "pos": 54966, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4393380", "doc": "https://www.google.ro/", "row": 65, "column": 5172, "tagName": "tr", "time": 2264967.979293, "url": "", "pos": 54971, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43933b0", "doc": "https://www.google.ro/", "row": 65, "column": 5180, "tagName": "table", "time": 2264967.979295, "url": "", "pos": 54979, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43933e0", "doc": "https://www.google.ro/", "row": 65, "column": 5198, "tagName": "div", "time": 2264967.979330, "url": "", "pos": 54997, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393480", "doc": "https://www.google.ro/", "row": 65, "column": 5204, "tagName": "div", "time": 2264967.979342, "url": "", "pos": 55003, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43934b0", "doc": "https://www.google.ro/", "row": 65, "column": 5208, "tagName": "a", "time": 2264967.979345, "url": "", "pos": 55007, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43934e0", "doc": "https://www.google.ro/", "row": 65, "column": 5214, "tagName": "div", "time": 2264967.979347, "url": "", "pos": 55013, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4393510", "doc": "https://www.google.ro/", "row": 65, "column": 5245, "tagName": "div", "time": 2264967.979352, "url": "", "pos": 55044, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393740", "doc": "https://www.google.ro/", "row": 65, "column": 5260, "tagName": "div", "time": 2264967.979413, "url": "", "pos": 55059, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393960", "doc": "https://www.google.ro/", "row": 65, "column": 5343, "tagName": "form", "time": 2264967.979443, "url": "", "pos": 55142, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43938c0", "doc": "https://www.google.ro/", "row": 65, "column": 5364, "tagName": "fieldset", "time": 2264967.979634, "url": "", "pos": 55163, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393e80", "doc": "https://www.google.ro/", "row": 65, "column": 5383, "tagName": "legend", "time": 2264967.979706, "url": "", "pos": 55182, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394120", "doc": "https://www.google.ro/", "row": 65, "column": 5407, "tagName": "legend", "time": 2264967.979775, "url": "", "pos": 55206, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4394170", "doc": "https://www.google.ro/", "row": 65, "column": 5422, "tagName": "div", "time": 2264967.979782, "url": "", "pos": 55221, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394220", "doc": "https://www.google.ro/", "row": 65, "column": 5470, "tagName": "input", "time": 2264967.980604, "url": "", "pos": 55269, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394760", "doc": "https://www.google.ro/", "row": 65, "column": 5519, "tagName": "input", "time": 2264967.980771, "url": "", "pos": 55318, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394820", "doc": "https://www.google.ro/", "row": 65, "column": 5525, "tagName": "div", "time": 2264967.980794, "url": "", "pos": 55324, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4394990", "doc": "https://www.google.ro/", "row": 65, "column": 5536, "tagName": "fieldset", "time": 2264967.980798, "url": "", "pos": 55335, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43949c0", "doc": "https://www.google.ro/", "row": 65, "column": 5567, "tagName": "fieldset", "time": 2264967.980803, "url": "", "pos": 55366, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394cd0", "doc": "https://www.google.ro/", "row": 65, "column": 5586, "tagName": "legend", "time": 2264967.980880, "url": "", "pos": 55385, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394df0", "doc": "https://www.google.ro/", "row": 65, "column": 5595, "tagName": "legend", "time": 2264967.980922, "url": "", "pos": 55394, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4394fd0", "doc": "https://www.google.ro/", "row": 65, "column": 5625, "tagName": "div", "time": 2264967.980930, "url": "", "pos": 55424, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390f60", "doc": "https://www.google.ro/", "row": 65, "column": 5653, "tagName": "div", "time": 2264967.980964, "url": "", "pos": 55452, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43953a0", "doc": "https://www.google.ro/", "row": 65, "column": 5683, "tagName": "div", "time": 2264967.981018, "url": "", "pos": 55482, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43956f0", "doc": "https://www.google.ro/", "row": 65, "column": 5756, "tagName": "input", "time": 2264967.981056, "url": "", "pos": 55555, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40623a0", "doc": "https://www.google.ro/", "row": 65, "column": 5762, "tagName": "div", "time": 2264968.035432, "url": "", "pos": 55561, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40623d0", "doc": "https://www.google.ro/", "row": 65, "column": 5768, "tagName": "div", "time": 2264968.035441, "url": "", "pos": 55567, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4062400", "doc": "https://www.google.ro/", "row": 65, "column": 5774, "tagName": "div", "time": 2264968.035444, "url": "", "pos": 55573, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4062430", "doc": "https://www.google.ro/", "row": 65, "column": 5785, "tagName": "fieldset", "time": 2264968.035446, "url": "", "pos": 55584, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4062460", "doc": "https://www.google.ro/", "row": 65, "column": 5800, "tagName": "div", "time": 2264968.035453, "url": "", "pos": 55599, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062650", "doc": "https://www.google.ro/", "row": 65, "column": 5867, "tagName": "button", "time": 2264968.035516, "url": "", "pos": 55666, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062800", "doc": "https://www.google.ro/", "row": 65, "column": 5885, "tagName": "span", "time": 2264968.035553, "url": "", "pos": 55684, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40628b0", "doc": "https://www.google.ro/", "row": 65, "column": 5892, "tagName": "span", "time": 2264968.035571, "url": "", "pos": 55691, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40628e0", "doc": "https://www.google.ro/", "row": 65, "column": 5901, "tagName": "button", "time": 2264968.035575, "url": "", "pos": 55700, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4062910", "doc": "https://www.google.ro/", "row": 65, "column": 5907, "tagName": "div", "time": 2264968.035577, "url": "", "pos": 55706, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4062960", "doc": "https://www.google.ro/", "row": 65, "column": 5933, "tagName": "div", "time": 2264968.035584, "url": "", "pos": 55732, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062b10", "doc": "https://www.google.ro/", "row": 65, "column": 6002, "tagName": "button", "time": 2264968.035639, "url": "", "pos": 55801, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40641e0", "doc": "https://www.google.ro/", "row": 65, "column": 6018, "tagName": "span", "time": 2264968.035955, "url": "", "pos": 55817, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064630", "doc": "https://www.google.ro/", "row": 65, "column": 6039, "tagName": "span", "time": 2264968.036002, "url": "", "pos": 55838, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064660", "doc": "https://www.google.ro/", "row": 65, "column": 6048, "tagName": "button", "time": 2264968.036007, "url": "", "pos": 55847, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064700", "doc": "https://www.google.ro/", "row": 65, "column": 6201, "tagName": "button", "time": 2264968.036021, "url": "", "pos": 56000, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064690", "doc": "https://www.google.ro/", "row": 65, "column": 6217, "tagName": "span", "time": 2264968.036103, "url": "", "pos": 56016, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065220", "doc": "https://www.google.ro/", "row": 65, "column": 6239, "tagName": "span", "time": 2264968.036146, "url": "", "pos": 56038, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065250", "doc": "https://www.google.ro/", "row": 65, "column": 6248, "tagName": "button", "time": 2264968.036151, "url": "", "pos": 56047, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065280", "doc": "https://www.google.ro/", "row": 65, "column": 6254, "tagName": "div", "time": 2264968.036153, "url": "", "pos": 56053, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40652b0", "doc": "https://www.google.ro/", "row": 65, "column": 6261, "tagName": "form", "time": 2264968.036154, "url": "", "pos": 56060, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40652e0", "doc": "https://www.google.ro/", "row": 65, "column": 6267, "tagName": "div", "time": 2264968.036158, "url": "", "pos": 56066, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065310", "doc": "https://www.google.ro/", "row": 65, "column": 6273, "tagName": "div", "time": 2264968.036160, "url": "", "pos": 56072, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065340", "doc": "https://www.google.ro/", "row": 65, "column": 6279, "tagName": "div", "time": 2264968.036162, "url": "", "pos": 56078, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065370", "doc": "https://www.google.ro/", "row": 65, "column": 6291, "tagName": "div", "time": 2264968.036166, "url": "", "pos": 56090, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40655e0", "doc": "https://www.google.ro/", "row": 65, "column": 6315, "tagName": "div", "time": 2264968.036213, "url": "", "pos": 56114, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40657d0", "doc": "https://www.google.ro/", "row": 65, "column": 6330, "tagName": "h2", "time": 2264968.036238, "url": "", "pos": 56129, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065ac0", "doc": "https://www.google.ro/", "row": 65, "column": 6350, "tagName": "h2", "time": 2264968.036270, "url": "", "pos": 56149, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065b90", "doc": "https://www.google.ro/", "row": 65, "column": 6368, "tagName": "span", "time": 2264968.036276, "url": "", "pos": 56167, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065c50", "doc": "https://www.google.ro/", "row": 65, "column": 6375, "tagName": "span", "time": 2264968.036300, "url": "", "pos": 56174, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065cb0", "doc": "https://www.google.ro/", "row": 65, "column": 6397, "tagName": "ol", "time": 2264968.036306, "url": "", "pos": 56196, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065e70", "doc": "https://www.google.ro/", "row": 65, "column": 6411, "tagName": "li", "time": 2264968.036332, "url": "", "pos": 56210, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066090", "doc": "https://www.google.ro/", "row": 65, "column": 6416, "tagName": "li", "time": 2264968.036391, "url": "", "pos": 56215, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40660c0", "doc": "https://www.google.ro/", "row": 65, "column": 6430, "tagName": "li", "time": 2264968.036396, "url": "", "pos": 56229, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40662e0", "doc": "https://www.google.ro/", "row": 65, "column": 6587, "tagName": "a", "time": 2264968.036446, "url": "", "pos": 56386, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40661e0", "doc": "https://www.google.ro/", "row": 65, "column": 6604, "tagName": "span", "time": 2264968.036529, "url": "", "pos": 56403, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066e20", "doc": "https://www.google.ro/", "row": 65, "column": 6621, "tagName": "span", "time": 2264968.036579, "url": "", "pos": 56420, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066f30", "doc": "https://www.google.ro/", "row": 65, "column": 6640, "tagName": "span", "time": 2264968.036650, "url": "", "pos": 56439, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067320", "doc": "https://www.google.ro/", "row": 65, "column": 6647, "tagName": "span", "time": 2264968.036655, "url": "", "pos": 56446, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067350", "doc": "https://www.google.ro/", "row": 65, "column": 6651, "tagName": "a", "time": 2264968.036657, "url": "", "pos": 56450, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067380", "doc": "https://www.google.ro/", "row": 65, "column": 6656, "tagName": "li", "time": 2264968.036660, "url": "", "pos": 56455, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40674b0", "doc": "https://www.google.ro/", "row": 65, "column": 6682, "tagName": "div", "time": 2264968.036665, "url": "", "pos": 56481, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40673d0", "doc": "https://www.google.ro/", "row": 65, "column": 6721, "tagName": "div", "time": 2264968.036713, "url": "", "pos": 56520, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067220", "doc": "https://www.google.ro/", "row": 65, "column": 6737, "tagName": "div", "time": 2264968.036726, "url": "", "pos": 56536, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40672e0", "doc": "https://www.google.ro/", "row": 65, "column": 6761, "tagName": "ol", "time": 2264968.036737, "url": "", "pos": 56560, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40675f0", "doc": "https://www.google.ro/", "row": 65, "column": 6784, "tagName": "li", "time": 2264968.036750, "url": "", "pos": 56583, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067730", "doc": "https://www.google.ro/", "row": 65, "column": 6825, "tagName": "a", "time": 2264968.036764, "url": "", "pos": 56624, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067850", "doc": "https://www.google.ro/", "row": 65, "column": 6846, "tagName": "a", "time": 2264968.036776, "url": "", "pos": 56645, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067980", "doc": "https://www.google.ro/", "row": 65, "column": 6851, "tagName": "li", "time": 2264968.036780, "url": "", "pos": 56650, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067ab0", "doc": "https://www.google.ro/", "row": 65, "column": 6867, "tagName": "li", "time": 2264968.036784, "url": "", "pos": 56666, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40678c0", "doc": "https://www.google.ro/", "row": 65, "column": 6890, "tagName": "div", "time": 2264968.036797, "url": "", "pos": 56689, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067950", "doc": "https://www.google.ro/", "row": 65, "column": 6896, "tagName": "div", "time": 2264968.036806, "url": "", "pos": 56695, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40679b0", "doc": "https://www.google.ro/", "row": 65, "column": 6901, "tagName": "li", "time": 2264968.036809, "url": "", "pos": 56700, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067a10", "doc": "https://www.google.ro/", "row": 65, "column": 6923, "tagName": "li", "time": 2264968.036813, "url": "", "pos": 56722, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067bf0", "doc": "https://www.google.ro/", "row": 65, "column": 6977, "tagName": "a", "time": 2264968.036828, "url": "", "pos": 56776, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067e10", "doc": "https://www.google.ro/", "row": 65, "column": 6997, "tagName": "a", "time": 2264968.036840, "url": "", "pos": 56796, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067e40", "doc": "https://www.google.ro/", "row": 65, "column": 7002, "tagName": "li", "time": 2264968.036844, "url": "", "pos": 56801, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067e70", "doc": "https://www.google.ro/", "row": 65, "column": 7024, "tagName": "li", "time": 2264968.036857, "url": "", "pos": 56823, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067d10", "doc": "https://www.google.ro/", "row": 65, "column": 7068, "tagName": "a", "time": 2264968.036871, "url": "", "pos": 56867, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067f10", "doc": "https://www.google.ro/", "row": 65, "column": 7097, "tagName": "a", "time": 2264968.036883, "url": "", "pos": 56896, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067f40", "doc": "https://www.google.ro/", "row": 65, "column": 7102, "tagName": "li", "time": 2264968.036886, "url": "", "pos": 56901, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067f70", "doc": "https://www.google.ro/", "row": 65, "column": 7118, "tagName": "li", "time": 2264968.036890, "url": "", "pos": 56917, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068060", "doc": "https://www.google.ro/", "row": 65, "column": 7141, "tagName": "div", "time": 2264968.036901, "url": "", "pos": 56940, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40681f0", "doc": "https://www.google.ro/", "row": 65, "column": 7147, "tagName": "div", "time": 2264968.036910, "url": "", "pos": 56946, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40680f0", "doc": "https://www.google.ro/", "row": 65, "column": 7152, "tagName": "li", "time": 2264968.036914, "url": "", "pos": 56951, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068150", "doc": "https://www.google.ro/", "row": 65, "column": 7175, "tagName": "li", "time": 2264968.036918, "url": "", "pos": 56974, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068340", "doc": "https://www.google.ro/", "row": 65, "column": 7238, "tagName": "a", "time": 2264968.036933, "url": "", "pos": 57037, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068440", "doc": "https://www.google.ro/", "row": 65, "column": 7253, "tagName": "a", "time": 2264968.036944, "url": "", "pos": 57052, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068270", "doc": "https://www.google.ro/", "row": 65, "column": 7258, "tagName": "li", "time": 2264968.036947, "url": "", "pos": 57057, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40682a0", "doc": "https://www.google.ro/", "row": 65, "column": 7263, "tagName": "ol", "time": 2264968.036949, "url": "", "pos": 57062, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068570", "doc": "https://www.google.ro/", "row": 65, "column": 7269, "tagName": "div", "time": 2264968.036952, "url": "", "pos": 57068, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40686a0", "doc": "https://www.google.ro/", "row": 65, "column": 7275, "tagName": "div", "time": 2264968.036954, "url": "", "pos": 57074, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40686d0", "doc": "https://www.google.ro/", "row": 65, "column": 7281, "tagName": "div", "time": 2264968.036956, "url": "", "pos": 57080, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068470", "doc": "https://www.google.ro/", "row": 65, "column": 7286, "tagName": "ol", "time": 2264968.036958, "url": "", "pos": 57085, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40684a0", "doc": "https://www.google.ro/", "row": 65, "column": 7299, "tagName": "div", "time": 2264968.036962, "url": "", "pos": 57098, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068700", "doc": "https://www.google.ro/", "row": 65, "column": 7305, "tagName": "div", "time": 2264968.036982, "url": "", "pos": 57104, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068730", "doc": "https://www.google.ro/", "row": 65, "column": 7311, "tagName": "div", "time": 2264968.036985, "url": "", "pos": 57110, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068760", "doc": "https://www.google.ro/", "row": 65, "column": 7317, "tagName": "div", "time": 2264968.036988, "url": "", "pos": 57116, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068890", "doc": "https://www.google.ro/", "row": 65, "column": 7323, "tagName": "div", "time": 2264968.036990, "url": "", "pos": 57122, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40688c0", "doc": "https://www.google.ro/", "row": 65, "column": 7350, "tagName": "div", "time": 2264968.036995, "url": "", "pos": 57149, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068ad0", "doc": "https://www.google.ro/", "row": 65, "column": 7356, "tagName": "div", "time": 2264968.037055, "url": "", "pos": 57155, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068b00", "doc": "https://www.google.ro/", "row": 65, "column": 7369, "tagName": "div", "time": 2264968.037060, "url": "", "pos": 57168, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068fd0", "doc": "https://www.google.ro/", "row": 65, "column": 7375, "tagName": "div", "time": 2264968.037112, "url": "", "pos": 57174, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069000", "doc": "https://www.google.ro/", "row": 65, "column": 7383, "tagName": "script", "time": 2264968.037116, "url": "", "pos": 57182, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069130", "doc": "https://www.google.ro/", "row": 65, "column": 7425, "tagName": "script", "time": 2264968.037142, "url": "", "pos": 57224, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406fbe0", "doc": "https://www.google.ro/", "row": 65, "column": 7431, "tagName": "div", "time": 2264968.053020, "url": "", "pos": 57230, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406fba0", "doc": "https://www.google.ro/", "row": 65, "column": 7437, "tagName": "div", "time": 2264968.053030, "url": "", "pos": 57236, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406fc50", "doc": "https://www.google.ro/", "row": 65, "column": 7490, "tagName": "textarea", "time": 2264968.053041, "url": "", "pos": 57289, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4070120", "doc": "https://www.google.ro/", "row": 65, "column": 7501, "tagName": "textarea", "time": 2264968.053161, "url": "", "pos": 57300, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4070150", "doc": "https://www.google.ro/", "row": 65, "column": 7554, "tagName": "textarea", "time": 2264968.053170, "url": "", "pos": 57353, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40704a0", "doc": "https://www.google.ro/", "row": 65, "column": 7565, "tagName": "textarea", "time": 2264968.053227, "url": "", "pos": 57364, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40704d0", "doc": "https://www.google.ro/", "row": 65, "column": 7618, "tagName": "textarea", "time": 2264968.053235, "url": "", "pos": 57417, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4070820", "doc": "https://www.google.ro/", "row": 65, "column": 7629, "tagName": "textarea", "time": 2264968.053288, "url": "", "pos": 57428, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4070850", "doc": "https://www.google.ro/", "row": 65, "column": 7686, "tagName": "textarea", "time": 2264968.053296, "url": "", "pos": 57485, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4070ba0", "doc": "https://www.google.ro/", "row": 65, "column": 7697, "tagName": "textarea", "time": 2264968.053349, "url": "", "pos": 57496, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4070bd0", "doc": "https://www.google.ro/", "row": 65, "column": 7728, "tagName": "div", "time": 2264968.053356, "url": "", "pos": 57527, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4070e60", "doc": "https://www.google.ro/", "row": 65, "column": 7758, "tagName": "span", "time": 2264968.053420, "url": "", "pos": 57557, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4071140", "doc": "https://www.google.ro/", "row": 65, "column": 7766, "tagName": "center", "time": 2264968.053451, "url": "", "pos": 57565, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4071640", "doc": "https://www.google.ro/", "row": 65, "column": 7818, "tagName": "div", "time": 2264968.053475, "url": "", "pos": 57617, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4071780", "doc": "https://www.google.ro/", "row": 65, "column": 7849, "tagName": "div", "time": 2264968.053518, "url": "", "pos": 57648, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4071c80", "doc": "https://www.google.ro/", "row": 65, "column": 8029, "tagName": "div", "time": 2264968.053578, "url": "", "pos": 57828, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4071bf0", "doc": "https://www.google.ro/", "row": 65, "column": 8133, "tagName": "div", "time": 2264968.053943, "url": "", "pos": 57932, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4072c30", "doc": "https://www.google.ro/", "row": 65, "column": 8146, "tagName": "div", "time": 2264968.054017, "url": "", "pos": 57945, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4071ff0", "doc": "https://www.google.ro/", "row": 65, "column": 8152, "tagName": "div", "time": 2264968.054020, "url": "", "pos": 57951, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4072020", "doc": "https://www.google.ro/", "row": 65, "column": 8158, "tagName": "div", "time": 2264968.054022, "url": "", "pos": 57957, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4072050", "doc": "https://www.google.ro/", "row": 65, "column": 8164, "tagName": "div", "time": 2264968.054024, "url": "", "pos": 57963, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4072c90", "doc": "https://www.google.ro/", "row": 65, "column": 8190, "tagName": "div", "time": 2264968.054029, "url": "", "pos": 57989, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4072d90", "doc": "https://www.google.ro/", "row": 65, "column": 8196, "tagName": "div", "time": 2264968.054060, "url": "", "pos": 57995, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4072e10", "doc": "https://www.google.ro/", "row": 65, "column": 8252, "tagName": "div", "time": 2264968.054067, "url": "", "pos": 58051, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4073260", "doc": "https://www.google.ro/", "row": 65, "column": 8256, "tagName": "br", "time": 2264968.054103, "url": "", "pos": 58055, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4073390", "doc": "https://www.google.ro/", "row": 65, "column": 8264, "tagName": "script", "time": 2264968.054120, "url": "", "pos": 58063, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40685d0", "doc": "https://www.google.ro/", "row": 65, "column": 8320, "tagName": "script", "time": 2264968.054145, "url": "", "pos": 58119, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4073600", "doc": "https://www.google.ro/", "row": 65, "column": 8332, "tagName": "div", "time": 2264968.054573, "url": "", "pos": 58131, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4073710", "doc": "https://www.google.ro/", "row": 65, "column": 8357, "tagName": "font", "time": 2264968.054615, "url": "", "pos": 58156, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4073aa0", "doc": "https://www.google.ro/", "row": 65, "column": 8486, "tagName": "a", "time": 2264968.054669, "url": "", "pos": 58285, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074020", "doc": "https://www.google.ro/", "row": 65, "column": 8496, "tagName": "a", "time": 2264968.054746, "url": "", "pos": 58295, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40741f0", "doc": "https://www.google.ro/", "row": 65, "column": 8605, "tagName": "a", "time": 2264968.054768, "url": "", "pos": 58404, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074250", "doc": "https://www.google.ro/", "row": 65, "column": 8616, "tagName": "a", "time": 2264968.054803, "url": "", "pos": 58415, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40743a0", "doc": "https://www.google.ro/", "row": 65, "column": 8725, "tagName": "a", "time": 2264968.054823, "url": "", "pos": 58524, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074470", "doc": "https://www.google.ro/", "row": 65, "column": 8736, "tagName": "a", "time": 2264968.054849, "url": "", "pos": 58535, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40744a0", "doc": "https://www.google.ro/", "row": 65, "column": 8743, "tagName": "font", "time": 2264968.054852, "url": "", "pos": 58542, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40744d0", "doc": "https://www.google.ro/", "row": 65, "column": 8747, "tagName": "br", "time": 2264968.054855, "url": "", "pos": 58546, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074580", "doc": "https://www.google.ro/", "row": 65, "column": 8751, "tagName": "br", "time": 2264968.054868, "url": "", "pos": 58550, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074610", "doc": "https://www.google.ro/", "row": 65, "column": 8757, "tagName": "div", "time": 2264968.054881, "url": "", "pos": 58556, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4074640", "doc": "https://www.google.ro/", "row": 65, "column": 8763, "tagName": "div", "time": 2264968.054884, "url": "", "pos": 58562, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4074670", "doc": "https://www.google.ro/", "row": 65, "column": 8772, "tagName": "center", "time": 2264968.054886, "url": "", "pos": 58571, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40746a0", "doc": "https://www.google.ro/", "row": 65, "column": 8779, "tagName": "span", "time": 2264968.054888, "url": "", "pos": 58578, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40746d0", "doc": "https://www.google.ro/", "row": 65, "column": 8810, "tagName": "div", "time": 2264968.054894, "url": "", "pos": 58609, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074a30", "doc": "https://www.google.ro/", "row": 65, "column": 8839, "tagName": "span", "time": 2264968.054942, "url": "", "pos": 58638, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074be0", "doc": "https://www.google.ro/", "row": 65, "column": 8852, "tagName": "span", "time": 2264968.054976, "url": "", "pos": 58651, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4074c40", "doc": "https://www.google.ro/", "row": 65, "column": 8871, "tagName": "div", "time": 2264968.054985, "url": "", "pos": 58670, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074d20", "doc": "https://www.google.ro/", "row": 65, "column": 8878, "tagName": "style", "time": 2264968.055005, "url": "", "pos": 58677, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4073530", "doc": "https://www.google.ro/", "row": 65, "column": 9515, "tagName": "style", "time": 2264968.055051, "url": "", "pos": 59314, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4076970", "doc": "https://www.google.ro/", "row": 65, "column": 9523, "tagName": "style", "time": 2264968.055402, "url": "", "pos": 59322, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074e10", "doc": "https://www.google.ro/", "row": 65, "column": 9649, "tagName": "style", "time": 2264968.055426, "url": "", "pos": 59448, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4076c50", "doc": "https://www.google.ro/", "row": 65, "column": 9683, "tagName": "div", "time": 2264968.055571, "url": "", "pos": 59482, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4076150", "doc": "https://www.google.ro/", "row": 65, "column": 9702, "tagName": "div", "time": 2264968.055611, "url": "", "pos": 59501, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4076760", "doc": "https://www.google.ro/", "row": 65, "column": 9718, "tagName": "span", "time": 2264968.055651, "url": "", "pos": 59517, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40778c0", "doc": "https://www.google.ro/", "row": 65, "column": 9766, "tagName": "a", "time": 2264968.055679, "url": "", "pos": 59565, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077ce0", "doc": "https://www.google.ro/", "row": 65, "column": 9798, "tagName": "a", "time": 2264968.055735, "url": "", "pos": 59597, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077e00", "doc": "https://www.google.ro/", "row": 65, "column": 9853, "tagName": "span", "time": 2264968.055748, "url": "", "pos": 59652, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077ed0", "doc": "https://www.google.ro/", "row": 65, "column": 9860, "tagName": "style", "time": 2264968.055790, "url": "", "pos": 59659, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4076b60", "doc": "https://www.google.ro/", "row": 65, "column": 10200, "tagName": "style", "time": 2264968.055823, "url": "", "pos": 59999, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077490", "doc": "https://www.google.ro/", "row": 65, "column": 10295, "tagName": "a", "time": 2264968.056014, "url": "", "pos": 60094, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4075ff0", "doc": "https://www.google.ro/", "row": 65, "column": 10305, "tagName": "a", "time": 2264968.056077, "url": "", "pos": 60104, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077210", "doc": "https://www.google.ro/", "row": 65, "column": 10344, "tagName": "span", "time": 2264968.056089, "url": "", "pos": 60143, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40777f0", "doc": "https://www.google.ro/", "row": 65, "column": 10404, "tagName": "a", "time": 2264968.056151, "url": "", "pos": 60203, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078eb0", "doc": "https://www.google.ro/", "row": 65, "column": 10425, "tagName": "a", "time": 2264968.056163, "url": "", "pos": 60224, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40777b0", "doc": "https://www.google.ro/", "row": 65, "column": 10443, "tagName": "span", "time": 2264968.056170, "url": "", "pos": 60242, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078f70", "doc": "https://www.google.ro/", "row": 65, "column": 10486, "tagName": "a", "time": 2264968.056185, "url": "", "pos": 60285, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40790d0", "doc": "https://www.google.ro/", "row": 65, "column": 10506, "tagName": "a", "time": 2264968.056196, "url": "", "pos": 60305, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079150", "doc": "https://www.google.ro/", "row": 65, "column": 10514, "tagName": "span", "time": 2264968.056201, "url": "", "pos": 60313, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40791b0", "doc": "https://www.google.ro/", "row": 65, "column": 10549, "tagName": "a", "time": 2264968.056210, "url": "", "pos": 60348, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40792d0", "doc": "https://www.google.ro/", "row": 65, "column": 10564, "tagName": "a", "time": 2264968.056220, "url": "", "pos": 60363, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40793c0", "doc": "https://www.google.ro/", "row": 65, "column": 10644, "tagName": "a", "time": 2264968.056233, "url": "", "pos": 60443, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4079560", "doc": "https://www.google.ro/", "row": 65, "column": 10677, "tagName": "a", "time": 2264968.056244, "url": "", "pos": 60476, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40796f0", "doc": "https://www.google.ro/", "row": 65, "column": 10794, "tagName": "a", "time": 2264968.056259, "url": "", "pos": 60593, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40797b0", "doc": "https://www.google.ro/", "row": 65, "column": 10819, "tagName": "a", "time": 2264968.056272, "url": "", "pos": 60618, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079890", "doc": "https://www.google.ro/", "row": 65, "column": 10827, "tagName": "span", "time": 2264968.056277, "url": "", "pos": 60626, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40798f0", "doc": "https://www.google.ro/", "row": 65, "column": 10835, "tagName": "span", "time": 2264968.056286, "url": "", "pos": 60634, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079a50", "doc": "https://www.google.ro/", "row": 65, "column": 10977, "tagName": "a", "time": 2264968.056307, "url": "", "pos": 60776, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4079b80", "doc": "https://www.google.ro/", "row": 65, "column": 10991, "tagName": "a", "time": 2264968.056369, "url": "", "pos": 60790, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079be0", "doc": "https://www.google.ro/", "row": 65, "column": 10999, "tagName": "span", "time": 2264968.056378, "url": "", "pos": 60798, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079c40", "doc": "https://www.google.ro/", "row": 65, "column": 11015, "tagName": "span", "time": 2264968.056386, "url": "", "pos": 60814, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407a060", "doc": "https://www.google.ro/", "row": 65, "column": 11058, "tagName": "a", "time": 2264968.056425, "url": "", "pos": 60857, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407a1a0", "doc": "https://www.google.ro/", "row": 65, "column": 11073, "tagName": "a", "time": 2264968.056467, "url": "", "pos": 60872, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407a240", "doc": "https://www.google.ro/", "row": 65, "column": 11112, "tagName": "a", "time": 2264968.056480, "url": "", "pos": 60911, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407a620", "doc": "https://www.google.ro/", "row": 65, "column": 11124, "tagName": "a", "time": 2264968.056539, "url": "", "pos": 60923, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407a6d0", "doc": "https://www.google.ro/", "row": 65, "column": 11172, "tagName": "a", "time": 2264968.056552, "url": "", "pos": 60971, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407a770", "doc": "https://www.google.ro/", "row": 65, "column": 11182, "tagName": "a", "time": 2264968.056582, "url": "", "pos": 60981, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407a7f0", "doc": "https://www.google.ro/", "row": 65, "column": 11190, "tagName": "span", "time": 2264968.056591, "url": "", "pos": 60989, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407a850", "doc": "https://www.google.ro/", "row": 65, "column": 11198, "tagName": "div", "time": 2264968.056600, "url": "", "pos": 60997, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407a8e0", "doc": "https://www.google.ro/", "row": 65, "column": 11236, "tagName": "div", "time": 2264968.056609, "url": "", "pos": 61035, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407aca0", "doc": "https://www.google.ro/", "row": 65, "column": 11294, "tagName": "div", "time": 2264968.056658, "url": "", "pos": 61093, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407af30", "doc": "https://www.google.ro/", "row": 65, "column": 11301, "tagName": "style", "time": 2264968.056697, "url": "", "pos": 61100, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077f90", "doc": "https://www.google.ro/", "row": 65, "column": 12229, "tagName": "style", "time": 2264968.056744, "url": "", "pos": 62028, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407c0c0", "doc": "https://www.google.ro/", "row": 65, "column": 12248, "tagName": "p", "time": 2264968.057032, "url": "", "pos": 62047, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078530", "doc": "https://www.google.ro/", "row": 65, "column": 12377, "tagName": "p", "time": 2264968.057061, "url": "", "pos": 62176, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078ad0", "doc": "https://www.google.ro/", "row": 65, "column": 12521, "tagName": "div", "time": 2264968.057077, "url": "", "pos": 62320, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078b50", "doc": "https://www.google.ro/", "row": 65, "column": 12529, "tagName": "div", "time": 2264968.057090, "url": "", "pos": 62328, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077140", "doc": "https://www.google.ro/", "row": 65, "column": 12697, "tagName": "a", "time": 2264968.057103, "url": "", "pos": 62496, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078dd0", "doc": "https://www.google.ro/", "row": 65, "column": 12717, "tagName": "a", "time": 2264968.057125, "url": "", "pos": 62516, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078e00", "doc": "https://www.google.ro/", "row": 65, "column": 12723, "tagName": "div", "time": 2264968.057128, "url": "", "pos": 62522, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078bb0", "doc": "https://www.google.ro/", "row": 65, "column": 12730, "tagName": "div", "time": 2264968.057134, "url": "", "pos": 62529, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078c10", "doc": "https://www.google.ro/", "row": 65, "column": 12737, "tagName": "div", "time": 2264968.057139, "url": "", "pos": 62536, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407c3c0", "doc": "https://www.google.ro/", "row": 65, "column": 12744, "tagName": "div", "time": 2264968.057144, "url": "", "pos": 62543, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407c420", "doc": "https://www.google.ro/", "row": 65, "column": 12752, "tagName": "div", "time": 2264968.057149, "url": "", "pos": 62551, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407c450", "doc": "https://www.google.ro/", "row": 65, "column": 12758, "tagName": "div", "time": 2264968.057151, "url": "", "pos": 62557, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407c480", "doc": "https://www.google.ro/", "row": 65, "column": 12766, "tagName": "script", "time": 2264968.057153, "url": "", "pos": 62565, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407afe0", "doc": "https://www.google.ro/", "row": 68, "column": 16, "tagName": "script", "time": 2264968.057194, "url": "", "pos": 63213, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407c990", "doc": "https://www.google.ro/", "row": 68, "column": 91, "tagName": "script", "time": 2264968.058327, "url": "", "pos": 63288, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407c580", "doc": "https://www.google.ro/", "row": 68, "column": 290, "tagName": "script", "time": 2264968.058368, "url": "", "pos": 63487, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407cc10", "doc": "https://www.google.ro/", "row": 68, "column": 303, "tagName": "div", "time": 2264968.058617, "url": "", "pos": 63500, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407cf90", "doc": "https://www.google.ro/", "row": 68, "column": 309, "tagName": "div", "time": 2264968.058643, "url": "", "pos": 63506, "chunkLen": 65465, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407cfe0", "doc": "https://www.google.ro/", "row": 68, "column": 322, "tagName": "div", "time": 2264968.058649, "url": "", "pos": 63519, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407ccd0", "doc": "https://www.google.ro/", "row": 68, "column": 330, "tagName": "script", "time": 2264968.058664, "url": "", "pos": 63527, "chunkLen": 65465, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407cbe0", "doc": "https://www.google.ro/", "row": 69, "column": 5472, "tagName": "script", "time": 2264968.059389, "url": "", "pos": 69245, "chunkLen": 70294, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407d0a0", "doc": "https://www.google.ro/", "row": 69, "column": 5478, "tagName": "div", "time": 2264968.061233, "url": "", "pos": 3786, "chunkLen": 4829, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407d220", "doc": "https://www.google.ro/", "row": 69, "column": 5496, "tagName": "style", "time": 2264968.061244, "url": "", "pos": 3804, "chunkLen": 4829, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407d2c0", "doc": "https://www.google.ro/", "row": 69, "column": 5504, "tagName": "style", "time": 2264968.061287, "url": "", "pos": 3812, "chunkLen": 4829, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407bc10", "doc": "https://www.google.ro/", "row": 69, "column": 5512, "tagName": "script", "time": 2264968.061437, "url": "", "pos": 3820, "chunkLen": 4829, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406ea90", "doc": "https://www.google.ro/", "row": 72, "column": 9, "tagName": "script", "time": 2264968.061496, "url": "", "pos": 4809, "chunkLen": 4829, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078770", "doc": "https://www.google.ro/", "row": 72, "column": 15, "tagName": "div", "time": 2264968.062306, "url": "", "pos": 4815, "chunkLen": 4829, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40787a0", "doc": "https://www.google.ro/", "row": 72, "column": 22, "tagName": "body", "time": 2264968.062312, "url": "", "pos": 4822, "chunkLen": 4829, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40787d0", "doc": "https://www.google.ro/", "row": 72, "column": 29, "tagName": "html", "time": 2264968.062314, "url": "https://www.google.ro/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "pos": 4829, "chunkLen": 4829, "isStartTag": 0}}
+{"Resource": {"id": 3, "url": "https://www.google.ro/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,epb,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "sentTime": -1.000000, "len": 365396, "from": "0x40787d0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.066415, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 13, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.123362, "len": 10458}}
+{"ReceivedChunk": {"receivedTime": 2264968.123654, "len": 7330}}
+{"ReceivedChunk": {"receivedTime": 2264968.123878, "len": 30209}}
+{"ReceivedChunk": {"receivedTime": 2264968.124304, "len": 3871}}
+{"ReceivedChunk": {"receivedTime": 2264968.124838, "len": 3400}}
+{"ReceivedChunk": {"receivedTime": 2264968.125380, "len": 3398}}
+{"ReceivedChunk": {"receivedTime": 2264968.125734, "len": 3816}}
+{"ReceivedChunk": {"receivedTime": 2264968.126001, "len": 11686}}
+{"ReceivedChunk": {"receivedTime": 2264968.126303, "len": 3253}}
+{"ReceivedChunk": {"receivedTime": 2264968.126551, "len": 3671}}
+{"ReceivedChunk": {"receivedTime": 2264968.126801, "len": 6618}}
+{"ReceivedChunk": {"receivedTime": 2264968.127062, "len": 2804}}
+{"ReceivedChunk": {"receivedTime": 2264968.127288, "len": 3390}}
+{"ReceivedChunk": {"receivedTime": 2264968.127540, "len": 2086}}
+{"ReceivedChunk": {"receivedTime": 2264968.127779, "len": 3129}}
+{"ReceivedChunk": {"receivedTime": 2264968.128008, "len": 3156}}
+{"ReceivedChunk": {"receivedTime": 2264968.128260, "len": 2931}}
+{"ReceivedChunk": {"receivedTime": 2264968.128508, "len": 2417}}
+{"ReceivedChunk": {"receivedTime": 2264968.129179, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2264968.130406, "len": 53873}}
+{"ReceivedChunk": {"receivedTime": 2264968.135794, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2264968.138304, "len": 25219}}
+{"ReceivedChunk": {"receivedTime": 2264968.144763, "len": 80377}}
+{"Resource": {"id": 2, "url": "https://www.google.ro/images/srpr/logo4w.png", "sentTime": -1.000000, "len": 18946, "from": "0x4071c80",                            "mimeType": "image/png", "contentLength": 18946, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.065879, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 2, "sendEnd": 4, "receiveHeadersEnd": 53, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.131629, "len": 2358}}
+{"ReceivedChunk": {"receivedTime": 2264968.132496, "len": 1183}}
+{"ReceivedChunk": {"receivedTime": 2264968.134862, "len": 1183}}
+{"ReceivedChunk": {"receivedTime": 2264968.136600, "len": 1183}}
+{"ReceivedChunk": {"receivedTime": 2264968.139382, "len": 13039}}
+{"Resource": {"id": 5, "url": "https://www.google.ro/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "sentTime": -1.000000, "len": 352630, "from": "0x40787d0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.428935, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 1, "sendEnd": 2, "receiveHeadersEnd": 11, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.608951, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2264968.609259, "len": 13250}}
+{"ReceivedChunk": {"receivedTime": 2264968.609484, "len": 3500}}
+{"ReceivedChunk": {"receivedTime": 2264968.609678, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2264968.609943, "len": 47293}}
+{"ReceivedChunk": {"receivedTime": 2264968.610552, "len": 37902}}
+{"ReceivedChunk": {"receivedTime": 2264968.610843, "len": 3902}}
+{"ReceivedChunk": {"receivedTime": 2264968.611046, "len": 2987}}
+{"ReceivedChunk": {"receivedTime": 2264968.611259, "len": 3058}}
+{"ReceivedChunk": {"receivedTime": 2264968.611461, "len": 3266}}
+{"ReceivedChunk": {"receivedTime": 2264968.611835, "len": 3834}}
+{"ReceivedChunk": {"receivedTime": 2264968.612052, "len": 3260}}
+{"ReceivedChunk": {"receivedTime": 2264968.612259, "len": 3892}}
+{"ReceivedChunk": {"receivedTime": 2264968.612761, "len": 3526}}
+{"ReceivedChunk": {"receivedTime": 2264968.612979, "len": 3998}}
+{"ReceivedChunk": {"receivedTime": 2264968.613254, "len": 3842}}
+{"ReceivedChunk": {"receivedTime": 2264968.613646, "len": 3516}}
+{"ReceivedChunk": {"receivedTime": 2264968.613869, "len": 3723}}
+{"ReceivedChunk": {"receivedTime": 2264968.614123, "len": 3637}}
+{"ReceivedChunk": {"receivedTime": 2264968.614324, "len": 3192}}
+{"ReceivedChunk": {"receivedTime": 2264968.645425, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2264968.646900, "len": 67306}}
+{"ReceivedChunk": {"receivedTime": 2264968.647352, "len": 2674}}
+{"Resource": {"id": 4, "url": "https://www.google.ro/extern_chrome/972047f2b9741c11.js?bav=on.2,or.r_qf.", "sentTime": -1.000000, "len": 94154, "from": "0x40787d0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.419188, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 1, "sendEnd": 2, "receiveHeadersEnd": 47, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.616121, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2264968.616418, "len": 61386}}
+{"Resource": {"id": 6, "url": "https://www.gstatic.com/inputtools/images/tia.png", "sentTime": -1.000000, "len": 151, "from": "0x40787d0",                            "mimeType": "image/png", "contentLength": 151, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.516023, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 4, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.617299, "len": 151}}
+{"Resource": {"id": 7, "url": "data:image/gif;base64,R0lGODlhEwALAKECAAAAABISEv///////yH5BAEKAAIALAAAAAATAAsAAAIdDI6pZ+suQJyy0ocV3bbm33EcCArmiUYk1qxAUAAAOw==", "sentTime": -1.000000, "len": 76, "from": "0x40787d0",                            "mimeType": "image/gif", "contentLength": 76, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.617759, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.617884, "len": 76}}
+{"Resource": {"id": 8, "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D", "sentTime": -1.000000, "len": 43, "from": "0x40787d0",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.618654, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264968.618790, "len": 43}}
+{"Resource": {"id": 9, "url": "https://www.google.ro/gen_204?atyp=i&ct=&cad=&vet=10CAYQ-Cc&ei=_RQkUomcFeTWigLs3IDgAw&zx=1378096382103", "sentTime": -1.000000, "len": 0, "from": "0x40787d0",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 204, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2264968.617320, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 13, "sslStart": -1, "sslEnd": -1}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x4059550", "row": 0, "column": 219, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x405ad50", "row": 9, "column": 2400, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x4374c30", "row": 9, "column": 46995, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x4374a30", "row": 9, "column": 50075, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x4382380", "row": 9, "column": 54054, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x4383370", "row": 65, "column": 1933, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x4387140", "row": 65, "column": 2030, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x4069000", "row": 65, "column": 7383, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x4073390", "row": 65, "column": 8264, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x4074d20", "row": 65, "column": 8878, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x4076970", "row": 65, "column": 9523, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x4077ed0", "row": 65, "column": 9860, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x407af30", "row": 65, "column": 11301, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x407c480", "row": 65, "column": 12766, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x407c990", "row": 68, "column": 91, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x407ccd0", "row": 68, "column": 330, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.ro/", "code": "0x407d220", "row": 69, "column": 5496, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.ro/", "code": "0x407bc10", "row": 69, "column": 5512, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x4059b60", "docUrl": "https://www.google.ro/", "startTime": 2264967.901329, "endTime": 2264967.928515, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4370b80", "docUrl": "https://www.google.ro/", "startTime": 2264967.945136, "endTime": 2264967.962139, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x43779c0", "docUrl": "https://www.google.ro/", "startTime": 2264967.974255, "endTime": 2264967.974908, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4386cb0", "docUrl": "https://www.google.ro/", "startTime": 2264967.975053, "endTime": 2264967.975985, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4069130", "docUrl": "https://www.google.ro/", "startTime": 2264968.037151, "endTime": 2264968.053007, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4069130", "docUrl": "https://www.google.ro/", "startTime": 2264968.039273, "endTime": 2264968.050864, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4069130", "docUrl": "https://www.google.ro/", "startTime": 2264968.050469, "endTime": 2264968.050594, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4069130", "docUrl": "https://www.google.ro/", "startTime": 2264968.050602, "endTime": 2264968.050797, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x40685d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.054153, "endTime": 2264968.054566, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x407afe0", "docUrl": "https://www.google.ro/", "startTime": 2264968.057200, "endTime": 2264968.058313, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x407c580", "docUrl": "https://www.google.ro/", "startTime": 2264968.058374, "endTime": 2264968.058611, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x407cbe0", "docUrl": "https://www.google.ro/", "startTime": 2264968.059396, "endTime": 2264968.061226, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x406ea90", "docUrl": "https://www.google.ro/", "startTime": 2264968.061502, "endTime": 2264968.062302, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.062609, "endTime": 2264968.062612, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.062614, "endTime": 2264968.062616, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063142, "endTime": 2264968.063143, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063144, "endTime": 2264968.063145, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063150, "endTime": 2264968.063151, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063152, "endTime": 2264968.063153, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063157, "endTime": 2264968.063158, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063159, "endTime": 2264968.063160, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063164, "endTime": 2264968.063165, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063166, "endTime": 2264968.063167, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063187, "endTime": 2264968.063189, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063190, "endTime": 2264968.063192, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063198, "endTime": 2264968.063199, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063200, "endTime": 2264968.063201, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063206, "endTime": 2264968.063207, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063208, "endTime": 2264968.063208, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063213, "endTime": 2264968.063213, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.063215, "endTime": 2264968.063215, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.064369, "endTime": 2264968.065979, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.145495, "endTime": 2264968.566637, "urlRecalcStyle": "https://www.google.ro/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,epb,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw"}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.525057, "endTime": 2264968.527309, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.539587, "endTime": 2264968.539983, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.548254, "endTime": 2264968.548529, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.566653, "endTime": 2264968.566655, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.566656, "endTime": 2264968.566658, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.566659, "endTime": 2264968.566660, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.567290, "endTime": 2264968.567912, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.618090, "endTime": 2264968.618573, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.620375, "endTime": 2264968.620377, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.620379, "endTime": 2264968.620380, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.624324, "endTime": 2264968.634483, "urlRecalcStyle": "https://www.google.ro/extern_chrome/972047f2b9741c11.js?bav=on.2,or.r_qf."}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634503, "endTime": 2264968.634505, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634506, "endTime": 2264968.634507, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634509, "endTime": 2264968.634510, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634542, "endTime": 2264968.634543, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634544, "endTime": 2264968.634545, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634546, "endTime": 2264968.634546, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634549, "endTime": 2264968.634549, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634551, "endTime": 2264968.634553, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634554, "endTime": 2264968.634555, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.634557, "endTime": 2264968.634558, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.653633, "endTime": 2264968.929479, "urlRecalcStyle": "https://www.google.ro/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw"}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.922569, "endTime": 2264968.927144, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.929495, "endTime": 2264968.929496, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.929498, "endTime": 2264968.929499, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.929500, "endTime": 2264968.929501, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.946233, "endTime": 2264968.948502, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.951589, "endTime": 2264968.952064, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.951762, "endTime": 2264968.951986, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.952158, "endTime": 2264968.952363, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.955516, "endTime": 2264968.955518, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.955519, "endTime": 2264968.955520, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40787d0", "docUrl": "https://www.google.ro/", "startTime": 2264968.955521, "endTime": 2264968.955524, "urlRecalcStyle": "load"}}
+{"Complete": "www.google.ro_"}

@@ -1,0 +1,606 @@
+{"page": "www.babylon.com_"}
+{"DOMLoad": 2260099.327488}
+{"Resource": {"id": 1, "url": "http://www.babylon.com/", "sentTime": -1.000000, "len": 9180, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 17428, "connReused": 0, "cached": 0,                            "requestTime": 2260097.709205, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 50, "connectStart": 1, "connectEnd": 102, "sendStart": 102, "sendEnd": 102, "receiveHeadersEnd": 161, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260097.908479, "len": 2287}}
+{"ReceivedChunk": {"receivedTime": 2260097.941724, "len": 6893}}
+{"ObjectHash": {"code": "0x4283c60", "doc": "http://www.babylon.com/", "row": 1, "column": 43, "tagName": "html", "time": 2260097.926704, "url": "", "pos": 59, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4289740", "doc": "http://www.babylon.com/", "row": 2, "column": 6, "tagName": "head", "time": 2260097.926864, "url": "", "pos": 66, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4289340", "doc": "http://www.babylon.com/", "row": 3, "column": 7, "tagName": "title", "time": 2260097.926900, "url": "", "pos": 74, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4031b20", "doc": "http://www.babylon.com/", "row": 3, "column": 66, "tagName": "title", "time": 2260097.939214, "url": "", "pos": 133, "chunkLen": 2287, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4031530", "doc": "http://www.babylon.com/", "row": 4, "column": 69, "tagName": "meta", "time": 2260097.939237, "url": "", "pos": 203, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4031ca0", "doc": "http://www.babylon.com/", "row": 5, "column": 85, "tagName": "link", "time": 2260097.939275, "url": "http://img.babylon.com/site/images/babylon10/style.css", "pos": 289, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4032300", "doc": "http://www.babylon.com/", "row": 5, "column": 92, "tagName": "link", "time": 2260097.939678, "url": "", "pos": 296, "chunkLen": 2287, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40331b0", "doc": "http://www.babylon.com/", "row": 6, "column": 113, "tagName": "link", "time": 2260097.939695, "url": "http://img.babylon.com/site/images/babylon10/homepage/hp.css", "pos": 410, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4033cd0", "doc": "http://www.babylon.com/", "row": 6, "column": 120, "tagName": "link", "time": 2260097.939918, "url": "", "pos": 417, "chunkLen": 2287, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4028530", "doc": "http://www.babylon.com/", "row": 8, "column": 119, "tagName": "script", "time": 2260097.939934, "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js", "pos": 538, "chunkLen": 2287, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4028560", "doc": "http://www.babylon.com/", "row": 8, "column": 128, "tagName": "script", "time": 2260097.939974, "url": "", "pos": 547, "chunkLen": 2287, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404bab0", "doc": "http://www.babylon.com/", "row": 0, "column": 9, "tagName": "link", "time": 2260098.273701, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404bb10", "doc": "http://www.babylon.com/", "row": 0, "column": 16, "tagName": "table", "time": 2260098.273740, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404bba0", "doc": "http://www.babylon.com/", "row": 0, "column": 24, "tagName": "table", "time": 2260098.273760, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404bd20", "doc": "http://www.babylon.com/", "row": 0, "column": 37, "tagName": "a", "time": 2260098.273774, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404be40", "doc": "http://www.babylon.com/", "row": 0, "column": 42, "tagName": "a", "time": 2260098.273801, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404be70", "doc": "http://www.babylon.com/", "row": 0, "column": 66, "tagName": "input", "time": 2260098.273808, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404e910", "doc": "http://www.babylon.com/", "row": 0, "column": 12, "tagName": "a", "time": 2260098.291153, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404ea10", "doc": "http://www.babylon.com/", "row": 0, "column": 16, "tagName": "a", "time": 2260098.291193, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404e860", "doc": "http://www.babylon.com/", "row": 0, "column": 8, "tagName": "select", "time": 2260098.291309, "url": "", "pos": 8, "chunkLen": 17, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404e8c0", "doc": "http://www.babylon.com/", "row": 0, "column": 17, "tagName": "select", "time": 2260098.291327, "url": "", "pos": 17, "chunkLen": 17, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404e800", "doc": "http://www.babylon.com/", "row": 0, "column": 22, "tagName": "div", "time": 2260098.291426, "url": "", "pos": 22, "chunkLen": 54, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404ede0", "doc": "http://www.babylon.com/", "row": 0, "column": 28, "tagName": "div", "time": 2260098.291439, "url": "", "pos": 28, "chunkLen": 54, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404ee10", "doc": "http://www.babylon.com/", "row": 0, "column": 48, "tagName": "div", "time": 2260098.291443, "url": "", "pos": 48, "chunkLen": 54, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404eed0", "doc": "http://www.babylon.com/", "row": 0, "column": 54, "tagName": "div", "time": 2260098.291450, "url": "", "pos": 54, "chunkLen": 54, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404cf40", "doc": "http://www.babylon.com/", "row": 0, "column": 36, "tagName": "a", "time": 2260098.291648, "url": "", "pos": 36, "chunkLen": 84, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404f220", "doc": "http://www.babylon.com/", "row": 0, "column": 40, "tagName": "a", "time": 2260098.291657, "url": "", "pos": 40, "chunkLen": 84, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404f250", "doc": "http://www.babylon.com/", "row": 0, "column": 78, "tagName": "div", "time": 2260098.291662, "url": "", "pos": 78, "chunkLen": 84, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404f390", "doc": "http://www.babylon.com/", "row": 0, "column": 84, "tagName": "div", "time": 2260098.291670, "url": "", "pos": 84, "chunkLen": 84, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404fbf0", "doc": "http://www.babylon.com/", "row": 0, "column": 8, "tagName": "select", "time": 2260098.294532, "url": "", "pos": 8, "chunkLen": 46, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404fef0", "doc": "http://www.babylon.com/", "row": 0, "column": 28, "tagName": "option", "time": 2260098.294550, "url": "", "pos": 28, "chunkLen": 46, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404ffd0", "doc": "http://www.babylon.com/", "row": 0, "column": 37, "tagName": "option", "time": 2260098.294575, "url": "", "pos": 37, "chunkLen": 46, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4050000", "doc": "http://www.babylon.com/", "row": 0, "column": 46, "tagName": "select", "time": 2260098.294579, "url": "", "pos": 46, "chunkLen": 46, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4050390", "doc": "http://www.babylon.com/", "row": 0, "column": 11, "tagName": "p", "time": 2260098.294734, "url": "", "pos": 11, "chunkLen": 15, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4050430", "doc": "http://www.babylon.com/", "row": 0, "column": 15, "tagName": "p", "time": 2260098.294753, "url": "", "pos": 15, "chunkLen": 15, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40505e0", "doc": "http://www.babylon.com/", "row": 0, "column": 22, "tagName": "input", "time": 2260098.294795, "url": "", "pos": 22, "chunkLen": 22, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404b1b0", "doc": "http://www.babylon.com/", "row": 9, "column": 117, "tagName": "script", "time": 2260098.303691, "url": "http://img.babylon.com/site/images/babylon10/modernizr.js", "pos": 665, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404b3b0", "doc": "http://www.babylon.com/", "row": 9, "column": 126, "tagName": "script", "time": 2260098.303723, "url": "", "pos": 674, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036970", "doc": "http://www.babylon.com/", "row": 0, "column": 29, "tagName": "style", "time": 2260098.309961, "url": "", "pos": 29, "chunkLen": 88, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4288d60", "doc": "http://www.babylon.com/", "row": 0, "column": 88, "tagName": "style", "time": 2260098.311152, "url": "", "pos": 88, "chunkLen": 88, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4034b60", "doc": "http://www.babylon.com/", "row": 0, "column": 5, "tagName": "xyz", "time": 2260098.329568, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x401b5d0", "doc": "http://www.babylon.com/", "row": 0, "column": 11, "tagName": "xyz", "time": 2260098.329585, "url": "", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x403a0a0", "doc": "http://www.babylon.com/", "row": 10, "column": 114, "tagName": "script", "time": 2260098.331293, "url": "http://img.babylon.com/site/images/babylon10/append.js", "pos": 789, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404a340", "doc": "http://www.babylon.com/", "row": 10, "column": 123, "tagName": "script", "time": 2260098.331318, "url": "", "pos": 798, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4027fa0", "doc": "http://www.babylon.com/", "row": 11, "column": 115, "tagName": "script", "time": 2260098.332797, "url": "http://img.babylon.com/site/images/babylon10/scripts.js", "pos": 914, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404a9d0", "doc": "http://www.babylon.com/", "row": 11, "column": 124, "tagName": "script", "time": 2260098.332815, "url": "", "pos": 923, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404a8a0", "doc": "http://www.babylon.com/", "row": 12, "column": 43, "tagName": "link", "time": 2260098.344168, "url": "http://www.babylon.com/fonts.css", "pos": 967, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4292aa0", "doc": "http://www.babylon.com/", "row": 13, "column": 114, "tagName": "script", "time": 2260098.356991, "url": "http://img.babylon.com/site/images/babylon-8/common/Shared/Functions/meta.js", "pos": 1082, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4292770", "doc": "http://www.babylon.com/", "row": 13, "column": 123, "tagName": "script", "time": 2260098.357014, "url": "", "pos": 1091, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4051970", "doc": "http://www.babylon.com/", "row": 14, "column": 106, "tagName": "link", "time": 2260098.357980, "url": "http://img.babylon.com/site/images/babylon-8/common/images/favicon.ico", "pos": 1198, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4041940", "doc": "http://www.babylon.com/", "row": 15, "column": 94, "tagName": "meta", "time": 2260098.358070, "url": "", "pos": 1293, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4041ca0", "doc": "http://www.babylon.com/", "row": 16, "column": 7, "tagName": "head", "time": 2260098.358086, "url": "", "pos": 1301, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x404f150", "doc": "http://www.babylon.com/", "row": 17, "column": 6, "tagName": "body", "time": 2260098.358095, "url": "", "pos": 1308, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404af80", "doc": "http://www.babylon.com/", "row": 18, "column": 24, "tagName": "div", "time": 2260098.358167, "url": "", "pos": 1335, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404f750", "doc": "http://www.babylon.com/", "row": 19, "column": 8, "tagName": "header", "time": 2260098.358220, "url": "", "pos": 1344, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404f930", "doc": "http://www.babylon.com/", "row": 20, "column": 33, "tagName": "div", "time": 2260098.358259, "url": "", "pos": 1378, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4054bb0", "doc": "http://www.babylon.com/", "row": 21, "column": 19, "tagName": "div", "time": 2260098.358352, "url": "", "pos": 1398, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40551a0", "doc": "http://www.babylon.com/", "row": 22, "column": 69, "tagName": "a", "time": 2260098.358409, "url": "", "pos": 1468, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4055400", "doc": "http://www.babylon.com/", "row": 22, "column": 87, "tagName": "div", "time": 2260098.358507, "url": "", "pos": 1486, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4055be0", "doc": "http://www.babylon.com/", "row": 22, "column": 93, "tagName": "div", "time": 2260098.358760, "url": "", "pos": 1492, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4055740", "doc": "http://www.babylon.com/", "row": 22, "column": 97, "tagName": "a", "time": 2260098.358765, "url": "", "pos": 1496, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40556d0", "doc": "http://www.babylon.com/", "row": 23, "column": 24, "tagName": "div", "time": 2260098.358783, "url": "", "pos": 1521, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40560c0", "doc": "http://www.babylon.com/", "row": 24, "column": 92, "tagName": "a", "time": 2260098.358856, "url": "", "pos": 1614, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40563f0", "doc": "http://www.babylon.com/", "row": 25, "column": 22, "tagName": "div", "time": 2260098.358938, "url": "", "pos": 1637, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4056cd0", "doc": "http://www.babylon.com/", "row": 25, "column": 157, "tagName": "img", "time": 2260098.359004, "url": "", "pos": 1772, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40377c0", "doc": "http://www.babylon.com/", "row": 25, "column": 171, "tagName": "div", "time": 2260098.359292, "url": "", "pos": 1786, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037820", "doc": "http://www.babylon.com/", "row": 26, "column": 7, "tagName": "a", "time": 2260098.359301, "url": "", "pos": 1794, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4056700", "doc": "http://www.babylon.com/", "row": 27, "column": 35, "tagName": "div", "time": 2260098.359314, "url": "", "pos": 1830, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4057570", "doc": "http://www.babylon.com/", "row": 28, "column": 25, "tagName": "div", "time": 2260098.359365, "url": "", "pos": 1856, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4058150", "doc": "http://www.babylon.com/", "row": 29, "column": 29, "tagName": "div", "time": 2260098.359583, "url": "", "pos": 1886, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40584d0", "doc": "http://www.babylon.com/", "row": 30, "column": 38, "tagName": "div", "time": 2260098.359623, "url": "", "pos": 1925, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4058cc0", "doc": "http://www.babylon.com/", "row": 30, "column": 44, "tagName": "div", "time": 2260098.359815, "url": "", "pos": 1931, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40589f0", "doc": "http://www.babylon.com/", "row": 31, "column": 11, "tagName": "div", "time": 2260098.359826, "url": "", "pos": 1943, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4058720", "doc": "http://www.babylon.com/", "row": 32, "column": 30, "tagName": "div", "time": 2260098.359835, "url": "", "pos": 1974, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4058f70", "doc": "http://www.babylon.com/", "row": 33, "column": 36, "tagName": "div", "time": 2260098.359867, "url": "", "pos": 2011, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059250", "doc": "http://www.babylon.com/", "row": 33, "column": 65, "tagName": "ul", "time": 2260098.359905, "url": "", "pos": 2040, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4058c50", "doc": "http://www.babylon.com/", "row": 33, "column": 69, "tagName": "li", "time": 2260098.359966, "url": "", "pos": 2044, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40595d0", "doc": "http://www.babylon.com/", "row": 33, "column": 103, "tagName": "a", "time": 2260098.359990, "url": "", "pos": 2078, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059790", "doc": "http://www.babylon.com/", "row": 33, "column": 128, "tagName": "div", "time": 2260098.360015, "url": "", "pos": 2103, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059840", "doc": "http://www.babylon.com/", "row": 33, "column": 134, "tagName": "div", "time": 2260098.360027, "url": "", "pos": 2109, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40598d0", "doc": "http://www.babylon.com/", "row": 33, "column": 145, "tagName": "a", "time": 2260098.360034, "url": "", "pos": 2120, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059a00", "doc": "http://www.babylon.com/", "row": 33, "column": 150, "tagName": "li", "time": 2260098.360037, "url": "", "pos": 2125, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059900", "doc": "http://www.babylon.com/", "row": 33, "column": 154, "tagName": "li", "time": 2260098.360040, "url": "", "pos": 2129, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059310", "doc": "http://www.babylon.com/", "row": 33, "column": 192, "tagName": "a", "time": 2260098.360051, "url": "", "pos": 2167, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40593b0", "doc": "http://www.babylon.com/", "row": 33, "column": 217, "tagName": "div", "time": 2260098.360072, "url": "", "pos": 2192, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059ab0", "doc": "http://www.babylon.com/", "row": 33, "column": 223, "tagName": "div", "time": 2260098.360083, "url": "", "pos": 2198, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059d10", "doc": "http://www.babylon.com/", "row": 33, "column": 233, "tagName": "a", "time": 2260098.360089, "url": "", "pos": 2208, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059c10", "doc": "http://www.babylon.com/", "row": 33, "column": 238, "tagName": "li", "time": 2260098.360093, "url": "", "pos": 2213, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4057720", "doc": "http://www.babylon.com/", "row": 33, "column": 242, "tagName": "li", "time": 2260098.360095, "url": "", "pos": 2217, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4057750", "doc": "http://www.babylon.com/", "row": 33, "column": 281, "tagName": "a", "time": 2260098.360107, "url": "", "pos": 2256, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4057af0", "doc": "http://www.babylon.com/", "row": 33, "column": 306, "tagName": "div", "time": 2260098.360126, "url": "", "pos": 2281, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059b10", "doc": "http://www.babylon.com/", "row": 33, "column": 312, "tagName": "div", "time": 2260098.360148, "url": "", "pos": 2287, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059b90", "doc": "http://www.babylon.com/", "row": 33, "column": 322, "tagName": "a", "time": 2260098.360158, "url": "", "pos": 2297, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a020", "doc": "http://www.babylon.com/", "row": 33, "column": 327, "tagName": "li", "time": 2260098.360161, "url": "", "pos": 2302, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a050", "doc": "http://www.babylon.com/", "row": 33, "column": 331, "tagName": "li", "time": 2260098.360164, "url": "", "pos": 2306, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a110", "doc": "http://www.babylon.com/", "row": 33, "column": 369, "tagName": "a", "time": 2260098.360175, "url": "", "pos": 2344, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a1b0", "doc": "http://www.babylon.com/", "row": 33, "column": 394, "tagName": "div", "time": 2260098.360195, "url": "", "pos": 2369, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4057650", "doc": "http://www.babylon.com/", "row": 33, "column": 400, "tagName": "div", "time": 2260098.360205, "url": "", "pos": 2375, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40576e0", "doc": "http://www.babylon.com/", "row": 33, "column": 411, "tagName": "a", "time": 2260098.360212, "url": "", "pos": 2386, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a350", "doc": "http://www.babylon.com/", "row": 33, "column": 416, "tagName": "li", "time": 2260098.360215, "url": "", "pos": 2391, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a380", "doc": "http://www.babylon.com/", "row": 33, "column": 420, "tagName": "li", "time": 2260098.360217, "url": "", "pos": 2395, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a460", "doc": "http://www.babylon.com/", "row": 33, "column": 459, "tagName": "a", "time": 2260098.360228, "url": "", "pos": 2434, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a280", "doc": "http://www.babylon.com/", "row": 33, "column": 484, "tagName": "div", "time": 2260098.360247, "url": "", "pos": 2459, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a4d0", "doc": "http://www.babylon.com/", "row": 33, "column": 490, "tagName": "div", "time": 2260098.360257, "url": "", "pos": 2465, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a560", "doc": "http://www.babylon.com/", "row": 33, "column": 501, "tagName": "a", "time": 2260098.360264, "url": "", "pos": 2476, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a320", "doc": "http://www.babylon.com/", "row": 33, "column": 506, "tagName": "li", "time": 2260098.360266, "url": "", "pos": 2481, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a590", "doc": "http://www.babylon.com/", "row": 33, "column": 510, "tagName": "li", "time": 2260098.360269, "url": "", "pos": 2485, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a7b0", "doc": "http://www.babylon.com/", "row": 33, "column": 550, "tagName": "a", "time": 2260098.360279, "url": "", "pos": 2525, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a670", "doc": "http://www.babylon.com/", "row": 33, "column": 575, "tagName": "div", "time": 2260098.360298, "url": "", "pos": 2550, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a930", "doc": "http://www.babylon.com/", "row": 33, "column": 581, "tagName": "div", "time": 2260098.360309, "url": "", "pos": 2556, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059ec0", "doc": "http://www.babylon.com/", "row": 33, "column": 595, "tagName": "a", "time": 2260098.360316, "url": "", "pos": 2570, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a960", "doc": "http://www.babylon.com/", "row": 33, "column": 600, "tagName": "li", "time": 2260098.360318, "url": "", "pos": 2575, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405a990", "doc": "http://www.babylon.com/", "row": 33, "column": 604, "tagName": "li", "time": 2260098.360321, "url": "", "pos": 2579, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405aa00", "doc": "http://www.babylon.com/", "row": 33, "column": 641, "tagName": "a", "time": 2260098.360331, "url": "", "pos": 2616, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405a8f0", "doc": "http://www.babylon.com/", "row": 33, "column": 666, "tagName": "div", "time": 2260098.360350, "url": "", "pos": 2641, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4059d90", "doc": "http://www.babylon.com/", "row": 33, "column": 672, "tagName": "div", "time": 2260098.360361, "url": "", "pos": 2647, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059e10", "doc": "http://www.babylon.com/", "row": 33, "column": 682, "tagName": "a", "time": 2260098.360367, "url": "", "pos": 2657, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059f10", "doc": "http://www.babylon.com/", "row": 33, "column": 687, "tagName": "li", "time": 2260098.360370, "url": "", "pos": 2662, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4059f40", "doc": "http://www.babylon.com/", "row": 33, "column": 691, "tagName": "li", "time": 2260098.360373, "url": "", "pos": 2666, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405ad10", "doc": "http://www.babylon.com/", "row": 33, "column": 730, "tagName": "a", "time": 2260098.360383, "url": "", "pos": 2705, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405adb0", "doc": "http://www.babylon.com/", "row": 33, "column": 755, "tagName": "div", "time": 2260098.360402, "url": "", "pos": 2730, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405aad0", "doc": "http://www.babylon.com/", "row": 33, "column": 761, "tagName": "div", "time": 2260098.360413, "url": "", "pos": 2736, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ab60", "doc": "http://www.babylon.com/", "row": 33, "column": 773, "tagName": "a", "time": 2260098.360428, "url": "", "pos": 2748, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405af40", "doc": "http://www.babylon.com/", "row": 33, "column": 778, "tagName": "li", "time": 2260098.360432, "url": "", "pos": 2753, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405af70", "doc": "http://www.babylon.com/", "row": 33, "column": 782, "tagName": "li", "time": 2260098.360434, "url": "", "pos": 2757, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405b030", "doc": "http://www.babylon.com/", "row": 33, "column": 819, "tagName": "a", "time": 2260098.360445, "url": "", "pos": 2794, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405b0d0", "doc": "http://www.babylon.com/", "row": 33, "column": 844, "tagName": "div", "time": 2260098.360464, "url": "", "pos": 2819, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405ae70", "doc": "http://www.babylon.com/", "row": 33, "column": 850, "tagName": "div", "time": 2260098.360475, "url": "", "pos": 2825, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405aef0", "doc": "http://www.babylon.com/", "row": 33, "column": 860, "tagName": "a", "time": 2260098.360481, "url": "", "pos": 2835, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b270", "doc": "http://www.babylon.com/", "row": 33, "column": 865, "tagName": "li", "time": 2260098.360484, "url": "", "pos": 2840, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b2a0", "doc": "http://www.babylon.com/", "row": 33, "column": 870, "tagName": "ul", "time": 2260098.360487, "url": "", "pos": 2845, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b2d0", "doc": "http://www.babylon.com/", "row": 33, "column": 876, "tagName": "div", "time": 2260098.360489, "url": "", "pos": 2851, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b300", "doc": "http://www.babylon.com/", "row": 34, "column": 11, "tagName": "div", "time": 2260098.360497, "url": "", "pos": 2880, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b360", "doc": "http://www.babylon.com/", "row": 35, "column": 10, "tagName": "div", "time": 2260098.360504, "url": "", "pos": 2891, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b3c0", "doc": "http://www.babylon.com/", "row": 36, "column": 9, "tagName": "div", "time": 2260098.360511, "url": "", "pos": 2901, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b480", "doc": "http://www.babylon.com/", "row": 38, "column": 8, "tagName": "div", "time": 2260098.360534, "url": "", "pos": 2952, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b5e0", "doc": "http://www.babylon.com/", "row": 39, "column": 23, "tagName": "div", "time": 2260098.360545, "url": "", "pos": 2976, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405b6e0", "doc": "http://www.babylon.com/", "row": 39, "column": 29, "tagName": "div", "time": 2260098.360596, "url": "", "pos": 2982, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b760", "doc": "http://www.babylon.com/", "row": 40, "column": 7, "tagName": "div", "time": 2260098.360605, "url": "", "pos": 2990, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b880", "doc": "http://www.babylon.com/", "row": 41, "column": 30, "tagName": "div", "time": 2260098.360613, "url": "", "pos": 3021, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405bb80", "doc": "http://www.babylon.com/", "row": 41, "column": 36, "tagName": "div", "time": 2260098.360648, "url": "", "pos": 3027, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b940", "doc": "http://www.babylon.com/", "row": 42, "column": 6, "tagName": "div", "time": 2260098.360656, "url": "", "pos": 3034, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405b9a0", "doc": "http://www.babylon.com/", "row": 43, "column": 9, "tagName": "header", "time": 2260098.360662, "url": "", "pos": 3044, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405bcb0", "doc": "http://www.babylon.com/", "row": 45, "column": 21, "tagName": "div", "time": 2260098.360677, "url": "", "pos": 3078, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c100", "doc": "http://www.babylon.com/", "row": 46, "column": 28, "tagName": "nav", "time": 2260098.360732, "url": "", "pos": 3107, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c3a0", "doc": "http://www.babylon.com/", "row": 47, "column": 5, "tagName": "ul", "time": 2260098.360797, "url": "", "pos": 3113, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405bec0", "doc": "http://www.babylon.com/", "row": 48, "column": 25, "tagName": "li", "time": 2260098.360839, "url": "", "pos": 3141, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405c880", "doc": "http://www.babylon.com/", "row": 48, "column": 91, "tagName": "a", "time": 2260098.360908, "url": "", "pos": 3207, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405d0d0", "doc": "http://www.babylon.com/", "row": 48, "column": 118, "tagName": "div", "time": 2260098.361023, "url": "", "pos": 3234, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405d350", "doc": "http://www.babylon.com/", "row": 48, "column": 132, "tagName": "div", "time": 2260098.361059, "url": "", "pos": 3248, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405d250", "doc": "http://www.babylon.com/", "row": 48, "column": 154, "tagName": "div", "time": 2260098.361065, "url": "", "pos": 3270, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405de20", "doc": "http://www.babylon.com/", "row": 48, "column": 160, "tagName": "div", "time": 2260098.361278, "url": "", "pos": 3276, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405d5a0", "doc": "http://www.babylon.com/", "row": 48, "column": 164, "tagName": "a", "time": 2260098.361282, "url": "", "pos": 3280, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405db70", "doc": "http://www.babylon.com/", "row": 48, "column": 187, "tagName": "div", "time": 2260098.361288, "url": "", "pos": 3303, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405e1c0", "doc": "http://www.babylon.com/", "row": 48, "column": 193, "tagName": "div", "time": 2260098.361470, "url": "", "pos": 3309, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405de90", "doc": "http://www.babylon.com/", "row": 48, "column": 198, "tagName": "li", "time": 2260098.361475, "url": "", "pos": 3314, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405df20", "doc": "http://www.babylon.com/", "row": 49, "column": 24, "tagName": "li", "time": 2260098.361486, "url": "", "pos": 3340, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405e3b0", "doc": "http://www.babylon.com/", "row": 49, "column": 108, "tagName": "a", "time": 2260098.361537, "url": "", "pos": 3424, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405db40", "doc": "http://www.babylon.com/", "row": 49, "column": 134, "tagName": "div", "time": 2260098.361597, "url": "", "pos": 3450, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405ac10", "doc": "http://www.babylon.com/", "row": 49, "column": 154, "tagName": "div", "time": 2260098.361626, "url": "", "pos": 3470, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ac40", "doc": "http://www.babylon.com/", "row": 49, "column": 175, "tagName": "div", "time": 2260098.361632, "url": "", "pos": 3491, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405f390", "doc": "http://www.babylon.com/", "row": 49, "column": 181, "tagName": "div", "time": 2260098.361817, "url": "", "pos": 3497, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405f200", "doc": "http://www.babylon.com/", "row": 49, "column": 185, "tagName": "a", "time": 2260098.361821, "url": "", "pos": 3501, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405f230", "doc": "http://www.babylon.com/", "row": 49, "column": 208, "tagName": "div", "time": 2260098.361826, "url": "", "pos": 3524, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405f290", "doc": "http://www.babylon.com/", "row": 49, "column": 214, "tagName": "div", "time": 2260098.361851, "url": "", "pos": 3530, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405f2c0", "doc": "http://www.babylon.com/", "row": 49, "column": 219, "tagName": "li", "time": 2260098.361855, "url": "", "pos": 3535, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405f320", "doc": "http://www.babylon.com/", "row": 50, "column": 6, "tagName": "li", "time": 2260098.361863, "url": "", "pos": 3544, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405e7d0", "doc": "http://www.babylon.com/", "row": 50, "column": 69, "tagName": "a", "time": 2260098.361892, "url": "", "pos": 3607, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405e800", "doc": "http://www.babylon.com/", "row": 50, "column": 95, "tagName": "div", "time": 2260098.361949, "url": "", "pos": 3633, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405f830", "doc": "http://www.babylon.com/", "row": 50, "column": 108, "tagName": "div", "time": 2260098.361978, "url": "", "pos": 3646, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405f8b0", "doc": "http://www.babylon.com/", "row": 50, "column": 129, "tagName": "div", "time": 2260098.361983, "url": "", "pos": 3667, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405ff20", "doc": "http://www.babylon.com/", "row": 50, "column": 135, "tagName": "div", "time": 2260098.362045, "url": "", "pos": 3673, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ff50", "doc": "http://www.babylon.com/", "row": 50, "column": 139, "tagName": "a", "time": 2260098.362049, "url": "", "pos": 3677, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ff80", "doc": "http://www.babylon.com/", "row": 50, "column": 144, "tagName": "li", "time": 2260098.362052, "url": "", "pos": 3682, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405fba0", "doc": "http://www.babylon.com/", "row": 51, "column": 6, "tagName": "ul", "time": 2260098.362071, "url": "", "pos": 3691, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405fc20", "doc": "http://www.babylon.com/", "row": 52, "column": 6, "tagName": "nav", "time": 2260098.362080, "url": "", "pos": 3698, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405f9b0", "doc": "http://www.babylon.com/", "row": 53, "column": 23, "tagName": "div", "time": 2260098.362088, "url": "", "pos": 3722, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40605b0", "doc": "http://www.babylon.com/", "row": 53, "column": 29, "tagName": "div", "time": 2260098.362277, "url": "", "pos": 3728, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x405ffd0", "doc": "http://www.babylon.com/", "row": 54, "column": 6, "tagName": "div", "time": 2260098.362287, "url": "", "pos": 3735, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4060080", "doc": "http://www.babylon.com/", "row": 56, "column": 6, "tagName": "div", "time": 2260098.362300, "url": "", "pos": 3754, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40601c0", "doc": "http://www.babylon.com/", "row": 57, "column": 21, "tagName": "div", "time": 2260098.362309, "url": "", "pos": 3776, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405d020", "doc": "http://www.babylon.com/", "row": 58, "column": 26, "tagName": "div", "time": 2260098.362390, "url": "", "pos": 3813, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061070", "doc": "http://www.babylon.com/", "row": 59, "column": 32, "tagName": "div", "time": 2260098.362422, "url": "", "pos": 3846, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4060e00", "doc": "http://www.babylon.com/", "row": 59, "column": 61, "tagName": "ul", "time": 2260098.362434, "url": "", "pos": 3875, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4060f70", "doc": "http://www.babylon.com/", "row": 59, "column": 65, "tagName": "li", "time": 2260098.362443, "url": "", "pos": 3879, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40611f0", "doc": "http://www.babylon.com/", "row": 59, "column": 99, "tagName": "a", "time": 2260098.362454, "url": "", "pos": 3913, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061260", "doc": "http://www.babylon.com/", "row": 59, "column": 124, "tagName": "div", "time": 2260098.362476, "url": "", "pos": 3938, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40612d0", "doc": "http://www.babylon.com/", "row": 59, "column": 130, "tagName": "div", "time": 2260098.362485, "url": "", "pos": 3944, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061460", "doc": "http://www.babylon.com/", "row": 59, "column": 141, "tagName": "a", "time": 2260098.362492, "url": "", "pos": 3955, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061360", "doc": "http://www.babylon.com/", "row": 59, "column": 146, "tagName": "li", "time": 2260098.362495, "url": "", "pos": 3960, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061390", "doc": "http://www.babylon.com/", "row": 59, "column": 150, "tagName": "li", "time": 2260098.362498, "url": "", "pos": 3964, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061400", "doc": "http://www.babylon.com/", "row": 59, "column": 188, "tagName": "a", "time": 2260098.362508, "url": "", "pos": 4002, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061430", "doc": "http://www.babylon.com/", "row": 59, "column": 213, "tagName": "div", "time": 2260098.362527, "url": "", "pos": 4027, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061510", "doc": "http://www.babylon.com/", "row": 59, "column": 219, "tagName": "div", "time": 2260098.362537, "url": "", "pos": 4033, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061670", "doc": "http://www.babylon.com/", "row": 59, "column": 229, "tagName": "a", "time": 2260098.362543, "url": "", "pos": 4043, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4060e70", "doc": "http://www.babylon.com/", "row": 59, "column": 234, "tagName": "li", "time": 2260098.362546, "url": "", "pos": 4048, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4060ea0", "doc": "http://www.babylon.com/", "row": 59, "column": 238, "tagName": "li", "time": 2260098.362548, "url": "", "pos": 4052, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4060f10", "doc": "http://www.babylon.com/", "row": 59, "column": 277, "tagName": "a", "time": 2260098.362558, "url": "", "pos": 4091, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4060f40", "doc": "http://www.babylon.com/", "row": 59, "column": 302, "tagName": "div", "time": 2260098.362577, "url": "", "pos": 4116, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061720", "doc": "http://www.babylon.com/", "row": 59, "column": 308, "tagName": "div", "time": 2260098.362587, "url": "", "pos": 4122, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061880", "doc": "http://www.babylon.com/", "row": 59, "column": 318, "tagName": "a", "time": 2260098.362593, "url": "", "pos": 4132, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061540", "doc": "http://www.babylon.com/", "row": 59, "column": 323, "tagName": "li", "time": 2260098.362596, "url": "", "pos": 4137, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061570", "doc": "http://www.babylon.com/", "row": 59, "column": 327, "tagName": "li", "time": 2260098.362598, "url": "", "pos": 4141, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42930a0", "doc": "http://www.babylon.com/", "row": 59, "column": 365, "tagName": "a", "time": 2260098.364342, "url": "", "pos": 4179, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4292e70", "doc": "http://www.babylon.com/", "row": 59, "column": 390, "tagName": "div", "time": 2260098.364368, "url": "", "pos": 4204, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4292a50", "doc": "http://www.babylon.com/", "row": 59, "column": 396, "tagName": "div", "time": 2260098.364379, "url": "", "pos": 4210, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4292b30", "doc": "http://www.babylon.com/", "row": 59, "column": 407, "tagName": "a", "time": 2260098.364386, "url": "", "pos": 4221, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4292b60", "doc": "http://www.babylon.com/", "row": 59, "column": 412, "tagName": "li", "time": 2260098.364390, "url": "", "pos": 4226, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4292b90", "doc": "http://www.babylon.com/", "row": 59, "column": 416, "tagName": "li", "time": 2260098.364393, "url": "", "pos": 4230, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4292db0", "doc": "http://www.babylon.com/", "row": 59, "column": 455, "tagName": "a", "time": 2260098.364404, "url": "", "pos": 4269, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4292e20", "doc": "http://www.babylon.com/", "row": 59, "column": 480, "tagName": "div", "time": 2260098.364424, "url": "", "pos": 4294, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42931d0", "doc": "http://www.babylon.com/", "row": 59, "column": 486, "tagName": "div", "time": 2260098.364433, "url": "", "pos": 4300, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293260", "doc": "http://www.babylon.com/", "row": 59, "column": 497, "tagName": "a", "time": 2260098.364440, "url": "", "pos": 4311, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293290", "doc": "http://www.babylon.com/", "row": 59, "column": 502, "tagName": "li", "time": 2260098.364443, "url": "", "pos": 4316, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293410", "doc": "http://www.babylon.com/", "row": 59, "column": 506, "tagName": "li", "time": 2260098.364445, "url": "", "pos": 4320, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293310", "doc": "http://www.babylon.com/", "row": 59, "column": 546, "tagName": "a", "time": 2260098.364457, "url": "", "pos": 4360, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293380", "doc": "http://www.babylon.com/", "row": 59, "column": 571, "tagName": "div", "time": 2260098.364477, "url": "", "pos": 4385, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293580", "doc": "http://www.babylon.com/", "row": 59, "column": 577, "tagName": "div", "time": 2260098.364487, "url": "", "pos": 4391, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42934e0", "doc": "http://www.babylon.com/", "row": 59, "column": 591, "tagName": "a", "time": 2260098.364493, "url": "", "pos": 4405, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293510", "doc": "http://www.babylon.com/", "row": 59, "column": 596, "tagName": "li", "time": 2260098.364496, "url": "", "pos": 4410, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293540", "doc": "http://www.babylon.com/", "row": 59, "column": 600, "tagName": "li", "time": 2260098.364499, "url": "", "pos": 4414, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293610", "doc": "http://www.babylon.com/", "row": 59, "column": 637, "tagName": "a", "time": 2260098.364509, "url": "", "pos": 4451, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293780", "doc": "http://www.babylon.com/", "row": 59, "column": 662, "tagName": "div", "time": 2260098.364528, "url": "", "pos": 4476, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293680", "doc": "http://www.babylon.com/", "row": 59, "column": 668, "tagName": "div", "time": 2260098.364538, "url": "", "pos": 4482, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293700", "doc": "http://www.babylon.com/", "row": 59, "column": 678, "tagName": "a", "time": 2260098.364544, "url": "", "pos": 4492, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293730", "doc": "http://www.babylon.com/", "row": 59, "column": 683, "tagName": "li", "time": 2260098.364547, "url": "", "pos": 4497, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293910", "doc": "http://www.babylon.com/", "row": 59, "column": 687, "tagName": "li", "time": 2260098.364550, "url": "", "pos": 4501, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293810", "doc": "http://www.babylon.com/", "row": 59, "column": 726, "tagName": "a", "time": 2260098.364560, "url": "", "pos": 4540, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293890", "doc": "http://www.babylon.com/", "row": 59, "column": 751, "tagName": "div", "time": 2260098.364599, "url": "", "pos": 4565, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293c80", "doc": "http://www.babylon.com/", "row": 59, "column": 757, "tagName": "div", "time": 2260098.364609, "url": "", "pos": 4571, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293cb0", "doc": "http://www.babylon.com/", "row": 59, "column": 769, "tagName": "a", "time": 2260098.364616, "url": "", "pos": 4583, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293bf0", "doc": "http://www.babylon.com/", "row": 59, "column": 774, "tagName": "li", "time": 2260098.364619, "url": "", "pos": 4588, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293c20", "doc": "http://www.babylon.com/", "row": 59, "column": 778, "tagName": "li", "time": 2260098.364622, "url": "", "pos": 4592, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293c50", "doc": "http://www.babylon.com/", "row": 59, "column": 815, "tagName": "a", "time": 2260098.364632, "url": "", "pos": 4629, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293d60", "doc": "http://www.babylon.com/", "row": 59, "column": 840, "tagName": "div", "time": 2260098.364651, "url": "", "pos": 4654, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4293b50", "doc": "http://www.babylon.com/", "row": 59, "column": 846, "tagName": "div", "time": 2260098.364660, "url": "", "pos": 4660, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42939f0", "doc": "http://www.babylon.com/", "row": 59, "column": 856, "tagName": "a", "time": 2260098.364667, "url": "", "pos": 4670, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293a20", "doc": "http://www.babylon.com/", "row": 59, "column": 861, "tagName": "li", "time": 2260098.364670, "url": "", "pos": 4675, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293a50", "doc": "http://www.babylon.com/", "row": 59, "column": 866, "tagName": "ul", "time": 2260098.364672, "url": "", "pos": 4680, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4293a80", "doc": "http://www.babylon.com/", "row": 59, "column": 872, "tagName": "div", "time": 2260098.364674, "url": "", "pos": 4686, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429c9a0", "doc": "http://www.babylon.com/", "row": 60, "column": 6, "tagName": "div", "time": 2260098.364681, "url": "", "pos": 4710, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429cb40", "doc": "http://www.babylon.com/", "row": 63, "column": 26, "tagName": "div", "time": 2260098.364692, "url": "", "pos": 4756, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429d180", "doc": "http://www.babylon.com/", "row": 64, "column": 22, "tagName": "div", "time": 2260098.365527, "url": "", "pos": 4779, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429cc10", "doc": "http://www.babylon.com/", "row": 65, "column": 33, "tagName": "h1", "time": 2260098.365576, "url": "", "pos": 4813, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429dd00", "doc": "http://www.babylon.com/", "row": 65, "column": 47, "tagName": "h1", "time": 2260098.365666, "url": "", "pos": 4827, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429dd60", "doc": "http://www.babylon.com/", "row": 66, "column": 33, "tagName": "h2", "time": 2260098.365678, "url": "", "pos": 4861, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429d150", "doc": "http://www.babylon.com/", "row": 66, "column": 105, "tagName": "h2", "time": 2260098.365749, "url": "", "pos": 4933, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429e1e0", "doc": "http://www.babylon.com/", "row": 67, "column": 31, "tagName": "div", "time": 2260098.365760, "url": "", "pos": 4965, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429e4a0", "doc": "http://www.babylon.com/", "row": 68, "column": 33, "tagName": "div", "time": 2260098.365963, "url": "", "pos": 4999, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429f1e0", "doc": "http://www.babylon.com/", "row": 69, "column": 88, "tagName": "a", "time": 2260098.366146, "url": "", "pos": 5088, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429e380", "doc": "http://www.babylon.com/", "row": 70, "column": 37, "tagName": "div", "time": 2260098.366222, "url": "", "pos": 5126, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x429fe30", "doc": "http://www.babylon.com/", "row": 70, "column": 53, "tagName": "div", "time": 2260098.366327, "url": "", "pos": 5142, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429fe90", "doc": "http://www.babylon.com/", "row": 71, "column": 7, "tagName": "a", "time": 2260098.366349, "url": "", "pos": 5150, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429fff0", "doc": "http://www.babylon.com/", "row": 72, "column": 8, "tagName": "div", "time": 2260098.366363, "url": "", "pos": 5159, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429f720", "doc": "http://www.babylon.com/", "row": 73, "column": 7, "tagName": "div", "time": 2260098.366370, "url": "", "pos": 5167, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429f780", "doc": "http://www.babylon.com/", "row": 74, "column": 6, "tagName": "div", "time": 2260098.366376, "url": "", "pos": 5174, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429fec0", "doc": "http://www.babylon.com/", "row": 75, "column": 6, "tagName": "div", "time": 2260098.366382, "url": "", "pos": 5181, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x429ff60", "doc": "http://www.babylon.com/", "row": 76, "column": 47, "tagName": "script", "time": 2260098.366394, "url": "", "pos": 5229, "chunkLen": 9179, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42a0230", "doc": "http://www.babylon.com/", "row": 78, "column": 9, "tagName": "script", "time": 2260098.366431, "url": "", "pos": 5259, "chunkLen": 9179, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40625b0", "doc": "http://www.babylon.com/", "row": 79, "column": 7, "tagName": "div", "time": 2260098.373778, "url": "", "pos": 2980, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4062740", "doc": "http://www.babylon.com/", "row": 80, "column": 24, "tagName": "div", "time": 2260098.373798, "url": "", "pos": 3005, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062850", "doc": "http://www.babylon.com/", "row": 81, "column": 36, "tagName": "div", "time": 2260098.373866, "url": "", "pos": 3042, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062ac0", "doc": "http://www.babylon.com/", "row": 82, "column": 23, "tagName": "footer", "time": 2260098.373924, "url": "", "pos": 3066, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062ec0", "doc": "http://www.babylon.com/", "row": 83, "column": 40, "tagName": "div", "time": 2260098.373978, "url": "", "pos": 3107, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4063110", "doc": "http://www.babylon.com/", "row": 84, "column": 41, "tagName": "div", "time": 2260098.374023, "url": "", "pos": 3149, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4063460", "doc": "http://www.babylon.com/", "row": 85, "column": 35, "tagName": "ul", "time": 2260098.374067, "url": "", "pos": 3185, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4063770", "doc": "http://www.babylon.com/", "row": 86, "column": 7, "tagName": "li", "time": 2260098.374142, "url": "", "pos": 3195, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062650", "doc": "http://www.babylon.com/", "row": 86, "column": 45, "tagName": "a", "time": 2260098.374184, "url": "", "pos": 3233, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4063e40", "doc": "http://www.babylon.com/", "row": 86, "column": 57, "tagName": "a", "time": 2260098.374263, "url": "", "pos": 3245, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4063c90", "doc": "http://www.babylon.com/", "row": 86, "column": 62, "tagName": "li", "time": 2260098.374271, "url": "", "pos": 3250, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4063cf0", "doc": "http://www.babylon.com/", "row": 87, "column": 7, "tagName": "li", "time": 2260098.374279, "url": "", "pos": 3258, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4063d60", "doc": "http://www.babylon.com/", "row": 87, "column": 44, "tagName": "a", "time": 2260098.374299, "url": "", "pos": 3295, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064180", "doc": "http://www.babylon.com/", "row": 87, "column": 57, "tagName": "a", "time": 2260098.374360, "url": "", "pos": 3308, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40641b0", "doc": "http://www.babylon.com/", "row": 87, "column": 62, "tagName": "li", "time": 2260098.374364, "url": "", "pos": 3313, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064310", "doc": "http://www.babylon.com/", "row": 88, "column": 7, "tagName": "li", "time": 2260098.374371, "url": "", "pos": 3321, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40642d0", "doc": "http://www.babylon.com/", "row": 88, "column": 72, "tagName": "a", "time": 2260098.374392, "url": "", "pos": 3386, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064480", "doc": "http://www.babylon.com/", "row": 88, "column": 83, "tagName": "a", "time": 2260098.374443, "url": "", "pos": 3397, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40645b0", "doc": "http://www.babylon.com/", "row": 88, "column": 88, "tagName": "li", "time": 2260098.374448, "url": "", "pos": 3402, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064240", "doc": "http://www.babylon.com/", "row": 89, "column": 7, "tagName": "ul", "time": 2260098.374455, "url": "", "pos": 3410, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40644e0", "doc": "http://www.babylon.com/", "row": 90, "column": 35, "tagName": "ul", "time": 2260098.374464, "url": "", "pos": 3446, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064030", "doc": "http://www.babylon.com/", "row": 91, "column": 7, "tagName": "li", "time": 2260098.374494, "url": "", "pos": 3456, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40640a0", "doc": "http://www.babylon.com/", "row": 91, "column": 65, "tagName": "a", "time": 2260098.374520, "url": "", "pos": 3514, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064860", "doc": "http://www.babylon.com/", "row": 91, "column": 74, "tagName": "a", "time": 2260098.374583, "url": "", "pos": 3523, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064990", "doc": "http://www.babylon.com/", "row": 91, "column": 79, "tagName": "li", "time": 2260098.374587, "url": "", "pos": 3528, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40646e0", "doc": "http://www.babylon.com/", "row": 92, "column": 7, "tagName": "li", "time": 2260098.374594, "url": "", "pos": 3536, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064960", "doc": "http://www.babylon.com/", "row": 92, "column": 113, "tagName": "a", "time": 2260098.374626, "url": "", "pos": 3642, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40647c0", "doc": "http://www.babylon.com/", "row": 92, "column": 120, "tagName": "a", "time": 2260098.374673, "url": "", "pos": 3649, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064890", "doc": "http://www.babylon.com/", "row": 92, "column": 125, "tagName": "li", "time": 2260098.374677, "url": "", "pos": 3654, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064910", "doc": "http://www.babylon.com/", "row": 93, "column": 7, "tagName": "li", "time": 2260098.374684, "url": "", "pos": 3662, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064b50", "doc": "http://www.babylon.com/", "row": 93, "column": 65, "tagName": "a", "time": 2260098.374703, "url": "", "pos": 3720, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064d50", "doc": "http://www.babylon.com/", "row": 93, "column": 79, "tagName": "a", "time": 2260098.374746, "url": "", "pos": 3734, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064a00", "doc": "http://www.babylon.com/", "row": 93, "column": 84, "tagName": "li", "time": 2260098.374750, "url": "", "pos": 3739, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064d80", "doc": "http://www.babylon.com/", "row": 94, "column": 7, "tagName": "ul", "time": 2260098.374757, "url": "", "pos": 3747, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4064a90", "doc": "http://www.babylon.com/", "row": 95, "column": 35, "tagName": "ul", "time": 2260098.374767, "url": "", "pos": 3783, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064f40", "doc": "http://www.babylon.com/", "row": 96, "column": 7, "tagName": "li", "time": 2260098.374804, "url": "", "pos": 3793, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4064e10", "doc": "http://www.babylon.com/", "row": 96, "column": 44, "tagName": "a", "time": 2260098.374824, "url": "", "pos": 3830, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065030", "doc": "http://www.babylon.com/", "row": 96, "column": 58, "tagName": "a", "time": 2260098.374865, "url": "", "pos": 3844, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065160", "doc": "http://www.babylon.com/", "row": 96, "column": 63, "tagName": "li", "time": 2260098.374870, "url": "", "pos": 3849, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065190", "doc": "http://www.babylon.com/", "row": 97, "column": 7, "tagName": "li", "time": 2260098.374877, "url": "", "pos": 3857, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065230", "doc": "http://www.babylon.com/", "row": 97, "column": 49, "tagName": "a", "time": 2260098.374895, "url": "", "pos": 3899, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065110", "doc": "http://www.babylon.com/", "row": 97, "column": 60, "tagName": "a", "time": 2260098.374927, "url": "", "pos": 3910, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065300", "doc": "http://www.babylon.com/", "row": 97, "column": 65, "tagName": "li", "time": 2260098.374931, "url": "", "pos": 3915, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065460", "doc": "http://www.babylon.com/", "row": 98, "column": 7, "tagName": "li", "time": 2260098.374939, "url": "", "pos": 3923, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065360", "doc": "http://www.babylon.com/", "row": 98, "column": 47, "tagName": "a", "time": 2260098.374956, "url": "", "pos": 3963, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065500", "doc": "http://www.babylon.com/", "row": 98, "column": 63, "tagName": "a", "time": 2260098.374989, "url": "", "pos": 3979, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065530", "doc": "http://www.babylon.com/", "row": 98, "column": 68, "tagName": "li", "time": 2260098.374993, "url": "", "pos": 3984, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065700", "doc": "http://www.babylon.com/", "row": 99, "column": 7, "tagName": "ul", "time": 2260098.374999, "url": "", "pos": 3992, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065790", "doc": "http://www.babylon.com/", "row": 100, "column": 40, "tagName": "ul", "time": 2260098.375009, "url": "", "pos": 4033, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065b00", "doc": "http://www.babylon.com/", "row": 101, "column": 7, "tagName": "li", "time": 2260098.375066, "url": "", "pos": 4042, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065c70", "doc": "http://www.babylon.com/", "row": 101, "column": 45, "tagName": "a", "time": 2260098.375097, "url": "", "pos": 4080, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065d10", "doc": "http://www.babylon.com/", "row": 101, "column": 57, "tagName": "a", "time": 2260098.376857, "url": "", "pos": 4092, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065d40", "doc": "http://www.babylon.com/", "row": 101, "column": 62, "tagName": "li", "time": 2260098.376866, "url": "", "pos": 4097, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065ef0", "doc": "http://www.babylon.com/", "row": 102, "column": 7, "tagName": "li", "time": 2260098.376879, "url": "", "pos": 4105, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4065fc0", "doc": "http://www.babylon.com/", "row": 102, "column": 63, "tagName": "a", "time": 2260098.376913, "url": "", "pos": 4161, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066020", "doc": "http://www.babylon.com/", "row": 102, "column": 91, "tagName": "a", "time": 2260098.377013, "url": "", "pos": 4189, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065df0", "doc": "http://www.babylon.com/", "row": 102, "column": 96, "tagName": "li", "time": 2260098.377017, "url": "", "pos": 4194, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4066050", "doc": "http://www.babylon.com/", "row": 103, "column": 7, "tagName": "li", "time": 2260098.377025, "url": "", "pos": 4202, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40660c0", "doc": "http://www.babylon.com/", "row": 103, "column": 47, "tagName": "a", "time": 2260098.377044, "url": "", "pos": 4242, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066360", "doc": "http://www.babylon.com/", "row": 103, "column": 58, "tagName": "a", "time": 2260098.377097, "url": "", "pos": 4253, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4066390", "doc": "http://www.babylon.com/", "row": 103, "column": 63, "tagName": "li", "time": 2260098.377101, "url": "", "pos": 4258, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4066550", "doc": "http://www.babylon.com/", "row": 104, "column": 7, "tagName": "ul", "time": 2260098.377109, "url": "", "pos": 4266, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40665b0", "doc": "http://www.babylon.com/", "row": 105, "column": 35, "tagName": "ul", "time": 2260098.377119, "url": "", "pos": 4302, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066620", "doc": "http://www.babylon.com/", "row": 106, "column": 7, "tagName": "li", "time": 2260098.377154, "url": "", "pos": 4311, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40666e0", "doc": "http://www.babylon.com/", "row": 106, "column": 58, "tagName": "a", "time": 2260098.377174, "url": "", "pos": 4362, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066520", "doc": "http://www.babylon.com/", "row": 106, "column": 66, "tagName": "a", "time": 2260098.377218, "url": "", "pos": 4370, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4066770", "doc": "http://www.babylon.com/", "row": 106, "column": 71, "tagName": "li", "time": 2260098.377222, "url": "", "pos": 4375, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40668f0", "doc": "http://www.babylon.com/", "row": 107, "column": 7, "tagName": "li", "time": 2260098.377229, "url": "", "pos": 4383, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066a30", "doc": "http://www.babylon.com/", "row": 108, "column": 71, "tagName": "a", "time": 2260098.377256, "url": "", "pos": 4455, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066b00", "doc": "http://www.babylon.com/", "row": 108, "column": 111, "tagName": "div", "time": 2260098.377296, "url": "", "pos": 4495, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40671a0", "doc": "http://www.babylon.com/", "row": 108, "column": 117, "tagName": "div", "time": 2260098.377616, "url": "", "pos": 4501, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40673f0", "doc": "http://www.babylon.com/", "row": 108, "column": 121, "tagName": "a", "time": 2260098.377621, "url": "", "pos": 4505, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4066c20", "doc": "http://www.babylon.com/", "row": 109, "column": 69, "tagName": "a", "time": 2260098.377644, "url": "", "pos": 4581, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066d90", "doc": "http://www.babylon.com/", "row": 109, "column": 105, "tagName": "div", "time": 2260098.377688, "url": "", "pos": 4617, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4067b10", "doc": "http://www.babylon.com/", "row": 109, "column": 111, "tagName": "div", "time": 2260098.377935, "url": "", "pos": 4623, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067db0", "doc": "http://www.babylon.com/", "row": 109, "column": 115, "tagName": "a", "time": 2260098.377939, "url": "", "pos": 4627, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40674b0", "doc": "http://www.babylon.com/", "row": 110, "column": 8, "tagName": "li", "time": 2260098.377951, "url": "", "pos": 4636, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067610", "doc": "http://www.babylon.com/", "row": 111, "column": 7, "tagName": "li", "time": 2260098.377959, "url": "", "pos": 4644, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40675a0", "doc": "http://www.babylon.com/", "row": 112, "column": 61, "tagName": "a", "time": 2260098.377986, "url": "", "pos": 4706, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40679e0", "doc": "http://www.babylon.com/", "row": 112, "column": 100, "tagName": "div", "time": 2260098.378020, "url": "", "pos": 4745, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068730", "doc": "http://www.babylon.com/", "row": 112, "column": 106, "tagName": "div", "time": 2260098.378234, "url": "", "pos": 4751, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4067fb0", "doc": "http://www.babylon.com/", "row": 112, "column": 110, "tagName": "a", "time": 2260098.378238, "url": "", "pos": 4755, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068080", "doc": "http://www.babylon.com/", "row": 113, "column": 62, "tagName": "a", "time": 2260098.378257, "url": "", "pos": 4824, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40683c0", "doc": "http://www.babylon.com/", "row": 113, "column": 99, "tagName": "div", "time": 2260098.378291, "url": "", "pos": 4861, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4068960", "doc": "http://www.babylon.com/", "row": 113, "column": 105, "tagName": "div", "time": 2260098.378513, "url": "", "pos": 4867, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40688a0", "doc": "http://www.babylon.com/", "row": 113, "column": 109, "tagName": "a", "time": 2260098.378517, "url": "", "pos": 4871, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068d20", "doc": "http://www.babylon.com/", "row": 114, "column": 8, "tagName": "li", "time": 2260098.378529, "url": "", "pos": 4880, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068e80", "doc": "http://www.babylon.com/", "row": 115, "column": 7, "tagName": "ul", "time": 2260098.378536, "url": "", "pos": 4888, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40687d0", "doc": "http://www.babylon.com/", "row": 116, "column": 23, "tagName": "div", "time": 2260098.378545, "url": "", "pos": 4912, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069160", "doc": "http://www.babylon.com/", "row": 116, "column": 29, "tagName": "div", "time": 2260098.378579, "url": "", "pos": 4918, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068d80", "doc": "http://www.babylon.com/", "row": 117, "column": 7, "tagName": "div", "time": 2260098.378587, "url": "", "pos": 4926, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068de0", "doc": "http://www.babylon.com/", "row": 118, "column": 7, "tagName": "div", "time": 2260098.378593, "url": "", "pos": 4934, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069190", "doc": "http://www.babylon.com/", "row": 119, "column": 42, "tagName": "div", "time": 2260098.378603, "url": "", "pos": 4977, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40695e0", "doc": "http://www.babylon.com/", "row": 120, "column": 26, "tagName": "div", "time": 2260098.378659, "url": "", "pos": 5004, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40698b0", "doc": "http://www.babylon.com/", "row": 120, "column": 51, "tagName": "div", "time": 2260098.378693, "url": "", "pos": 5029, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069ef0", "doc": "http://www.babylon.com/", "row": 120, "column": 57, "tagName": "div", "time": 2260098.379008, "url": "", "pos": 5035, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406a130", "doc": "http://www.babylon.com/", "row": 120, "column": 63, "tagName": "div", "time": 2260098.379012, "url": "", "pos": 5041, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069e30", "doc": "http://www.babylon.com/", "row": 121, "column": 38, "tagName": "div", "time": 2260098.379023, "url": "", "pos": 5081, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406a1a0", "doc": "http://www.babylon.com/", "row": 121, "column": 41, "tagName": "p", "time": 2260098.379065, "url": "", "pos": 5084, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406a2d0", "doc": "http://www.babylon.com/", "row": 121, "column": 178, "tagName": "br", "time": 2260098.379117, "url": "", "pos": 5221, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406a9e0", "doc": "http://www.babylon.com/", "row": 121, "column": 300, "tagName": "img", "time": 2260098.379157, "url": "", "pos": 5343, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406ac20", "doc": "http://www.babylon.com/", "row": 121, "column": 304, "tagName": "p", "time": 2260098.379320, "url": "", "pos": 5347, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406ac50", "doc": "http://www.babylon.com/", "row": 121, "column": 310, "tagName": "div", "time": 2260098.379326, "url": "", "pos": 5353, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406a330", "doc": "http://www.babylon.com/", "row": 123, "column": 7, "tagName": "div", "time": 2260098.379335, "url": "", "pos": 5364, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406ad30", "doc": "http://www.babylon.com/", "row": 124, "column": 22, "tagName": "div", "time": 2260098.379343, "url": "", "pos": 5387, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406ade0", "doc": "http://www.babylon.com/", "row": 124, "column": 28, "tagName": "div", "time": 2260098.379373, "url": "", "pos": 5393, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406ae60", "doc": "http://www.babylon.com/", "row": 125, "column": 37, "tagName": "div", "time": 2260098.379384, "url": "", "pos": 5431, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406b160", "doc": "http://www.babylon.com/", "row": 125, "column": 136, "tagName": "div", "time": 2260098.379452, "url": "", "pos": 5530, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406b260", "doc": "http://www.babylon.com/", "row": 126, "column": 37, "tagName": "div", "time": 2260098.379463, "url": "", "pos": 5568, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406b500", "doc": "http://www.babylon.com/", "row": 126, "column": 219, "tagName": "a", "time": 2260098.379503, "url": "", "pos": 5750, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406b670", "doc": "http://www.babylon.com/", "row": 126, "column": 233, "tagName": "a", "time": 2260098.379600, "url": "", "pos": 5764, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406b3d0", "doc": "http://www.babylon.com/", "row": 126, "column": 239, "tagName": "div", "time": 2260098.379605, "url": "", "pos": 5770, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406b6d0", "doc": "http://www.babylon.com/", "row": 128, "column": 9, "tagName": "footer", "time": 2260098.379613, "url": "", "pos": 5782, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406b800", "doc": "http://www.babylon.com/", "row": 129, "column": 6, "tagName": "div", "time": 2260098.379619, "url": "", "pos": 5789, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406b700", "doc": "http://www.babylon.com/", "row": 131, "column": 199, "tagName": "img", "time": 2260098.379662, "url": "", "pos": 6010, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406bf20", "doc": "http://www.babylon.com/", "row": 133, "column": 31, "tagName": "script", "time": 2260098.379931, "url": "", "pos": 6043, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406bf50", "doc": "http://www.babylon.com/", "row": 136, "column": 9, "tagName": "script", "time": 2260098.379964, "url": "", "pos": 6143, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406bda0", "doc": "http://www.babylon.com/", "row": 139, "column": 31, "tagName": "script", "time": 2260098.380371, "url": "", "pos": 6186, "chunkLen": 6892, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406bea0", "doc": "http://www.babylon.com/", "row": 155, "column": 9, "tagName": "script", "time": 2260098.380427, "url": "http://www.google-analytics.com/ga.js", "pos": 6867, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406cd60", "doc": "http://www.babylon.com/", "row": 156, "column": 6, "tagName": "div", "time": 2260098.381295, "url": "", "pos": 6874, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406cdc0", "doc": "http://www.babylon.com/", "row": 157, "column": 7, "tagName": "body", "time": 2260098.381305, "url": "", "pos": 6882, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406cdf0", "doc": "http://www.babylon.com/", "row": 158, "column": 7, "tagName": "html", "time": 2260098.381311, "url": "", "pos": 6890, "chunkLen": 6892, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42a0be0", "doc": "http://www.babylon.com/", "row": 0, "column": 7, "tagName": "table", "time": 2260098.388338, "url": "", "pos": 7, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42a0dc0", "doc": "http://www.babylon.com/", "row": 0, "column": 11, "tagName": "tr", "time": 2260098.388354, "url": "", "pos": 11, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42a0a40", "doc": "http://www.babylon.com/", "row": 0, "column": 15, "tagName": "td", "time": 2260098.388380, "url": "", "pos": 15, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42a0e70", "doc": "http://www.babylon.com/", "row": 0, "column": 20, "tagName": "td", "time": 2260098.388386, "url": "", "pos": 20, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42a0ea0", "doc": "http://www.babylon.com/", "row": 0, "column": 24, "tagName": "td", "time": 2260098.388390, "url": "", "pos": 24, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42a0f60", "doc": "http://www.babylon.com/", "row": 0, "column": 30, "tagName": "td", "time": 2260098.388397, "url": "", "pos": 30, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42a0f90", "doc": "http://www.babylon.com/", "row": 0, "column": 35, "tagName": "tr", "time": 2260098.388399, "url": "", "pos": 35, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42a0fc0", "doc": "http://www.babylon.com/", "row": 0, "column": 43, "tagName": "table", "time": 2260098.388401, "url": "", "pos": 43, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42a1ab0", "doc": "http://www.babylon.com/", "row": 0, "column": 5, "tagName": "div", "time": 2260098.508471, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42b90c0", "doc": "http://www.babylon.com/", "row": 0, "column": 11, "tagName": "div", "time": 2260098.508483, "url": "", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42b9bd0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.513674, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42a23c0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.515000, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42b9cc0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.515382, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42b9e00", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.515642, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42b9ee0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.515905, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42ba3d0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.516197, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42b9fd0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.516525, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42ba500", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.516775, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42ba5d0", "doc": "http://www.babylon.com/", "row": 0, "column": 134, "tagName": "img", "time": 2260098.517228, "url": "", "pos": 134, "chunkLen": 138, "isStartTag": 1}}
+{"Resource": {"id": 4, "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js", "sentTime": -1.000000, "len": 267739, "from": "0x4028530",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 14637, "connReused": 1, "cached": 0,                            "requestTime": 2260097.942632, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 4, "sendStart": 6, "sendEnd": 6, "receiveHeadersEnd": 16, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260097.992836, "len": 8994}}
+{"ReceivedChunk": {"receivedTime": 2260097.995291, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260097.995655, "len": 38586}}
+{"ReceivedChunk": {"receivedTime": 2260097.996053, "len": 3877}}
+{"ReceivedChunk": {"receivedTime": 2260097.996412, "len": 60011}}
+{"ReceivedChunk": {"receivedTime": 2260097.997337, "len": 49685}}
+{"ReceivedChunk": {"receivedTime": 2260097.997742, "len": 46606}}
+{"ReceivedChunk": {"receivedTime": 2260097.998241, "len": 27212}}
+{"Resource": {"id": 8, "url": "http://www.babylon.com/fonts.css", "sentTime": -1.000000, "len": 9713, "from": "0x0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 17480, "connReused": 0, "cached": 0,                            "requestTime": 2260097.944539, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 3, "connectStart": 3, "connectEnd": 59, "sendStart": 59, "sendEnd": 59, "receiveHeadersEnd": 112, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.060300, "len": 9713}}
+{"Resource": {"id": 3, "url": "http://img.babylon.com/site/images/babylon10/homepage/hp.css", "sentTime": -1.000000, "len": 3316, "from": "0x40331b0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 17489, "connReused": 0, "cached": 0,                            "requestTime": 2260097.941945, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 5, "dnsEnd": 54, "connectStart": 5, "connectEnd": 106, "sendStart": 106, "sendEnd": 106, "receiveHeadersEnd": 162, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.128895, "len": 3316}}
+{"Resource": {"id": 2, "url": "http://img.babylon.com/site/images/babylon10/style.css", "sentTime": -1.000000, "len": 21023, "from": "0x4031ca0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 17492, "connReused": 0, "cached": 0,                            "requestTime": 2260097.940272, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 7, "dnsEnd": 56, "connectStart": 7, "connectEnd": 107, "sendStart": 108, "sendEnd": 108, "receiveHeadersEnd": 164, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.130162, "len": 20447}}
+{"ReceivedChunk": {"receivedTime": 2260098.135813, "len": 576}}
+{"Resource": {"id": 7, "url": "http://img.babylon.com/site/images/babylon10/scripts.js", "sentTime": -1.000000, "len": 16078, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 17487, "connReused": 0, "cached": 0,                            "requestTime": 2260097.944117, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 51, "connectStart": 3, "connectEnd": 104, "sendStart": 105, "sendEnd": 105, "receiveHeadersEnd": 162, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.132540, "len": 15018}}
+{"ReceivedChunk": {"receivedTime": 2260098.304289, "len": 1060}}
+{"Resource": {"id": 6, "url": "http://img.babylon.com/site/images/babylon10/append.js", "sentTime": -1.000000, "len": 4480, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 17491, "connReused": 0, "cached": 0,                            "requestTime": 2260097.943538, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 4, "dnsEnd": 52, "connectStart": 4, "connectEnd": 104, "sendStart": 105, "sendEnd": 105, "receiveHeadersEnd": 163, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.132994, "len": 4480}}
+{"Resource": {"id": 9, "url": "http://img.babylon.com/site/images/babylon-8/common/Shared/Functions/meta.js", "sentTime": -1.000000, "len": 3340, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 17490, "connReused": 0, "cached": 0,                            "requestTime": 2260097.944955, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 51, "connectStart": 3, "connectEnd": 103, "sendStart": 104, "sendEnd": 104, "receiveHeadersEnd": 161, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.135494, "len": 3340}}
+{"Resource": {"id": 5, "url": "http://img.babylon.com/site/images/babylon10/modernizr.js", "sentTime": -1.000000, "len": 10899, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 17488, "connReused": 0, "cached": 0,                            "requestTime": 2260097.943090, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 4, "dnsEnd": 53, "connectStart": 4, "connectEnd": 105, "sendStart": 105, "sendEnd": 106, "receiveHeadersEnd": 164, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.304015, "len": 5603}}
+{"ReceivedChunk": {"receivedTime": 2260098.304597, "len": 5296}}
+{"Resource": {"id": 27, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 39867, "from": "0x406bea0",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2260098.381587, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.565359, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260098.565780, "len": 7099}}
+{"Resource": {"id": 10, "url": "http://img.babylon.com/site/images/babylon10/nav/logo_img.jpg", "sentTime": -1.000000, "len": 5185, "from": "0x4055400",                            "mimeType": "image/jpeg", "contentLength": 5185, "httpStatus": 200, "connId": 17488, "connReused": 1, "cached": 0,                            "requestTime": 2260098.521798, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 54, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.731757, "len": 1124}}
+{"ReceivedChunk": {"receivedTime": 2260098.732183, "len": 4061}}
+{"Resource": {"id": 11, "url": "http://img.babylon.com/site/images/babylon10/nav/cart_img.png", "sentTime": -1.000000, "len": 504, "from": "0x42ba5d0",                            "mimeType": "image/png", "contentLength": 504, "httpStatus": 200, "connId": 17487, "connReused": 1, "cached": 0,                            "requestTime": 2260098.523007, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 54, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.733081, "len": 504}}
+{"Resource": {"id": 12, "url": "http://img.babylon.com/site/images/babylon10/nav/arrow_lang_bar.png", "sentTime": -1.000000, "len": 177, "from": "0x4057570",                            "mimeType": "image/png", "contentLength": 177, "httpStatus": 200, "connId": 17492, "connReused": 1, "cached": 0,                            "requestTime": 2260098.524384, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 6, "sendStart": 7, "sendEnd": 7, "receiveHeadersEnd": 61, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.738290, "len": 177}}
+{"Resource": {"id": 13, "url": "http://img.babylon.com/site/images/babylon10/nav/gif.gif", "sentTime": -1.000000, "len": 7338, "from": "0x40584d0",                            "mimeType": "image/gif", "contentLength": 7338, "httpStatus": 200, "connId": 17490, "connReused": 1, "cached": 0,                            "requestTime": 2260098.524794, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 6, "sendStart": 7, "sendEnd": 7, "receiveHeadersEnd": 61, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.738864, "len": 3761}}
+{"ReceivedChunk": {"receivedTime": 2260098.740050, "len": 3577}}
+{"Resource": {"id": 14, "url": "http://img.babylon.com/site/images/babylon10/nav/products_icon.png", "sentTime": -1.000000, "len": 361, "from": "0x405d250",                            "mimeType": "image/png", "contentLength": 361, "httpStatus": 200, "connId": 17491, "connReused": 1, "cached": 0,                            "requestTime": 2260098.525192, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 6, "sendStart": 7, "sendEnd": 8, "receiveHeadersEnd": 61, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.739190, "len": 361}}
+{"Resource": {"id": 15, "url": "http://img.babylon.com/site/images/babylon10/nav/sep_blue_menu.png", "sentTime": -1.000000, "len": 122, "from": "0x405db70",                            "mimeType": "image/png", "contentLength": 122, "httpStatus": 200, "connId": 17489, "connReused": 1, "cached": 0,                            "requestTime": 2260098.525584, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 6, "sendStart": 7, "sendEnd": 7, "receiveHeadersEnd": 61, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.739669, "len": 122}}
+{"Resource": {"id": 16, "url": "http://img.babylon.com/site/images/babylon10/nav/icons.png", "sentTime": -1.000000, "len": 2137, "from": "0x405f8b0",                            "mimeType": "image/png", "contentLength": 2137, "httpStatus": 200, "connId": 17488, "connReused": 1, "cached": 0,                            "requestTime": 2260098.525974, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 53, "sendStart": 53, "sendEnd": 53, "receiveHeadersEnd": 106, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.742369, "len": 2137}}
+{"Resource": {"id": 17, "url": "http://img.babylon.com/site/images/babylon10/nav/under_menu_shadow.png", "sentTime": -1.000000, "len": 2737, "from": "0x405f9b0",                            "mimeType": "image/png", "contentLength": 2737, "httpStatus": 200, "connId": 17487, "connReused": 1, "cached": 0,                            "requestTime": 2260098.526352, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 54, "sendStart": 55, "sendEnd": 55, "receiveHeadersEnd": 108, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.744261, "len": 2737}}
+{"Resource": {"id": 18, "url": "http://img.babylon.com/site/images/babylon10/homepage/bg_img.jpg", "sentTime": -1.000000, "len": 400187, "from": "0x42ba5d0",                            "mimeType": "image/jpeg", "contentLength": 400187, "httpStatus": 200, "connId": 17492, "connReused": 1, "cached": 0,                            "requestTime": 2260098.526991, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 65, "sendStart": 67, "sendEnd": 67, "receiveHeadersEnd": 120, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.745649, "len": 3758}}
+{"ReceivedChunk": {"receivedTime": 2260098.751153, "len": 10504}}
+{"ReceivedChunk": {"receivedTime": 2260098.779941, "len": 5840}}
+{"ReceivedChunk": {"receivedTime": 2260098.780554, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260098.780764, "len": 10220}}
+{"ReceivedChunk": {"receivedTime": 2260099.027177, "len": 8760}}
+{"ReceivedChunk": {"receivedTime": 2260099.028885, "len": 17520}}
+{"ReceivedChunk": {"receivedTime": 2260099.040432, "len": 4380}}
+{"ReceivedChunk": {"receivedTime": 2260099.041067, "len": 8760}}
+{"ReceivedChunk": {"receivedTime": 2260099.041290, "len": 18980}}
+{"ReceivedChunk": {"receivedTime": 2260099.051369, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.051600, "len": 10220}}
+{"ReceivedChunk": {"receivedTime": 2260099.051826, "len": 18980}}
+{"ReceivedChunk": {"receivedTime": 2260099.052063, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.052409, "len": 5840}}
+{"ReceivedChunk": {"receivedTime": 2260099.052620, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.052828, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.053034, "len": 17520}}
+{"ReceivedChunk": {"receivedTime": 2260099.192189, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.200856, "len": 13140}}
+{"ReceivedChunk": {"receivedTime": 2260099.201288, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260099.201763, "len": 9572}}
+{"ReceivedChunk": {"receivedTime": 2260099.203094, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.203561, "len": 10220}}
+{"ReceivedChunk": {"receivedTime": 2260099.203943, "len": 26280}}
+{"ReceivedChunk": {"receivedTime": 2260099.204441, "len": 18980}}
+{"ReceivedChunk": {"receivedTime": 2260099.204902, "len": 13140}}
+{"ReceivedChunk": {"receivedTime": 2260099.322671, "len": 32120}}
+{"ReceivedChunk": {"receivedTime": 2260099.323080, "len": 16060}}
+{"ReceivedChunk": {"receivedTime": 2260099.323349, "len": 16060}}
+{"ReceivedChunk": {"receivedTime": 2260099.323621, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.326112, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.326440, "len": 10220}}
+{"ReceivedChunk": {"receivedTime": 2260099.326688, "len": 16060}}
+{"ReceivedChunk": {"receivedTime": 2260099.326939, "len": 20440}}
+{"ReceivedChunk": {"receivedTime": 2260099.327189, "len": 1945}}
+{"Resource": {"id": 20, "url": "http://img.babylon.com/site/images/babylon10/homepage/hr_shadow_right.png", "sentTime": -1.000000, "len": 1088, "from": "0x429e4a0",                            "mimeType": "image/png", "contentLength": 1088, "httpStatus": 200, "connId": 17489, "connReused": 1, "cached": 0,                            "requestTime": 2260098.527777, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 65, "sendStart": 66, "sendEnd": 67, "receiveHeadersEnd": 123, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.751433, "len": 1088}}
+{"Resource": {"id": 21, "url": "http://img.babylon.com/site/images/babylon10/nav/facebook_footer.png", "sentTime": -1.000000, "len": 1155, "from": "0x4066b00",                            "mimeType": "image/png", "contentLength": 1155, "httpStatus": 200, "connId": 17490, "connReused": 1, "cached": 0,                            "requestTime": 2260098.528183, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 65, "sendStart": 66, "sendEnd": 66, "receiveHeadersEnd": 122, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.751840, "len": 1155}}
+{"Resource": {"id": 28, "url": "http://www.babylon.com/webfonts/24E925_4_0.woff", "sentTime": -1.000000, "len": 38117, "from": "0x0",                            "mimeType": "application/octet-stream", "contentLength": 38117, "httpStatus": 200, "connId": 17592, "connReused": 0, "cached": 0,                            "requestTime": 2260098.542109, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 3, "connectStart": 3, "connectEnd": 56, "sendStart": 56, "sendEnd": 57, "receiveHeadersEnd": 110, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.772228, "len": 1231}}
+{"ReceivedChunk": {"receivedTime": 2260098.778467, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260098.780160, "len": 4380}}
+{"ReceivedChunk": {"receivedTime": 2260099.027668, "len": 7300}}
+{"ReceivedChunk": {"receivedTime": 2260099.039525, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.040023, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.040656, "len": 7300}}
+{"ReceivedChunk": {"receivedTime": 2260099.041517, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.041921, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.042539, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.043077, "len": 2920}}
+{"ReceivedChunk": {"receivedTime": 2260099.050590, "len": 3306}}
+{"Resource": {"id": 29, "url": "http://www.babylon.com/webfonts/24E925_8_0.woff", "sentTime": -1.000000, "len": 38627, "from": "0x0",                            "mimeType": "application/octet-stream", "contentLength": 38627, "httpStatus": 200, "connId": 17600, "connReused": 0, "cached": 0,                            "requestTime": 2260098.545401, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 1, "connectStart": 1, "connectEnd": 53, "sendStart": 53, "sendEnd": 54, "receiveHeadersEnd": 107, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.777598, "len": 2691}}
+{"ReceivedChunk": {"receivedTime": 2260098.780363, "len": 4380}}
+{"ReceivedChunk": {"receivedTime": 2260099.028038, "len": 7300}}
+{"ReceivedChunk": {"receivedTime": 2260099.039815, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.040228, "len": 1460}}
+{"ReceivedChunk": {"receivedTime": 2260099.040863, "len": 7300}}
+{"ReceivedChunk": {"receivedTime": 2260099.041717, "len": 4380}}
+{"ReceivedChunk": {"receivedTime": 2260099.043285, "len": 5840}}
+{"ReceivedChunk": {"receivedTime": 2260099.051050, "len": 3816}}
+{"Resource": {"id": 23, "url": "http://img.babylon.com/site/images/babylon10/nav/twetter_footer.png", "sentTime": -1.000000, "len": 1282, "from": "0x40679e0",                            "mimeType": "image/png", "contentLength": 1282, "httpStatus": 200, "connId": 17487, "connReused": 1, "cached": 0,                            "requestTime": 2260098.528970, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 107, "sendStart": 108, "sendEnd": 108, "receiveHeadersEnd": 161, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.779519, "len": 1282}}
+{"Resource": {"id": 24, "url": "http://img.babylon.com/site/images/babylon10/nav/instagram.png", "sentTime": -1.000000, "len": 3186, "from": "0x40683c0",                            "mimeType": "image/png", "contentLength": 3186, "httpStatus": 200, "connId": 17489, "connReused": 1, "cached": 0,                            "requestTime": 2260098.529353, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 132, "sendStart": 133, "sendEnd": 134, "receiveHeadersEnd": 187, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.781714, "len": 3186}}
+{"Resource": {"id": 25, "url": "http://img.babylon.com/site/images/babylon10/nav/quote_footer.png", "sentTime": -1.000000, "len": 1169, "from": "0x406a9e0",                            "mimeType": "image/png", "contentLength": 1169, "httpStatus": 200, "connId": 17490, "connReused": 1, "cached": 0,                            "requestTime": 2260098.529737, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 132, "sendStart": 134, "sendEnd": 134, "receiveHeadersEnd": 187, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.783828, "len": 1169}}
+{"Resource": {"id": 30, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=114291454&utmhn=www.babylon.com&utme=8(sub-domain*customer)9(www.babylon.com*NEW)11(2*2)&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x673&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Babylon%2010%20Translation%20Software%20and%20Dictionary%20Tool&utmhid=1010659185&utmr=-&utmp=%2F&utmht=1378091512515&utmac=UA-34701345-1&utmcc=__utma%3D159448622.1653657121.1378091512.1378091512.1378091512.1%3B%2B__utmz%3D159448622.1378091512.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qx~", "sentTime": -1.000000, "len": 35, "from": "0x42ba5d0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 6186, "connReused": 1, "cached": 0,                            "requestTime": 2260098.713071, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 5, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.790151, "len": 35}}
+{"Resource": {"id": 19, "url": "http://img.babylon.com/site/images/babylon10/homepage/hr_shadow_left.png", "sentTime": -1.000000, "len": 2952, "from": "0x429e1e0",                            "mimeType": "image/png", "contentLength": 2952, "httpStatus": 200, "connId": 17491, "connReused": 1, "cached": 0,                            "requestTime": 2260098.527384, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 65, "sendStart": 67, "sendEnd": 67, "receiveHeadersEnd": 197, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260098.791323, "len": 2952}}
+{"Resource": {"id": 22, "url": "http://img.babylon.com/site/images/babylon10/nav/goolge_plus.png", "sentTime": -1.000000, "len": 3223, "from": "0x4066d90",                            "mimeType": "image/png", "contentLength": 3223, "httpStatus": 200, "connId": 17488, "connReused": 1, "cached": 0,                            "requestTime": 2260098.528578, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 105, "sendStart": 106, "sendEnd": 107, "receiveHeadersEnd": 245, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260099.034753, "len": 3223}}
+{"Resource": {"id": 26, "url": "http://utils.babylon.com/dltrack/log.php?id=3251090230&lang=1&timestamp=1378091511&is_new_user=0&crc_lookup=&querystring=&apply_policy=n&referrer=", "sentTime": -1.000000, "len": 43, "from": "0x406b700",                            "mimeType": "image/gif", "contentLength": -1, "httpStatus": 200, "connId": 17638, "connReused": 0, "cached": 0,                            "requestTime": 2260098.380359, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 367, "connectStart": 3, "connectEnd": 420, "sendStart": 420, "sendEnd": 420, "receiveHeadersEnd": 477, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260099.042745, "len": 43}}
+{"HOL": {"type": 4, "docUrl": "http://www.babylon.com/", "code": "0x4031ca0", "row": 5, "column": 85, "url": "http://img.babylon.com/site/images/babylon10/style.css"}}
+{"HOL": {"type": 4, "docUrl": "http://www.babylon.com/", "code": "0x40331b0", "row": 6, "column": 113, "url": "http://img.babylon.com/site/images/babylon10/homepage/hp.css"}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x4028530", "row": 8, "column": 119, "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x404b1b0", "row": 9, "column": 117, "url": "http://img.babylon.com/site/images/babylon10/modernizr.js"}}
+{"HOL": {"type": 4, "docUrl": "http://www.babylon.com/", "code": "0x4036970", "row": 0, "column": 29, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x403a0a0", "row": 10, "column": 114, "url": "http://img.babylon.com/site/images/babylon10/append.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x4027fa0", "row": 11, "column": 115, "url": "http://img.babylon.com/site/images/babylon10/scripts.js"}}
+{"HOL": {"type": 4, "docUrl": "http://www.babylon.com/", "code": "0x404a8a0", "row": 12, "column": 43, "url": "http://www.babylon.com/fonts.css"}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x4292aa0", "row": 13, "column": 114, "url": "http://img.babylon.com/site/images/babylon-8/common/Shared/Functions/meta.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x429ff60", "row": 76, "column": 47, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x406bf20", "row": 133, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.babylon.com/", "code": "0x406bda0", "row": 139, "column": 31, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260097.940210, "endTime": -1.000000, "urlRecalcStyle": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"}}
+{"Computation": {"type": "layout", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260097.946030, "endTime": 2260097.949608, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260097.949557, "endTime": 2260097.949598, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260097.998670, "endTime": -1.000000, "urlRecalcStyle": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"}}
+{"Computation": {"type": "layout", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.003274, "endTime": 2260098.003410, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.003352, "endTime": 2260098.003402, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.003483, "endTime": 2260098.003511, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.060666, "endTime": 2260098.060723, "urlRecalcStyle": "http://www.babylon.com/fonts.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.129220, "endTime": 2260098.129905, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon10/homepage/hp.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.136004, "endTime": 2260098.303783, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon10/style.css"}}
+{"Computation": {"type": "execScript", "code": "0x4028560", "docUrl": "http://www.babylon.com/", "startTime": 2260098.139694, "endTime": 2260098.303655, "urlRecalcStyle": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x40505e0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.303646, "endTime": 2260098.303648, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x404b3b0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.303777, "endTime": -1.000000, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon10/modernizr.js"}}
+{"Computation": {"type": "execScript", "code": "0x404b3b0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.304787, "endTime": 2260098.331268, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon10/modernizr.js"}}
+{"Computation": {"type": "layout", "code": "0x4288d60", "docUrl": "http://www.babylon.com/", "startTime": 2260098.328313, "endTime": 2260098.328650, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4288d60", "docUrl": "http://www.babylon.com/", "startTime": 2260098.328318, "endTime": 2260098.328561, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4288d60", "docUrl": "http://www.babylon.com/", "startTime": 2260098.328573, "endTime": 2260098.328633, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x401b5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.331260, "endTime": 2260098.331261, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x404a340", "docUrl": "http://www.babylon.com/", "startTime": 2260098.331366, "endTime": 2260098.332776, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon10/append.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x404a340", "docUrl": "http://www.babylon.com/", "startTime": 2260098.332770, "endTime": 2260098.332771, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x404a9d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.332844, "endTime": 2260098.344140, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon10/scripts.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x404a9d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.344132, "endTime": 2260098.344133, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4292770", "docUrl": "http://www.babylon.com/", "startTime": 2260098.357054, "endTime": 2260098.357959, "urlRecalcStyle": "http://img.babylon.com/site/images/babylon-8/common/Shared/Functions/meta.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4292770", "docUrl": "http://www.babylon.com/", "startTime": 2260098.357953, "endTime": 2260098.357955, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x42a0230", "docUrl": "http://www.babylon.com/", "startTime": 2260098.366444, "endTime": 2260098.373714, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x406bf50", "docUrl": "http://www.babylon.com/", "startTime": 2260098.379977, "endTime": 2260098.380347, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x406bea0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.380437, "endTime": 2260098.381279, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x406cdf0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.381344, "endTime": 2260098.381346, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x406cdf0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.381348, "endTime": 2260098.520604, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x42a0fc0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.393792, "endTime": 2260098.505910, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42a0fc0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.505403, "endTime": 2260098.505478, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42a0fc0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.506316, "endTime": 2260098.506435, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42a0fc0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.506762, "endTime": 2260098.506974, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42a0fc0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.507485, "endTime": 2260098.507669, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42a0fc0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.508095, "endTime": 2260098.508323, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42b90c0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.508646, "endTime": 2260098.508730, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.520608, "endTime": 2260098.520610, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.540059, "endTime": 2260098.540061, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.540068, "endTime": 2260098.540068, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.540072, "endTime": 2260098.540073, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.545068, "endTime": 2260098.545470, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.566758, "endTime": 2260098.730951, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.730969, "endTime": 2260098.730971, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792490, "endTime": 2260098.792492, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792493, "endTime": 2260098.792494, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792496, "endTime": 2260098.792497, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792518, "endTime": 2260098.792519, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792520, "endTime": 2260098.792521, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792539, "endTime": 2260098.792863, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260098.792867, "endTime": 2260098.793316, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260099.035538, "endTime": 2260099.039369, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260099.053282, "endTime": 2260099.053285, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260099.053287, "endTime": 2260099.053288, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x42ba5d0", "docUrl": "http://www.babylon.com/", "startTime": 2260099.056078, "endTime": 2260099.101194, "urlRecalcStyle": ""}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon10/modernizr.js", "time": 2260097.940237}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon10/append.js", "time": 2260097.940424}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon10/scripts.js", "time": 2260097.940634}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://www.babylon.com/fonts.css", "time": 2260097.940822}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon-8/common/Shared/Functions/meta.js", "time": 2260097.941008}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon-8/common/images/favicon.ico", "time": 2260097.941186}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon10/nav/cart_img.png", "time": 2260097.941274}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://img.babylon.com/site/images/babylon10/nav/quote_footer.png", "time": 2260097.942046}}
+{"Preload": {"code": "0x4028560", "docUrl": "http://www.babylon.com/", "url": "http://utils.babylon.com/dltrack/log.php?id=3251090230&lang=1&timestamp=1378091511&is_new_user=0&crc_lookup=&querystring=&apply_policy=n&referrer=", "time": 2260097.942271}}
+{"Complete": "www.babylon.com_"}

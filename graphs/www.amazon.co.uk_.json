@@ -1,0 +1,1178 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.amazon.co.uk_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.amazon.co.uk/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 519.377999939024,
+               "time" : 853.509000036866,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1372.88699997589
+            },
+            {
+               "s_time" : 1414.34399969876,
+               "time" : 434.65400021523,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1848.99799991399
+            },
+            {
+               "s_time" : 1854.33299979195,
+               "time" : 682.46599985287,
+               "type" : "evalhtml",
+               "id" : "r1_c3",
+               "e_time" : 2536.79899964482
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gno/beacon/BeaconSprite-UK-02._V397961423_.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 547.733000013977,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/kindle/merch/gw/2013/Device_acc-GW-D-08-uk-600x180._V382019276_.png",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 637.768999673426,
+            "id" : "download_2",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-family/june2013/uk_baby_09-07-2013_amazon_family_roto._V379214132_.png",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 650.737999938428,
+            "id" : "download_3",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/websiteGridCSS/websiteGridCSS-websiteGridCSS-14209._V1_.css",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 663.481999654323,
+               "time" : 4.08999994397107,
+               "type" : 4,
+               "id" : "comp_16",
+               "e_time" : 667.571999598294
+            }
+         ],
+         "download" : {
+            "s_time" : 648.317999672145,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/browser-scripts/uk-site-wide-css-beacon/site-wide-9013437878._V1_.css",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 770.439999643713,
+               "time" : 85.8470001257959,
+               "type" : 4,
+               "id" : "comp_18",
+               "e_time" : 856.286999769509
+            }
+         ],
+         "download" : {
+            "s_time" : 647.440999746323,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 786.812999751419,
+            "id" : "download_6",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk_softlines/2013/CLOTHING/GATEWAY/BUNKBED/AUTUMN1/NEW-ARRIVALS-2_BB._V358618982_.jpg",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 932.273000013083,
+            "id" : "download_7",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/s9-campaigns/s9-widget._V378178418_.css",
+         "id" : "r19",
+         "comps" : [
+            {
+               "s_time" : 983.120999764651,
+               "time" : 0.0960002653300762,
+               "type" : 4,
+               "id" : "comp_61",
+               "e_time" : 983.217000029981
+            }
+         ],
+         "download" : {
+            "s_time" : 942.189999856055,
+            "id" : "download_8",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/31-8KFynC0L._SL135_.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 942.694999743253,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/51K7eJ6In1L._SL135_.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 973.258999641985,
+            "id" : "download_10",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gateway/csw/left_over._V380415576_.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 977.755999658257,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/41Jndp07xDL._SL135_.jpg",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 974.085999652743,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/41jmFVYUoTL._SL135_.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 973.710999824107,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/41BY1Nho%2BPL._SL135_.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 974.440000019968,
+            "id" : "download_14",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/41m068lyllL._SL135_.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 974.790999665856,
+            "id" : "download_15",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/511cXLddQJL._SS120_RO10,1,201,225,243,255,255,255,15_.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 975.17400002107,
+            "id" : "download_16",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gateway/csw/notch._V401957567_.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 978.958999738097,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gateway/csw/tri-down._V401957567_.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 978.145999833941,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/ui/loadIndicators/loading-large._V192263004_.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 979.725999757648,
+            "id" : "download_19",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gateway/csw/right_def._V380415576_.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 978.528999723494,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gateway/csw/right_over._V380415576_.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 979.338999837637,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gateway/csw/left_def._V380415576_.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 980.126999784261,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/51ufNy-v%2B5L._SS120_RO10,1,201,225,243,255,255,255,15_.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 975.583999883384,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/31oNtXWakdL._SS120_RO10,1,201,225,243,255,255,255,15_.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 975.997999776155,
+            "id" : "download_24",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/31dEUtkREPL._SS120_RO10,1,201,225,243,255,255,255,15_.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 976.467999629676,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/41NSoF3xomL._SS120_RO10,1,201,225,243,255,255,255,15_.jpg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 976.861000061035,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-subscribeandsave/2013/uk_x-site_11-06-13_SnS_roto-1._V382369032_.png",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 980.897999834269,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V192234675_.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 980.510999914259,
+            "id" : "download_28",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/beauty/images/uk_beauty_02-11-12_fragrance2_roto._V400671305_.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 981.699999887496,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/3125%2BAp2nKL._SS120_RO10,1,201,225,243,255,255,255,15_.jpg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 977.277999743819,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/ember/web/rotos/Restaurants_300x120_blue._V378088865_.png",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 981.290000025183,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-site/Outlet/revised/UK_X-Site_24-07-13_OutletStore_300x120._V378140379_.png",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 982.094999868423,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/ui/loadIndicators/loadIndicator-large._V192262978_.gif",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 982.479999773204,
+            "id" : "download_33",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gno/images/general/navAmazonLogoFooter._V152929188_.gif",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 983.374999836087,
+            "id" : "download_34",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/browser-scripts/site-wide-js-1.6.4-beacon/site-wide-17213958252._V1_.js",
+         "id" : "r18",
+         "comps" : [
+            {
+               "s_time" : 1125.68399962038,
+               "time" : 288.66000007838,
+               "type" : 1,
+               "id" : "comp_64",
+               "e_time" : 1414.34399969876
+            }
+         ],
+         "download" : {
+            "s_time" : 941.751999780536,
+            "id" : "download_35",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.uk.doubleclick.net/N4215/adj/amzn.uk.gw.atf;sz=300x250;oe=ISO-8859-1;bn=468294;u=04f474f8d4584867b8447f14e2b51499;s=i0;s=i1;s=i2;s=i4;s=i5;s=i6;s=i7;s=i8;s=i9;s=m1;s=m4;s=u4;s=u13;s=u12;s=u2;z=788;s=1972;s=1139;dc_ref=http%3A%2F%2Fwww.amazon.com;tile=1;ord=4991111254785?",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 1839.72799964249,
+               "time" : 14.60500014946,
+               "type" : 1,
+               "id" : "comp_147",
+               "e_time" : 1854.33299979195
+            }
+         ],
+         "download" : {
+            "s_time" : 852.103999815881,
+            "id" : "download_36",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/browser-scripts/csm-base/csm-base-min-2463796088._V1_.js",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 1925.85199978203,
+               "time" : 7.65800010413,
+               "type" : 2,
+               "id" : "comp_165",
+               "e_time" : 1933.50999988616
+            }
+         ],
+         "download" : {
+            "s_time" : 1352.69499989226,
+            "id" : "download_37",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/s9-campaigns/s9-multipack-min._V380044579_.js",
+         "id" : "r41",
+         "comps" : [
+            {
+               "s_time" : 1934.72999986261,
+               "time" : 73.40800017119,
+               "type" : 2,
+               "id" : "comp_168",
+               "e_time" : 2008.1380000338
+            }
+         ],
+         "download" : {
+            "s_time" : 1427.54399962723,
+            "id" : "download_38",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-locale/personalization/yourstore/bluebox/bluebox-corners._V192561724_.gif",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1490.95699982718,
+            "id" : "download_39",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/browser-scripts/search-sabc/search-sabc-gmin-3815554359._V1_.js",
+         "id" : "r45",
+         "comps" : [
+            {
+               "s_time" : 2008.1789996475,
+               "time" : 1.11300032585996,
+               "type" : 2,
+               "id" : "comp_172",
+               "e_time" : 2009.29199997336
+            }
+         ],
+         "download" : {
+            "s_time" : 1526.01799974218,
+            "id" : "download_40",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.amazon.co.uk/gp/gateway-center-stage/ajax/get-content.html/276-1380924-7773834?rId=1RG7PT1S5MHV4Y7AZ153&_=1378091614571",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1372.88699997589,
+            "id" : "download_41",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-locale/personalization/yourstore/bluebox/bluebox-sides._V192244594_.gif",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1830.40699968114,
+            "id" : "download_42",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/s9-campaigns/star-ratings._V143220116_.png",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1829.980999697,
+            "id" : "download_43",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-mp3/promotions/uk_mp3_autorip_660_JamieCullum._V384262116_.png",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2140.39499964565,
+            "id" : "download_44",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-dvd/images/lovefilm/Bunkbed-23Jan2013._V395158671_.jpg",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2140.81399980932,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/digital/adrive/images/bunkbed/ios_BB2_UK_FINAL2._V382326390_.gif",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2141.18300005794,
+            "id" : "download_46",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-family/june2013/uk_baby_09-07-13_amazon_family_bunkbed_png._V378958252_.png",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2142.36699976027,
+            "id" : "download_47",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-site/bunkbeds/audible/ADBLCRE_1202_Headphones_Bunkbed_Dragon._V396082784_.png",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2141.97500003502,
+            "id" : "download_48",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/UK/Appstore/graphics/uk_apps_05-05-13_x-site-launch-generic_bb-1._V384391524_.png",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2141.57499978319,
+            "id" : "download_49",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-videogames/tradein/UK__VG_Trade-in_660._V391765133_.png",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2142.76299998164,
+            "id" : "download_50",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/x-site/bunkbeds/prime/UK_Prime_680-2._V383018480_.png",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2143.14399985597,
+            "id" : "download_51",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/uk-subscribeandsave/Bunkbed/uk_x-site_11-06-13_SnS_bunkbed._V382365922_.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2143.52399995551,
+            "id" : "download_52",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/amazonservices/seller_success_stories/2013/8_UK_NotFound/uk_x-site_not-found_success_660._V360139971_.jpg",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2143.9600000158,
+            "id" : "download_53",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgIDQ54fNaxABGAEyCDmgheZ0OOAU",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1843.03299989551,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://images-na.ssl-images-amazon.com/images/G/01/da/common/pixel-proxy._V213885941_.html",
+         "id" : "r50",
+         "comps" : [
+            {
+               "s_time" : 2306.12299963832,
+               "time" : 4.29800013080012,
+               "type" : "evalhtml",
+               "id" : "r50_c1",
+               "e_time" : 2310.42099976912
+            }
+         ],
+         "download" : {
+            "s_time" : 1848.99799991399,
+            "id" : "download_55",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/512kw2YyWDL._SL135_.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2244.0700000152,
+            "id" : "download_56",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecx.images-amazon.com/images/I/51wQhdhxVTL._SL135_.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2248.09399992228,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-h-v2._V147907311_.png",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2339.05599964783,
+            "id" : "download_58",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-v-v2._V147907310_.png",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2371.58299982548,
+            "id" : "download_59",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z-ecx.images-amazon.com/images/G/01/browser-scripts/search-csl/search-csl-gmin-4136823257._V1_.js",
+         "id" : "r66",
+         "comps" : [
+            {
+               "s_time" : 2642.00499979779,
+               "time" : 0.762999989090076,
+               "type" : null,
+               "id" : "comp_235",
+               "e_time" : 2642.76799978688
+            }
+         ],
+         "download" : {
+            "s_time" : 2509.59399994463,
+            "id" : "download_60",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fls-eu.amazon.com/1/display-ads-cx/1/OP/?LMET%7B%22s%22%3A%22amazon.gb%22%2C%22p%22%3A%22Gateway%22%2C%22l%22%3A%22right-2%22%2C%22a%22%3A%2273323614%22%2C%22c%22%3A%2223514002774%22%2C%22n%22%3A%22DART%22%2C%22m%22%3A%22load%22%2C%22v%22%3A%221460%22%7D",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2323.51799961179,
+            "id" : "download_61",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_64"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_147"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 469.18499981984,
+         "id" : "dep3",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 655.26100015268,
+         "id" : "dep4",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 517.25000003353,
+         "id" : "dep5",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 484.72299985588,
+         "id" : "dep6",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 393.76100013033,
+         "id" : "dep7",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 389.73700022325,
+         "id" : "dep8",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_55",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 428.68900019675,
+         "id" : "dep10",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 289.62700022385,
+         "id" : "dep11",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 289.19100016356,
+         "id" : "dep12",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 288.81100006402,
+         "id" : "dep13",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 288.43000018969,
+         "id" : "dep14",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 287.24199999124,
+         "id" : "dep15",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 287.64200024307,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 288.03399996832,
+         "id" : "dep17",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 286.85000026599,
+         "id" : "dep18",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 286.48100001737,
+         "id" : "dep19",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 286.0619998537,
+         "id" : "dep20",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 415.63699999824,
+         "id" : "dep21",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 416.06299998238,
+         "id" : "dep22",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_41",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 111.67400004342,
+         "id" : "dep24",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 76.61300012842,
+         "id" : "dep25",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 13.1999999284701,
+         "id" : "dep26",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 833.316999953236,
+         "id" : "dep27",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 332.725999876857,
+         "id" : "dep28",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 332.725999876857,
+         "id" : "dep29",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 422.373999841512,
+         "id" : "dep30",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 463.996999897063,
+         "id" : "dep31",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 463.10199983418,
+         "id" : "dep32",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 462.716999929399,
+         "id" : "dep33",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 461.912000086159,
+         "id" : "dep34",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 457.899999804795,
+         "id" : "dep35",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 462.321999948472,
+         "id" : "dep36",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 461.132999975235,
+         "id" : "dep37",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 461.519999895245,
+         "id" : "dep38",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 457.483000122011,
+         "id" : "dep39",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 457.089999690652,
+         "id" : "dep40",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 456.619999837131,
+         "id" : "dep41",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 456.20599994436,
+         "id" : "dep42",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 460.748999845237,
+         "id" : "dep43",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 459.960999898613,
+         "id" : "dep44",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 459.15099978447,
+         "id" : "dep45",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 460.347999818624,
+         "id" : "dep46",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 458.767999894917,
+         "id" : "dep47",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 459.580999799073,
+         "id" : "dep48",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 455.796000082046,
+         "id" : "dep49",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 455.412999726832,
+         "id" : "dep50",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 455.062000080944,
+         "id" : "dep51",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 454.332999885083,
+         "id" : "dep52",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 454.707999713719,
+         "id" : "dep53",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 458.377999719233,
+         "id" : "dep54",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 453.880999702961,
+         "id" : "dep55",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 423.316999804229,
+         "id" : "dep56",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 422.811999917031,
+         "id" : "dep57",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 412.895000074059,
+         "id" : "dep58",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 267.434999812395,
+         "id" : "dep59",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 128.062999807299,
+         "id" : "dep60",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 128.939999733121,
+         "id" : "dep61",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 131.359999999404,
+         "id" : "dep62",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 118.390999734402,
+         "id" : "dep63",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 28.355000074953,
+         "id" : "dep64",
+         "a1" : "r1_c1"
+      }
+   ]
+}

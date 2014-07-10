@@ -1,0 +1,578 @@
+{"page": "www.google.fr_"}
+{"DOMLoad": 2260078.907225}
+{"Resource": {"id": 1, "url": "https://www.google.fr/", "sentTime": -1.000000, "len": 103747, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 16665, "connReused": 0, "cached": 0,                            "requestTime": 2260076.594359, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 423, "sendStart": 424, "sendEnd": 424, "receiveHeadersEnd": 471, "sslStart": 10, "sslEnd": 423}}
+{"ReceivedChunk": {"receivedTime": 2260077.105112, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260077.169603, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2260077.339930, "len": 5443}}
+{"ObjectHash": {"code": "0x17f7a0", "doc": "https://www.google.fr/", "row": 0, "column": 71, "tagName": "html", "time": 2260077.132066, "url": "", "pos": 71, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17fea0", "doc": "https://www.google.fr/", "row": 0, "column": 77, "tagName": "head", "time": 2260077.132255, "url": "", "pos": 77, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17fb70", "doc": "https://www.google.fr/", "row": 0, "column": 141, "tagName": "meta", "time": 2260077.132280, "url": "", "pos": 141, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x180200", "doc": "https://www.google.fr/", "row": 0, "column": 190, "tagName": "meta", "time": 2260077.132360, "url": "", "pos": 190, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1802d0", "doc": "https://www.google.fr/", "row": 0, "column": 197, "tagName": "title", "time": 2260077.132505, "url": "", "pos": 197, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d250", "doc": "https://www.google.fr/", "row": 0, "column": 211, "tagName": "title", "time": 2260077.135885, "url": "", "pos": 211, "chunkLen": 32768, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18cc10", "doc": "https://www.google.fr/", "row": 0, "column": 219, "tagName": "script", "time": 2260077.135894, "url": "", "pos": 219, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d220", "doc": "https://www.google.fr/", "row": 9, "column": 2393, "tagName": "script", "time": 2260077.136175, "url": "", "pos": 6147, "chunkLen": 32768, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d570", "doc": "https://www.google.fr/", "row": 9, "column": 2400, "tagName": "style", "time": 2260077.167913, "url": "", "pos": 6154, "chunkLen": 32768, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cb30", "doc": "https://www.google.fr/", "row": 9, "column": 46976, "tagName": "style", "time": 2260077.171395, "url": "", "pos": 50730, "chunkLen": 98270, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ae0", "doc": "https://www.google.fr/", "row": 9, "column": 46995, "tagName": "style", "time": 2260077.180551, "url": "", "pos": 50749, "chunkLen": 98270, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c20", "doc": "https://www.google.fr/", "row": 9, "column": 50068, "tagName": "style", "time": 2260077.180698, "url": "", "pos": 53822, "chunkLen": 98270, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dda0", "doc": "https://www.google.fr/", "row": 9, "column": 50075, "tagName": "style", "time": 2260077.181665, "url": "", "pos": 53829, "chunkLen": 98270, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438bf0", "doc": "https://www.google.fr/", "row": 9, "column": 54046, "tagName": "style", "time": 2260077.181834, "url": "", "pos": 57800, "chunkLen": 98270, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x44f3e0", "doc": "https://www.google.fr/", "row": 9, "column": 54054, "tagName": "script", "time": 2260077.182722, "url": "", "pos": 57808, "chunkLen": 98270, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437570", "doc": "https://www.google.fr/", "row": 65, "column": 762, "tagName": "script", "time": 2260077.183933, "url": "", "pos": 83329, "chunkLen": 98270, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dca0", "doc": "https://www.google.fr/", "row": 65, "column": 770, "tagName": "head", "time": 2260077.199074, "url": "", "pos": 50569, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x450640", "doc": "https://www.google.fr/", "row": 65, "column": 1054, "tagName": "body", "time": 2260077.199131, "url": "", "pos": 50853, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453cf0", "doc": "https://www.google.fr/", "row": 65, "column": 1087, "tagName": "div", "time": 2260077.199392, "url": "", "pos": 50886, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536b0", "doc": "https://www.google.fr/", "row": 65, "column": 1141, "tagName": "div", "time": 2260077.199477, "url": "", "pos": 50940, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4543e0", "doc": "https://www.google.fr/", "row": 65, "column": 1157, "tagName": "div", "time": 2260077.199557, "url": "", "pos": 50956, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454490", "doc": "https://www.google.fr/", "row": 65, "column": 1163, "tagName": "span", "time": 2260077.199568, "url": "", "pos": 50962, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454330", "doc": "https://www.google.fr/", "row": 65, "column": 1194, "tagName": "span", "time": 2260077.199584, "url": "", "pos": 50993, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4544f0", "doc": "https://www.google.fr/", "row": 65, "column": 1207, "tagName": "span", "time": 2260077.199592, "url": "", "pos": 51006, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x454690", "doc": "https://www.google.fr/", "row": 65, "column": 1281, "tagName": "span", "time": 2260077.199610, "url": "", "pos": 51080, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x454750", "doc": "https://www.google.fr/", "row": 65, "column": 1366, "tagName": "a", "time": 2260077.199637, "url": "", "pos": 51165, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454920", "doc": "https://www.google.fr/", "row": 65, "column": 1384, "tagName": "a", "time": 2260077.199671, "url": "", "pos": 51183, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4547c0", "doc": "https://www.google.fr/", "row": 65, "column": 1390, "tagName": "div", "time": 2260077.199674, "url": "", "pos": 51189, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4541f0", "doc": "https://www.google.fr/", "row": 65, "column": 1406, "tagName": "div", "time": 2260077.199679, "url": "", "pos": 51205, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454a80", "doc": "https://www.google.fr/", "row": 65, "column": 1437, "tagName": "span", "time": 2260077.199691, "url": "", "pos": 51236, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454ae0", "doc": "https://www.google.fr/", "row": 65, "column": 1450, "tagName": "span", "time": 2260077.199700, "url": "", "pos": 51249, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x454d20", "doc": "https://www.google.fr/", "row": 65, "column": 1564, "tagName": "div", "time": 2260077.199710, "url": "", "pos": 51363, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x454c50", "doc": "https://www.google.fr/", "row": 65, "column": 1580, "tagName": "div", "time": 2260077.199714, "url": "", "pos": 51379, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454dc0", "doc": "https://www.google.fr/", "row": 65, "column": 1630, "tagName": "div", "time": 2260077.199725, "url": "", "pos": 51429, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x454df0", "doc": "https://www.google.fr/", "row": 65, "column": 1636, "tagName": "div", "time": 2260077.199728, "url": "", "pos": 51435, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x454970", "doc": "https://www.google.fr/", "row": 65, "column": 1650, "tagName": "div", "time": 2260077.199732, "url": "", "pos": 51449, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x454f80", "doc": "https://www.google.fr/", "row": 65, "column": 1676, "tagName": "div", "time": 2260077.199766, "url": "", "pos": 51475, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x455170", "doc": "https://www.google.fr/", "row": 65, "column": 1688, "tagName": "div", "time": 2260077.199798, "url": "", "pos": 51487, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4550e0", "doc": "https://www.google.fr/", "row": 65, "column": 1694, "tagName": "div", "time": 2260077.199801, "url": "", "pos": 51493, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x455110", "doc": "https://www.google.fr/", "row": 65, "column": 1836, "tagName": "a", "time": 2260077.199820, "url": "", "pos": 51635, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x455750", "doc": "https://www.google.fr/", "row": 65, "column": 1937, "tagName": "a", "time": 2260077.199970, "url": "", "pos": 51736, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x455240", "doc": "https://www.google.fr/", "row": 65, "column": 1990, "tagName": "textarea", "time": 2260077.199983, "url": "", "pos": 51789, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ff00", "doc": "https://www.google.fr/", "row": 65, "column": 2001, "tagName": "textarea", "time": 2260077.218331, "url": "", "pos": 51800, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18ff30", "doc": "https://www.google.fr/", "row": 65, "column": 2009, "tagName": "script", "time": 2260077.218359, "url": "", "pos": 51808, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190290", "doc": "https://www.google.fr/", "row": 65, "column": 2072, "tagName": "script", "time": 2260077.218432, "url": "", "pos": 51871, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190470", "doc": "https://www.google.fr/", "row": 65, "column": 2087, "tagName": "div", "time": 2260077.219139, "url": "", "pos": 51886, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190500", "doc": "https://www.google.fr/", "row": 65, "column": 2098, "tagName": "div", "time": 2260077.219287, "url": "", "pos": 51897, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190710", "doc": "https://www.google.fr/", "row": 65, "column": 2106, "tagName": "script", "time": 2260077.219344, "url": "", "pos": 51905, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190400", "doc": "https://www.google.fr/", "row": 65, "column": 2148, "tagName": "script", "time": 2260077.219376, "url": "", "pos": 51947, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x456560", "doc": "https://www.google.fr/", "row": 65, "column": 2160, "tagName": "div", "time": 2260077.229305, "url": "", "pos": 51959, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x456bf0", "doc": "https://www.google.fr/", "row": 65, "column": 2173, "tagName": "div", "time": 2260077.231253, "url": "", "pos": 51972, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4578d0", "doc": "https://www.google.fr/", "row": 65, "column": 2185, "tagName": "div", "time": 2260077.231383, "url": "", "pos": 51984, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x457ba0", "doc": "https://www.google.fr/", "row": 65, "column": 2203, "tagName": "span", "time": 2260077.231426, "url": "", "pos": 52002, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x457e70", "doc": "https://www.google.fr/", "row": 65, "column": 2210, "tagName": "span", "time": 2260077.231461, "url": "", "pos": 52009, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x457ea0", "doc": "https://www.google.fr/", "row": 65, "column": 2233, "tagName": "ol", "time": 2260077.231471, "url": "", "pos": 52032, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4582a0", "doc": "https://www.google.fr/", "row": 65, "column": 2247, "tagName": "li", "time": 2260077.231847, "url": "", "pos": 52046, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4586e0", "doc": "https://www.google.fr/", "row": 65, "column": 2357, "tagName": "a", "time": 2260077.231921, "url": "", "pos": 52156, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x458a10", "doc": "https://www.google.fr/", "row": 65, "column": 2375, "tagName": "span", "time": 2260077.232044, "url": "", "pos": 52174, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x458e10", "doc": "https://www.google.fr/", "row": 65, "column": 2382, "tagName": "span", "time": 2260077.232074, "url": "", "pos": 52181, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x458e40", "doc": "https://www.google.fr/", "row": 65, "column": 2399, "tagName": "span", "time": 2260077.232080, "url": "", "pos": 52198, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x459520", "doc": "https://www.google.fr/", "row": 65, "column": 2411, "tagName": "span", "time": 2260077.232167, "url": "", "pos": 52210, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x459550", "doc": "https://www.google.fr/", "row": 65, "column": 2415, "tagName": "a", "time": 2260077.232171, "url": "", "pos": 52214, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x459580", "doc": "https://www.google.fr/", "row": 65, "column": 2420, "tagName": "li", "time": 2260077.232175, "url": "", "pos": 52219, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4595b0", "doc": "https://www.google.fr/", "row": 65, "column": 2434, "tagName": "li", "time": 2260077.232179, "url": "", "pos": 52233, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4597c0", "doc": "https://www.google.fr/", "row": 65, "column": 2550, "tagName": "a", "time": 2260077.232213, "url": "", "pos": 52349, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x459a50", "doc": "https://www.google.fr/", "row": 65, "column": 2568, "tagName": "span", "time": 2260077.232309, "url": "", "pos": 52367, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x459d60", "doc": "https://www.google.fr/", "row": 65, "column": 2575, "tagName": "span", "time": 2260077.232338, "url": "", "pos": 52374, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x459d90", "doc": "https://www.google.fr/", "row": 65, "column": 2592, "tagName": "span", "time": 2260077.232343, "url": "", "pos": 52391, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45a410", "doc": "https://www.google.fr/", "row": 65, "column": 2608, "tagName": "span", "time": 2260077.232406, "url": "", "pos": 52407, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x457f80", "doc": "https://www.google.fr/", "row": 65, "column": 2612, "tagName": "a", "time": 2260077.232410, "url": "", "pos": 52411, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x459a10", "doc": "https://www.google.fr/", "row": 65, "column": 2617, "tagName": "li", "time": 2260077.232413, "url": "", "pos": 52416, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x457fb0", "doc": "https://www.google.fr/", "row": 65, "column": 2631, "tagName": "li", "time": 2260077.232417, "url": "", "pos": 52430, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45a710", "doc": "https://www.google.fr/", "row": 65, "column": 2748, "tagName": "a", "time": 2260077.232449, "url": "", "pos": 52547, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x458020", "doc": "https://www.google.fr/", "row": 65, "column": 2766, "tagName": "span", "time": 2260077.232498, "url": "", "pos": 52565, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x458710", "doc": "https://www.google.fr/", "row": 65, "column": 2773, "tagName": "span", "time": 2260077.232517, "url": "", "pos": 52572, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x458740", "doc": "https://www.google.fr/", "row": 65, "column": 2790, "tagName": "span", "time": 2260077.232522, "url": "", "pos": 52589, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45aa80", "doc": "https://www.google.fr/", "row": 65, "column": 2803, "tagName": "span", "time": 2260077.232593, "url": "", "pos": 52602, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45aab0", "doc": "https://www.google.fr/", "row": 65, "column": 2807, "tagName": "a", "time": 2260077.232597, "url": "", "pos": 52606, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45aae0", "doc": "https://www.google.fr/", "row": 65, "column": 2812, "tagName": "li", "time": 2260077.232599, "url": "", "pos": 52611, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ab10", "doc": "https://www.google.fr/", "row": 65, "column": 2826, "tagName": "li", "time": 2260077.232603, "url": "", "pos": 52625, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45adb0", "doc": "https://www.google.fr/", "row": 65, "column": 2943, "tagName": "a", "time": 2260077.232883, "url": "", "pos": 52742, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45aba0", "doc": "https://www.google.fr/", "row": 65, "column": 2961, "tagName": "span", "time": 2260077.237137, "url": "", "pos": 52760, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45af90", "doc": "https://www.google.fr/", "row": 65, "column": 2968, "tagName": "span", "time": 2260077.237173, "url": "", "pos": 52767, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45afc0", "doc": "https://www.google.fr/", "row": 65, "column": 2985, "tagName": "span", "time": 2260077.237180, "url": "", "pos": 52784, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45b100", "doc": "https://www.google.fr/", "row": 65, "column": 2996, "tagName": "span", "time": 2260077.237258, "url": "", "pos": 52795, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b130", "doc": "https://www.google.fr/", "row": 65, "column": 3000, "tagName": "a", "time": 2260077.237262, "url": "", "pos": 52799, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b160", "doc": "https://www.google.fr/", "row": 65, "column": 3005, "tagName": "li", "time": 2260077.237265, "url": "", "pos": 52804, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45a440", "doc": "https://www.google.fr/", "row": 65, "column": 3019, "tagName": "li", "time": 2260077.237271, "url": "", "pos": 52818, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45b490", "doc": "https://www.google.fr/", "row": 65, "column": 3135, "tagName": "a", "time": 2260077.237328, "url": "", "pos": 52934, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45a4d0", "doc": "https://www.google.fr/", "row": 65, "column": 3153, "tagName": "span", "time": 2260077.237387, "url": "", "pos": 52952, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45a500", "doc": "https://www.google.fr/", "row": 65, "column": 3160, "tagName": "span", "time": 2260077.237406, "url": "", "pos": 52959, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b690", "doc": "https://www.google.fr/", "row": 65, "column": 3177, "tagName": "span", "time": 2260077.237411, "url": "", "pos": 52976, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45b7d0", "doc": "https://www.google.fr/", "row": 65, "column": 3188, "tagName": "span", "time": 2260077.237443, "url": "", "pos": 52987, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b800", "doc": "https://www.google.fr/", "row": 65, "column": 3192, "tagName": "a", "time": 2260077.237607, "url": "", "pos": 52991, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b830", "doc": "https://www.google.fr/", "row": 65, "column": 3197, "tagName": "li", "time": 2260077.237615, "url": "", "pos": 52996, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b860", "doc": "https://www.google.fr/", "row": 65, "column": 3211, "tagName": "li", "time": 2260077.237620, "url": "", "pos": 53010, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45baf0", "doc": "https://www.google.fr/", "row": 65, "column": 3327, "tagName": "a", "time": 2260077.237655, "url": "", "pos": 53126, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45b8e0", "doc": "https://www.google.fr/", "row": 65, "column": 3345, "tagName": "span", "time": 2260077.237700, "url": "", "pos": 53144, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45b910", "doc": "https://www.google.fr/", "row": 65, "column": 3352, "tagName": "span", "time": 2260077.237718, "url": "", "pos": 53151, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45bd30", "doc": "https://www.google.fr/", "row": 65, "column": 3369, "tagName": "span", "time": 2260077.237723, "url": "", "pos": 53168, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45beb0", "doc": "https://www.google.fr/", "row": 65, "column": 3383, "tagName": "span", "time": 2260077.237755, "url": "", "pos": 53182, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45bee0", "doc": "https://www.google.fr/", "row": 65, "column": 3387, "tagName": "a", "time": 2260077.237759, "url": "", "pos": 53186, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45bf10", "doc": "https://www.google.fr/", "row": 65, "column": 3392, "tagName": "li", "time": 2260077.237761, "url": "", "pos": 53191, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45bf40", "doc": "https://www.google.fr/", "row": 65, "column": 3406, "tagName": "li", "time": 2260077.237765, "url": "", "pos": 53205, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c150", "doc": "https://www.google.fr/", "row": 65, "column": 3510, "tagName": "a", "time": 2260077.237806, "url": "", "pos": 53309, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c310", "doc": "https://www.google.fr/", "row": 65, "column": 3528, "tagName": "span", "time": 2260077.237854, "url": "", "pos": 53327, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c380", "doc": "https://www.google.fr/", "row": 65, "column": 3535, "tagName": "span", "time": 2260077.237872, "url": "", "pos": 53334, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45c3b0", "doc": "https://www.google.fr/", "row": 65, "column": 3552, "tagName": "span", "time": 2260077.237878, "url": "", "pos": 53351, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c530", "doc": "https://www.google.fr/", "row": 65, "column": 3569, "tagName": "span", "time": 2260077.237909, "url": "", "pos": 53368, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b190", "doc": "https://www.google.fr/", "row": 65, "column": 3573, "tagName": "a", "time": 2260077.237914, "url": "", "pos": 53372, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b1c0", "doc": "https://www.google.fr/", "row": 65, "column": 3578, "tagName": "li", "time": 2260077.237917, "url": "", "pos": 53377, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45b1f0", "doc": "https://www.google.fr/", "row": 65, "column": 3592, "tagName": "li", "time": 2260077.237920, "url": "", "pos": 53391, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c5e0", "doc": "https://www.google.fr/", "row": 65, "column": 3693, "tagName": "a", "time": 2260077.237947, "url": "", "pos": 53492, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c7e0", "doc": "https://www.google.fr/", "row": 65, "column": 3711, "tagName": "span", "time": 2260077.237993, "url": "", "pos": 53510, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c850", "doc": "https://www.google.fr/", "row": 65, "column": 3718, "tagName": "span", "time": 2260077.238012, "url": "", "pos": 53517, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45c880", "doc": "https://www.google.fr/", "row": 65, "column": 3735, "tagName": "span", "time": 2260077.238017, "url": "", "pos": 53534, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c9c0", "doc": "https://www.google.fr/", "row": 65, "column": 3747, "tagName": "span", "time": 2260077.238048, "url": "", "pos": 53546, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45c9f0", "doc": "https://www.google.fr/", "row": 65, "column": 3751, "tagName": "a", "time": 2260077.238051, "url": "", "pos": 53550, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ca20", "doc": "https://www.google.fr/", "row": 65, "column": 3756, "tagName": "li", "time": 2260077.238054, "url": "", "pos": 53555, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ca50", "doc": "https://www.google.fr/", "row": 65, "column": 3770, "tagName": "li", "time": 2260077.238058, "url": "", "pos": 53569, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45cbc0", "doc": "https://www.google.fr/", "row": 65, "column": 3867, "tagName": "a", "time": 2260077.238084, "url": "", "pos": 53666, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45cdc0", "doc": "https://www.google.fr/", "row": 65, "column": 3885, "tagName": "span", "time": 2260077.238129, "url": "", "pos": 53684, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45cea0", "doc": "https://www.google.fr/", "row": 65, "column": 3892, "tagName": "span", "time": 2260077.238147, "url": "", "pos": 53691, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ced0", "doc": "https://www.google.fr/", "row": 65, "column": 3909, "tagName": "span", "time": 2260077.238152, "url": "", "pos": 53708, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d090", "doc": "https://www.google.fr/", "row": 65, "column": 3921, "tagName": "span", "time": 2260077.238193, "url": "", "pos": 53720, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d0c0", "doc": "https://www.google.fr/", "row": 65, "column": 3925, "tagName": "a", "time": 2260077.238197, "url": "", "pos": 53724, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d0f0", "doc": "https://www.google.fr/", "row": 65, "column": 3930, "tagName": "li", "time": 2260077.238199, "url": "", "pos": 53729, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d120", "doc": "https://www.google.fr/", "row": 65, "column": 3944, "tagName": "li", "time": 2260077.238203, "url": "", "pos": 53743, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d2e0", "doc": "https://www.google.fr/", "row": 65, "column": 4047, "tagName": "a", "time": 2260077.238230, "url": "", "pos": 53846, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d4e0", "doc": "https://www.google.fr/", "row": 65, "column": 4065, "tagName": "span", "time": 2260077.238277, "url": "", "pos": 53864, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d550", "doc": "https://www.google.fr/", "row": 65, "column": 4072, "tagName": "span", "time": 2260077.238296, "url": "", "pos": 53871, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d580", "doc": "https://www.google.fr/", "row": 65, "column": 4089, "tagName": "span", "time": 2260077.238301, "url": "", "pos": 53888, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d6d0", "doc": "https://www.google.fr/", "row": 65, "column": 4102, "tagName": "span", "time": 2260077.238331, "url": "", "pos": 53901, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d700", "doc": "https://www.google.fr/", "row": 65, "column": 4106, "tagName": "a", "time": 2260077.238335, "url": "", "pos": 53905, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d730", "doc": "https://www.google.fr/", "row": 65, "column": 4111, "tagName": "li", "time": 2260077.238337, "url": "", "pos": 53910, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d760", "doc": "https://www.google.fr/", "row": 65, "column": 4125, "tagName": "li", "time": 2260077.238341, "url": "", "pos": 53924, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d960", "doc": "https://www.google.fr/", "row": 65, "column": 4256, "tagName": "a", "time": 2260077.238370, "url": "", "pos": 54055, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d850", "doc": "https://www.google.fr/", "row": 65, "column": 4274, "tagName": "span", "time": 2260077.238418, "url": "", "pos": 54073, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45da20", "doc": "https://www.google.fr/", "row": 65, "column": 4281, "tagName": "span", "time": 2260077.238437, "url": "", "pos": 54080, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45dc60", "doc": "https://www.google.fr/", "row": 65, "column": 4316, "tagName": "span", "time": 2260077.238444, "url": "", "pos": 54115, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45e080", "doc": "https://www.google.fr/", "row": 65, "column": 4333, "tagName": "span", "time": 2260077.238505, "url": "", "pos": 54132, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45e250", "doc": "https://www.google.fr/", "row": 65, "column": 4344, "tagName": "span", "time": 2260077.238559, "url": "", "pos": 54143, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45e320", "doc": "https://www.google.fr/", "row": 65, "column": 4361, "tagName": "span", "time": 2260077.238565, "url": "", "pos": 54160, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45e7c0", "doc": "https://www.google.fr/", "row": 65, "column": 4368, "tagName": "span", "time": 2260077.238612, "url": "", "pos": 54167, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45e7f0", "doc": "https://www.google.fr/", "row": 65, "column": 4375, "tagName": "span", "time": 2260077.238615, "url": "", "pos": 54174, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45e8d0", "doc": "https://www.google.fr/", "row": 65, "column": 4379, "tagName": "a", "time": 2260077.238618, "url": "", "pos": 54178, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45e930", "doc": "https://www.google.fr/", "row": 65, "column": 4418, "tagName": "div", "time": 2260077.238625, "url": "", "pos": 54217, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45ec40", "doc": "https://www.google.fr/", "row": 65, "column": 4457, "tagName": "div", "time": 2260077.238679, "url": "", "pos": 54256, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f1c0", "doc": "https://www.google.fr/", "row": 65, "column": 4490, "tagName": "ol", "time": 2260077.238734, "url": "", "pos": 54289, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f540", "doc": "https://www.google.fr/", "row": 65, "column": 4506, "tagName": "li", "time": 2260077.238843, "url": "", "pos": 54305, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f9b0", "doc": "https://www.google.fr/", "row": 65, "column": 4626, "tagName": "a", "time": 2260077.238901, "url": "", "pos": 54425, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f710", "doc": "https://www.google.fr/", "row": 65, "column": 4640, "tagName": "a", "time": 2260077.238986, "url": "", "pos": 54439, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f740", "doc": "https://www.google.fr/", "row": 65, "column": 4645, "tagName": "li", "time": 2260077.238991, "url": "", "pos": 54444, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f810", "doc": "https://www.google.fr/", "row": 65, "column": 4661, "tagName": "li", "time": 2260077.238995, "url": "", "pos": 54460, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460120", "doc": "https://www.google.fr/", "row": 65, "column": 4781, "tagName": "a", "time": 2260077.239033, "url": "", "pos": 54580, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45ff40", "doc": "https://www.google.fr/", "row": 65, "column": 4791, "tagName": "a", "time": 2260077.239079, "url": "", "pos": 54590, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ff70", "doc": "https://www.google.fr/", "row": 65, "column": 4796, "tagName": "li", "time": 2260077.239083, "url": "", "pos": 54595, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ffa0", "doc": "https://www.google.fr/", "row": 65, "column": 4812, "tagName": "li", "time": 2260077.239087, "url": "", "pos": 54611, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d000", "doc": "https://www.google.fr/", "row": 65, "column": 4931, "tagName": "a", "time": 2260077.239116, "url": "", "pos": 54730, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45cf40", "doc": "https://www.google.fr/", "row": 65, "column": 4943, "tagName": "a", "time": 2260077.239168, "url": "", "pos": 54742, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45cf70", "doc": "https://www.google.fr/", "row": 65, "column": 4948, "tagName": "li", "time": 2260077.239172, "url": "", "pos": 54747, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4604c0", "doc": "https://www.google.fr/", "row": 65, "column": 4964, "tagName": "li", "time": 2260077.239176, "url": "", "pos": 54763, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460880", "doc": "https://www.google.fr/", "row": 65, "column": 5060, "tagName": "a", "time": 2260077.239200, "url": "", "pos": 54859, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460ae0", "doc": "https://www.google.fr/", "row": 65, "column": 5071, "tagName": "a", "time": 2260077.239250, "url": "", "pos": 54870, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460b10", "doc": "https://www.google.fr/", "row": 65, "column": 5076, "tagName": "li", "time": 2260077.239254, "url": "", "pos": 54875, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460b40", "doc": "https://www.google.fr/", "row": 65, "column": 5092, "tagName": "li", "time": 2260077.239258, "url": "", "pos": 54891, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460d80", "doc": "https://www.google.fr/", "row": 65, "column": 5208, "tagName": "a", "time": 2260077.239284, "url": "", "pos": 55007, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460bb0", "doc": "https://www.google.fr/", "row": 65, "column": 5218, "tagName": "a", "time": 2260077.239333, "url": "", "pos": 55017, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460be0", "doc": "https://www.google.fr/", "row": 65, "column": 5223, "tagName": "li", "time": 2260077.239337, "url": "", "pos": 55022, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460c10", "doc": "https://www.google.fr/", "row": 65, "column": 5239, "tagName": "li", "time": 2260077.239341, "url": "", "pos": 55038, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4611e0", "doc": "https://www.google.fr/", "row": 65, "column": 5354, "tagName": "a", "time": 2260077.239379, "url": "", "pos": 55153, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460ff0", "doc": "https://www.google.fr/", "row": 65, "column": 5364, "tagName": "a", "time": 2260077.239432, "url": "", "pos": 55163, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461020", "doc": "https://www.google.fr/", "row": 65, "column": 5369, "tagName": "li", "time": 2260077.239437, "url": "", "pos": 55168, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461090", "doc": "https://www.google.fr/", "row": 65, "column": 5385, "tagName": "li", "time": 2260077.239441, "url": "", "pos": 55184, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461410", "doc": "https://www.google.fr/", "row": 65, "column": 5408, "tagName": "div", "time": 2260077.239462, "url": "", "pos": 55207, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461720", "doc": "https://www.google.fr/", "row": 65, "column": 5414, "tagName": "div", "time": 2260077.239510, "url": "", "pos": 55213, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461750", "doc": "https://www.google.fr/", "row": 65, "column": 5419, "tagName": "li", "time": 2260077.239513, "url": "", "pos": 55218, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461850", "doc": "https://www.google.fr/", "row": 65, "column": 5435, "tagName": "li", "time": 2260077.239517, "url": "", "pos": 55234, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461970", "doc": "https://www.google.fr/", "row": 65, "column": 5528, "tagName": "a", "time": 2260077.239541, "url": "", "pos": 55327, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461bd0", "doc": "https://www.google.fr/", "row": 65, "column": 5543, "tagName": "a", "time": 2260077.239585, "url": "", "pos": 55342, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4618c0", "doc": "https://www.google.fr/", "row": 65, "column": 5548, "tagName": "li", "time": 2260077.239589, "url": "", "pos": 55347, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4618f0", "doc": "https://www.google.fr/", "row": 65, "column": 5553, "tagName": "ol", "time": 2260077.239591, "url": "", "pos": 55352, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461c00", "doc": "https://www.google.fr/", "row": 65, "column": 5570, "tagName": "div", "time": 2260077.239596, "url": "", "pos": 55369, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4624b0", "doc": "https://www.google.fr/", "row": 65, "column": 5576, "tagName": "div", "time": 2260077.239737, "url": "", "pos": 55375, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4624e0", "doc": "https://www.google.fr/", "row": 65, "column": 5593, "tagName": "div", "time": 2260077.239743, "url": "", "pos": 55392, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f640", "doc": "https://www.google.fr/", "row": 65, "column": 5599, "tagName": "div", "time": 2260077.239864, "url": "", "pos": 55398, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461820", "doc": "https://www.google.fr/", "row": 65, "column": 5605, "tagName": "div", "time": 2260077.239868, "url": "", "pos": 55404, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45a3a0", "doc": "https://www.google.fr/", "row": 65, "column": 5611, "tagName": "div", "time": 2260077.239870, "url": "", "pos": 55410, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453aa0", "doc": "https://www.google.fr/", "row": 65, "column": 5616, "tagName": "li", "time": 2260077.239873, "url": "", "pos": 55415, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x457b20", "doc": "https://www.google.fr/", "row": 65, "column": 5621, "tagName": "ol", "time": 2260077.239875, "url": "", "pos": 55420, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f290", "doc": "https://www.google.fr/", "row": 65, "column": 5627, "tagName": "div", "time": 2260077.239877, "url": "", "pos": 55426, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x458b10", "doc": "https://www.google.fr/", "row": 65, "column": 5633, "tagName": "div", "time": 2260077.239879, "url": "", "pos": 55432, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45feb0", "doc": "https://www.google.fr/", "row": 65, "column": 5645, "tagName": "div", "time": 2260077.239883, "url": "", "pos": 55444, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463540", "doc": "https://www.google.fr/", "row": 65, "column": 5676, "tagName": "div", "time": 2260077.239927, "url": "", "pos": 55475, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463870", "doc": "https://www.google.fr/", "row": 65, "column": 5796, "tagName": "a", "time": 2260077.239986, "url": "", "pos": 55595, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463b60", "doc": "https://www.google.fr/", "row": 65, "column": 5812, "tagName": "table", "time": 2260077.240009, "url": "", "pos": 55611, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463b90", "doc": "https://www.google.fr/", "row": 65, "column": 5816, "tagName": "tr", "time": 2260077.240048, "url": "", "pos": 55615, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463c40", "doc": "https://www.google.fr/", "row": 65, "column": 5840, "tagName": "td", "time": 2260077.240071, "url": "", "pos": 55639, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463cb0", "doc": "https://www.google.fr/", "row": 65, "column": 5854, "tagName": "span", "time": 2260077.240084, "url": "", "pos": 55653, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463d40", "doc": "https://www.google.fr/", "row": 65, "column": 5861, "tagName": "span", "time": 2260077.240095, "url": "", "pos": 55660, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463d70", "doc": "https://www.google.fr/", "row": 65, "column": 5866, "tagName": "td", "time": 2260077.240099, "url": "", "pos": 55665, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463da0", "doc": "https://www.google.fr/", "row": 65, "column": 5871, "tagName": "tr", "time": 2260077.240101, "url": "", "pos": 55670, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463dd0", "doc": "https://www.google.fr/", "row": 65, "column": 5879, "tagName": "table", "time": 2260077.240104, "url": "", "pos": 55678, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463e00", "doc": "https://www.google.fr/", "row": 65, "column": 5897, "tagName": "div", "time": 2260077.240110, "url": "", "pos": 55696, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463ea0", "doc": "https://www.google.fr/", "row": 65, "column": 5903, "tagName": "div", "time": 2260077.240120, "url": "", "pos": 55702, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463ed0", "doc": "https://www.google.fr/", "row": 65, "column": 5907, "tagName": "a", "time": 2260077.240123, "url": "", "pos": 55706, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463f00", "doc": "https://www.google.fr/", "row": 65, "column": 5913, "tagName": "div", "time": 2260077.240125, "url": "", "pos": 55712, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463f30", "doc": "https://www.google.fr/", "row": 65, "column": 5944, "tagName": "div", "time": 2260077.240130, "url": "", "pos": 55743, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463fb0", "doc": "https://www.google.fr/", "row": 65, "column": 5959, "tagName": "div", "time": 2260077.240190, "url": "", "pos": 55758, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4641d0", "doc": "https://www.google.fr/", "row": 65, "column": 6042, "tagName": "form", "time": 2260077.240220, "url": "", "pos": 55841, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464130", "doc": "https://www.google.fr/", "row": 65, "column": 6063, "tagName": "fieldset", "time": 2260077.240403, "url": "", "pos": 55862, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4646f0", "doc": "https://www.google.fr/", "row": 65, "column": 6082, "tagName": "legend", "time": 2260077.240459, "url": "", "pos": 55881, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4649c0", "doc": "https://www.google.fr/", "row": 65, "column": 6105, "tagName": "legend", "time": 2260077.240483, "url": "", "pos": 55904, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4649f0", "doc": "https://www.google.fr/", "row": 65, "column": 6120, "tagName": "div", "time": 2260077.240489, "url": "", "pos": 55919, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464aa0", "doc": "https://www.google.fr/", "row": 65, "column": 6168, "tagName": "input", "time": 2260077.240503, "url": "", "pos": 55967, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464fc0", "doc": "https://www.google.fr/", "row": 65, "column": 6217, "tagName": "input", "time": 2260077.240675, "url": "", "pos": 56016, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465080", "doc": "https://www.google.fr/", "row": 65, "column": 6223, "tagName": "div", "time": 2260077.240711, "url": "", "pos": 56022, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4651f0", "doc": "https://www.google.fr/", "row": 65, "column": 6234, "tagName": "fieldset", "time": 2260077.240715, "url": "", "pos": 56033, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465220", "doc": "https://www.google.fr/", "row": 65, "column": 6265, "tagName": "fieldset", "time": 2260077.240720, "url": "", "pos": 56064, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465530", "doc": "https://www.google.fr/", "row": 65, "column": 6284, "tagName": "legend", "time": 2260077.240782, "url": "", "pos": 56083, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465650", "doc": "https://www.google.fr/", "row": 65, "column": 6293, "tagName": "legend", "time": 2260077.240810, "url": "", "pos": 56092, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465830", "doc": "https://www.google.fr/", "row": 65, "column": 6323, "tagName": "div", "time": 2260077.240818, "url": "", "pos": 56122, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465a20", "doc": "https://www.google.fr/", "row": 65, "column": 6351, "tagName": "div", "time": 2260077.240850, "url": "", "pos": 56150, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465dc0", "doc": "https://www.google.fr/", "row": 65, "column": 6381, "tagName": "div", "time": 2260077.240901, "url": "", "pos": 56180, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4660f0", "doc": "https://www.google.fr/", "row": 65, "column": 6454, "tagName": "input", "time": 2260077.240952, "url": "", "pos": 56253, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192f60", "doc": "https://www.google.fr/", "row": 65, "column": 6460, "tagName": "div", "time": 2260077.302035, "url": "", "pos": 56259, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192f90", "doc": "https://www.google.fr/", "row": 65, "column": 6466, "tagName": "div", "time": 2260077.302046, "url": "", "pos": 56265, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192fc0", "doc": "https://www.google.fr/", "row": 65, "column": 6472, "tagName": "div", "time": 2260077.302048, "url": "", "pos": 56271, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x192ff0", "doc": "https://www.google.fr/", "row": 65, "column": 6483, "tagName": "fieldset", "time": 2260077.302051, "url": "", "pos": 56282, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193020", "doc": "https://www.google.fr/", "row": 65, "column": 6498, "tagName": "div", "time": 2260077.302059, "url": "", "pos": 56297, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193240", "doc": "https://www.google.fr/", "row": 65, "column": 6567, "tagName": "button", "time": 2260077.302132, "url": "", "pos": 56366, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1933f0", "doc": "https://www.google.fr/", "row": 65, "column": 6585, "tagName": "span", "time": 2260077.302184, "url": "", "pos": 56384, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1934a0", "doc": "https://www.google.fr/", "row": 65, "column": 6592, "tagName": "span", "time": 2260077.302204, "url": "", "pos": 56391, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1934d0", "doc": "https://www.google.fr/", "row": 65, "column": 6601, "tagName": "button", "time": 2260077.302209, "url": "", "pos": 56400, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193500", "doc": "https://www.google.fr/", "row": 65, "column": 6607, "tagName": "div", "time": 2260077.302212, "url": "", "pos": 56406, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193550", "doc": "https://www.google.fr/", "row": 65, "column": 6633, "tagName": "div", "time": 2260077.302217, "url": "", "pos": 56432, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193c70", "doc": "https://www.google.fr/", "row": 65, "column": 6704, "tagName": "button", "time": 2260077.302274, "url": "", "pos": 56503, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194e00", "doc": "https://www.google.fr/", "row": 65, "column": 6720, "tagName": "span", "time": 2260077.304068, "url": "", "pos": 56519, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x195250", "doc": "https://www.google.fr/", "row": 65, "column": 6743, "tagName": "span", "time": 2260077.304155, "url": "", "pos": 56542, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195280", "doc": "https://www.google.fr/", "row": 65, "column": 6752, "tagName": "button", "time": 2260077.304161, "url": "", "pos": 56551, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195340", "doc": "https://www.google.fr/", "row": 65, "column": 6907, "tagName": "button", "time": 2260077.304177, "url": "", "pos": 56706, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1952b0", "doc": "https://www.google.fr/", "row": 65, "column": 6923, "tagName": "span", "time": 2260077.304272, "url": "", "pos": 56722, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x195e60", "doc": "https://www.google.fr/", "row": 65, "column": 6947, "tagName": "span", "time": 2260077.304308, "url": "", "pos": 56746, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195e90", "doc": "https://www.google.fr/", "row": 65, "column": 6956, "tagName": "button", "time": 2260077.304312, "url": "", "pos": 56755, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195ec0", "doc": "https://www.google.fr/", "row": 65, "column": 6962, "tagName": "div", "time": 2260077.304315, "url": "", "pos": 56761, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195ef0", "doc": "https://www.google.fr/", "row": 65, "column": 6969, "tagName": "form", "time": 2260077.304317, "url": "", "pos": 56768, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195f20", "doc": "https://www.google.fr/", "row": 65, "column": 6975, "tagName": "div", "time": 2260077.304321, "url": "", "pos": 56774, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195f50", "doc": "https://www.google.fr/", "row": 65, "column": 6981, "tagName": "div", "time": 2260077.304323, "url": "", "pos": 56780, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195f80", "doc": "https://www.google.fr/", "row": 65, "column": 6987, "tagName": "div", "time": 2260077.304325, "url": "", "pos": 56786, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195fb0", "doc": "https://www.google.fr/", "row": 65, "column": 6999, "tagName": "div", "time": 2260077.304329, "url": "", "pos": 56798, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196220", "doc": "https://www.google.fr/", "row": 65, "column": 7023, "tagName": "div", "time": 2260077.304393, "url": "", "pos": 56822, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196400", "doc": "https://www.google.fr/", "row": 65, "column": 7038, "tagName": "h2", "time": 2260077.304418, "url": "", "pos": 56837, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1966f0", "doc": "https://www.google.fr/", "row": 65, "column": 7058, "tagName": "h2", "time": 2260077.304451, "url": "", "pos": 56857, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1967c0", "doc": "https://www.google.fr/", "row": 65, "column": 7076, "tagName": "span", "time": 2260077.304457, "url": "", "pos": 56875, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196880", "doc": "https://www.google.fr/", "row": 65, "column": 7083, "tagName": "span", "time": 2260077.304482, "url": "", "pos": 56882, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1968e0", "doc": "https://www.google.fr/", "row": 65, "column": 7105, "tagName": "ol", "time": 2260077.304488, "url": "", "pos": 56904, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196aa0", "doc": "https://www.google.fr/", "row": 65, "column": 7119, "tagName": "li", "time": 2260077.304517, "url": "", "pos": 56918, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196cc0", "doc": "https://www.google.fr/", "row": 65, "column": 7124, "tagName": "li", "time": 2260077.304554, "url": "", "pos": 56923, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x196cf0", "doc": "https://www.google.fr/", "row": 65, "column": 7138, "tagName": "li", "time": 2260077.304559, "url": "", "pos": 56937, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196f10", "doc": "https://www.google.fr/", "row": 65, "column": 7295, "tagName": "a", "time": 2260077.304618, "url": "", "pos": 57094, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196e10", "doc": "https://www.google.fr/", "row": 65, "column": 7312, "tagName": "span", "time": 2260077.304697, "url": "", "pos": 57111, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x197a50", "doc": "https://www.google.fr/", "row": 65, "column": 7329, "tagName": "span", "time": 2260077.304747, "url": "", "pos": 57128, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x197c30", "doc": "https://www.google.fr/", "row": 65, "column": 7345, "tagName": "span", "time": 2260077.304804, "url": "", "pos": 57144, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x197f50", "doc": "https://www.google.fr/", "row": 65, "column": 7352, "tagName": "span", "time": 2260077.304817, "url": "", "pos": 57151, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x197f80", "doc": "https://www.google.fr/", "row": 65, "column": 7356, "tagName": "a", "time": 2260077.304821, "url": "", "pos": 57155, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x197fb0", "doc": "https://www.google.fr/", "row": 65, "column": 7361, "tagName": "li", "time": 2260077.304824, "url": "", "pos": 57160, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1980e0", "doc": "https://www.google.fr/", "row": 65, "column": 7387, "tagName": "div", "time": 2260077.304829, "url": "", "pos": 57186, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198000", "doc": "https://www.google.fr/", "row": 65, "column": 7426, "tagName": "div", "time": 2260077.304879, "url": "", "pos": 57225, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x197e50", "doc": "https://www.google.fr/", "row": 65, "column": 7442, "tagName": "div", "time": 2260077.304892, "url": "", "pos": 57241, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x197f10", "doc": "https://www.google.fr/", "row": 65, "column": 7466, "tagName": "ol", "time": 2260077.304906, "url": "", "pos": 57265, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198220", "doc": "https://www.google.fr/", "row": 65, "column": 7489, "tagName": "li", "time": 2260077.304922, "url": "", "pos": 57288, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198360", "doc": "https://www.google.fr/", "row": 65, "column": 7530, "tagName": "a", "time": 2260077.304937, "url": "", "pos": 57329, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198490", "doc": "https://www.google.fr/", "row": 65, "column": 7557, "tagName": "a", "time": 2260077.304950, "url": "", "pos": 57356, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1985c0", "doc": "https://www.google.fr/", "row": 65, "column": 7562, "tagName": "li", "time": 2260077.304954, "url": "", "pos": 57361, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1986f0", "doc": "https://www.google.fr/", "row": 65, "column": 7578, "tagName": "li", "time": 2260077.304958, "url": "", "pos": 57377, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198500", "doc": "https://www.google.fr/", "row": 65, "column": 7601, "tagName": "div", "time": 2260077.304970, "url": "", "pos": 57400, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198750", "doc": "https://www.google.fr/", "row": 65, "column": 7607, "tagName": "div", "time": 2260077.304979, "url": "", "pos": 57406, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198780", "doc": "https://www.google.fr/", "row": 65, "column": 7612, "tagName": "li", "time": 2260077.304983, "url": "", "pos": 57411, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1987b0", "doc": "https://www.google.fr/", "row": 65, "column": 7634, "tagName": "li", "time": 2260077.304987, "url": "", "pos": 57433, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198920", "doc": "https://www.google.fr/", "row": 65, "column": 7688, "tagName": "a", "time": 2260077.305003, "url": "", "pos": 57487, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198a50", "doc": "https://www.google.fr/", "row": 65, "column": 7709, "tagName": "a", "time": 2260077.305015, "url": "", "pos": 57508, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198a80", "doc": "https://www.google.fr/", "row": 65, "column": 7714, "tagName": "li", "time": 2260077.305018, "url": "", "pos": 57513, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198ab0", "doc": "https://www.google.fr/", "row": 65, "column": 7736, "tagName": "li", "time": 2260077.305023, "url": "", "pos": 57535, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198c20", "doc": "https://www.google.fr/", "row": 65, "column": 7780, "tagName": "a", "time": 2260077.305036, "url": "", "pos": 57579, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198b50", "doc": "https://www.google.fr/", "row": 65, "column": 7804, "tagName": "a", "time": 2260077.305047, "url": "", "pos": 57603, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198b80", "doc": "https://www.google.fr/", "row": 65, "column": 7809, "tagName": "li", "time": 2260077.305050, "url": "", "pos": 57608, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198bb0", "doc": "https://www.google.fr/", "row": 65, "column": 7825, "tagName": "li", "time": 2260077.305055, "url": "", "pos": 57624, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198c90", "doc": "https://www.google.fr/", "row": 65, "column": 7848, "tagName": "div", "time": 2260077.305066, "url": "", "pos": 57647, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198e20", "doc": "https://www.google.fr/", "row": 65, "column": 7854, "tagName": "div", "time": 2260077.305075, "url": "", "pos": 57653, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198d20", "doc": "https://www.google.fr/", "row": 65, "column": 7859, "tagName": "li", "time": 2260077.305078, "url": "", "pos": 57658, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198d80", "doc": "https://www.google.fr/", "row": 65, "column": 7882, "tagName": "li", "time": 2260077.305082, "url": "", "pos": 57681, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x198f70", "doc": "https://www.google.fr/", "row": 65, "column": 7945, "tagName": "a", "time": 2260077.305104, "url": "", "pos": 57744, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x199070", "doc": "https://www.google.fr/", "row": 65, "column": 7963, "tagName": "a", "time": 2260077.305118, "url": "", "pos": 57762, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198ea0", "doc": "https://www.google.fr/", "row": 65, "column": 7968, "tagName": "li", "time": 2260077.305121, "url": "", "pos": 57767, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x198ed0", "doc": "https://www.google.fr/", "row": 65, "column": 7973, "tagName": "ol", "time": 2260077.305124, "url": "", "pos": 57772, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1991a0", "doc": "https://www.google.fr/", "row": 65, "column": 7979, "tagName": "div", "time": 2260077.305126, "url": "", "pos": 57778, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1992d0", "doc": "https://www.google.fr/", "row": 65, "column": 7985, "tagName": "div", "time": 2260077.305129, "url": "", "pos": 57784, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x199300", "doc": "https://www.google.fr/", "row": 65, "column": 7991, "tagName": "div", "time": 2260077.305131, "url": "", "pos": 57790, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1990a0", "doc": "https://www.google.fr/", "row": 65, "column": 7996, "tagName": "ol", "time": 2260077.305133, "url": "", "pos": 57795, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1990d0", "doc": "https://www.google.fr/", "row": 65, "column": 8009, "tagName": "div", "time": 2260077.305137, "url": "", "pos": 57808, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x199330", "doc": "https://www.google.fr/", "row": 65, "column": 8015, "tagName": "div", "time": 2260077.305158, "url": "", "pos": 57814, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x199360", "doc": "https://www.google.fr/", "row": 65, "column": 8021, "tagName": "div", "time": 2260077.305162, "url": "", "pos": 57820, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x199390", "doc": "https://www.google.fr/", "row": 65, "column": 8027, "tagName": "div", "time": 2260077.305164, "url": "", "pos": 57826, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1994c0", "doc": "https://www.google.fr/", "row": 65, "column": 8033, "tagName": "div", "time": 2260077.305166, "url": "", "pos": 57832, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1994f0", "doc": "https://www.google.fr/", "row": 65, "column": 8060, "tagName": "div", "time": 2260077.305172, "url": "", "pos": 57859, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x199700", "doc": "https://www.google.fr/", "row": 65, "column": 8066, "tagName": "div", "time": 2260077.305236, "url": "", "pos": 57865, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x199730", "doc": "https://www.google.fr/", "row": 65, "column": 8079, "tagName": "div", "time": 2260077.305242, "url": "", "pos": 57878, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x199c00", "doc": "https://www.google.fr/", "row": 65, "column": 8085, "tagName": "div", "time": 2260077.305283, "url": "", "pos": 57884, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x199c30", "doc": "https://www.google.fr/", "row": 65, "column": 8093, "tagName": "script", "time": 2260077.305287, "url": "", "pos": 57892, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190aa0", "doc": "https://www.google.fr/", "row": 65, "column": 8135, "tagName": "script", "time": 2260077.305314, "url": "", "pos": 57934, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1580", "doc": "https://www.google.fr/", "row": 65, "column": 8141, "tagName": "div", "time": 2260077.332016, "url": "", "pos": 57940, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1520", "doc": "https://www.google.fr/", "row": 65, "column": 8147, "tagName": "div", "time": 2260077.332027, "url": "", "pos": 57946, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a15f0", "doc": "https://www.google.fr/", "row": 65, "column": 8200, "tagName": "textarea", "time": 2260077.332039, "url": "", "pos": 57999, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a1ab0", "doc": "https://www.google.fr/", "row": 65, "column": 8211, "tagName": "textarea", "time": 2260077.332319, "url": "", "pos": 58010, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1ae0", "doc": "https://www.google.fr/", "row": 65, "column": 8264, "tagName": "textarea", "time": 2260077.332329, "url": "", "pos": 58063, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a1e20", "doc": "https://www.google.fr/", "row": 65, "column": 8275, "tagName": "textarea", "time": 2260077.332393, "url": "", "pos": 58074, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a1e50", "doc": "https://www.google.fr/", "row": 65, "column": 8328, "tagName": "textarea", "time": 2260077.332402, "url": "", "pos": 58127, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a21a0", "doc": "https://www.google.fr/", "row": 65, "column": 8339, "tagName": "textarea", "time": 2260077.332457, "url": "", "pos": 58138, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a21d0", "doc": "https://www.google.fr/", "row": 65, "column": 8396, "tagName": "textarea", "time": 2260077.332465, "url": "", "pos": 58195, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a2520", "doc": "https://www.google.fr/", "row": 65, "column": 8407, "tagName": "textarea", "time": 2260077.332521, "url": "", "pos": 58206, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a2550", "doc": "https://www.google.fr/", "row": 65, "column": 8438, "tagName": "div", "time": 2260077.332528, "url": "", "pos": 58237, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a27e0", "doc": "https://www.google.fr/", "row": 65, "column": 8468, "tagName": "span", "time": 2260077.332582, "url": "", "pos": 58267, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a2ac0", "doc": "https://www.google.fr/", "row": 65, "column": 8476, "tagName": "center", "time": 2260077.332613, "url": "", "pos": 58275, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a2fd0", "doc": "https://www.google.fr/", "row": 65, "column": 8528, "tagName": "div", "time": 2260077.332639, "url": "", "pos": 58327, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a3110", "doc": "https://www.google.fr/", "row": 65, "column": 8559, "tagName": "div", "time": 2260077.332722, "url": "", "pos": 58358, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a3600", "doc": "https://www.google.fr/", "row": 65, "column": 8739, "tagName": "div", "time": 2260077.332792, "url": "", "pos": 58538, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a3570", "doc": "https://www.google.fr/", "row": 65, "column": 8843, "tagName": "div", "time": 2260077.333368, "url": "", "pos": 58642, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a4630", "doc": "https://www.google.fr/", "row": 65, "column": 8855, "tagName": "div", "time": 2260077.333451, "url": "", "pos": 58654, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a4500", "doc": "https://www.google.fr/", "row": 65, "column": 8861, "tagName": "div", "time": 2260077.333456, "url": "", "pos": 58660, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a4530", "doc": "https://www.google.fr/", "row": 65, "column": 8867, "tagName": "div", "time": 2260077.333458, "url": "", "pos": 58666, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a4560", "doc": "https://www.google.fr/", "row": 65, "column": 8873, "tagName": "div", "time": 2260077.333460, "url": "", "pos": 58672, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a4690", "doc": "https://www.google.fr/", "row": 65, "column": 8899, "tagName": "div", "time": 2260077.333465, "url": "", "pos": 58698, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a4900", "doc": "https://www.google.fr/", "row": 65, "column": 8905, "tagName": "div", "time": 2260077.333497, "url": "", "pos": 58704, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a4980", "doc": "https://www.google.fr/", "row": 65, "column": 8961, "tagName": "div", "time": 2260077.333505, "url": "", "pos": 58760, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a4bd0", "doc": "https://www.google.fr/", "row": 65, "column": 8965, "tagName": "br", "time": 2260077.333542, "url": "", "pos": 58764, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a4d10", "doc": "https://www.google.fr/", "row": 65, "column": 8973, "tagName": "script", "time": 2260077.333562, "url": "", "pos": 58772, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x199200", "doc": "https://www.google.fr/", "row": 65, "column": 9029, "tagName": "script", "time": 2260077.333588, "url": "", "pos": 58828, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a4f90", "doc": "https://www.google.fr/", "row": 65, "column": 9041, "tagName": "div", "time": 2260077.334117, "url": "", "pos": 58840, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a5080", "doc": "https://www.google.fr/", "row": 65, "column": 9066, "tagName": "font", "time": 2260077.334159, "url": "", "pos": 58865, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a5680", "doc": "https://www.google.fr/", "row": 65, "column": 9215, "tagName": "a", "time": 2260077.334217, "url": "", "pos": 59014, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a5ad0", "doc": "https://www.google.fr/", "row": 65, "column": 9226, "tagName": "a", "time": 2260077.334278, "url": "", "pos": 59025, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a55b0", "doc": "https://www.google.fr/", "row": 65, "column": 9233, "tagName": "font", "time": 2260077.334283, "url": "", "pos": 59032, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a55e0", "doc": "https://www.google.fr/", "row": 65, "column": 9237, "tagName": "br", "time": 2260077.334285, "url": "", "pos": 59036, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a5650", "doc": "https://www.google.fr/", "row": 65, "column": 9241, "tagName": "br", "time": 2260077.334299, "url": "", "pos": 59040, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a5b80", "doc": "https://www.google.fr/", "row": 65, "column": 9247, "tagName": "div", "time": 2260077.334312, "url": "", "pos": 59046, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a5bb0", "doc": "https://www.google.fr/", "row": 65, "column": 9253, "tagName": "div", "time": 2260077.334315, "url": "", "pos": 59052, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a5be0", "doc": "https://www.google.fr/", "row": 65, "column": 9262, "tagName": "center", "time": 2260077.334317, "url": "", "pos": 59061, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a5c10", "doc": "https://www.google.fr/", "row": 65, "column": 9269, "tagName": "span", "time": 2260077.334320, "url": "", "pos": 59068, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a5c40", "doc": "https://www.google.fr/", "row": 65, "column": 9300, "tagName": "div", "time": 2260077.334326, "url": "", "pos": 59099, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a5fa0", "doc": "https://www.google.fr/", "row": 65, "column": 9329, "tagName": "span", "time": 2260077.334388, "url": "", "pos": 59128, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a6140", "doc": "https://www.google.fr/", "row": 65, "column": 9342, "tagName": "span", "time": 2260077.334424, "url": "", "pos": 59141, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a61a0", "doc": "https://www.google.fr/", "row": 65, "column": 9361, "tagName": "div", "time": 2260077.334434, "url": "", "pos": 59160, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a6270", "doc": "https://www.google.fr/", "row": 65, "column": 9368, "tagName": "style", "time": 2260077.334455, "url": "", "pos": 59167, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a4eb0", "doc": "https://www.google.fr/", "row": 65, "column": 10005, "tagName": "style", "time": 2260077.334502, "url": "", "pos": 59804, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a7ec0", "doc": "https://www.google.fr/", "row": 65, "column": 10013, "tagName": "style", "time": 2260077.334869, "url": "", "pos": 59812, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a6360", "doc": "https://www.google.fr/", "row": 65, "column": 10139, "tagName": "style", "time": 2260077.334901, "url": "", "pos": 59938, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a81a0", "doc": "https://www.google.fr/", "row": 65, "column": 10173, "tagName": "div", "time": 2260077.335042, "url": "", "pos": 59972, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a76a0", "doc": "https://www.google.fr/", "row": 65, "column": 10192, "tagName": "div", "time": 2260077.335084, "url": "", "pos": 59991, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a7cb0", "doc": "https://www.google.fr/", "row": 65, "column": 10208, "tagName": "span", "time": 2260077.335124, "url": "", "pos": 60007, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a8e10", "doc": "https://www.google.fr/", "row": 65, "column": 10256, "tagName": "a", "time": 2260077.335154, "url": "", "pos": 60055, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a9260", "doc": "https://www.google.fr/", "row": 65, "column": 10303, "tagName": "a", "time": 2260077.335222, "url": "", "pos": 60102, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a9380", "doc": "https://www.google.fr/", "row": 65, "column": 10358, "tagName": "span", "time": 2260077.335236, "url": "", "pos": 60157, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a9440", "doc": "https://www.google.fr/", "row": 65, "column": 10365, "tagName": "style", "time": 2260077.335271, "url": "", "pos": 60164, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a80b0", "doc": "https://www.google.fr/", "row": 65, "column": 10705, "tagName": "style", "time": 2260077.335304, "url": "", "pos": 60504, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a89e0", "doc": "https://www.google.fr/", "row": 65, "column": 10800, "tagName": "a", "time": 2260077.335562, "url": "", "pos": 60599, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a7570", "doc": "https://www.google.fr/", "row": 65, "column": 10814, "tagName": "a", "time": 2260077.335680, "url": "", "pos": 60613, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a8790", "doc": "https://www.google.fr/", "row": 65, "column": 10853, "tagName": "span", "time": 2260077.335694, "url": "", "pos": 60652, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa3b0", "doc": "https://www.google.fr/", "row": 65, "column": 10913, "tagName": "a", "time": 2260077.335750, "url": "", "pos": 60712, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa460", "doc": "https://www.google.fr/", "row": 65, "column": 10940, "tagName": "a", "time": 2260077.335763, "url": "", "pos": 60739, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a8d20", "doc": "https://www.google.fr/", "row": 65, "column": 10958, "tagName": "span", "time": 2260077.335771, "url": "", "pos": 60757, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa500", "doc": "https://www.google.fr/", "row": 65, "column": 11001, "tagName": "a", "time": 2260077.335787, "url": "", "pos": 60800, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa650", "doc": "https://www.google.fr/", "row": 65, "column": 11022, "tagName": "a", "time": 2260077.335797, "url": "", "pos": 60821, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aa6d0", "doc": "https://www.google.fr/", "row": 65, "column": 11030, "tagName": "span", "time": 2260077.335803, "url": "", "pos": 60829, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aa730", "doc": "https://www.google.fr/", "row": 65, "column": 11065, "tagName": "a", "time": 2260077.335812, "url": "", "pos": 60864, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa850", "doc": "https://www.google.fr/", "row": 65, "column": 11083, "tagName": "a", "time": 2260077.335822, "url": "", "pos": 60882, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aa960", "doc": "https://www.google.fr/", "row": 65, "column": 11163, "tagName": "a", "time": 2260077.335835, "url": "", "pos": 60962, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aaae0", "doc": "https://www.google.fr/", "row": 65, "column": 11188, "tagName": "a", "time": 2260077.335846, "url": "", "pos": 60987, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aac70", "doc": "https://www.google.fr/", "row": 65, "column": 11305, "tagName": "a", "time": 2260077.335863, "url": "", "pos": 61104, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aad30", "doc": "https://www.google.fr/", "row": 65, "column": 11336, "tagName": "a", "time": 2260077.335876, "url": "", "pos": 61135, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aae00", "doc": "https://www.google.fr/", "row": 65, "column": 11344, "tagName": "span", "time": 2260077.335881, "url": "", "pos": 61143, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aae60", "doc": "https://www.google.fr/", "row": 65, "column": 11352, "tagName": "span", "time": 2260077.335890, "url": "", "pos": 61151, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aaec0", "doc": "https://www.google.fr/", "row": 65, "column": 11494, "tagName": "a", "time": 2260077.335922, "url": "", "pos": 61293, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ab3c0", "doc": "https://www.google.fr/", "row": 65, "column": 11508, "tagName": "a", "time": 2260077.335986, "url": "", "pos": 61307, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ab180", "doc": "https://www.google.fr/", "row": 65, "column": 11516, "tagName": "span", "time": 2260077.335995, "url": "", "pos": 61315, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ab1e0", "doc": "https://www.google.fr/", "row": 65, "column": 11532, "tagName": "span", "time": 2260077.336003, "url": "", "pos": 61331, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ab610", "doc": "https://www.google.fr/", "row": 65, "column": 11575, "tagName": "a", "time": 2260077.336035, "url": "", "pos": 61374, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ab740", "doc": "https://www.google.fr/", "row": 65, "column": 11588, "tagName": "a", "time": 2260077.336071, "url": "", "pos": 61387, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ab7e0", "doc": "https://www.google.fr/", "row": 65, "column": 11627, "tagName": "a", "time": 2260077.336083, "url": "", "pos": 61426, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1abbb0", "doc": "https://www.google.fr/", "row": 65, "column": 11641, "tagName": "a", "time": 2260077.336144, "url": "", "pos": 61440, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1abc60", "doc": "https://www.google.fr/", "row": 65, "column": 11689, "tagName": "a", "time": 2260077.336158, "url": "", "pos": 61488, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1abd30", "doc": "https://www.google.fr/", "row": 65, "column": 11701, "tagName": "a", "time": 2260077.336189, "url": "", "pos": 61500, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1abd90", "doc": "https://www.google.fr/", "row": 65, "column": 11709, "tagName": "span", "time": 2260077.336198, "url": "", "pos": 61508, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1abdf0", "doc": "https://www.google.fr/", "row": 65, "column": 11717, "tagName": "div", "time": 2260077.336207, "url": "", "pos": 61516, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1abe80", "doc": "https://www.google.fr/", "row": 65, "column": 11755, "tagName": "div", "time": 2260077.336216, "url": "", "pos": 61554, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac240", "doc": "https://www.google.fr/", "row": 65, "column": 11813, "tagName": "div", "time": 2260077.336276, "url": "", "pos": 61612, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac4d0", "doc": "https://www.google.fr/", "row": 65, "column": 11820, "tagName": "style", "time": 2260077.336307, "url": "", "pos": 61619, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a9500", "doc": "https://www.google.fr/", "row": 65, "column": 12748, "tagName": "style", "time": 2260077.336412, "url": "", "pos": 62547, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a9590", "doc": "https://www.google.fr/", "row": 65, "column": 12767, "tagName": "p", "time": 2260077.336710, "url": "", "pos": 62566, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1a9ad0", "doc": "https://www.google.fr/", "row": 65, "column": 12898, "tagName": "p", "time": 2260077.336747, "url": "", "pos": 62697, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aa040", "doc": "https://www.google.fr/", "row": 65, "column": 13045, "tagName": "div", "time": 2260077.336773, "url": "", "pos": 62844, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa0e0", "doc": "https://www.google.fr/", "row": 65, "column": 13053, "tagName": "div", "time": 2260077.336787, "url": "", "pos": 62852, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a8720", "doc": "https://www.google.fr/", "row": 65, "column": 13221, "tagName": "a", "time": 2260077.336802, "url": "", "pos": 63020, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1aa330", "doc": "https://www.google.fr/", "row": 65, "column": 13239, "tagName": "a", "time": 2260077.336824, "url": "", "pos": 63038, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1aa360", "doc": "https://www.google.fr/", "row": 65, "column": 13245, "tagName": "div", "time": 2260077.336827, "url": "", "pos": 63044, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a85a0", "doc": "https://www.google.fr/", "row": 65, "column": 13252, "tagName": "div", "time": 2260077.336833, "url": "", "pos": 63051, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1a8600", "doc": "https://www.google.fr/", "row": 65, "column": 13259, "tagName": "div", "time": 2260077.336839, "url": "", "pos": 63058, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ad960", "doc": "https://www.google.fr/", "row": 65, "column": 13266, "tagName": "div", "time": 2260077.336844, "url": "", "pos": 63065, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ad9c0", "doc": "https://www.google.fr/", "row": 65, "column": 13274, "tagName": "div", "time": 2260077.336849, "url": "", "pos": 63073, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ad9f0", "doc": "https://www.google.fr/", "row": 65, "column": 13280, "tagName": "div", "time": 2260077.336851, "url": "", "pos": 63079, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ada20", "doc": "https://www.google.fr/", "row": 65, "column": 13288, "tagName": "script", "time": 2260077.336853, "url": "", "pos": 63087, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac580", "doc": "https://www.google.fr/", "row": 68, "column": 16, "tagName": "script", "time": 2260077.336897, "url": "", "pos": 63735, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ae080", "doc": "https://www.google.fr/", "row": 68, "column": 91, "tagName": "script", "time": 2260077.338177, "url": "", "pos": 63810, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1adb20", "doc": "https://www.google.fr/", "row": 68, "column": 290, "tagName": "script", "time": 2260077.338224, "url": "", "pos": 64009, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1adf90", "doc": "https://www.google.fr/", "row": 68, "column": 303, "tagName": "div", "time": 2260077.338531, "url": "", "pos": 64022, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ae3e0", "doc": "https://www.google.fr/", "row": 68, "column": 309, "tagName": "div", "time": 2260077.338560, "url": "", "pos": 64028, "chunkLen": 65502, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ae430", "doc": "https://www.google.fr/", "row": 68, "column": 322, "tagName": "div", "time": 2260077.338566, "url": "", "pos": 64041, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ae4d0", "doc": "https://www.google.fr/", "row": 68, "column": 330, "tagName": "script", "time": 2260077.338583, "url": "", "pos": 64049, "chunkLen": 65502, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ae2d0", "doc": "https://www.google.fr/", "row": 69, "column": 5555, "tagName": "script", "time": 2260077.340273, "url": "", "pos": 69850, "chunkLen": 70899, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463260", "doc": "https://www.google.fr/", "row": 69, "column": 5561, "tagName": "div", "time": 2260077.344274, "url": "", "pos": 4354, "chunkLen": 5397, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x46aab0", "doc": "https://www.google.fr/", "row": 69, "column": 5579, "tagName": "style", "time": 2260077.344297, "url": "", "pos": 4372, "chunkLen": 5397, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x46acb0", "doc": "https://www.google.fr/", "row": 69, "column": 5587, "tagName": "style", "time": 2260077.344376, "url": "", "pos": 4380, "chunkLen": 5397, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452e60", "doc": "https://www.google.fr/", "row": 69, "column": 5595, "tagName": "script", "time": 2260077.344587, "url": "", "pos": 4388, "chunkLen": 5397, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f10", "doc": "https://www.google.fr/", "row": 72, "column": 9, "tagName": "script", "time": 2260077.344655, "url": "", "pos": 5377, "chunkLen": 5397, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4532d0", "doc": "https://www.google.fr/", "row": 72, "column": 15, "tagName": "div", "time": 2260077.345636, "url": "", "pos": 5383, "chunkLen": 5397, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453300", "doc": "https://www.google.fr/", "row": 72, "column": 22, "tagName": "body", "time": 2260077.345643, "url": "", "pos": 5390, "chunkLen": 5397, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453330", "doc": "https://www.google.fr/", "row": 72, "column": 29, "tagName": "html", "time": 2260077.345646, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "pos": 5397, "chunkLen": 5397, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "https://www.google.fr/images/srpr/logo4w.png", "sentTime": -1.000000, "len": 18946, "from": "0x1a3600",                            "mimeType": "image/png", "contentLength": 18946, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260077.354321, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 8, "sendEnd": 9, "receiveHeadersEnd": 19, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260077.451803, "len": 18946}}
+{"Resource": {"id": 3, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,epb,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "sentTime": -1.000000, "len": 365396, "from": "0x453330",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260077.370246, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 18, "sendEnd": 20, "receiveHeadersEnd": 30, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260077.454073, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260077.454494, "len": 61136}}
+{"ReceivedChunk": {"receivedTime": 2260077.455575, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2260077.456140, "len": 17930}}
+{"ReceivedChunk": {"receivedTime": 2260077.456810, "len": 13432}}
+{"ReceivedChunk": {"receivedTime": 2260077.457079, "len": 3462}}
+{"ReceivedChunk": {"receivedTime": 2260077.457308, "len": 5123}}
+{"ReceivedChunk": {"receivedTime": 2260077.457534, "len": 3022}}
+{"ReceivedChunk": {"receivedTime": 2260077.457913, "len": 1288}}
+{"ReceivedChunk": {"receivedTime": 2260077.458207, "len": 1602}}
+{"ReceivedChunk": {"receivedTime": 2260077.458443, "len": 4128}}
+{"ReceivedChunk": {"receivedTime": 2260077.458674, "len": 3606}}
+{"ReceivedChunk": {"receivedTime": 2260077.458889, "len": 3003}}
+{"ReceivedChunk": {"receivedTime": 2260077.459138, "len": 3534}}
+{"ReceivedChunk": {"receivedTime": 2260077.459363, "len": 2904}}
+{"ReceivedChunk": {"receivedTime": 2260077.459601, "len": 2838}}
+{"ReceivedChunk": {"receivedTime": 2260077.459830, "len": 3403}}
+{"ReceivedChunk": {"receivedTime": 2260077.460060, "len": 4867}}
+{"ReceivedChunk": {"receivedTime": 2260077.460294, "len": 3544}}
+{"ReceivedChunk": {"receivedTime": 2260077.460546, "len": 3404}}
+{"ReceivedChunk": {"receivedTime": 2260077.460934, "len": 93601}}
+{"ReceivedChunk": {"receivedTime": 2260077.461496, "len": 31265}}
+{"Resource": {"id": 4, "url": "https://www.google.fr/extern_chrome/763513507c445425.js?bav=on.2,or.r_qf.", "sentTime": -1.000000, "len": 94292, "from": "0x453330",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260077.950626, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 4, "sendEnd": 5, "receiveHeadersEnd": 33, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260078.386574, "len": 6101}}
+{"ReceivedChunk": {"receivedTime": 2260078.386871, "len": 4863}}
+{"ReceivedChunk": {"receivedTime": 2260078.387083, "len": 6246}}
+{"ReceivedChunk": {"receivedTime": 2260078.387289, "len": 4842}}
+{"ReceivedChunk": {"receivedTime": 2260078.387491, "len": 4560}}
+{"ReceivedChunk": {"receivedTime": 2260078.387697, "len": 4049}}
+{"ReceivedChunk": {"receivedTime": 2260078.387895, "len": 4526}}
+{"ReceivedChunk": {"receivedTime": 2260078.388090, "len": 5917}}
+{"ReceivedChunk": {"receivedTime": 2260078.388297, "len": 5239}}
+{"ReceivedChunk": {"receivedTime": 2260078.388499, "len": 28090}}
+{"ReceivedChunk": {"receivedTime": 2260078.393211, "len": 16454}}
+{"ReceivedChunk": {"receivedTime": 2260078.393816, "len": 3405}}
+{"Resource": {"id": 5, "url": "https://www.google.fr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw", "sentTime": -1.000000, "len": 352630, "from": "0x453330",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260077.981457, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 3, "sendEnd": 4, "receiveHeadersEnd": 27, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260078.397157, "len": 11753}}
+{"ReceivedChunk": {"receivedTime": 2260078.398820, "len": 3036}}
+{"ReceivedChunk": {"receivedTime": 2260078.399051, "len": 3525}}
+{"ReceivedChunk": {"receivedTime": 2260078.399258, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260078.402075, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2260078.402577, "len": 15121}}
+{"ReceivedChunk": {"receivedTime": 2260078.402828, "len": 17342}}
+{"ReceivedChunk": {"receivedTime": 2260078.403082, "len": 3201}}
+{"ReceivedChunk": {"receivedTime": 2260078.403326, "len": 3459}}
+{"ReceivedChunk": {"receivedTime": 2260078.403553, "len": 3315}}
+{"ReceivedChunk": {"receivedTime": 2260078.403769, "len": 3291}}
+{"ReceivedChunk": {"receivedTime": 2260078.403973, "len": 6806}}
+{"ReceivedChunk": {"receivedTime": 2260078.404182, "len": 3575}}
+{"ReceivedChunk": {"receivedTime": 2260078.404393, "len": 3735}}
+{"ReceivedChunk": {"receivedTime": 2260078.404615, "len": 3294}}
+{"ReceivedChunk": {"receivedTime": 2260078.404822, "len": 33705}}
+{"ReceivedChunk": {"receivedTime": 2260078.405084, "len": 3834}}
+{"ReceivedChunk": {"receivedTime": 2260078.405286, "len": 3260}}
+{"ReceivedChunk": {"receivedTime": 2260078.405486, "len": 7418}}
+{"ReceivedChunk": {"receivedTime": 2260078.405694, "len": 3998}}
+{"ReceivedChunk": {"receivedTime": 2260078.434394, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2260078.434727, "len": 64466}}
+{"ReceivedChunk": {"receivedTime": 2260078.435117, "len": 23424}}
+{"Resource": {"id": 6, "url": "https://www.google.com/textinputassistant/tia.png", "sentTime": -1.000000, "len": 387, "from": "0x453330",                            "mimeType": "image/png", "contentLength": 387, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2260078.195262, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260078.406325, "len": 387}}
+{"Resource": {"id": 7, "url": "data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D", "sentTime": -1.000000, "len": 43, "from": "0x453330",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260078.407146, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2260078.407274, "len": 43}}
+{"Resource": {"id": 8, "url": "https://www.google.fr/gen_204?atyp=i&ct=&cad=&vet=10CAYQ-Cc&ei=4gEkUpXkMs7qiQL2jIDoBw&zx=1378091492112", "sentTime": -1.000000, "len": 0, "from": "0x453330",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 204, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 2260078.394667, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 17, "sslStart": -1, "sslEnd": -1}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x18cc10", "row": 0, "column": 219, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x18d570", "row": 9, "column": 2400, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x438ae0", "row": 9, "column": 46995, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x43dda0", "row": 9, "column": 50075, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x44f3e0", "row": 9, "column": 54054, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x18ff30", "row": 65, "column": 2009, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x190710", "row": 65, "column": 2106, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x199c30", "row": 65, "column": 8093, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x1a4d10", "row": 65, "column": 8973, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x1a6270", "row": 65, "column": 9368, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x1a7ec0", "row": 65, "column": 10013, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x1a9440", "row": 65, "column": 10365, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x1ac4d0", "row": 65, "column": 11820, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x1ada20", "row": 65, "column": 13288, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x1ae080", "row": 68, "column": 91, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x1ae4d0", "row": 68, "column": 330, "url": ""}}
+{"HOL": {"type": 4, "docUrl": "https://www.google.fr/", "code": "0x46aab0", "row": 69, "column": 5579, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "https://www.google.fr/", "code": "0x452e60", "row": 69, "column": 5595, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x18d220", "docUrl": "https://www.google.fr/", "startTime": 2260077.136191, "endTime": 2260077.167901, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x437570", "docUrl": "https://www.google.fr/", "startTime": 2260077.183945, "endTime": 2260077.199045, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x190290", "docUrl": "https://www.google.fr/", "startTime": 2260077.218450, "endTime": 2260077.219126, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x190400", "docUrl": "https://www.google.fr/", "startTime": 2260077.227945, "endTime": 2260077.229290, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x190aa0", "docUrl": "https://www.google.fr/", "startTime": 2260077.305324, "endTime": 2260077.332003, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x190aa0", "docUrl": "https://www.google.fr/", "startTime": 2260077.307596, "endTime": 2260077.329543, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x190aa0", "docUrl": "https://www.google.fr/", "startTime": 2260077.329016, "endTime": 2260077.329160, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x190aa0", "docUrl": "https://www.google.fr/", "startTime": 2260077.329169, "endTime": 2260077.329452, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x199200", "docUrl": "https://www.google.fr/", "startTime": 2260077.333598, "endTime": 2260077.334109, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x1ac580", "docUrl": "https://www.google.fr/", "startTime": 2260077.336904, "endTime": 2260077.338163, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x1adb20", "docUrl": "https://www.google.fr/", "startTime": 2260077.338232, "endTime": 2260077.338524, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x1ae2d0", "docUrl": "https://www.google.fr/", "startTime": 2260077.340290, "endTime": 2260077.344257, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x452f10", "docUrl": "https://www.google.fr/", "startTime": 2260077.344667, "endTime": 2260077.345630, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.346033, "endTime": 2260077.346035, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.346038, "endTime": 2260077.346039, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.348273, "endTime": 2260077.352702, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366883, "endTime": 2260077.366885, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366886, "endTime": 2260077.366888, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366896, "endTime": 2260077.366898, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366899, "endTime": 2260077.366900, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366904, "endTime": 2260077.366905, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366906, "endTime": 2260077.366907, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366913, "endTime": 2260077.366914, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366915, "endTime": 2260077.366915, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366921, "endTime": 2260077.366922, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366923, "endTime": 2260077.366924, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366930, "endTime": 2260077.366930, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366932, "endTime": 2260077.366932, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366938, "endTime": 2260077.366939, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366940, "endTime": 2260077.366941, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366945, "endTime": 2260077.366946, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.366947, "endTime": 2260077.366949, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260077.462975, "endTime": 2260078.330653, "urlRecalcStyle": "https://www.google.fr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=c,sb,cr,epb,jp,r,hsm,j,p,pcc,csi/am=AACK/rt=j/d=1/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw"}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.201755, "endTime": 2260078.213483, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.267578, "endTime": 2260078.267906, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.295043, "endTime": 2260078.295305, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.330680, "endTime": 2260078.330683, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.330684, "endTime": 2260078.330686, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.330687, "endTime": 2260078.330688, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.333006, "endTime": 2260078.333400, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.374293, "endTime": 2260078.374820, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.374498, "endTime": 2260078.374741, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.406688, "endTime": 2260078.407044, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.408526, "endTime": 2260078.408527, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.408529, "endTime": 2260078.408530, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.416430, "endTime": 2260078.428648, "urlRecalcStyle": "https://www.google.fr/extern_chrome/763513507c445425.js?bav=on.2,or.r_qf."}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.428665, "endTime": 2260078.428666, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.428668, "endTime": 2260078.428669, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.428670, "endTime": 2260078.428671, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.444761, "endTime": 2260078.863412, "urlRecalcStyle": "https://www.google.fr/xjs/_/js/k=xjs.s.en_US.M4-36_38X9A.O/m=sy5,cdos,sy25,gf,vm,sy63,sy104,sy105,sy157,tbui,mb,sy43,sy44,sy46,sy47,sy45,sy48,sy132,sy140,sy50,sy133,sy141,wobnm,sy55,sy24,cfm,abd,sy69,sy67,sy70,sy15,sy72,sy66,sy68,sy76,sy73,sy77,sy74,sy75,sy78,sy79,sy54,sy58,sy49,sy81,sy82,sy101,sy103,sy71,sy94,sy51,sy64,sy80,sy87,sy102,sy106,sy107,sy109,sy108,llc,foot,sy27,bihu,sy41,sy138,kp,sy142,sy144,lu,m,sy130,sy155,tnv,sy96,sy95,ttbcdr,sy83,adp,sy110,async,erh,hv,sy28,jsaleg,lc,ob,sf,sy121,sfa,tbpr,sy98,tr/am=AACK/rt=j/d=0/sv=1/rs=AItRSTOrvSqgO1Nm6D80V55SQWvgB8PwDw"}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.853312, "endTime": 2260078.859549, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.863431, "endTime": 2260078.863434, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.863436, "endTime": 2260078.863437, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.863438, "endTime": 2260078.863439, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.879950, "endTime": 2260078.880590, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.880201, "endTime": 2260078.880498, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.893355, "endTime": 2260078.896223, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.905549, "endTime": 2260078.905551, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.905552, "endTime": 2260078.905553, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453330", "docUrl": "https://www.google.fr/", "startTime": 2260078.905555, "endTime": 2260078.905556, "urlRecalcStyle": "load"}}
+{"Complete": "www.google.fr_"}

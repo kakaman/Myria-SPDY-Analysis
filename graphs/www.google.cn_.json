@@ -1,0 +1,63 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.google.cn_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.cn/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 144.150000065565,
+               "time" : 31.179000157863,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 175.329000223428
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.cn/landing/cnexp/google-search.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 174.752000253648,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.cn/intl/zh-CN_cn/images/cn_icp.gif",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 175.329000223428,
+            "id" : "download_2",
+            "type" : "text/html"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 30.602000188083,
+         "id" : "dep2",
+         "a1" : "r1_c1"
+      }
+   ]
+}

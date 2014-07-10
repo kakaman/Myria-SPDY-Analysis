@@ -1,0 +1,1650 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "mail.ru_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://mail.ru/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 1400.93800006434,
+               "time" : 2085.92099975795,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 3486.85899982229
+            },
+            {
+               "s_time" : 3552.31399973854,
+               "time" : 42.82800015063,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 3595.14199988917
+            },
+            {
+               "s_time" : 3596.78599983454,
+               "time" : 7.50000029802004,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 3604.28600013256
+            },
+            {
+               "s_time" : 3624.14800003171,
+               "time" : 1783.42799982056,
+               "type" : "evalhtml",
+               "id" : "r1_c4",
+               "e_time" : 5407.57599985227
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.tns-counter.ru/V13a***R%3E*mail_ru/ru/UTF-8/tmsec=mail_main/948714051",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1583.09500012547,
+            "id" : "download_1",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://counter.yadro.ru/hit;mail-splash/pc?q;r;s2048*1152*24;uhttp%3A//mail.ru/;0.8798545890022069",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2093.00300013274,
+            "id" : "download_2",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://swa.mail.ru/cgi-bin/counters?mac=1&gamescnt=1&JSONP_call=__PHJSONPCallback_0&rnd=1378091422111",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 2516.79399982095,
+               "time" : 4.39100014046016,
+               "type" : 2,
+               "id" : "comp_143",
+               "e_time" : 2521.18499996141
+            }
+         ],
+         "download" : {
+            "s_time" : 1843.38499978185,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21381905.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2087.62599993497,
+            "id" : "download_4",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d703055.gif",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1451.61100011319,
+            "id" : "download_5",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d1398861.gif?rnd=175738980&ts=1378091421",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1659.44200009108,
+            "id" : "download_6",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d632972.gif?rnd=188468276&ts=1378091421",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2088.15700002015,
+            "id" : "download_7",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d1312452.gif?rnd=135824726&ts=1378091421",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2120.3230000101,
+            "id" : "download_8",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b14357521.jpg",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2088.65999989212,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://mail.ru/cache",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 3595.17299989238,
+               "time" : 1.6129999421596,
+               "type" : 1,
+               "id" : "comp_378",
+               "e_time" : 3596.78599983454
+            }
+         ],
+         "download" : {
+            "s_time" : 2199.77100007236,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://top-fwz1.mail.ru/counter2?id=110605;js=13;s=2048*1152;_=0.44417137489654124",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2486.65300011635,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://mail.radar.imgsmail.ru/update?p=mail0&t=main&v=0&rnd=825350653",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1451.06500014663,
+            "id" : "download_12",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d1204671.gif?sz=0&rnd=509081777&ts=1378091421&sz=0",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2120.78099977225,
+            "id" : "download_13",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b15682773.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2121.15600006655,
+            "id" : "download_14",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/v/c/29.1/splash.css",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 3423.12899976969,
+               "time" : 60.0250000134101,
+               "type" : 4,
+               "id" : "comp_337",
+               "e_time" : 3483.1539997831
+            }
+         ],
+         "download" : {
+            "s_time" : 2083.57500005513,
+            "id" : "download_15",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b14992423.gif",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2121.50100013241,
+            "id" : "download_16",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/v/j/29.0/s.js",
+         "id" : "r20",
+         "comps" : [
+            {
+               "s_time" : 3491.65799980983,
+               "time" : 60.6559999287101,
+               "type" : 1,
+               "id" : "comp_360",
+               "e_time" : 3552.31399973854
+            }
+         ],
+         "download" : {
+            "s_time" : 2090.34699993208,
+            "id" : "download_17",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b16092610.gif",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2121.85599980876,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b18841910.gif",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2122.21199972555,
+            "id" : "download_19",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.imgsmail.ru/p/h/d/0.22.5/external.min.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 3736.69799976051,
+               "time" : 111.53400037438,
+               "type" : 2,
+               "id" : "comp_420",
+               "e_time" : 3848.23200013489
+            }
+         ],
+         "download" : {
+            "s_time" : 1851.6159998253,
+            "id" : "download_20",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/logo/logo_bg.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1874.21299982816,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/v/a/8.1/a.js",
+         "id" : "r37",
+         "comps" : [
+            {
+               "s_time" : 3604.32100016624,
+               "time" : 19.82699986547,
+               "type" : 1,
+               "id" : "comp_382",
+               "e_time" : 3624.14800003171
+            }
+         ],
+         "download" : {
+            "s_time" : 2244.75699989125,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/logo/logo.v2.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1881.56899996102,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/icon/icons.v6.png?v=1",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1985.04799976945,
+            "id" : "download_24",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b17200722.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2122.57000012323,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.odnoklassniki.ru/mapi?query=%7B%22cmd%22%3A%22getCounters%22%2C%22jsonPrefix%22%3A%22__PHJSONPCallback_1%22%7D&rnd=1378091422121",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 2914.54199980944,
+               "time" : 2.18300009147015,
+               "type" : 2,
+               "id" : "comp_220",
+               "e_time" : 2916.72499990091
+            }
+         ],
+         "download" : {
+            "s_time" : 1857.91999986395,
+            "id" : "download_26",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d635786.gif?rnd=865452851&ts=1378091421",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2122.96399986371,
+            "id" : "download_27",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d989484.gif?sz=0&rnd=4084563&ts=1378091421",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2181.70200008899,
+            "id" : "download_28",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21381283.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2185.99400017411,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21288197.jpg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2186.42499996349,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21357293.jpg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2186.82199995965,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/mailbox/promo.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1985.63200002536,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21272797.jpg",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2200.17800014466,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21302857.jpg",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2200.52499976009,
+            "id" : "download_34",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21368052.jpg",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2201.83099992573,
+            "id" : "download_35",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/mailbox/inputs.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1986.04500014335,
+            "id" : "download_36",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d523187.gif",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.47699975222,
+            "id" : "download_37",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d1165028.gif?rnd=737499025&ts=1378091421",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.91699984297,
+            "id" : "download_38",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d703057.gif",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.27899980545,
+            "id" : "download_39",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r3.mail.ru/k?81e4121baf7286eca0b199916eff4bfd",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2245.55999971926,
+            "id" : "download_40",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d822036.gif?86928",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2917.1929997392,
+            "id" : "download_41",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/news/news_bg.v2.gif",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3484.77299977094,
+            "id" : "download_44",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/search/search_bg.png",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3484.28899981081,
+            "id" : "download_45",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/news/loader.gif",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3485.590999946,
+            "id" : "download_46",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/informers/weather/med41/mooncloud.png",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3486.00299982354,
+            "id" : "download_47",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/news/news_bg.gif",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3485.1890001446,
+            "id" : "download_48",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/icon/currency.png",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3486.48499976844,
+            "id" : "download_49",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b20772008.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3571.3490000926,
+            "id" : "download_50",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b20895631.jpg",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3666.55799979344,
+            "id" : "download_51",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21051432.jpg",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3666.17899993435,
+            "id" : "download_52",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b20870832.jpg",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3665.02099996433,
+            "id" : "download_53",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b20875273.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3665.38999974728,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21108176.jpg",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3665.79499980435,
+            "id" : "download_55",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/informers/tizer/dobro2.png",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3486.85899982229,
+            "id" : "download_56",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/ok/promo/video.png",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3664.65699998662,
+            "id" : "download_57",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://limg.imgsmail.ru/s/images/logo/logo_wide.v2.png",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3721.83299995959,
+            "id" : "download_58",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21267841.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3666.9370001182,
+            "id" : "download_59",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://mail.radar.imgsmail.ru/update?p=mail&t=main&v=2190&i=&rnd=358930625",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3640.8310001716,
+            "id" : "download_60",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d1290328.gif?&rnd=835508753",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3667.78799984604,
+            "id" : "download_61",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/b21382303.jpg",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3667.32600005344,
+            "id" : "download_62",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.mail.ru/adi/3030?rnd=135824726",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 4225.22599995136,
+               "time" : 87.0369998738197,
+               "id" : "r51_c1",
+               "type" : "evalhtml",
+               "e_time" : 4312.26299982518
+            },
+            {
+               "s_time" : 4326.39699988067,
+               "time" : 202.959000132981,
+               "type" : "evalhtml",
+               "id" : "r51_c2",
+               "e_time" : 4529.35600001365
+            }
+         ],
+         "download" : {
+            "s_time" : 3556.19199993089,
+            "id" : "download_63",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/show_ads.js",
+         "id" : "r72",
+         "comps" : [
+            {
+               "s_time" : 4240.03200000152,
+               "time" : 86.3649998791498,
+               "type" : 1,
+               "id" : "comp_438",
+               "e_time" : 4326.39699988067
+            }
+         ],
+         "download" : {
+            "s_time" : 4228.74199971557,
+            "id" : "download_64",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://splash.radar.imgsmail.ru/update?p=splash&t=page&v=2128&i=all:2128,preleftcol:148,server:10,headline:274,leftcol:221,baseStyles:1372,search:6,content:103,news:9,informers:11,Splashjs:70,JSLoad:36,JSInit:33,JSParse:1,banner:5,postLoad:26,cache_clearCache:1,connect:222,domainLookup:647,request:244,response:1128&rnd=0.004489017650485039",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3599.13899982348,
+            "id" : "download_65",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://splash.radar.imgsmail.ru/update?p=splash&t=additional&v=34&i=all:34,additionalJs:34,additionalJSLoad:5,additionalJSInit:15&rnd=0.6495543823111802",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3663.83299976587,
+            "id" : "download_66",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://limg1.imgsmail.ru/s/images/cdn.v3.html?r1=200&r2=298&ip=128.208.4.212&rnd=13780914239160.1264746382366866",
+         "id" : "r66",
+         "comps" : [
+            {
+               "s_time" : 4355.52500002086,
+               "time" : 1.94199988619039,
+               "type" : "evalhtml",
+               "id" : "r66_c1",
+               "e_time" : 4357.46699990705
+            }
+         ],
+         "download" : {
+            "s_time" : 3651.23399998993,
+            "id" : "download_67",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20130206/show_ads_impl.js",
+         "id" : "r75",
+         "comps" : [
+            {
+               "s_time" : 4368.78200015053,
+               "time" : 160.539999604231,
+               "type" : null,
+               "id" : "comp_458",
+               "e_time" : 4529.32199975476
+            }
+         ],
+         "download" : {
+            "s_time" : 4312.26299982518,
+            "id" : "download_68",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rs.mail.ru/d1509286.gif?rnd=134537147&ts=1378091424",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4226.34200006723,
+            "id" : "download_69",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/osd.js",
+         "id" : "r79",
+         "comps" : [
+            {
+               "s_time" : 4552.09199991077,
+               "time" : 56.1400000005997,
+               "type" : null,
+               "id" : "comp_471",
+               "e_time" : 4608.23199991137
+            }
+         ],
+         "download" : {
+            "s_time" : 4538.73099992052,
+            "id" : "download_70",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://splash.radar.imgsmail.ru/update?p=splash&t=limg&v=1&i=all:1,R298_connect:219,R298_domainLookup:221,R298_request:220,R298_response:19&rnd=0.21051309746690094&r=http%3A//mail.ru/",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4369.97999995947,
+            "id" : "download_71",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/html/r20130822/r20130206/zrt_lookup.html#I-http%253A%252F%252Fmail.ru%252F%2F2850690363%2F1",
+         "id" : "r74",
+         "comps" : [
+            {
+               "s_time" : 4667.84199979156,
+               "time" : 16.7860002257003,
+               "type" : "evalhtml",
+               "id" : "r74_c1",
+               "e_time" : 4684.62800001726
+            }
+         ],
+         "download" : {
+            "s_time" : 4311.72600015998,
+            "id" : "download_72",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2504216379832338&output=html&h=250&slotname=7521001611&w=300&ea=0&flash=11.8.800&url=http%3A%2F%2Fmail.ru%2F&dt=1378091424519&bpp=54&bdt=37&shv=r20130822&cbv=r20130206&saldr=sa&correlator=1378091424723&frm=24&adk=2850690363&ga_vid=642357919.1378091425&ga_sid=1378091425&ga_hid=2085230413&ga_fc=0&u_tz=-420&u_his=27&u_java=1&u_h=1152&u_w=2048&u_ah=1130&u_aw=1975&u_cd=24&u_nplug=6&u_nmime=93&dff=times&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=300&ish=250&ifk=3398624255&eid=86860100&oid=3&jp=2&vis=1&fu=0&ifi=1&pfi=0&dtd=275",
+         "id" : "r78",
+         "comps" : [
+            {
+               "s_time" : 4891.85399981216,
+               "time" : 19.88900033757,
+               "id" : "r78_c1",
+               "type" : "evalhtml",
+               "e_time" : 4911.74300014973
+            },
+            {
+               "s_time" : 4935.47399993986,
+               "time" : 181.22600018978,
+               "type" : "evalhtml",
+               "id" : "r78_c2",
+               "e_time" : 5116.70000012964
+            }
+         ],
+         "download" : {
+            "s_time" : 4526.24899987131,
+            "id" : "download_73",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/simgad/3127042753442603187",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4897.99099974334,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20110914/abg.js",
+         "id" : "r82",
+         "comps" : [
+            {
+               "s_time" : 4918.80499990657,
+               "time" : 16.6690000332901,
+               "type" : 1,
+               "id" : "comp_491",
+               "e_time" : 4935.47399993986
+            }
+         ],
+         "download" : {
+            "s_time" : 4911.74300014973,
+            "id" : "download_75",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-2504216379832338",
+         "id" : "r83",
+         "comps" : [
+            {
+               "s_time" : 4991.1279999651,
+               "time" : 0.889999791980699,
+               "type" : "evalhtml",
+               "id" : "r83_c1",
+               "e_time" : 4992.01799975708
+            }
+         ],
+         "download" : {
+            "s_time" : 4938.21399984881,
+            "id" : "download_76",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=everest&google_hm=&google_push",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5085.31499980018,
+            "id" : "download_77",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.gstatic.com/bg/tjsDBsmLuJ7wXAjVgfghuWaq-F1tQ6NsQnyRzBFBjRY.js",
+         "id" : "r86",
+         "comps" : [
+            {
+               "s_time" : 5158.42900006101,
+               "time" : 12.6120001077597,
+               "type" : null,
+               "id" : "comp_534",
+               "e_time" : 5171.04100016877
+            }
+         ],
+         "download" : {
+            "s_time" : 5131.99899997562,
+            "id" : "download_78",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gstat.imgsmail.ru/gstat?logme=all%3A1%2CR298_connect%3A219%2CR298_domainLookup%3A221%2CR298_request%3A220%2CR298_response%3A19%2Cip%3A128.208.4.212&rnd=13780914246360.5088901363778859",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4370.43699994683,
+            "id" : "download_79",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://mailtest.cdnmail.ru/cdn.html?r1=200&r2=298&ip=128.208.4.212&rnd=13780914239200.003484156681224704",
+         "id" : "r67",
+         "comps" : [
+            {
+               "s_time" : 5399.45799997076,
+               "time" : 3.37800011038962,
+               "type" : "evalhtml",
+               "id" : "r67_c1",
+               "e_time" : 5402.83600008115
+            }
+         ],
+         "download" : {
+            "s_time" : 3651.87900001183,
+            "id" : "download_80",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://bs.mail.ru/count/U_4amYGH3by40n00gPC00OwtQLST1MnPYBhJ0H04agcEPWEcG8e1gW6bbHmwaRpGIMG6auKDGQxswDfur72lu0In0RlhwnEnLdlHL7W8,bs.mail.ru,4372311491378091302,2842821160?266903584",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5287.89700008929,
+            "id" : "download_81",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://splash.radar.imgsmail.ru/update?p=splash&t=imgcdn&v=1&i=all:1,R298_connect:218,R298_domainLookup:1293,R298_request:223,R298_response:3&rnd=0.3249246368650347&r=http%3A//mail.ru/",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5406.77700005472,
+            "id" : "download_82",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gstat.imgsmail.ru/gstat?logme=all%3A1%2CR298_connect%3A218%2CR298_domainLookup%3A1293%2CR298_request%3A223%2CR298_response%3A3%2Cip%3A128.208.4.212&rnd=13780914256770.03786642127670348",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5407.57599985227,
+            "id" : "download_83",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://mailtest.cdnmail.ru/zero.png?r=13780914239210.6768396950792521",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3664.25799997523,
+            "id" : "download_84",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_360"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_378"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_382"
+      },
+      {
+         "a2" : "r51_c2",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_438"
+      },
+      {
+         "a2" : "r78_c2",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_491"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 40.1099999435201,
+         "id" : "dep6",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_83",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 1782.62900002301,
+         "id" : "dep8",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 1663.74900005758,
+         "id" : "dep9",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 27.73099998012,
+         "id" : "dep10",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 1.65499979630022,
+         "id" : "dep11",
+         "a1" : "comp_458"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 1507.85099994391,
+         "id" : "dep12",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 149.84099986032,
+         "id" : "dep13",
+         "a1" : "r78_c2"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 2.73999990895027,
+         "id" : "dep14",
+         "a1" : "r78_c2"
+      },
+      {
+         "a2" : "download_75",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "r78_c1"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 6.13699993118007,
+         "id" : "dep16",
+         "a1" : "r78_c1"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 157.46699972078,
+         "id" : "dep17",
+         "a1" : "comp_458"
+      },
+      {
+         "a2" : "download_72",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 1.19799980894004,
+         "id" : "dep19",
+         "a1" : "comp_458"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 914.58299988881,
+         "id" : "dep20",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 1.11600011587052,
+         "id" : "dep21",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 688.114999793469,
+         "id" : "dep22",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_68",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 27.0859999582199,
+         "id" : "dep24",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 39.6849997341601,
+         "id" : "dep25",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 2.35299998894016,
+         "id" : "dep26",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 3.51599976421039,
+         "id" : "dep27",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 3.87800019234965,
+         "id" : "dep28",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 43.17800002173,
+         "id" : "dep29",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 43.6399998143297,
+         "id" : "dep30",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 16.6830001398898,
+         "id" : "dep31",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 42.78900008649,
+         "id" : "dep32",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 97.6849999278797,
+         "id" : "dep33",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 40.50899995491,
+         "id" : "dep34",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_56",
+         "time" : -1,
+         "id" : "dep35",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 41.6469997726399,
+         "id" : "dep36",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 41.2419997155698,
+         "id" : "dep37",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 40.8729999326197,
+         "id" : "dep38",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 42.0309999026399,
+         "id" : "dep39",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 42.40999976173,
+         "id" : "dep40",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 19.0350003540598,
+         "id" : "dep41",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 2085.5469997041,
+         "id" : "dep42",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 2084.25100008026,
+         "id" : "dep43",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 2085.0649997592,
+         "id" : "dep44",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 2084.65299988166,
+         "id" : "dep45",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 2083.35099974647,
+         "id" : "dep46",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 2083.8349997066,
+         "id" : "dep47",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 1516.25499967486,
+         "id" : "dep48",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 844.62199965492,
+         "id" : "dep49",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 844.62199965492,
+         "id" : "dep50",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 859.34099974111,
+         "id" : "dep51",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 858.97899977863,
+         "id" : "dep52",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 858.53899968788,
+         "id" : "dep53",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 585.10700007901,
+         "id" : "dep54",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 800.89299986139,
+         "id" : "dep55",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 799.58699969575,
+         "id" : "dep56",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 799.24000008032,
+         "id" : "dep57",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 584.69399996102,
+         "id" : "dep58",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 785.88399989531,
+         "id" : "dep59",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 785.48699989915,
+         "id" : "dep60",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 785.05600010977,
+         "id" : "dep61",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 780.76400002465,
+         "id" : "dep62",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 722.02599979937,
+         "id" : "dep63",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 456.98199979961,
+         "id" : "dep64",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 721.63200005889,
+         "id" : "dep65",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 584.10999970511,
+         "id" : "dep66",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 480.63099989668,
+         "id" : "dep67",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 843.81899982691,
+         "id" : "dep68",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 843.81899982691,
+         "id" : "dep69",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 473.27499976382,
+         "id" : "dep70",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 450.67799976096,
+         "id" : "dep71",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 721.27399966121,
+         "id" : "dep72",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 720.91799974442,
+         "id" : "dep73",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 689.40899986774,
+         "id" : "dep74",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 720.56300006807,
+         "id" : "dep75",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 682.63699999079,
+         "id" : "dep76",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 720.21800000221,
+         "id" : "dep77",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 719.84299970791,
+         "id" : "dep78",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 50.1270000822899,
+         "id" : "dep79",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 1085.71500005201,
+         "id" : "dep80",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 798.83300000802,
+         "id" : "dep81",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 687.72199982778,
+         "id" : "dep82",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 719.38499994576,
+         "id" : "dep83",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 687.21899995581,
+         "id" : "dep84",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 258.50400002674,
+         "id" : "dep85",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 50.6730000488499,
+         "id" : "dep86",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 686.68799987063,
+         "id" : "dep87",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 442.44699971751,
+         "id" : "dep88",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 692.0650000684,
+         "id" : "dep89",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 182.15700006113,
+         "id" : "dep90",
+         "a1" : "r1_c1"
+      }
+   ]
+}

@@ -1,0 +1,63 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.google.ru_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.ru/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 188.613000325859,
+               "time" : 441.120999865233,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 629.734000191092
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.ru/logos/doodles/2013/first_day_of_school_2013_poland__russia-2021005.2-res.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 487.991000059992,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.ru/logos/doodles/2013/first_day_of_school_2013_poland__russia-2021005.2-hp.jpg",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 488.810000009835,
+            "id" : "download_2",
+            "type" : "image/jpeg"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_2",
+         "time" : 300.196999683976,
+         "id" : "dep1",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 299.377999734133,
+         "id" : "dep2",
+         "a1" : "r1_c1"
+      }
+   ]
+}

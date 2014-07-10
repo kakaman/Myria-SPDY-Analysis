@@ -1,0 +1,1559 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.aol.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 718.137999996543,
+               "time" : 833.786999806757,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1551.9249998033
+            },
+            {
+               "s_time" : 1560.99199969321,
+               "time" : 5.07500022650015,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1566.06699991971
+            },
+            {
+               "s_time" : 1626.90099980682,
+               "time" : 1023.13800016418,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 2650.038999971
+            },
+            {
+               "s_time" : 3219.47799995542,
+               "time" : 1681.31399992853,
+               "type" : "evalhtml",
+               "id" : "r1_c4",
+               "e_time" : 4900.79199988395
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/ads/load_v7.html#1",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1038.06099994108,
+               "time" : 7.33799999580015,
+               "type" : "evalhtml",
+               "id" : "r3_c1",
+               "e_time" : 1045.39899993688
+            }
+         ],
+         "download" : {
+            "s_time" : 824.198999907821,
+            "id" : "download_1",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329877/thumbs/a-JODI-ARIAS-233x155.jpg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 892.606999725103,
+            "id" : "download_2",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1330032/thumbs/a-OBAMA-404x304.jpg",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 850.46699969098,
+            "id" : "download_3",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329886/thumbs/a-PIPPA-MIDDLETON-NICO-JACKSON-233x155.jpg",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 893.402999732643,
+            "id" : "download_4",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329780/thumbs/a-HOUSE-FIRE-233x155.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 893.000999931246,
+            "id" : "download_5",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329988/thumbs/a-SMILE-233x155.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 893.78000004217,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1330072/thumbs/a-MILEY-CYRUS-233x155.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 894.281999673694,
+            "id" : "download_7",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329722/thumbs/a-HOT-IN-CLEVELAND-FINALE-233x155.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 894.644999876618,
+            "id" : "download_8",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329968/thumbs/a-MAX-PAPIS-233x155.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 895.007999613881,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329844/thumbs/a-KHLOE-KARDASHIAN-LAMAR-ODOM-233x155.jpg",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 895.363999996334,
+            "id" : "download_10",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=aolcom_cs=1&betq=13668=438747",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 919.491999782622,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329997/thumbs/a-CITIBANK-233x155.jpg",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1015.81100001931,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1330015/thumbs/a-JUSTIN-MORNEAU-233x155.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1016.56199991703,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329444/thumbs/s-TAYLOR-SWIFT-97x75.jpg",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1017.31299981475,
+            "id" : "download_14",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329660/thumbs/s-ELECTRIC-ZOO-97x75.jpg",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1016.92899968475,
+            "id" : "download_15",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.huffpost.com/gen/1329993/thumbs/a-SATURDAY-NIGHT-LIVE-233x155.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1016.17499999702,
+            "id" : "download_16",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/ads/adsWrapper.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 1552.01999982819,
+               "time" : 8.97199986501982,
+               "type" : 1,
+               "id" : "comp_26",
+               "e_time" : 1560.99199969321
+            },
+            {
+               "s_time" : 1332.60799990967,
+               "time" : 4.18699998407988,
+               "type" : null,
+               "id" : "comp_17",
+               "e_time" : 1336.79499989375
+            }
+         ],
+         "download" : {
+            "s_time" : 839.098999742419,
+            "id" : "download_17",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/os/aolportal5/small_patch_logo.gif",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 895.742999855429,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/omniunih.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1566.1049997434,
+               "time" : 60.79600006342,
+               "type" : 1,
+               "id" : "comp_33",
+               "e_time" : 1626.90099980682
+            }
+         ],
+         "download" : {
+            "s_time" : 839.578999672085,
+            "id" : "download_19",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/os/aolportal5/mtmhp_right_button3_sysicon.gif",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1017.71799987182,
+            "id" : "download_20",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/js/x.gif",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1018.07500002906,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://at.on.aol.com/slider/14/1.jpeg",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 896.56599983573,
+            "id" : "download_22",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.blogcdn.com/www.cambio.com/media/2013/08/taylor_97x75.jpg",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1015.44300001115,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.blogcdn.com/www.engadget.com/media/2013/09/samsung-smartwatch-1_97x75.jpg",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1015.06899995729,
+            "id" : "download_24",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.blogcdn.com/www.engadget.com/media/2013/08/gelspeaker2_97x75.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 933.421999681741,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/skin/_v70/abstract.css",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1386.89999980852,
+               "time" : 0.00699982046990044,
+               "type" : null,
+               "id" : "comp_19",
+               "e_time" : 1386.90699962899
+            }
+         ],
+         "download" : {
+            "s_time" : 834.261999931186,
+            "id" : "download_26",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/_v82.7/js/main.js",
+         "id" : "r50",
+         "comps" : [
+            {
+               "s_time" : 2650.08099982515,
+               "time" : 569.39700013027,
+               "type" : 1,
+               "id" : "comp_262",
+               "e_time" : 3219.47799995542
+            }
+         ],
+         "download" : {
+            "s_time" : 935.277999844402,
+            "id" : "download_27",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/_v82.7/css/maing.css",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1452.82599981874,
+               "time" : 605.0539999269,
+               "type" : null,
+               "id" : "comp_23",
+               "e_time" : 2057.87999974564
+            }
+         ],
+         "download" : {
+            "s_time" : 832.429999951273,
+            "id" : "download_28",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/_v82.7/js/beacon.min.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1416.63399990648,
+               "time" : 9.55600012093987,
+               "type" : null,
+               "id" : "comp_20",
+               "e_time" : 1426.19000002742
+            }
+         ],
+         "download" : {
+            "s_time" : 797.347999643534,
+            "id" : "download_29",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/6464/bc4f3d4e-1020-4447-a6c8-83a085b2127a.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 880.692000035197,
+            "id" : "download_30",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/21737/79921728-2762-4df9-b860-47a6a8685335.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 884.87199973315,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/_v82.7/css/whn_d/w32.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 885.302999988198,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/_v82.7/css/maing.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 888.749999925494,
+            "id" : "download_33",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/3963/c99fbfd4-b6ab-43f7-944e-78b50fc88ac1.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 890.703999903053,
+            "id" : "download_34",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/3963/607b1233-64e4-4513-a6cb-a228cb1ce784.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 892.19699986279,
+            "id" : "download_35",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/21734/4f044f8e-422f-460b-9e42-4119c742b591.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 993.997999932617,
+            "id" : "download_36",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/3615/d778d106-94ee-46e5-b206-37410d614fc1.png",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 995.315999723971,
+            "id" : "download_37",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/3615/1bf21dbc-a38c-479a-a20b-f687cea6587f.png",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 995.866999961436,
+            "id" : "download_38",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/dims3/portal/quality/100/http://pthumbnails.5min.com/10358363/517918119_c_140_102.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1010.37399983034,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/dims3/portal/quality/100/http://pthumbnails.5min.com/10358363/517918112_c_140_102.jpg",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 994.684000033885,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/dims3/portal/quality/100/http://pthumbnails.5min.com/10358359/517917930_c_140_102.jpg",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1011.52900001034,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/dims3/portal/quality/100/http://pthumbnails.5min.com/10358340/517916951_c_140_102.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1012.44799979031,
+            "id" : "download_42",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/dims3/portal/quality/100/http://pthumbnails.5min.com/10358369/517918412_4_140_102.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1012.8979999572,
+            "id" : "download_43",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/dims3/portal/quality/100/http://pthumbnails.5min.com/10358351/517917518_c_140_102.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1013.28799966723,
+            "id" : "download_44",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/os/moat/prod/moatuac.js",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 3392.34999986365,
+               "time" : 56.92999996245,
+               "type" : 2,
+               "id" : "comp_329",
+               "e_time" : 3449.2799998261
+            }
+         ],
+         "download" : {
+            "s_time" : 1564.63899975643,
+            "id" : "download_45",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://si0.twimg.com/profile_images/378800000054375968/6a7abe06d63cf012c1b583baf30d407d_normal.jpeg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 896.146999672055,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://si0.twimg.com/profile_images/378800000356000163/931dd17f566ba34d912e565cb0b0e26d_normal.jpeg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1013.98199982941,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://si0.twimg.com/profile_images/3679695748/37f82003386acf4bef821f447fb27e1f_normal.jpeg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1013.63099971786,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://si0.twimg.com/profile_images/3709408347/cb5324e0c8d4629b6ef8e8854f77bc4e_normal.jpeg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1014.33999976143,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://si0.twimg.com/profile_images/378800000290859775/6bdc1ee5e9ea441d729e7a6dbb944937_normal.jpeg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1014.68699984252,
+            "id" : "download_50",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/forms/190/2f032443-8d1f-4f9b-bdb8-c8f7c650af29.jpg",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2058.85499995202,
+            "id" : "download_51",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/ads/load_v7.html",
+         "id" : "r60",
+         "comps" : [
+            {
+               "s_time" : 3320.02699980512,
+               "time" : 691.88599986956,
+               "id" : "r60_c1",
+               "type" : "evalhtml",
+               "e_time" : 4011.91299967468
+            },
+            {
+               "s_time" : 4038.97199966013,
+               "time" : 0.0650002621196109,
+               "id" : "r60_c2",
+               "type" : "evalhtml",
+               "e_time" : 4039.03699992225
+            },
+            {
+               "s_time" : 4041.45199991763,
+               "time" : 0.0999998301199412,
+               "id" : "r60_c3",
+               "type" : "evalhtml",
+               "e_time" : 4041.55199974775
+            },
+            {
+               "s_time" : 4044.6759997867,
+               "time" : 0.0660000369002773,
+               "id" : "r60_c4",
+               "type" : "evalhtml",
+               "e_time" : 4044.7419998236
+            },
+            {
+               "s_time" : 4048.05199988186,
+               "time" : 3.64199979230989,
+               "id" : "r60_c5",
+               "type" : "evalhtml",
+               "e_time" : 4051.69399967417
+            },
+            {
+               "s_time" : 4238.67299966514,
+               "time" : 0.108000356709454,
+               "type" : "evalhtml",
+               "id" : "r60_c6",
+               "e_time" : 4238.78100002185
+            }
+         ],
+         "download" : {
+            "s_time" : 2474.13600003347,
+            "id" : "download_52",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/ads/load_v7.html",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2475.2650000155,
+            "id" : "download_53",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/ads/load_v7.html",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2475.51100002602,
+            "id" : "download_54",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/ads/load_v7.html",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2475.92699993402,
+            "id" : "download_55",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.aolcdn.com/os/aolportal5/applogo.png",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2618.97099995986,
+            "id" : "download_56",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.aol.com/vanity/?ts=1378091678991&h=www.aol.com&v=12&t=AOL.com%20-%20News%2C%20Sports%2C%20Weather%2C%20Entertainment%2C%20Local%20%26%20Lifestyle&r=&l=0&k=1&ms=1041&cms_src=us-aol.com&clntid=aolhp&template=maing-grid7&cobrand=main5&uxi=0&sxi=M%7CN_3&dL_ch=us.aolportal&dL_dpt=acm%20%3A%20main5%20AOL.com%205.0%20Main&plids=360636%7Chnav-2013%2C352588%7Cuser-menu%2C279837%7Cqnav-quick-nav-favorites_quick-nav-global%2C58322%7Cleaveback-pixel%2C62771%7Cmobile-view-link%2C346429%7Chealth-news%2C60631%7Cbrand-4%2C367097%7Cdaily-buzz6%2C367096%7Cdaily-buzz3%2C367095%7Cdaily-buzz1%2C306291%7Cmnc-lifestyle-news-feed-stylelist-hl%2C343087%7Cfollow-aol-new%2C120199%7Cbrand-5%2C367026%7Cbusiness-news%2C344928%7Chealth-news%2C98427%7Cstock-markets-markets-v2%2C279842%7Cqnav-quick-nav-video_quick-nav-global%2C359832%7Ctrending-stories%2C359833%7Clocal%2C359834%7Csports-news%2C279880%7Cqnav-mail_quick-nav-global%2C367127%7Cdaily-buzz2%2C306249%7Cmnc-entertainment-news-feed-huffpost-hl%2C305580%7Cslideshow%2C365702%7Cworld-news%2C279859%7Cqnav-quick-nav-home_quick-nav-global%2C367163%7Cdaily-buzz11%2C366829%7Cpatch-headlines%2C279909%7Cweather%2C120217%7Cbrand-8%2C59533%7Cbrand-9%2C79416%7Cbrand-7%2C365357%7Ctrending-stories-feed%2C367171%7Cdl1%7C0%2C216293%7Cmnc-news-feed-huffpost-hl%2C120214%7Cbrand-6%2C276299%7Cfeatured-brands%2C276298%7Cbrand-2%2C334263%7Csports-news%2C365359%7Cpopular-videos-5min-main%2C367155%7Cdaily-buzz10%2C356737%7Cmnc-lifestyle-news-feed-stylelist%2C356736%7Cmnc-entertainment-news-feed-huffpost%2C367156%7Cdaily-buzz9%2C367150%7Cdaily-buzz8%2C356733%7Cmnc-news-feed-huffpost%2C367153%7Ctwitter%2C367152%7Cdaily-buzz7%2C337092%7Cfooterlinks%2C79348%7Cbrand-3%2C79349%7Cbrand-1%2C328291%7Clogo%2C345939%7Cmtmhpbutton%2C367203%7Cdaily-buzz4%2C367205%7Cdaily-buzz5&cids=usprod-5.dl",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2472.79499983415,
+            "id" : "download_57",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://o.sa.aol.com/b/ss/aolsvc/1/H.25.4/s17237016733270?AQB=1&pccr=true&vidn=2912014F051D1FD1-600001074015FC81&&ndh=1&t=1%2F8%2F2013%2020%3A14%3A38%200%20420&fid=1562AFEF7D78FA26-1678B19B69661E53&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main5%20AOL.com%205.0%20Main&g=http%3A%2F%2Fwww.aol.com%2F&cc=USD&ch=us.aolportal&events=event10%2Cevent12&c1=acm%20%3A%20main5%20AOL.com%205.0%20Main&c2=acm%20%3A%20&c3=gmt_5&c7=D%3DDNT&c10=external%20web%20browser&c12=http%3A%2F%2Fwww.aol.com%2F&c13=non-authenticated&c14=no%20referrer&v14=acm%3A45&c15=unavailable&c16=no_location&c17=theme_default-abstract_main5&c20=main5%20AOL.com%205.0%20Main&c24=D%3Dv52&c49=H.25.4-May2013%7Cmmx_1&v52=uaid_na&c54=portal&c55=91678084&c56=www.aol.com&c61=D%3Dpccr&s=2048x1152&c=24&j=1.6&v=Y&k=Y&bw=954&bh=688&p=Remoting%20Viewer%3BNative%20Client%3BShockwave%20Flash%3BiPhotoPhotocast%3BJava%20Applet%20Plug-in%3BQuickTime%20Plug-in%207.6.6%3B&AQE=1",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3292.679999955,
+            "id" : "download_58",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://portal.aolcdn.com/p5/_v82.7/css/fonts/BebasNeue-webfont.woff",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3386.51599967852,
+            "id" : "download_59",
+            "type" : "application/x-woff"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.aol.com/ads/load_v7.html",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3468.27000007033,
+            "id" : "download_60",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/noperf=1;alias=93315260;cfp=1;noaddonpl=y;kvpops_cb=3_column_rm;kvpg=aol;kvugc=0;kvmn=93315260;kvgrp=91678084;kvismob=2;kvoch=us.aolportal;extmirroring=0;target=_blank;aduho=-420;grp=91678084",
+         "id" : "r67",
+         "comps" : [
+            {
+               "s_time" : 4037.70099999383,
+               "time" : 1.27099966630021,
+               "type" : 1,
+               "id" : "comp_374",
+               "e_time" : 4038.97199966013
+            }
+         ],
+         "download" : {
+            "s_time" : 3335.2569998242,
+            "id" : "download_61",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=61x21;noperf=1;alias=93309869;cfp=1;noaddonpl=y;kvpops_cb=3_column_rm;kvpg=aol;kvugc=0;kvmn=93309869;kvgrp=91678084;kvismob=2;kvoch=us.aolportal;extmirroring=0;target=_blank;aduho=-420;grp=91678084",
+         "id" : "r68",
+         "comps" : [
+            {
+               "s_time" : 4039.90999981761,
+               "time" : 1.54200010002023,
+               "type" : 1,
+               "id" : "comp_377",
+               "e_time" : 4041.45199991763
+            }
+         ],
+         "download" : {
+            "s_time" : 3368.60799975693,
+            "id" : "download_62",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=300x75;noperf=1;alias=93309868;cfp=1;noaddonpl=y;kvpops_cb=3_column_rm;kvpg=aol;kvugc=0;kvmn=93309868;kvgrp=91678084;kvismob=2;kvoch=us.aolportal;extmirroring=0;target=_blank;aduho=-420;grp=91678084",
+         "id" : "r69",
+         "comps" : [
+            {
+               "s_time" : 4043.76899963245,
+               "time" : 0.907000154249999,
+               "type" : 1,
+               "id" : "comp_386",
+               "e_time" : 4044.6759997867
+            }
+         ],
+         "download" : {
+            "s_time" : 3385.02799998969,
+            "id" : "download_63",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=300x100;noperf=1;alias=93329837;cfp=1;noaddonpl=y;kvpops_cb=3_column_rm;kvpg=aol;kvugc=0;kvmn=93329837;kvgrp=91678084;kvismob=2;kvoch=us.aolportal;extmirroring=0;target=_blank;aduho=-420;grp=91678084",
+         "id" : "r72",
+         "comps" : [
+            {
+               "s_time" : 4045.64099991694,
+               "time" : 2.41099996491994,
+               "type" : 1,
+               "id" : "comp_389",
+               "e_time" : 4048.05199988186
+            }
+         ],
+         "download" : {
+            "s_time" : 3889.24399996176,
+            "id" : "download_64",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://leadback.advertising.com/adcedge/lb?site=695501&betr=One_Direction=%5b%2b%5d1DAY%5b24%5d%2c30DAY%5b720%5d%2c365DAY%5b8760%5d%2c90DAY%5b2160%5d",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4051.26799969003,
+            "id" : "download_65",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=386x315;cfp=1;rndc=1378091679;noperf=1;alias=93318662;kvpops_cb=3_column_rm;kvpg=aol;kvugc=0;kvmn=93318662;kvgrp=91678084;kvismob=2;kvoch=us.aolportal;extmirroring=0;target=_blank;aduho=-420;grp=91678084",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4011.91299967468,
+            "id" : "download_66",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://apx.moatads.com/pixel.gif?e=17&i=AOL2&bq=2&f=0&o=3&t=1378091680782&de=40946823&m=0&ar=66773fd-clean&q=0&cb=0&cu=1378091679965&di=1&d=2214265%3A6&bd=93318662&bo=&ac=1&cs=0",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4255.05599984899,
+            "id" : "download_67",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://aka-cdn-ns.adtechus.com/images/450/Ad0St1Sz170Sq0V1Id22799810.jpg",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4048.77599980682,
+            "id" : "download_68",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://aka-cdn-ns.adtechus.com/images/150/Ad0St1Sz2018Sq0V1Id22808214.jpg",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4050.80599989742,
+            "id" : "download_69",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://aka-cdn-ns.adtechus.com/apps/159/Ad0St3Sz457Sq0V2Id22776991/CSG_NCK_SPC_20130723_oneDirection_huffPostNowPlaying_300x100.jpg",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4051.69399967417,
+            "id" : "download_70",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://apx.moatads.com/pixel.gif?e=17&i=AOL2&bq=2&f=0&o=3&t=1378091680790&de=55778836&m=0&ar=66773fd-clean&q=1&cb=0&cu=1378091679965&di=1&d=4508193%3A6&bd=93329837&bo=&ac=1&cs=0",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4900.79199988395,
+            "id" : "download_71",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_33"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_262"
+      },
+      {
+         "a2" : "r60_c2",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_374"
+      },
+      {
+         "a2" : "r60_c3",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_377"
+      },
+      {
+         "a2" : "r60_c4",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_386"
+      },
+      {
+         "a2" : "r60_c5",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_389"
+      },
+      {
+         "a2" : "r60_c6",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_398"
+      },
+      {
+         "a2" : "comp_374",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_398"
+      },
+      {
+         "a2" : "comp_377",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_374"
+      },
+      {
+         "a2" : "comp_386",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_377"
+      },
+      {
+         "a2" : "download_71",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_70",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "r60_c5"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 832.21599971875,
+         "id" : "dep14",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 2.75400001556,
+         "id" : "dep15",
+         "a1" : "r60_c5"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 831.327999942,
+         "id" : "dep16",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 0.723999924960026,
+         "id" : "dep17",
+         "a1" : "r60_c5"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 829.2979998514,
+         "id" : "dep18",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 1035.57799989357,
+         "id" : "dep19",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_66",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 792.43499971926,
+         "id" : "dep21",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 3.21599980817018,
+         "id" : "dep22",
+         "a1" : "r60_c5"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 831.78999973461,
+         "id" : "dep23",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 569.21700015664,
+         "id" : "dep24",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 669.76600000634,
+         "id" : "dep25",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 65.0010001845703,
+         "id" : "dep26",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 165.55000003427,
+         "id" : "dep27",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 149.12999980151,
+         "id" : "dep28",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 48.5809999518101,
+         "id" : "dep29",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 149.12999980151,
+         "id" : "dep30",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 115.77899986878,
+         "id" : "dep31",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 15.2300000190803,
+         "id" : "dep32",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 115.77899986878,
+         "id" : "dep33",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 148.24300026521,
+         "id" : "dep34",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 248.79200011491,
+         "id" : "dep35",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 66.4889998734002,
+         "id" : "dep36",
+         "a1" : "r60_c1"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 167.0379997231,
+         "id" : "dep37",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 73.20199999958,
+         "id" : "dep38",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 845.89400002733,
+         "id" : "dep39",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 992.07000015304,
+         "id" : "dep40",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 849.0260001272,
+         "id" : "dep41",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 848.6100002192,
+         "id" : "dep42",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 848.36400020868,
+         "id" : "dep43",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 847.23500022665,
+         "id" : "dep44",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 431.9540001452,
+         "id" : "dep45",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 296.548999845977,
+         "id" : "dep46",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 296.201999764887,
+         "id" : "dep47",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 295.492999721317,
+         "id" : "dep48",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 295.843999832867,
+         "id" : "dep49",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 178.008999675512,
+         "id" : "dep50",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 111.81299993769,
+         "id" : "dep51",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 295.149999670687,
+         "id" : "dep52",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 294.759999960657,
+         "id" : "dep53",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 294.309999793767,
+         "id" : "dep54",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 293.391000013797,
+         "id" : "dep55",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 276.546000037342,
+         "id" : "dep56",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 292.235999833797,
+         "id" : "dep57",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 277.728999964893,
+         "id" : "dep58",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 277.177999727428,
+         "id" : "dep59",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 275.859999936074,
+         "id" : "dep60",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 174.058999866247,
+         "id" : "dep61",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 172.56599990651,
+         "id" : "dep62",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 170.611999928951,
+         "id" : "dep63",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 167.164999991655,
+         "id" : "dep64",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 166.733999736607,
+         "id" : "dep65",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 162.554000038654,
+         "id" : "dep66",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 79.2099996469909,
+         "id" : "dep67",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 114.29199995473,
+         "id" : "dep68",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 217.139999847859,
+         "id" : "dep69",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 217.139999847859,
+         "id" : "dep70",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 116.123999934643,
+         "id" : "dep71",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 215.283999685198,
+         "id" : "dep72",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 296.930999960747,
+         "id" : "dep73",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 297.305000014607,
+         "id" : "dep74",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 178.427999839187,
+         "id" : "dep75",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 299.937000032517,
+         "id" : "dep76",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 299.579999875277,
+         "id" : "dep77",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 121.440999675542,
+         "id" : "dep78",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 177.604999858886,
+         "id" : "dep79",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 120.960999745876,
+         "id" : "dep80",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 298.037000000477,
+         "id" : "dep81",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 298.790999688207,
+         "id" : "dep82",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 299.174999818207,
+         "id" : "dep83",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 298.423999920487,
+         "id" : "dep84",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 297.673000022767,
+         "id" : "dep85",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 201.353999786079,
+         "id" : "dep86",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 201.353999786079,
+         "id" : "dep87",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 177.225999999791,
+         "id" : "dep88",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 176.869999617338,
+         "id" : "dep89",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 176.506999880075,
+         "id" : "dep90",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 176.143999677151,
+         "id" : "dep91",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 175.642000045627,
+         "id" : "dep92",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 174.862999934703,
+         "id" : "dep93",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 175.2649997361,
+         "id" : "dep94",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 132.328999694437,
+         "id" : "dep95",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 174.46899972856,
+         "id" : "dep96",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 106.060999911278,
+         "id" : "dep97",
+         "a1" : "r1_c1"
+      }
+   ]
+}

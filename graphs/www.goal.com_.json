@@ -1,0 +1,28 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.goal.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.goal.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 945.233000442386,
+               "time" : 3.64399980753603,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 948.877000249922
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      }
+   ],
+   "deps" : []
+}

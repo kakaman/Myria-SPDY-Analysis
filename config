@@ -1,0 +1,32 @@
+# ------------------------------------------------------
+# Config file for dataanalysis
+#
+# Please specify this file according to where you place
+# your data and where you expect to place your results
+# before running analyze.pl
+# ------------------------------------------------------
+
+# the path that stores your measurement data
+DataPath	data/
+
+# the path that you output your results to plot
+ResultPath	results/
+
+# the path that you place all the temp files
+TempPath	temp_files/
+
+# switch to turn on/off progress info on the command line
+ProgressInfo	on
+
+# number of repeated experiments in each directory
+NumRepeatExperiments	5
+
+# specify whether process according to server geolocation
+ProcessServerGeolocation	off
+
+# specify whether calculate coefficient
+ProcessCoefficient	off
+
+# specify the file name that stores domain-geo mapping
+FileDomainGeo	text_files/domain_country2continent.txt
+

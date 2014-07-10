@@ -1,0 +1,21 @@
+{"page": "www.indeed.com_precache.html"}
+{"DOMLoad": 2262938.391315}
+{"Resource": {"id": 11, "url": "http://www.indeed.com/precache.html", "sentTime": -1.000000, "len": 144, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 3601, "connReused": 1, "cached": 0,                            "requestTime": 2262938.286846, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 22, "connectEnd": 22, "sendStart": 22, "sendEnd": 23, "receiveHeadersEnd": 47, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262938.347846, "len": 144}}
+{"ObjectHash": {"code": "0x1be090", "doc": "http://www.indeed.com/precache.html", "row": 10, "column": 6, "tagName": "html", "time": 2262938.357742, "url": "", "pos": 16, "chunkLen": 144, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1bf080", "doc": "http://www.indeed.com/precache.html", "row": 11, "column": 6, "tagName": "head", "time": 2262938.358051, "url": "", "pos": 23, "chunkLen": 144, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1c5f10", "doc": "http://www.indeed.com/precache.html", "row": 11, "column": 13, "tagName": "title", "time": 2262938.358075, "url": "", "pos": 30, "chunkLen": 144, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1c59e0", "doc": "http://www.indeed.com/precache.html", "row": 11, "column": 21, "tagName": "title", "time": 2262938.358086, "url": "", "pos": 38, "chunkLen": 144, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1c5b40", "doc": "http://www.indeed.com/precache.html", "row": 12, "column": 75, "tagName": "link", "time": 2262938.358104, "url": "http://www.indeed.com/s/61d6f1b/jobsearch_all.css", "pos": 114, "chunkLen": 144, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1cec10", "doc": "http://www.indeed.com/precache.html", "row": 13, "column": 7, "tagName": "head", "time": 2262938.358543, "url": "", "pos": 122, "chunkLen": 144, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1cfa50", "doc": "http://www.indeed.com/precache.html", "row": 14, "column": 6, "tagName": "body", "time": 2262938.358553, "url": "", "pos": 129, "chunkLen": 144, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1cfb60", "doc": "http://www.indeed.com/precache.html", "row": 14, "column": 13, "tagName": "body", "time": 2262938.358567, "url": "", "pos": 136, "chunkLen": 144, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1cfbc0", "doc": "http://www.indeed.com/precache.html", "row": 15, "column": 7, "tagName": "html", "time": 2262938.358574, "url": "", "pos": 144, "chunkLen": 144, "isStartTag": 0}}
+{"Resource": {"id": 12, "url": "http://www.indeed.com/s/61d6f1b/jobsearch_all.css", "sentTime": -1.000000, "len": 10740, "from": "0x1c5b40",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 3601, "connReused": 1, "cached": 0,                            "requestTime": 2262938.360048, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 4, "sendStart": 4, "sendEnd": 4, "receiveHeadersEnd": 27, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262938.388327, "len": 10740}}
+{"HOL": {"type": 4, "docUrl": "http://www.indeed.com/precache.html", "code": "0x1c5b40", "row": 12, "column": 75, "url": "http://www.indeed.com/s/61d6f1b/jobsearch_all.css"}}
+{"Computation": {"type": "layout", "code": "0x1badf0", "docUrl": "http://www.google.com/ads/user-lists/1049100955/?label=GXkhCM2YtwMQm4Wg9AM&fmt=1&num=1&cv=7&frm=0&url=http%3A%2F%2Fwww.indeed.com%2F&random=2433569879", "startTime": 2262938.309247, "endTime": 2262938.312691, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x1cfbc0", "docUrl": "http://www.indeed.com/precache.html", "startTime": 2262938.359013, "endTime": 2262938.359014, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x1cfbc0", "docUrl": "http://www.indeed.com/precache.html", "startTime": 2262938.359016, "endTime": 2262938.359018, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "recalcStyle", "code": "0x1cfbc0", "docUrl": "http://www.indeed.com/precache.html", "startTime": 2262938.388585, "endTime": 2262938.391213, "urlRecalcStyle": "http://www.indeed.com/s/61d6f1b/jobsearch_all.css"}}
+{"Complete": "www.indeed.com_precache.html"}

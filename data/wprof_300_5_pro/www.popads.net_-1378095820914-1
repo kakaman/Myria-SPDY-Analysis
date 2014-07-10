@@ -1,0 +1,589 @@
+{"page": "www.popads.net_"}
+{"DOMLoad": 2264477.243555}
+{"Resource": {"id": 1, "url": "http://www.popads.net/", "sentTime": -1.000000, "len": 13555, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 3515, "connReused": 0, "cached": 0,                            "requestTime": 2264476.104210, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 34, "connectStart": 1, "connectEnd": 86, "sendStart": 86, "sendEnd": 86, "receiveHeadersEnd": 176, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.298328, "len": 5535}}
+{"ReceivedChunk": {"receivedTime": 2264476.330222, "len": 8020}}
+{"ObjectHash": {"code": "0x15a400", "doc": "http://www.popads.net/", "row": 1, "column": 43, "tagName": "html", "time": 2264476.322027, "url": "", "pos": 166, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15c600", "doc": "http://www.popads.net/", "row": 2, "column": 6, "tagName": "head", "time": 2264476.322654, "url": "", "pos": 174, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15cb60", "doc": "http://www.popads.net/", "row": 3, "column": 70, "tagName": "meta", "time": 2264476.322706, "url": "", "pos": 246, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x15c960", "doc": "http://www.popads.net/", "row": 3, "column": 78, "tagName": "title", "time": 2264476.322735, "url": "", "pos": 254, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x169520", "doc": "http://www.popads.net/", "row": 3, "column": 99, "tagName": "title", "time": 2264476.326279, "url": "", "pos": 275, "chunkLen": 5535, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1695e0", "doc": "http://www.popads.net/", "row": 4, "column": 202, "tagName": "link", "time": 2264476.326324, "url": "http://static.popads.net/css/webp/front_set.css", "pos": 479, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x169620", "doc": "http://www.popads.net/", "row": 4, "column": 261, "tagName": "link", "time": 2264476.326826, "url": "http://www.popads.net/favicon.ico", "pos": 538, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16b0c0", "doc": "http://www.popads.net/", "row": 4, "column": 329, "tagName": "link", "time": 2264476.326950, "url": "http://www.popads.net/favicon.ico", "pos": 606, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16b400", "doc": "http://www.popads.net/", "row": 4, "column": 457, "tagName": "meta", "time": 2264476.327030, "url": "", "pos": 734, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16b6c0", "doc": "http://www.popads.net/", "row": 4, "column": 571, "tagName": "meta", "time": 2264476.327059, "url": "", "pos": 848, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16b760", "doc": "http://www.popads.net/", "row": 4, "column": 677, "tagName": "link", "time": 2264476.327075, "url": "http://www.popads.net/pages/en", "pos": 954, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16b9a0", "doc": "http://www.popads.net/", "row": 4, "column": 789, "tagName": "link", "time": 2264476.327102, "url": "http://www.popads.net/pages/PopAds.net", "pos": 1066, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16bbf0", "doc": "http://www.popads.net/", "row": 4, "column": 796, "tagName": "head", "time": 2264476.327119, "url": "", "pos": 1073, "chunkLen": 5535, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16b8e0", "doc": "http://www.popads.net/", "row": 5, "column": 6, "tagName": "body", "time": 2264476.327129, "url": "", "pos": 1081, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16bf10", "doc": "http://www.popads.net/", "row": 7, "column": 196, "tagName": "script", "time": 2264476.327172, "url": "http://static.popads.net/js/jquery.js", "pos": 1281, "chunkLen": 5535, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16bf80", "doc": "http://www.popads.net/", "row": 7, "column": 205, "tagName": "script", "time": 2264476.327231, "url": "", "pos": 1290, "chunkLen": 5535, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45c240", "doc": "http://www.popads.net/", "row": 0, "column": 10, "tagName": "link", "time": 2264476.609864, "url": "", "pos": 10, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c430", "doc": "http://www.popads.net/", "row": 0, "column": 17, "tagName": "table", "time": 2264476.609881, "url": "", "pos": 17, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45c4c0", "doc": "http://www.popads.net/", "row": 0, "column": 25, "tagName": "table", "time": 2264476.609900, "url": "", "pos": 25, "chunkLen": 109, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45c5b0", "doc": "http://www.popads.net/", "row": 0, "column": 80, "tagName": "a", "time": 2264476.609918, "url": "", "pos": 80, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45cc10", "doc": "http://www.popads.net/", "row": 0, "column": 85, "tagName": "a", "time": 2264476.609987, "url": "", "pos": 85, "chunkLen": 109, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45c4f0", "doc": "http://www.popads.net/", "row": 0, "column": 109, "tagName": "input", "time": 2264476.609995, "url": "", "pos": 109, "chunkLen": 109, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45ddd0", "doc": "http://www.popads.net/", "row": 0, "column": 56, "tagName": "input", "time": 2264476.611969, "url": "", "pos": 56, "chunkLen": 56, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16ee00", "doc": "http://www.popads.net/", "row": 0, "column": 31, "tagName": "a", "time": 2264476.620819, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16a8b0", "doc": "http://www.popads.net/", "row": 0, "column": 12, "tagName": "a", "time": 2264476.621247, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16a9a0", "doc": "http://www.popads.net/", "row": 0, "column": 16, "tagName": "a", "time": 2264476.621259, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x16f6b0", "doc": "http://www.popads.net/", "row": 0, "column": 16, "tagName": "p", "time": 2264476.621507, "url": "", "pos": 16, "chunkLen": 20, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x16ab40", "doc": "http://www.popads.net/", "row": 0, "column": 20, "tagName": "p", "time": 2264476.621535, "url": "", "pos": 20, "chunkLen": 20, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17b680", "doc": "http://www.popads.net/", "row": 0, "column": 20, "tagName": "div", "time": 2264476.622249, "url": "", "pos": 20, "chunkLen": 50, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17b7f0", "doc": "http://www.popads.net/", "row": 0, "column": 26, "tagName": "div", "time": 2264476.622262, "url": "", "pos": 26, "chunkLen": 50, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17b820", "doc": "http://www.popads.net/", "row": 0, "column": 44, "tagName": "div", "time": 2264476.622267, "url": "", "pos": 44, "chunkLen": 50, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17b8f0", "doc": "http://www.popads.net/", "row": 0, "column": 50, "tagName": "div", "time": 2264476.622272, "url": "", "pos": 50, "chunkLen": 50, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x44eb90", "doc": "http://www.popads.net/", "row": 8, "column": 198, "tagName": "script", "time": 2264476.627915, "url": "http://static.popads.net/js/various.js", "pos": 1489, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f60", "doc": "http://www.popads.net/", "row": 8, "column": 207, "tagName": "script", "time": 2264476.627974, "url": "", "pos": 1498, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x408a80", "doc": "http://www.popads.net/", "row": 9, "column": 21, "tagName": "div", "time": 2264476.628928, "url": "", "pos": 1520, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f2e0", "doc": "http://www.popads.net/", "row": 10, "column": 19, "tagName": "div", "time": 2264476.629217, "url": "", "pos": 1541, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f640", "doc": "http://www.popads.net/", "row": 11, "column": 21, "tagName": "div", "time": 2264476.629265, "url": "", "pos": 1564, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45fcd0", "doc": "http://www.popads.net/", "row": 12, "column": 16, "tagName": "a", "time": 2264476.629322, "url": "", "pos": 1582, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17bcd0", "doc": "http://www.popads.net/", "row": 12, "column": 167, "tagName": "img", "time": 2264476.629920, "url": "", "pos": 1733, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17c140", "doc": "http://www.popads.net/", "row": 12, "column": 171, "tagName": "a", "time": 2264476.630067, "url": "", "pos": 1737, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17bab0", "doc": "http://www.popads.net/", "row": 12, "column": 180, "tagName": "div", "time": 2264476.630097, "url": "", "pos": 1746, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17bd90", "doc": "http://www.popads.net/", "row": 13, "column": 20, "tagName": "div", "time": 2264476.630108, "url": "", "pos": 1768, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17c5c0", "doc": "http://www.popads.net/", "row": 14, "column": 8, "tagName": "ul", "time": 2264476.630156, "url": "", "pos": 1778, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17c370", "doc": "http://www.popads.net/", "row": 15, "column": 9, "tagName": "li", "time": 2264476.630217, "url": "", "pos": 1789, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ccb0", "doc": "http://www.popads.net/", "row": 16, "column": 200, "tagName": "img", "time": 2264476.630306, "url": "", "pos": 1991, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17d430", "doc": "http://www.popads.net/", "row": 16, "column": 224, "tagName": "div", "time": 2264476.630390, "url": "", "pos": 2015, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17d730", "doc": "http://www.popads.net/", "row": 16, "column": 236, "tagName": "a", "time": 2264476.630432, "url": "", "pos": 2027, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17db40", "doc": "http://www.popads.net/", "row": 16, "column": 244, "tagName": "a", "time": 2264476.630493, "url": "", "pos": 2035, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17d7f0", "doc": "http://www.popads.net/", "row": 16, "column": 250, "tagName": "div", "time": 2264476.630498, "url": "", "pos": 2041, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17d820", "doc": "http://www.popads.net/", "row": 17, "column": 202, "tagName": "img", "time": 2264476.630529, "url": "", "pos": 2245, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17dd60", "doc": "http://www.popads.net/", "row": 17, "column": 212, "tagName": "li", "time": 2264476.630635, "url": "", "pos": 2255, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17ddc0", "doc": "http://www.popads.net/", "row": 18, "column": 9, "tagName": "li", "time": 2264476.630643, "url": "", "pos": 2266, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17e290", "doc": "http://www.popads.net/", "row": 19, "column": 200, "tagName": "img", "time": 2264476.630680, "url": "", "pos": 2468, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17dc70", "doc": "http://www.popads.net/", "row": 19, "column": 224, "tagName": "div", "time": 2264476.630731, "url": "", "pos": 2492, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17e640", "doc": "http://www.popads.net/", "row": 19, "column": 252, "tagName": "a", "time": 2264476.630750, "url": "", "pos": 2520, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17c990", "doc": "http://www.popads.net/", "row": 19, "column": 267, "tagName": "a", "time": 2264476.630833, "url": "", "pos": 2535, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17c9c0", "doc": "http://www.popads.net/", "row": 19, "column": 273, "tagName": "div", "time": 2264476.630838, "url": "", "pos": 2541, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17ca10", "doc": "http://www.popads.net/", "row": 20, "column": 202, "tagName": "img", "time": 2264476.630861, "url": "", "pos": 2745, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17e500", "doc": "http://www.popads.net/", "row": 20, "column": 212, "tagName": "li", "time": 2264476.630919, "url": "", "pos": 2755, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17eb10", "doc": "http://www.popads.net/", "row": 21, "column": 9, "tagName": "li", "time": 2264476.630927, "url": "", "pos": 2766, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17e6a0", "doc": "http://www.popads.net/", "row": 22, "column": 200, "tagName": "img", "time": 2264476.630961, "url": "", "pos": 2968, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17e9e0", "doc": "http://www.popads.net/", "row": 22, "column": 224, "tagName": "div", "time": 2264476.631010, "url": "", "pos": 2992, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ce50", "doc": "http://www.popads.net/", "row": 22, "column": 251, "tagName": "a", "time": 2264476.631029, "url": "", "pos": 3019, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ec30", "doc": "http://www.popads.net/", "row": 22, "column": 265, "tagName": "a", "time": 2264476.631095, "url": "", "pos": 3033, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17ec60", "doc": "http://www.popads.net/", "row": 22, "column": 271, "tagName": "div", "time": 2264476.631100, "url": "", "pos": 3039, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17eec0", "doc": "http://www.popads.net/", "row": 23, "column": 202, "tagName": "img", "time": 2264476.631134, "url": "", "pos": 3243, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ee30", "doc": "http://www.popads.net/", "row": 23, "column": 212, "tagName": "li", "time": 2264476.631191, "url": "", "pos": 3253, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17ee90", "doc": "http://www.popads.net/", "row": 24, "column": 9, "tagName": "li", "time": 2264476.631199, "url": "", "pos": 3264, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17f300", "doc": "http://www.popads.net/", "row": 25, "column": 200, "tagName": "img", "time": 2264476.631234, "url": "", "pos": 3466, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17f1a0", "doc": "http://www.popads.net/", "row": 25, "column": 224, "tagName": "div", "time": 2264476.631312, "url": "", "pos": 3490, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ef60", "doc": "http://www.popads.net/", "row": 25, "column": 261, "tagName": "a", "time": 2264476.631333, "url": "", "pos": 3527, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17f3e0", "doc": "http://www.popads.net/", "row": 25, "column": 269, "tagName": "a", "time": 2264476.631394, "url": "", "pos": 3535, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17f410", "doc": "http://www.popads.net/", "row": 25, "column": 275, "tagName": "div", "time": 2264476.631398, "url": "", "pos": 3541, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17f670", "doc": "http://www.popads.net/", "row": 26, "column": 202, "tagName": "img", "time": 2264476.631421, "url": "", "pos": 3745, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17f940", "doc": "http://www.popads.net/", "row": 26, "column": 212, "tagName": "li", "time": 2264476.631481, "url": "", "pos": 3755, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17e360", "doc": "http://www.popads.net/", "row": 27, "column": 9, "tagName": "li", "time": 2264476.631489, "url": "", "pos": 3766, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17e390", "doc": "http://www.popads.net/", "row": 28, "column": 200, "tagName": "img", "time": 2264476.631524, "url": "", "pos": 3968, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17f9b0", "doc": "http://www.popads.net/", "row": 28, "column": 224, "tagName": "div", "time": 2264476.631572, "url": "", "pos": 3992, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17fe00", "doc": "http://www.popads.net/", "row": 28, "column": 244, "tagName": "a", "time": 2264476.631590, "url": "", "pos": 4012, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ed60", "doc": "http://www.popads.net/", "row": 28, "column": 251, "tagName": "a", "time": 2264476.631629, "url": "", "pos": 4019, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17ed90", "doc": "http://www.popads.net/", "row": 28, "column": 257, "tagName": "div", "time": 2264476.631633, "url": "", "pos": 4025, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x17ede0", "doc": "http://www.popads.net/", "row": 29, "column": 202, "tagName": "img", "time": 2264476.631665, "url": "", "pos": 4229, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17fcd0", "doc": "http://www.popads.net/", "row": 29, "column": 212, "tagName": "li", "time": 2264476.631719, "url": "", "pos": 4239, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1802d0", "doc": "http://www.popads.net/", "row": 30, "column": 9, "tagName": "li", "time": 2264476.631727, "url": "", "pos": 4250, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17f790", "doc": "http://www.popads.net/", "row": 31, "column": 200, "tagName": "img", "time": 2264476.631761, "url": "", "pos": 4452, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1801a0", "doc": "http://www.popads.net/", "row": 31, "column": 224, "tagName": "div", "time": 2264476.631809, "url": "", "pos": 4476, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x17ff80", "doc": "http://www.popads.net/", "row": 31, "column": 253, "tagName": "a", "time": 2264476.631835, "url": "", "pos": 4505, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1804f0", "doc": "http://www.popads.net/", "row": 31, "column": 269, "tagName": "a", "time": 2264476.631875, "url": "", "pos": 4521, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x180520", "doc": "http://www.popads.net/", "row": 31, "column": 275, "tagName": "div", "time": 2264476.631886, "url": "", "pos": 4527, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ea50", "doc": "http://www.popads.net/", "row": 32, "column": 202, "tagName": "img", "time": 2264476.631944, "url": "", "pos": 4731, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45eed0", "doc": "http://www.popads.net/", "row": 32, "column": 212, "tagName": "li", "time": 2264476.632010, "url": "", "pos": 4741, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45ef30", "doc": "http://www.popads.net/", "row": 33, "column": 9, "tagName": "li", "time": 2264476.632019, "url": "", "pos": 4752, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460330", "doc": "http://www.popads.net/", "row": 34, "column": 200, "tagName": "img", "time": 2264476.632057, "url": "", "pos": 4954, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4601f0", "doc": "http://www.popads.net/", "row": 34, "column": 224, "tagName": "div", "time": 2264476.632108, "url": "", "pos": 4978, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4606f0", "doc": "http://www.popads.net/", "row": 34, "column": 248, "tagName": "a", "time": 2264476.632126, "url": "", "pos": 5002, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4605f0", "doc": "http://www.popads.net/", "row": 34, "column": 259, "tagName": "a", "time": 2264476.632160, "url": "", "pos": 5013, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460620", "doc": "http://www.popads.net/", "row": 34, "column": 265, "tagName": "div", "time": 2264476.632164, "url": "", "pos": 5019, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4607f0", "doc": "http://www.popads.net/", "row": 35, "column": 202, "tagName": "img", "time": 2264476.632187, "url": "", "pos": 5223, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460820", "doc": "http://www.popads.net/", "row": 35, "column": 212, "tagName": "li", "time": 2264476.632242, "url": "", "pos": 5233, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460880", "doc": "http://www.popads.net/", "row": 36, "column": 9, "tagName": "ul", "time": 2264476.632249, "url": "", "pos": 5244, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460b90", "doc": "http://www.popads.net/", "row": 37, "column": 9, "tagName": "div", "time": 2264476.632255, "url": "", "pos": 5255, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460750", "doc": "http://www.popads.net/", "row": 38, "column": 22, "tagName": "div", "time": 2264476.632263, "url": "", "pos": 5279, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460b30", "doc": "http://www.popads.net/", "row": 38, "column": 28, "tagName": "div", "time": 2264476.632317, "url": "", "pos": 5285, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460d40", "doc": "http://www.popads.net/", "row": 39, "column": 8, "tagName": "div", "time": 2264476.632325, "url": "", "pos": 5295, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460e00", "doc": "http://www.popads.net/", "row": 40, "column": 17, "tagName": "div", "time": 2264476.632333, "url": "", "pos": 5314, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461100", "doc": "http://www.popads.net/", "row": 41, "column": 26, "tagName": "div", "time": 2264476.633130, "url": "", "pos": 5342, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4620b0", "doc": "http://www.popads.net/", "row": 42, "column": 25, "tagName": "div", "time": 2264476.633424, "url": "", "pos": 5369, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461ce0", "doc": "http://www.popads.net/", "row": 43, "column": 22, "tagName": "div", "time": 2264476.633661, "url": "", "pos": 5393, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462a90", "doc": "http://www.popads.net/", "row": 44, "column": 26, "tagName": "div", "time": 2264476.633708, "url": "", "pos": 5421, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462e30", "doc": "http://www.popads.net/", "row": 45, "column": 9, "tagName": "h1", "time": 2264476.633753, "url": "", "pos": 5432, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460f60", "doc": "http://www.popads.net/", "row": 45, "column": 47, "tagName": "h1", "time": 2264476.633817, "url": "", "pos": 5470, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463200", "doc": "http://www.popads.net/", "row": 46, "column": 9, "tagName": "h2", "time": 2264476.633827, "url": "", "pos": 5481, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463420", "doc": "http://www.popads.net/", "row": 46, "column": 69, "tagName": "h2", "time": 2264476.633876, "url": "", "pos": 5541, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463660", "doc": "http://www.popads.net/", "row": 47, "column": 8, "tagName": "p", "time": 2264476.633884, "url": "", "pos": 5551, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463870", "doc": "http://www.popads.net/", "row": 47, "column": 244, "tagName": "p", "time": 2264476.633934, "url": "", "pos": 5787, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463ac0", "doc": "http://www.popads.net/", "row": 48, "column": 10, "tagName": "div", "time": 2264476.633942, "url": "", "pos": 5799, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4638d0", "doc": "http://www.popads.net/", "row": 49, "column": 27, "tagName": "div", "time": 2264476.633952, "url": "", "pos": 5828, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464130", "doc": "http://www.popads.net/", "row": 50, "column": 28, "tagName": "div", "time": 2264476.634010, "url": "", "pos": 5858, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464440", "doc": "http://www.popads.net/", "row": 51, "column": 18, "tagName": "div", "time": 2264476.634051, "url": "", "pos": 5877, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464c80", "doc": "http://www.popads.net/", "row": 51, "column": 42, "tagName": "div", "time": 2264476.634318, "url": "", "pos": 5901, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463f40", "doc": "http://www.popads.net/", "row": 52, "column": 22, "tagName": "div", "time": 2264476.634329, "url": "", "pos": 5924, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465110", "doc": "http://www.popads.net/", "row": 53, "column": 21, "tagName": "div", "time": 2264476.634576, "url": "", "pos": 5946, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465c80", "doc": "http://www.popads.net/", "row": 54, "column": 113, "tagName": "form", "time": 2264476.634821, "url": "", "pos": 6060, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466600", "doc": "http://www.popads.net/", "row": 54, "column": 140, "tagName": "div", "time": 2264476.634940, "url": "", "pos": 6087, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466a50", "doc": "http://www.popads.net/", "row": 54, "column": 191, "tagName": "input", "time": 2264476.635004, "url": "", "pos": 6138, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466d50", "doc": "http://www.popads.net/", "row": 54, "column": 309, "tagName": "input", "time": 2264476.635080, "url": "", "pos": 6256, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466b50", "doc": "http://www.popads.net/", "row": 54, "column": 315, "tagName": "div", "time": 2264476.635122, "url": "", "pos": 6262, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466ce0", "doc": "http://www.popads.net/", "row": 54, "column": 348, "tagName": "div", "time": 2264476.635134, "url": "", "pos": 6295, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467180", "doc": "http://www.popads.net/", "row": 55, "column": 203, "tagName": "img", "time": 2264476.635195, "url": "", "pos": 6499, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4679e0", "doc": "http://www.popads.net/", "row": 55, "column": 227, "tagName": "div", "time": 2264476.635303, "url": "", "pos": 6523, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467050", "doc": "http://www.popads.net/", "row": 55, "column": 260, "tagName": "div", "time": 2264476.635546, "url": "", "pos": 6556, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468500", "doc": "http://www.popads.net/", "row": 55, "column": 286, "tagName": "label", "time": 2264476.635595, "url": "", "pos": 6582, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468890", "doc": "http://www.popads.net/", "row": 55, "column": 302, "tagName": "label", "time": 2264476.635651, "url": "", "pos": 6598, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4685d0", "doc": "http://www.popads.net/", "row": 55, "column": 384, "tagName": "input", "time": 2264476.635663, "url": "", "pos": 6680, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x185750", "doc": "http://www.popads.net/", "row": 55, "column": 390, "tagName": "div", "time": 2264476.653299, "url": "", "pos": 6686, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x185780", "doc": "http://www.popads.net/", "row": 55, "column": 396, "tagName": "div", "time": 2264476.653309, "url": "", "pos": 6692, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x183890", "doc": "http://www.popads.net/", "row": 56, "column": 205, "tagName": "img", "time": 2264476.653349, "url": "", "pos": 6898, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x185720", "doc": "http://www.popads.net/", "row": 56, "column": 215, "tagName": "div", "time": 2264476.653466, "url": "", "pos": 6908, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1839f0", "doc": "http://www.popads.net/", "row": 57, "column": 23, "tagName": "div", "time": 2264476.653476, "url": "", "pos": 6932, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x183840", "doc": "http://www.popads.net/", "row": 57, "column": 29, "tagName": "div", "time": 2264476.653520, "url": "", "pos": 6938, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x183a20", "doc": "http://www.popads.net/", "row": 58, "column": 10, "tagName": "br", "time": 2264476.653528, "url": "", "pos": 6949, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x183e20", "doc": "http://www.popads.net/", "row": 59, "column": 33, "tagName": "div", "time": 2264476.653569, "url": "", "pos": 6983, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x183fe0", "doc": "http://www.popads.net/", "row": 60, "column": 203, "tagName": "img", "time": 2264476.653606, "url": "", "pos": 7187, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x184370", "doc": "http://www.popads.net/", "row": 60, "column": 227, "tagName": "div", "time": 2264476.653659, "url": "", "pos": 7211, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1841a0", "doc": "http://www.popads.net/", "row": 60, "column": 255, "tagName": "div", "time": 2264476.653678, "url": "", "pos": 7239, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1840a0", "doc": "http://www.popads.net/", "row": 60, "column": 281, "tagName": "label", "time": 2264476.653712, "url": "", "pos": 7265, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x184470", "doc": "http://www.popads.net/", "row": 60, "column": 297, "tagName": "label", "time": 2264476.653758, "url": "", "pos": 7281, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1844e0", "doc": "http://www.popads.net/", "row": 60, "column": 368, "tagName": "input", "time": 2264476.653768, "url": "", "pos": 7352, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1847a0", "doc": "http://www.popads.net/", "row": 60, "column": 374, "tagName": "div", "time": 2264476.653998, "url": "", "pos": 7358, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x184ff0", "doc": "http://www.popads.net/", "row": 60, "column": 380, "tagName": "div", "time": 2264476.654002, "url": "", "pos": 7364, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1850b0", "doc": "http://www.popads.net/", "row": 61, "column": 205, "tagName": "img", "time": 2264476.654027, "url": "", "pos": 7570, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x185020", "doc": "http://www.popads.net/", "row": 61, "column": 215, "tagName": "div", "time": 2264476.654079, "url": "", "pos": 7580, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x185080", "doc": "http://www.popads.net/", "row": 62, "column": 23, "tagName": "div", "time": 2264476.654088, "url": "", "pos": 7604, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x184660", "doc": "http://www.popads.net/", "row": 62, "column": 29, "tagName": "div", "time": 2264476.654110, "url": "", "pos": 7610, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1846c0", "doc": "http://www.popads.net/", "row": 63, "column": 10, "tagName": "br", "time": 2264476.654118, "url": "", "pos": 7621, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1851b0", "doc": "http://www.popads.net/", "row": 64, "column": 29, "tagName": "div", "time": 2264476.654140, "url": "", "pos": 7651, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x185a90", "doc": "http://www.popads.net/", "row": 65, "column": 33, "tagName": "div", "time": 2264476.654193, "url": "", "pos": 7685, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1853f0", "doc": "http://www.popads.net/", "row": 65, "column": 118, "tagName": "input", "time": 2264476.654224, "url": "", "pos": 7770, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x185e90", "doc": "http://www.popads.net/", "row": 65, "column": 204, "tagName": "input", "time": 2264476.654360, "url": "", "pos": 7856, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x185c20", "doc": "http://www.popads.net/", "row": 65, "column": 232, "tagName": "label", "time": 2264476.654468, "url": "", "pos": 7884, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x186f10", "doc": "http://www.popads.net/", "row": 65, "column": 251, "tagName": "label", "time": 2264476.654527, "url": "", "pos": 7903, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x186f40", "doc": "http://www.popads.net/", "row": 65, "column": 257, "tagName": "div", "time": 2264476.654533, "url": "", "pos": 7909, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1870a0", "doc": "http://www.popads.net/", "row": 65, "column": 267, "tagName": "div", "time": 2264476.654540, "url": "", "pos": 7919, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x186b70", "doc": "http://www.popads.net/", "row": 66, "column": 30, "tagName": "div", "time": 2264476.654550, "url": "", "pos": 7950, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187420", "doc": "http://www.popads.net/", "row": 67, "column": 29, "tagName": "a", "time": 2264476.654601, "url": "", "pos": 7980, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187010", "doc": "http://www.popads.net/", "row": 67, "column": 49, "tagName": "a", "time": 2264476.654661, "url": "", "pos": 8000, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x187070", "doc": "http://www.popads.net/", "row": 67, "column": 59, "tagName": "div", "time": 2264476.654672, "url": "", "pos": 8010, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1876a0", "doc": "http://www.popads.net/", "row": 68, "column": 23, "tagName": "div", "time": 2264476.654681, "url": "", "pos": 8034, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187710", "doc": "http://www.popads.net/", "row": 68, "column": 29, "tagName": "div", "time": 2264476.654698, "url": "", "pos": 8040, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x187840", "doc": "http://www.popads.net/", "row": 68, "column": 35, "tagName": "br", "time": 2264476.654702, "url": "", "pos": 8046, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187870", "doc": "http://www.popads.net/", "row": 69, "column": 22, "tagName": "div", "time": 2264476.654723, "url": "", "pos": 8069, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187e00", "doc": "http://www.popads.net/", "row": 70, "column": 180, "tagName": "input", "time": 2264476.654790, "url": "", "pos": 8250, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187c50", "doc": "http://www.popads.net/", "row": 70, "column": 190, "tagName": "div", "time": 2264476.654973, "url": "", "pos": 8260, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1877a0", "doc": "http://www.popads.net/", "row": 71, "column": 31, "tagName": "div", "time": 2264476.654985, "url": "", "pos": 8292, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x188930", "doc": "http://www.popads.net/", "row": 71, "column": 161, "tagName": "input", "time": 2264476.655052, "url": "", "pos": 8422, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x188a10", "doc": "http://www.popads.net/", "row": 71, "column": 167, "tagName": "div", "time": 2264476.655082, "url": "", "pos": 8428, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x188760", "doc": "http://www.popads.net/", "row": 71, "column": 174, "tagName": "form", "time": 2264476.655086, "url": "", "pos": 8435, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x188b20", "doc": "http://www.popads.net/", "row": 71, "column": 203, "tagName": "a", "time": 2264476.655097, "url": "", "pos": 8464, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187d50", "doc": "http://www.popads.net/", "row": 71, "column": 384, "tagName": "img", "time": 2264476.655161, "url": "", "pos": 8645, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x187ce0", "doc": "http://www.popads.net/", "row": 71, "column": 388, "tagName": "a", "time": 2264476.655228, "url": "", "pos": 8649, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1893e0", "doc": "http://www.popads.net/", "row": 71, "column": 411, "tagName": "div", "time": 2264476.655244, "url": "", "pos": 8672, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x188e90", "doc": "http://www.popads.net/", "row": 71, "column": 417, "tagName": "div", "time": 2264476.655271, "url": "", "pos": 8678, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1894e0", "doc": "http://www.popads.net/", "row": 73, "column": 8, "tagName": "div", "time": 2264476.655279, "url": "", "pos": 8698, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189540", "doc": "http://www.popads.net/", "row": 74, "column": 7, "tagName": "div", "time": 2264476.655285, "url": "", "pos": 8706, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1896a0", "doc": "http://www.popads.net/", "row": 75, "column": 6, "tagName": "div", "time": 2264476.655291, "url": "", "pos": 8713, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x188dc0", "doc": "http://www.popads.net/", "row": 76, "column": 10, "tagName": "div", "time": 2264476.655297, "url": "", "pos": 8724, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x188e20", "doc": "http://www.popads.net/", "row": 77, "column": 9, "tagName": "div", "time": 2264476.655304, "url": "", "pos": 8735, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189570", "doc": "http://www.popads.net/", "row": 78, "column": 22, "tagName": "div", "time": 2264476.655312, "url": "", "pos": 8759, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189620", "doc": "http://www.popads.net/", "row": 78, "column": 28, "tagName": "div", "time": 2264476.655331, "url": "", "pos": 8765, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x189800", "doc": "http://www.popads.net/", "row": 79, "column": 26, "tagName": "div", "time": 2264476.655341, "url": "", "pos": 8793, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189910", "doc": "http://www.popads.net/", "row": 80, "column": 26, "tagName": "div", "time": 2264476.655370, "url": "", "pos": 8821, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189c60", "doc": "http://www.popads.net/", "row": 81, "column": 22, "tagName": "h2", "time": 2264476.655413, "url": "", "pos": 8845, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x189ff0", "doc": "http://www.popads.net/", "row": 81, "column": 30, "tagName": "strong", "time": 2264476.655464, "url": "", "pos": 8853, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a4c0", "doc": "http://www.popads.net/", "row": 81, "column": 54, "tagName": "span", "time": 2264476.655507, "url": "", "pos": 8877, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a770", "doc": "http://www.popads.net/", "row": 81, "column": 64, "tagName": "span", "time": 2264476.655547, "url": "", "pos": 8887, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a0f0", "doc": "http://www.popads.net/", "row": 81, "column": 73, "tagName": "strong", "time": 2264476.655551, "url": "", "pos": 8896, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a180", "doc": "http://www.popads.net/", "row": 81, "column": 92, "tagName": "h2", "time": 2264476.655560, "url": "", "pos": 8915, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18a940", "doc": "http://www.popads.net/", "row": 82, "column": 11, "tagName": "br", "time": 2264476.655568, "url": "", "pos": 8928, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18a8d0", "doc": "http://www.popads.net/", "row": 83, "column": 33, "tagName": "p", "time": 2264476.655593, "url": "", "pos": 8963, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ae40", "doc": "http://www.popads.net/", "row": 83, "column": 136, "tagName": "p", "time": 2264476.655654, "url": "", "pos": 9066, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b040", "doc": "http://www.popads.net/", "row": 84, "column": 11, "tagName": "br", "time": 2264476.655663, "url": "", "pos": 9079, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b120", "doc": "http://www.popads.net/", "row": 85, "column": 23, "tagName": "p", "time": 2264476.655692, "url": "", "pos": 9104, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b470", "doc": "http://www.popads.net/", "row": 85, "column": 493, "tagName": "p", "time": 2264476.655753, "url": "", "pos": 9574, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b230", "doc": "http://www.popads.net/", "row": 86, "column": 31, "tagName": "div", "time": 2264476.655763, "url": "", "pos": 9607, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b6b0", "doc": "http://www.popads.net/", "row": 86, "column": 43, "tagName": "div", "time": 2264476.656021, "url": "", "pos": 9619, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18b650", "doc": "http://www.popads.net/", "row": 87, "column": 29, "tagName": "div", "time": 2264476.656032, "url": "", "pos": 9650, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18b8d0", "doc": "http://www.popads.net/", "row": 88, "column": 32, "tagName": "div", "time": 2264476.656064, "url": "", "pos": 9684, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18bae0", "doc": "http://www.popads.net/", "row": 89, "column": 26, "tagName": "h4", "time": 2264476.656264, "url": "", "pos": 9712, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cb00", "doc": "http://www.popads.net/", "row": 89, "column": 45, "tagName": "h4", "time": 2264476.656315, "url": "", "pos": 9731, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18c230", "doc": "http://www.popads.net/", "row": 89, "column": 51, "tagName": "br", "time": 2264476.656325, "url": "", "pos": 9737, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cb30", "doc": "http://www.popads.net/", "row": 90, "column": 25, "tagName": "p", "time": 2264476.656350, "url": "", "pos": 9764, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18cd40", "doc": "http://www.popads.net/", "row": 90, "column": 35, "tagName": "em", "time": 2264476.656392, "url": "", "pos": 9774, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d090", "doc": "http://www.popads.net/", "row": 90, "column": 43, "tagName": "em", "time": 2264476.656431, "url": "", "pos": 9782, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d100", "doc": "http://www.popads.net/", "row": 90, "column": 70, "tagName": "p", "time": 2264476.656442, "url": "", "pos": 9809, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d130", "doc": "http://www.popads.net/", "row": 91, "column": 12, "tagName": "div", "time": 2264476.656449, "url": "", "pos": 9823, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18d450", "doc": "http://www.popads.net/", "row": 92, "column": 36, "tagName": "div", "time": 2264476.656460, "url": "", "pos": 9861, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d550", "doc": "http://www.popads.net/", "row": 93, "column": 26, "tagName": "h4", "time": 2264476.656654, "url": "", "pos": 9889, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18d940", "doc": "http://www.popads.net/", "row": 93, "column": 46, "tagName": "h4", "time": 2264476.656693, "url": "", "pos": 9909, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18db50", "doc": "http://www.popads.net/", "row": 93, "column": 52, "tagName": "br", "time": 2264476.656698, "url": "", "pos": 9915, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18df20", "doc": "http://www.popads.net/", "row": 94, "column": 25, "tagName": "p", "time": 2264476.656726, "url": "", "pos": 9942, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18e480", "doc": "http://www.popads.net/", "row": 94, "column": 81, "tagName": "p", "time": 2264476.656771, "url": "", "pos": 9998, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e160", "doc": "http://www.popads.net/", "row": 95, "column": 12, "tagName": "div", "time": 2264476.656779, "url": "", "pos": 10012, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e1c0", "doc": "http://www.popads.net/", "row": 96, "column": 25, "tagName": "div", "time": 2264476.656787, "url": "", "pos": 10039, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18e3d0", "doc": "http://www.popads.net/", "row": 96, "column": 31, "tagName": "div", "time": 2264476.656813, "url": "", "pos": 10045, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18e810", "doc": "http://www.popads.net/", "row": 97, "column": 35, "tagName": "div", "time": 2264476.656824, "url": "", "pos": 10083, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18f7e0", "doc": "http://www.popads.net/", "row": 98, "column": 26, "tagName": "h4", "time": 2264476.657032, "url": "", "pos": 10111, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ec70", "doc": "http://www.popads.net/", "row": 98, "column": 44, "tagName": "h4", "time": 2264476.657072, "url": "", "pos": 10129, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18f930", "doc": "http://www.popads.net/", "row": 98, "column": 50, "tagName": "br", "time": 2264476.657077, "url": "", "pos": 10135, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18f830", "doc": "http://www.popads.net/", "row": 99, "column": 25, "tagName": "p", "time": 2264476.657101, "url": "", "pos": 10162, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18f2c0", "doc": "http://www.popads.net/", "row": 99, "column": 67, "tagName": "p", "time": 2264476.657146, "url": "", "pos": 10204, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18f2f0", "doc": "http://www.popads.net/", "row": 100, "column": 12, "tagName": "div", "time": 2264476.657154, "url": "", "pos": 10218, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x18f350", "doc": "http://www.popads.net/", "row": 101, "column": 37, "tagName": "div", "time": 2264476.657163, "url": "", "pos": 10257, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190830", "doc": "http://www.popads.net/", "row": 102, "column": 26, "tagName": "h4", "time": 2264476.657357, "url": "", "pos": 10285, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18fca0", "doc": "http://www.popads.net/", "row": 102, "column": 44, "tagName": "h4", "time": 2264476.657501, "url": "", "pos": 10303, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190980", "doc": "http://www.popads.net/", "row": 102, "column": 50, "tagName": "br", "time": 2264476.657505, "url": "", "pos": 10309, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190880", "doc": "http://www.popads.net/", "row": 103, "column": 25, "tagName": "p", "time": 2264476.657531, "url": "", "pos": 10336, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ffc0", "doc": "http://www.popads.net/", "row": 103, "column": 80, "tagName": "p", "time": 2264476.657577, "url": "", "pos": 10391, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190360", "doc": "http://www.popads.net/", "row": 104, "column": 12, "tagName": "div", "time": 2264476.657586, "url": "", "pos": 10405, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190610", "doc": "http://www.popads.net/", "row": 105, "column": 25, "tagName": "div", "time": 2264476.657594, "url": "", "pos": 10432, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1907b0", "doc": "http://www.popads.net/", "row": 105, "column": 31, "tagName": "div", "time": 2264476.657611, "url": "", "pos": 10438, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190570", "doc": "http://www.popads.net/", "row": 106, "column": 11, "tagName": "div", "time": 2264476.657619, "url": "", "pos": 10454, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1905d0", "doc": "http://www.popads.net/", "row": 107, "column": 10, "tagName": "div", "time": 2264476.657626, "url": "", "pos": 10466, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x190aa0", "doc": "http://www.popads.net/", "row": 108, "column": 27, "tagName": "div", "time": 2264476.657635, "url": "", "pos": 10495, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x190dd0", "doc": "http://www.popads.net/", "row": 109, "column": 23, "tagName": "div", "time": 2264476.657757, "url": "", "pos": 10520, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x191670", "doc": "http://www.popads.net/", "row": 110, "column": 24, "tagName": "h4", "time": 2264476.657985, "url": "", "pos": 10546, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x191910", "doc": "http://www.popads.net/", "row": 110, "column": 42, "tagName": "h4", "time": 2264476.658037, "url": "", "pos": 10564, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x191360", "doc": "http://www.popads.net/", "row": 111, "column": 11, "tagName": "div", "time": 2264476.658046, "url": "", "pos": 10577, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1913c0", "doc": "http://www.popads.net/", "row": 112, "column": 11, "tagName": "br", "time": 2264476.658054, "url": "", "pos": 10590, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x191b20", "doc": "http://www.popads.net/", "row": 113, "column": 33, "tagName": "div", "time": 2264476.658080, "url": "", "pos": 10625, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x191e20", "doc": "http://www.popads.net/", "row": 114, "column": 29, "tagName": "div", "time": 2264476.658127, "url": "", "pos": 10656, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x192400", "doc": "http://www.popads.net/", "row": 114, "column": 100, "tagName": "a", "time": 2264476.658181, "url": "", "pos": 10727, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x18ab10", "doc": "http://www.popads.net/", "row": 114, "column": 119, "tagName": "a", "time": 2264476.658344, "url": "", "pos": 10746, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x186440", "doc": "http://www.popads.net/", "row": 114, "column": 125, "tagName": "div", "time": 2264476.658348, "url": "", "pos": 10752, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x191fb0", "doc": "http://www.popads.net/", "row": 115, "column": 26, "tagName": "div", "time": 2264476.658358, "url": "", "pos": 10780, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193110", "doc": "http://www.popads.net/", "row": 116, "column": 63, "tagName": "div", "time": 2264476.658418, "url": "", "pos": 10989, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193210", "doc": "http://www.popads.net/", "row": 117, "column": 11, "tagName": "div", "time": 2264476.658425, "url": "", "pos": 11002, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193240", "doc": "http://www.popads.net/", "row": 118, "column": 33, "tagName": "div", "time": 2264476.658434, "url": "", "pos": 11037, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1932e0", "doc": "http://www.popads.net/", "row": 119, "column": 29, "tagName": "div", "time": 2264476.658456, "url": "", "pos": 11068, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1936c0", "doc": "http://www.popads.net/", "row": 119, "column": 113, "tagName": "a", "time": 2264476.658478, "url": "", "pos": 11152, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193600", "doc": "http://www.popads.net/", "row": 119, "column": 145, "tagName": "a", "time": 2264476.658533, "url": "", "pos": 11184, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193630", "doc": "http://www.popads.net/", "row": 119, "column": 151, "tagName": "div", "time": 2264476.658538, "url": "", "pos": 11190, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193660", "doc": "http://www.popads.net/", "row": 120, "column": 26, "tagName": "div", "time": 2264476.658546, "url": "", "pos": 11218, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193530", "doc": "http://www.popads.net/", "row": 121, "column": 67, "tagName": "div", "time": 2264476.658575, "url": "", "pos": 11427, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193590", "doc": "http://www.popads.net/", "row": 122, "column": 11, "tagName": "div", "time": 2264476.658583, "url": "", "pos": 11440, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1937b0", "doc": "http://www.popads.net/", "row": 123, "column": 33, "tagName": "div", "time": 2264476.658591, "url": "", "pos": 11475, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193950", "doc": "http://www.popads.net/", "row": 124, "column": 29, "tagName": "div", "time": 2264476.658612, "url": "", "pos": 11506, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193920", "doc": "http://www.popads.net/", "row": 124, "column": 115, "tagName": "a", "time": 2264476.658634, "url": "", "pos": 11592, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193ba0", "doc": "http://www.popads.net/", "row": 124, "column": 152, "tagName": "a", "time": 2264476.658685, "url": "", "pos": 11629, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193bd0", "doc": "http://www.popads.net/", "row": 124, "column": 158, "tagName": "div", "time": 2264476.658689, "url": "", "pos": 11635, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x193d00", "doc": "http://www.popads.net/", "row": 125, "column": 26, "tagName": "div", "time": 2264476.658699, "url": "", "pos": 11663, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x193eb0", "doc": "http://www.popads.net/", "row": 125, "column": 81, "tagName": "i", "time": 2264476.658740, "url": "", "pos": 11718, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194040", "doc": "http://www.popads.net/", "row": 125, "column": 104, "tagName": "i", "time": 2264476.658783, "url": "", "pos": 11741, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1940a0", "doc": "http://www.popads.net/", "row": 125, "column": 235, "tagName": "div", "time": 2264476.658797, "url": "", "pos": 11872, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x194100", "doc": "http://www.popads.net/", "row": 126, "column": 11, "tagName": "div", "time": 2264476.658805, "url": "", "pos": 11885, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x194360", "doc": "http://www.popads.net/", "row": 127, "column": 16, "tagName": "br", "time": 2264476.658812, "url": "", "pos": 11903, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1945a0", "doc": "http://www.popads.net/", "row": 128, "column": 23, "tagName": "div", "time": 2264476.658834, "url": "", "pos": 11928, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194650", "doc": "http://www.popads.net/", "row": 129, "column": 53, "tagName": "a", "time": 2264476.658870, "url": "", "pos": 11983, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194850", "doc": "http://www.popads.net/", "row": 129, "column": 233, "tagName": "img", "time": 2264476.658927, "url": "", "pos": 12163, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1942e0", "doc": "http://www.popads.net/", "row": 129, "column": 237, "tagName": "a", "time": 2264476.659008, "url": "", "pos": 12167, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x194e20", "doc": "http://www.popads.net/", "row": 130, "column": 11, "tagName": "div", "time": 2264476.659020, "url": "", "pos": 12194, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1947b0", "doc": "http://www.popads.net/", "row": 131, "column": 24, "tagName": "div", "time": 2264476.659029, "url": "", "pos": 12220, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194980", "doc": "http://www.popads.net/", "row": 132, "column": 66, "tagName": "a", "time": 2264476.659087, "url": "", "pos": 12288, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x195590", "doc": "http://www.popads.net/", "row": 132, "column": 79, "tagName": "a", "time": 2264476.659154, "url": "", "pos": 12301, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195620", "doc": "http://www.popads.net/", "row": 133, "column": 11, "tagName": "div", "time": 2264476.659165, "url": "", "pos": 12319, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195650", "doc": "http://www.popads.net/", "row": 134, "column": 24, "tagName": "div", "time": 2264476.659174, "url": "", "pos": 12345, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x195700", "doc": "http://www.popads.net/", "row": 134, "column": 30, "tagName": "div", "time": 2264476.659197, "url": "", "pos": 12351, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1957c0", "doc": "http://www.popads.net/", "row": 135, "column": 10, "tagName": "div", "time": 2264476.659205, "url": "", "pos": 12363, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195920", "doc": "http://www.popads.net/", "row": 136, "column": 23, "tagName": "div", "time": 2264476.659213, "url": "", "pos": 12388, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x194f30", "doc": "http://www.popads.net/", "row": 136, "column": 29, "tagName": "div", "time": 2264476.659238, "url": "", "pos": 12394, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x194f90", "doc": "http://www.popads.net/", "row": 137, "column": 9, "tagName": "div", "time": 2264476.659409, "url": "", "pos": 12405, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195820", "doc": "http://www.popads.net/", "row": 138, "column": 8, "tagName": "div", "time": 2264476.659418, "url": "", "pos": 12415, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195880", "doc": "http://www.popads.net/", "row": 139, "column": 7, "tagName": "div", "time": 2264476.659425, "url": "", "pos": 12425, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1958e0", "doc": "http://www.popads.net/", "row": 140, "column": 6, "tagName": "div", "time": 2264476.659431, "url": "", "pos": 12433, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1959c0", "doc": "http://www.popads.net/", "row": 141, "column": 7, "tagName": "div", "time": 2264476.659437, "url": "", "pos": 12442, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x195c20", "doc": "http://www.popads.net/", "row": 142, "column": 18, "tagName": "div", "time": 2264476.659445, "url": "", "pos": 12462, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x195df0", "doc": "http://www.popads.net/", "row": 143, "column": 27, "tagName": "div", "time": 2264476.659510, "url": "", "pos": 12491, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x195fc0", "doc": "http://www.popads.net/", "row": 144, "column": 108, "tagName": "a", "time": 2264476.659561, "url": "", "pos": 12601, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x196270", "doc": "http://www.popads.net/", "row": 144, "column": 126, "tagName": "a", "time": 2264476.661088, "url": "", "pos": 12619, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x46b130", "doc": "http://www.popads.net/", "row": 144, "column": 163, "tagName": "a", "time": 2264476.661143, "url": "", "pos": 12656, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467d20", "doc": "http://www.popads.net/", "row": 144, "column": 183, "tagName": "a", "time": 2264476.661188, "url": "", "pos": 12676, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4689d0", "doc": "http://www.popads.net/", "row": 144, "column": 191, "tagName": "div", "time": 2264476.661215, "url": "", "pos": 12684, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468a30", "doc": "http://www.popads.net/", "row": 145, "column": 21, "tagName": "div", "time": 2264476.661241, "url": "", "pos": 12707, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467c30", "doc": "http://www.popads.net/", "row": 145, "column": 27, "tagName": "div", "time": 2264476.661277, "url": "", "pos": 12713, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x451ab0", "doc": "http://www.popads.net/", "row": 146, "column": 7, "tagName": "div", "time": 2264476.661286, "url": "", "pos": 12722, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x451b10", "doc": "http://www.popads.net/", "row": 147, "column": 33, "tagName": "script", "time": 2264476.661295, "url": "", "pos": 12757, "chunkLen": 13556, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466980", "doc": "http://www.popads.net/", "row": 160, "column": 10, "tagName": "script", "time": 2264476.661362, "url": "http://www.google-analytics.com/ga.js", "pos": 13262, "chunkLen": 13556, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466740", "doc": "http://www.popads.net/", "row": 161, "column": 52, "tagName": "div", "time": 2264476.662998, "url": "", "pos": 7781, "chunkLen": 8021, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x46fc10", "doc": "http://www.popads.net/", "row": 161, "column": 58, "tagName": "div", "time": 2264476.663113, "url": "", "pos": 7787, "chunkLen": 8021, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x451a80", "doc": "http://www.popads.net/", "row": 162, "column": 204, "tagName": "script", "time": 2264476.663152, "url": "http://static.popads.net/js/trustguard.js", "pos": 7993, "chunkLen": 8021, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x470130", "doc": "http://www.popads.net/", "row": 162, "column": 213, "tagName": "script", "time": 2264476.663200, "url": "", "pos": 8002, "chunkLen": 8021, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x470740", "doc": "http://www.popads.net/", "row": 0, "column": 147, "tagName": "a", "time": 2264476.663989, "url": "", "pos": 147, "chunkLen": 294, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x470c40", "doc": "http://www.popads.net/", "row": 0, "column": 289, "tagName": "img", "time": 2264476.664061, "url": "", "pos": 289, "chunkLen": 294, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x470ef0", "doc": "http://www.popads.net/", "row": 0, "column": 293, "tagName": "a", "time": 2264476.665823, "url": "", "pos": 293, "chunkLen": 294, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x471e50", "doc": "http://www.popads.net/", "row": 0, "column": 147, "tagName": "a", "time": 2264476.666216, "url": "", "pos": 147, "chunkLen": 579, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x471ed0", "doc": "http://www.popads.net/", "row": 0, "column": 287, "tagName": "img", "time": 2264476.666280, "url": "", "pos": 287, "chunkLen": 579, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x472490", "doc": "http://www.popads.net/", "row": 0, "column": 291, "tagName": "a", "time": 2264476.666362, "url": "", "pos": 291, "chunkLen": 579, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x472250", "doc": "http://www.popads.net/", "row": 0, "column": 439, "tagName": "a", "time": 2264476.666380, "url": "", "pos": 439, "chunkLen": 579, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4722b0", "doc": "http://www.popads.net/", "row": 0, "column": 574, "tagName": "img", "time": 2264476.666413, "url": "", "pos": 574, "chunkLen": 579, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4728c0", "doc": "http://www.popads.net/", "row": 0, "column": 578, "tagName": "a", "time": 2264476.666740, "url": "", "pos": 578, "chunkLen": 579, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x471d20", "doc": "http://www.popads.net/", "row": 0, "column": 147, "tagName": "a", "time": 2264476.666980, "url": "", "pos": 147, "chunkLen": 862, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x470b40", "doc": "http://www.popads.net/", "row": 0, "column": 287, "tagName": "img", "time": 2264476.667018, "url": "", "pos": 287, "chunkLen": 862, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4726f0", "doc": "http://www.popads.net/", "row": 0, "column": 291, "tagName": "a", "time": 2264476.667072, "url": "", "pos": 291, "chunkLen": 862, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x473040", "doc": "http://www.popads.net/", "row": 0, "column": 439, "tagName": "a", "time": 2264476.667088, "url": "", "pos": 439, "chunkLen": 862, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4730a0", "doc": "http://www.popads.net/", "row": 0, "column": 572, "tagName": "img", "time": 2264476.667144, "url": "", "pos": 572, "chunkLen": 862, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x473390", "doc": "http://www.popads.net/", "row": 0, "column": 576, "tagName": "a", "time": 2264476.667192, "url": "", "pos": 576, "chunkLen": 862, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4734f0", "doc": "http://www.popads.net/", "row": 0, "column": 724, "tagName": "a", "time": 2264476.667208, "url": "", "pos": 724, "chunkLen": 862, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4739e0", "doc": "http://www.popads.net/", "row": 0, "column": 857, "tagName": "img", "time": 2264476.667240, "url": "", "pos": 857, "chunkLen": 862, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x474010", "doc": "http://www.popads.net/", "row": 0, "column": 861, "tagName": "a", "time": 2264476.667587, "url": "", "pos": 861, "chunkLen": 862, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x470f20", "doc": "http://www.popads.net/", "row": 0, "column": 147, "tagName": "a", "time": 2264476.667858, "url": "", "pos": 147, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x472280", "doc": "http://www.popads.net/", "row": 0, "column": 287, "tagName": "img", "time": 2264476.667900, "url": "", "pos": 287, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x472160", "doc": "http://www.popads.net/", "row": 0, "column": 291, "tagName": "a", "time": 2264476.667961, "url": "", "pos": 291, "chunkLen": 1154, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x471fd0", "doc": "http://www.popads.net/", "row": 0, "column": 439, "tagName": "a", "time": 2264476.667978, "url": "", "pos": 439, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x472030", "doc": "http://www.popads.net/", "row": 0, "column": 572, "tagName": "img", "time": 2264476.668009, "url": "", "pos": 572, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x474300", "doc": "http://www.popads.net/", "row": 0, "column": 576, "tagName": "a", "time": 2264476.670136, "url": "", "pos": 576, "chunkLen": 1154, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4743d0", "doc": "http://www.popads.net/", "row": 0, "column": 724, "tagName": "a", "time": 2264476.670166, "url": "", "pos": 724, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x474430", "doc": "http://www.popads.net/", "row": 0, "column": 855, "tagName": "img", "time": 2264476.670238, "url": "", "pos": 855, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x474aa0", "doc": "http://www.popads.net/", "row": 0, "column": 859, "tagName": "a", "time": 2264476.670308, "url": "", "pos": 859, "chunkLen": 1154, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x474820", "doc": "http://www.popads.net/", "row": 0, "column": 1007, "tagName": "a", "time": 2264476.670327, "url": "", "pos": 1007, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x474a00", "doc": "http://www.popads.net/", "row": 0, "column": 1149, "tagName": "img", "time": 2264476.670361, "url": "", "pos": 1149, "chunkLen": 1154, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x475470", "doc": "http://www.popads.net/", "row": 0, "column": 1153, "tagName": "a", "time": 2264476.670799, "url": "", "pos": 1153, "chunkLen": 1154, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4519d0", "doc": "http://www.popads.net/", "row": 162, "column": 220, "tagName": "body", "time": 2264476.671158, "url": "", "pos": 8009, "chunkLen": 8021, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x473070", "doc": "http://www.popads.net/", "row": 163, "column": 7, "tagName": "html", "time": 2264476.671166, "url": "", "pos": 8018, "chunkLen": 8021, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x47c0a0", "doc": "http://www.popads.net/", "row": 0, "column": 24, "tagName": "div", "time": 2264476.690340, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x47c170", "doc": "http://www.popads.net/", "row": 0, "column": 30, "tagName": "div", "time": 2264476.690377, "url": "", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x47c920", "doc": "http://www.popads.net/", "row": 0, "column": 7, "tagName": "table", "time": 2264476.690647, "url": "", "pos": 7, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x47cba0", "doc": "http://www.popads.net/", "row": 0, "column": 11, "tagName": "tr", "time": 2264476.690657, "url": "", "pos": 11, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4735c0", "doc": "http://www.popads.net/", "row": 0, "column": 55, "tagName": "td", "time": 2264476.690682, "url": "", "pos": 55, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x47be40", "doc": "http://www.popads.net/", "row": 0, "column": 60, "tagName": "td", "time": 2264476.690720, "url": "", "pos": 60, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x47be70", "doc": "http://www.popads.net/", "row": 0, "column": 64, "tagName": "td", "time": 2264476.690723, "url": "", "pos": 64, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x47bf30", "doc": "http://www.popads.net/", "row": 0, "column": 70, "tagName": "td", "time": 2264476.690731, "url": "", "pos": 70, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x47bf60", "doc": "http://www.popads.net/", "row": 0, "column": 75, "tagName": "tr", "time": 2264476.690733, "url": "", "pos": 75, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x47bf90", "doc": "http://www.popads.net/", "row": 0, "column": 83, "tagName": "table", "time": 2264476.690735, "url": "", "pos": 83, "chunkLen": 83, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://static.popads.net/css/webp/front_set.css", "sentTime": -1.000000, "len": 7564, "from": "0x1695e0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 3551, "connReused": 0, "cached": 0,                            "requestTime": 2264476.327230, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 5, "dnsEnd": 44, "connectStart": 2, "connectEnd": 76, "sendStart": 76, "sendEnd": 76, "receiveHeadersEnd": 108, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.447475, "len": 2255}}
+{"ReceivedChunk": {"receivedTime": 2264476.448199, "len": 5309}}
+{"Resource": {"id": 4, "url": "http://static.popads.net/js/various.js", "sentTime": -1.000000, "len": 5753, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 3549, "connReused": 0, "cached": 0,                            "requestTime": 2264476.328167, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 43, "connectStart": 1, "connectEnd": 75, "sendStart": 76, "sendEnd": 76, "receiveHeadersEnd": 110, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.452700, "len": 5753}}
+{"Resource": {"id": 3, "url": "http://static.popads.net/js/jquery.js", "sentTime": -1.000000, "len": 85260, "from": "0x16bf10",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 3550, "connReused": 0, "cached": 0,                            "requestTime": 2264476.327793, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 43, "connectStart": 1, "connectEnd": 75, "sendStart": 76, "sendEnd": 76, "receiveHeadersEnd": 111, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.460307, "len": 1575}}
+{"ReceivedChunk": {"receivedTime": 2264476.460582, "len": 6557}}
+{"ReceivedChunk": {"receivedTime": 2264476.469969, "len": 4097}}
+{"ReceivedChunk": {"receivedTime": 2264476.470384, "len": 8371}}
+{"ReceivedChunk": {"receivedTime": 2264476.474947, "len": 4540}}
+{"ReceivedChunk": {"receivedTime": 2264476.475247, "len": 4097}}
+{"ReceivedChunk": {"receivedTime": 2264476.504906, "len": 22397}}
+{"ReceivedChunk": {"receivedTime": 2264476.535906, "len": 9541}}
+{"ReceivedChunk": {"receivedTime": 2264476.536880, "len": 24085}}
+{"Resource": {"id": 5, "url": "http://static.popads.net/js/trustguard.js", "sentTime": -1.000000, "len": 1042, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": -1, "httpStatus": 200, "connId": 3548, "connReused": 0, "cached": 0,                            "requestTime": 2264476.331582, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -2, "dnsEnd": 40, "connectStart": 1, "connectEnd": 77, "sendStart": 77, "sendEnd": 77, "receiveHeadersEnd": 109, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.461164, "len": 1042}}
+{"Resource": {"id": 8, "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "sentTime": -1.000000, "len": 192, "from": "0x0",                            "mimeType": "image/png", "contentLength": 192, "httpStatus": 200, "connId": 3551, "connReused": 1, "cached": 0,                            "requestTime": 2264476.453174, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 4, "sendStart": 5, "sendEnd": 5, "receiveHeadersEnd": 37, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.493561, "len": 192}}
+{"Resource": {"id": 7, "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "sentTime": -1.000000, "len": 192, "from": "0x460330",                            "mimeType": "image/png", "contentLength": 192, "httpStatus": 200, "connId": 3549, "connReused": 1, "cached": 0,                            "requestTime": 2264476.452795, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 5, "sendEnd": 5, "receiveHeadersEnd": 96, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.703147, "len": 192}}
+{"Resource": {"id": 9, "url": "http://static.popads.net/img/bg/input/members/left.png", "sentTime": -1.000000, "len": 411, "from": "0x183fe0",                            "mimeType": "image/png", "contentLength": 411, "httpStatus": 200, "connId": 3582, "connReused": 0, "cached": 0,                            "requestTime": 2264476.453563, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 3, "connectStart": 3, "connectEnd": 36, "sendStart": 36, "sendEnd": 36, "receiveHeadersEnd": 97, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.704357, "len": 411}}
+{"Resource": {"id": 10, "url": "http://static.popads.net/img/bg/input/members/right.png", "sentTime": -1.000000, "len": 430, "from": "0x1850b0",                            "mimeType": "image/png", "contentLength": 430, "httpStatus": 200, "connId": 3591, "connReused": 0, "cached": 0,                            "requestTime": 2264476.454675, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 4, "dnsEnd": 4, "connectStart": 4, "connectEnd": 35, "sendStart": 35, "sendEnd": 35, "receiveHeadersEnd": 97, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.704780, "len": 430}}
+{"Resource": {"id": 11, "url": "http://static.popads.net/img/btns/sign_in.png", "sentTime": -1.000000, "len": 500, "from": "0x187e00",                            "mimeType": "image/png", "contentLength": 500, "httpStatus": 200, "connId": 3551, "connReused": 1, "cached": 0,                            "requestTime": 2264476.455131, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 38, "sendStart": 38, "sendEnd": 39, "receiveHeadersEnd": 98, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.713998, "len": 500}}
+{"Resource": {"id": 6, "url": "http://static.popads.net/img/logo.png", "sentTime": -1.000000, "len": 5796, "from": "0x17bcd0",                            "mimeType": "image/png", "contentLength": 5796, "httpStatus": 200, "connId": 3548, "connReused": 1, "cached": 0,                            "requestTime": 2264476.452400, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 5, "sendEnd": 5, "receiveHeadersEnd": 103, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.716395, "len": 1042}}
+{"ReceivedChunk": {"receivedTime": 2264476.717090, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2264476.723316, "len": 410}}
+{"Resource": {"id": 12, "url": "http://static.popads.net/img/btns/sign_up.png", "sentTime": -1.000000, "len": 513, "from": "0x187d50",                            "mimeType": "image/png", "contentLength": 513, "httpStatus": 200, "connId": 3550, "connReused": 1, "cached": 0,                            "requestTime": 2264476.455527, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 82, "sendStart": 83, "sendEnd": 83, "receiveHeadersEnd": 115, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.721467, "len": 513}}
+{"Resource": {"id": 13, "url": "http://static.popads.net/img/icons/rss.png", "sentTime": -1.000000, "len": 1423, "from": "0x194850",                            "mimeType": "image/png", "contentLength": 1423, "httpStatus": 200, "connId": 3549, "connReused": 1, "cached": 0,                            "requestTime": 2264476.455901, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 94, "sendStart": 94, "sendEnd": 95, "receiveHeadersEnd": 126, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.722732, "len": 1423}}
+{"Resource": {"id": 28, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 39867, "from": "0x466980",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2264476.664392, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.724335, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2264476.725193, "len": 7099}}
+{"Resource": {"id": 14, "url": "http://static.popads.net/img/bg/container.gif", "sentTime": -1.000000, "len": 325, "from": "0x408a80",                            "mimeType": "image/gif", "contentLength": 325, "httpStatus": 200, "connId": 3548, "connReused": 1, "cached": 0,                            "requestTime": 2264476.702104, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 16, "sendStart": 18, "sendEnd": 18, "receiveHeadersEnd": 50, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.839812, "len": 325}}
+{"Resource": {"id": 15, "url": "http://static.popads.net/img/bg/rounded/main/bg.png", "sentTime": -1.000000, "len": 229, "from": "0x460e00",                            "mimeType": "image/png", "contentLength": 229, "httpStatus": 200, "connId": 3549, "connReused": 1, "cached": 0,                            "requestTime": 2264476.702507, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 17, "connectEnd": 17, "sendStart": 18, "sendEnd": 18, "receiveHeadersEnd": 50, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.841535, "len": 229}}
+{"Resource": {"id": 17, "url": "http://static.popads.net/img/bg/rounded/main/home.webp", "sentTime": -1.000000, "len": 63326, "from": "0x4620b0",                            "mimeType": "image/webp", "contentLength": 63326, "httpStatus": 200, "connId": 3551, "connReused": 1, "cached": 0,                            "requestTime": 2264476.703188, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 16, "sendStart": 18, "sendEnd": 18, "receiveHeadersEnd": 50, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.843485, "len": 3688}}
+{"ReceivedChunk": {"receivedTime": 2264476.846018, "len": 3144}}
+{"ReceivedChunk": {"receivedTime": 2264476.878512, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 2264476.887504, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2264476.887723, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2264476.887931, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2264476.888135, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2264476.893140, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2264476.893373, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2264476.893564, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 2264476.936694, "len": 2896}}
+{"ReceivedChunk": {"receivedTime": 2264476.937154, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2264476.937544, "len": 14502}}
+{"Resource": {"id": 16, "url": "http://static.popads.net/img/bg/rounded/main/bottom.png", "sentTime": -1.000000, "len": 1448, "from": "0x461100",                            "mimeType": "image/png", "contentLength": 1448, "httpStatus": 200, "connId": 3550, "connReused": 1, "cached": 0,                            "requestTime": 2264476.702850, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 16, "sendStart": 18, "sendEnd": 18, "receiveHeadersEnd": 51, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.843947, "len": 1448}}
+{"Resource": {"id": 18, "url": "http://static.popads.net/img/bg/rounded/members/top.png", "sentTime": -1.000000, "len": 867, "from": "0x464440",                            "mimeType": "image/png", "contentLength": 867, "httpStatus": 200, "connId": 3591, "connReused": 1, "cached": 0,                            "requestTime": 2264476.703529, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 16, "sendStart": 18, "sendEnd": 18, "receiveHeadersEnd": 51, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.844693, "len": 867}}
+{"Resource": {"id": 19, "url": "http://static.popads.net/img/bg/rounded/members/bottom.png", "sentTime": -1.000000, "len": 246, "from": "0x463f40",                            "mimeType": "image/png", "contentLength": 246, "httpStatus": 200, "connId": 3582, "connReused": 1, "cached": 0,                            "requestTime": 2264476.703864, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 16, "sendStart": 18, "sendEnd": 18, "receiveHeadersEnd": 51, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.845596, "len": 246}}
+{"Resource": {"id": 20, "url": "http://static.popads.net/img/bg/rounded/members/bg.png", "sentTime": -1.000000, "len": 111, "from": "0x465110",                            "mimeType": "image/png", "contentLength": 111, "httpStatus": 200, "connId": 3548, "connReused": 1, "cached": 0,                            "requestTime": 2264476.704220, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 49, "sendStart": 51, "sendEnd": 51, "receiveHeadersEnd": 84, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.879530, "len": 111}}
+{"Resource": {"id": 21, "url": "http://static.popads.net/img/bg/input/members/bg.png", "sentTime": -1.000000, "len": 139, "from": "0x4679e0",                            "mimeType": "image/png", "contentLength": 139, "httpStatus": 200, "connId": 3549, "connReused": 1, "cached": 0,                            "requestTime": 2264476.704556, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 53, "sendStart": 56, "sendEnd": 56, "receiveHeadersEnd": 87, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.880891, "len": 139}}
+{"Resource": {"id": 22, "url": "http://static.popads.net/img/bg/dotted.png", "sentTime": -1.000000, "len": 2254, "from": "0x18b230",                            "mimeType": "image/png", "contentLength": 2254, "httpStatus": 200, "connId": 3550, "connReused": 1, "cached": 0,                            "requestTime": 2264476.704887, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 55, "sendStart": 56, "sendEnd": 56, "receiveHeadersEnd": 88, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.882976, "len": 2254}}
+{"Resource": {"id": 23, "url": "http://static.popads.net/img/icons/core.png", "sentTime": -1.000000, "len": 10497, "from": "0x18b8d0",                            "mimeType": "image/png", "contentLength": 10497, "httpStatus": 200, "connId": 3591, "connReused": 1, "cached": 0,                            "requestTime": 2264476.706570, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 14, "connectEnd": 54, "sendStart": 55, "sendEnd": 55, "receiveHeadersEnd": 87, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.883546, "len": 2489}}
+{"ReceivedChunk": {"receivedTime": 2264476.885993, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2264476.889035, "len": 3664}}
+{"Resource": {"id": 24, "url": "http://static.popads.net/img/icons/scalable.png", "sentTime": -1.000000, "len": 10653, "from": "0x18d450",                            "mimeType": "image/png", "contentLength": 10653, "httpStatus": 200, "connId": 3582, "connReused": 1, "cached": 0,                            "requestTime": 2264476.706937, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 13, "connectEnd": 54, "sendStart": 54, "sendEnd": 55, "receiveHeadersEnd": 87, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.883925, "len": 2489}}
+{"ReceivedChunk": {"receivedTime": 2264476.887236, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2264476.889578, "len": 3820}}
+{"Resource": {"id": 25, "url": "http://static.popads.net/img/icons/on_time.png", "sentTime": -1.000000, "len": 11969, "from": "0x18e810",                            "mimeType": "image/png", "contentLength": 11969, "httpStatus": 200, "connId": 3548, "connReused": 1, "cached": 0,                            "requestTime": 2264476.709137, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 81, "sendStart": 81, "sendEnd": 81, "receiveHeadersEnd": 113, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.888755, "len": 1041}}
+{"ReceivedChunk": {"receivedTime": 2264476.889366, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2264476.893757, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2264476.893944, "len": 3688}}
+{"Resource": {"id": 26, "url": "http://static.popads.net/img/icons/financial.png", "sentTime": -1.000000, "len": 12527, "from": "0x18f350",                            "mimeType": "image/png", "contentLength": 12527, "httpStatus": 200, "connId": 3549, "connReused": 1, "cached": 0,                            "requestTime": 2264476.709771, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 85, "sendStart": 85, "sendEnd": 85, "receiveHeadersEnd": 117, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.890238, "len": 2489}}
+{"ReceivedChunk": {"receivedTime": 2264476.890500, "len": 4344}}
+{"ReceivedChunk": {"receivedTime": 2264476.894240, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2264476.894428, "len": 4246}}
+{"Resource": {"id": 27, "url": "http://static.popads.net/img/icons/blog.png", "sentTime": -1.000000, "len": 1431, "from": "0x190dd0",                            "mimeType": "image/png", "contentLength": 1431, "httpStatus": 200, "connId": 3550, "connReused": 1, "cached": 0,                            "requestTime": 2264476.710191, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 10, "connectEnd": 88, "sendStart": 89, "sendEnd": 89, "receiveHeadersEnd": 121, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.891247, "len": 1431}}
+{"Resource": {"id": 33, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=688210115&utmhn=www.popads.net&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x1014&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=PopAds%20-%20Home&utmhid=106144414&utmr=-&utmp=%2F&utmht=1378095890405&utmac=UA-19696955-1&utmcc=__utma%3D89311364.2018919134.1378095890.1378095890.1378095890.1%3B%2B__utmz%3D89311364.1378095890.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qB~", "sentTime": -1.000000, "len": 35, "from": "0x47bf90",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 664, "connReused": 1, "cached": 0,                            "requestTime": 2264476.833360, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 3, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2264476.892019, "len": 35}}
+{"Resource": {"id": 29, "url": "https://popads-trustguard.r.worldssl.net/security-5270-mini.gif", "sentTime": -1.000000, "len": 4123, "from": "0x472280",                            "mimeType": "image/gif", "contentLength": 4123, "httpStatus": 200, "connId": 3709, "connReused": 0, "cached": 0,                            "requestTime": 2264476.668330, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 386, "sendStart": 386, "sendEnd": 386, "receiveHeadersEnd": 419, "sslStart": 155, "sslEnd": 386}}
+{"ReceivedChunk": {"receivedTime": 2264477.091784, "len": 3643}}
+{"ReceivedChunk": {"receivedTime": 2264477.096242, "len": 480}}
+{"Resource": {"id": 30, "url": "https://popads-trustguard.r.worldssl.net/privacy-5270-mini.gif", "sentTime": -1.000000, "len": 4148, "from": "0x472030",                            "mimeType": "image/gif", "contentLength": 4148, "httpStatus": 200, "connId": 3713, "connReused": 0, "cached": 0,                            "requestTime": 2264476.710585, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 10, "connectEnd": 344, "sendStart": 344, "sendEnd": 344, "receiveHeadersEnd": 377, "sslStart": 112, "sslEnd": 344}}
+{"ReceivedChunk": {"receivedTime": 2264477.092511, "len": 3643}}
+{"ReceivedChunk": {"receivedTime": 2264477.096974, "len": 505}}
+{"Resource": {"id": 32, "url": "https://popads-trustguard.r.worldssl.net/certified-5270-mini.gif", "sentTime": -1.000000, "len": 4113, "from": "0x474a00",                            "mimeType": "image/gif", "contentLength": 4113, "httpStatus": 200, "connId": 3711, "connReused": 0, "cached": 0,                            "requestTime": 2264476.712405, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 8, "connectEnd": 342, "sendStart": 343, "sendEnd": 343, "receiveHeadersEnd": 376, "sslStart": 111, "sslEnd": 342}}
+{"ReceivedChunk": {"receivedTime": 2264477.092763, "len": 3643}}
+{"ReceivedChunk": {"receivedTime": 2264477.097441, "len": 470}}
+{"Resource": {"id": 31, "url": "https://popads-trustguard.r.worldssl.net/business-5270-mini.gif", "sentTime": -1.000000, "len": 4196, "from": "0x474430",                            "mimeType": "image/gif", "contentLength": 4196, "httpStatus": 200, "connId": 3707, "connReused": 0, "cached": 0,                            "requestTime": 2264476.711776, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 9, "connectEnd": 342, "sendStart": 343, "sendEnd": 343, "receiveHeadersEnd": 529, "sslStart": 111, "sslEnd": 342}}
+{"ReceivedChunk": {"receivedTime": 2264477.242219, "len": 3638}}
+{"ReceivedChunk": {"receivedTime": 2264477.242766, "len": 558}}
+{"HOL": {"type": 4, "docUrl": "http://www.popads.net/", "code": "0x1695e0", "row": 4, "column": 202, "url": "http://static.popads.net/css/webp/front_set.css"}}
+{"HOL": {"type": 1, "docUrl": "http://www.popads.net/", "code": "0x16bf10", "row": 7, "column": 196, "url": "http://static.popads.net/js/jquery.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.popads.net/", "code": "0x44eb90", "row": 8, "column": 198, "url": "http://static.popads.net/js/various.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.popads.net/", "code": "0x451b10", "row": 147, "column": 33, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.popads.net/", "code": "0x451a80", "row": 162, "column": 204, "url": "http://static.popads.net/js/trustguard.js"}}
+{"Computation": {"type": "execScript", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.327542, "endTime": -1.000000, "urlRecalcStyle": "http://static.popads.net/js/jquery.js"}}
+{"Computation": {"type": "layout", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.332300, "endTime": 2264476.333422, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.333376, "endTime": 2264476.333413, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.341650, "endTime": 2264476.341720, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.410277, "endTime": 2264476.410380, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.448530, "endTime": 2264476.450670, "urlRecalcStyle": "http://static.popads.net/css/webp/front_set.css"}}
+{"Computation": {"type": "execScript", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.450667, "endTime": -1.000000, "urlRecalcStyle": "http://static.popads.net/js/jquery.js"}}
+{"Computation": {"type": "layout", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.453124, "endTime": 2264476.453201, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.461544, "endTime": 2264476.461545, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x16bf80", "docUrl": "http://www.popads.net/", "startTime": 2264476.537498, "endTime": 2264476.627876, "urlRecalcStyle": "http://static.popads.net/js/jquery.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x17b8f0", "docUrl": "http://www.popads.net/", "startTime": 2264476.627865, "endTime": 2264476.627867, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x17b8f0", "docUrl": "http://www.popads.net/", "startTime": 2264476.627869, "endTime": 2264476.627870, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x452f60", "docUrl": "http://www.popads.net/", "startTime": 2264476.628026, "endTime": 2264476.628913, "urlRecalcStyle": "http://static.popads.net/js/various.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x452f60", "docUrl": "http://www.popads.net/", "startTime": 2264476.628905, "endTime": 2264476.628907, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x452f60", "docUrl": "http://www.popads.net/", "startTime": 2264476.628909, "endTime": 2264476.628910, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x466980", "docUrl": "http://www.popads.net/", "startTime": 2264476.661379, "endTime": 2264476.662957, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x470130", "docUrl": "http://www.popads.net/", "startTime": 2264476.663229, "endTime": 2264476.671153, "urlRecalcStyle": "http://static.popads.net/js/trustguard.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x475470", "docUrl": "http://www.popads.net/", "startTime": 2264476.671144, "endTime": 2264476.671145, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x475470", "docUrl": "http://www.popads.net/", "startTime": 2264476.671147, "endTime": 2264476.671148, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x473070", "docUrl": "http://www.popads.net/", "startTime": 2264476.671194, "endTime": 2264476.671196, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x473070", "docUrl": "http://www.popads.net/", "startTime": 2264476.671198, "endTime": 2264476.701028, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x473070", "docUrl": "http://www.popads.net/", "startTime": 2264476.672225, "endTime": 2264476.689779, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x473070", "docUrl": "http://www.popads.net/", "startTime": 2264476.689573, "endTime": 2264476.689735, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x473070", "docUrl": "http://www.popads.net/", "startTime": 2264476.690147, "endTime": 2264476.690233, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x47c170", "docUrl": "http://www.popads.net/", "startTime": 2264476.690552, "endTime": 2264476.690627, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.691302, "endTime": 2264476.691633, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.691930, "endTime": 2264476.692117, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.701033, "endTime": 2264476.701035, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702431, "endTime": 2264476.702432, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702435, "endTime": 2264476.702436, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702437, "endTime": 2264476.702438, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702444, "endTime": 2264476.702446, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702447, "endTime": 2264476.702448, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702449, "endTime": 2264476.702450, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702455, "endTime": 2264476.702456, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702457, "endTime": 2264476.702458, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702459, "endTime": 2264476.702460, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702465, "endTime": 2264476.702466, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702467, "endTime": 2264476.702468, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702470, "endTime": 2264476.702470, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702475, "endTime": 2264476.702476, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702478, "endTime": 2264476.702479, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702480, "endTime": 2264476.702481, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702485, "endTime": 2264476.702486, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702488, "endTime": 2264476.702489, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702490, "endTime": 2264476.702491, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702495, "endTime": 2264476.702496, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702498, "endTime": 2264476.702498, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702500, "endTime": 2264476.702500, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.702505, "endTime": 2264476.702597, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.725689, "endTime": 2264476.727618, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764834, "endTime": 2264476.764837, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764882, "endTime": 2264476.764883, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764885, "endTime": 2264476.764886, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764894, "endTime": 2264476.764895, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764896, "endTime": 2264476.764898, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764899, "endTime": 2264476.764900, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764905, "endTime": 2264476.764906, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764908, "endTime": 2264476.764909, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764910, "endTime": 2264476.764911, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764916, "endTime": 2264476.764917, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764919, "endTime": 2264476.764920, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764921, "endTime": 2264476.764922, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764927, "endTime": 2264476.764928, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764929, "endTime": 2264476.764930, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764932, "endTime": 2264476.764933, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764938, "endTime": 2264476.764939, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764940, "endTime": 2264476.764941, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764943, "endTime": 2264476.764944, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764948, "endTime": 2264476.764949, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764951, "endTime": 2264476.764952, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764953, "endTime": 2264476.764953, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764961, "endTime": 2264476.764962, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764964, "endTime": 2264476.764965, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764971, "endTime": 2264476.764971, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.764973, "endTime": 2264476.764974, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765097, "endTime": 2264476.765098, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765100, "endTime": 2264476.765101, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765108, "endTime": 2264476.765109, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765111, "endTime": 2264476.765112, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765118, "endTime": 2264476.765119, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765121, "endTime": 2264476.765122, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765130, "endTime": 2264476.765131, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765133, "endTime": 2264476.765134, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765140, "endTime": 2264476.765141, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765143, "endTime": 2264476.765143, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765148, "endTime": 2264476.765149, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765151, "endTime": 2264476.765151, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.765163, "endTime": 2264476.838063, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.838080, "endTime": 2264476.838082, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.892512, "endTime": 2264476.892789, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264476.965551, "endTime": 2264476.968666, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.096468, "endTime": 2264477.096716, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.098962, "endTime": 2264477.098964, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.098966, "endTime": 2264477.098967, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.098993, "endTime": 2264477.098994, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.098995, "endTime": 2264477.098996, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.099004, "endTime": 2264477.099005, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.099006, "endTime": 2264477.099007, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x47bf90", "docUrl": "http://www.popads.net/", "startTime": 2264477.242984, "endTime": 2264477.243147, "urlRecalcStyle": ""}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/js/various.js", "time": 2264476.327715}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/logo.png", "time": 2264476.328024}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328050}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328073}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328095}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328128}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328149}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328173}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328194}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328218}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328238}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328262}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328282}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328345}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/left.png", "time": 2264476.328368}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/rounded/nav/right.png", "time": 2264476.328391}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/input/members/left.png", "time": 2264476.330479}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/input/members/right.png", "time": 2264476.330520}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/input/members/left.png", "time": 2264476.330546}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/bg/input/members/right.png", "time": 2264476.330576}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/btns/sign_in.png", "time": 2264476.330624}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/btns/sign_up.png", "time": 2264476.330655}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/img/icons/rss.png", "time": 2264476.330852}}
+{"Preload": {"code": "0x16bf80", "docUrl": "http://www.popads.net/", "url": "http://static.popads.net/js/trustguard.js", "time": 2264476.330921}}
+{"Complete": "www.popads.net_"}

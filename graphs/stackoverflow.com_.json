@@ -1,0 +1,540 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "stackoverflow.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://stackoverflow.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 696.305999998003,
+               "time" : 6.23099971562601,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 702.536999713629
+            },
+            {
+               "s_time" : 1016.18100004271,
+               "time" : 0.0839997082899799,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1016.264999751
+            },
+            {
+               "s_time" : 1653.10100000352,
+               "time" : 2173.91699971631,
+               "type" : "evalhtml",
+               "id" : "r1_c3",
+               "e_time" : 3827.01799971983
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 746.423999778926,
+               "time" : 269.757000263784,
+               "type" : 1,
+               "id" : "comp_2",
+               "e_time" : 1016.18100004271
+            }
+         ],
+         "download" : {
+            "s_time" : 701.413999777287,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.sstatic.net/js/stub.js?v=95a78b02de98",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1636.9439996779,
+               "time" : 16.1570003256202,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 1653.10100000352
+            }
+         ],
+         "download" : {
+            "s_time" : 701.967999804765,
+            "id" : "download_2",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1665.65199987963,
+               "time" : 474.06599996611,
+               "type" : 4,
+               "id" : "comp_8",
+               "e_time" : 2139.71799984574
+            }
+         ],
+         "download" : {
+            "s_time" : 702.536999713629,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 2294.29699992761,
+               "time" : 341.7429998517,
+               "type" : 2,
+               "id" : "comp_32",
+               "e_time" : 2636.03999977931
+            }
+         ],
+         "download" : {
+            "s_time" : 1901.286999695,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 2636.08399964869,
+               "time" : 74.5090004056697,
+               "type" : 2,
+               "id" : "comp_34",
+               "e_time" : 2710.59300005436
+            }
+         ],
+         "download" : {
+            "s_time" : 2113.03799971938,
+            "id" : "download_5",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.sstatic.net/Img/sprite-herobox.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2146.39999996871,
+            "id" : "download_6",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.sstatic.net/Img/mini-hero-bg.png",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2146.04400005192,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.sstatic.net/stackoverflow/img/sprites.png?v=6",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2145.68199962378,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://edge.quantserve.com/quant.js",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 2880.86699973792,
+               "time" : 40.8940003253497,
+               "type" : 2,
+               "id" : "comp_37",
+               "e_time" : 2921.76100006327
+            }
+         ],
+         "download" : {
+            "s_time" : 1901.72499977052,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.stack.imgur.com/tKsDb.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1768.20499962196,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.stack.imgur.com/fEHUs.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2144.15599964559,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.stack.imgur.com/3ecBT.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2144.95399966836,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.stack.imgur.com/dmHl0.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2144.56399995834,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.stack.imgur.com/uE37r.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2145.31699987128,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=687334472&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=947x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Stack%20Overflow&utmhid=1351971977&utmr=-&utmp=%2F&utmht=1378092581701&utmac=UA-5620270-1&utmcc=__utma%3D140029553.522433537.1378092582.1378092582.1378092582.1%3B%2B__utmz%3D140029553.1378092582.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2552.82399989665,
+            "id" : "download_15",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn-careers.sstatic.net/careers/gethired/company-loader.min.js?v=e1da9303f450&_=1378092581893",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 3478.69799984619,
+               "time" : 10.1899998262497,
+               "type" : 3,
+               "id" : "comp_74",
+               "e_time" : 3488.88799967244
+            }
+         ],
+         "download" : {
+            "s_time" : 2724.23699963838,
+            "id" : "download_16",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stackoverflow.com/users/login/global/request",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2759.20099997893,
+            "id" : "download_17",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/pixel;r=100364600;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-1671117462-1378092582078;ns=0;ce=1;cm=;je=1;sr=2048x1152x24;enc=n;dst=1;et=1378092582066;tzo=420;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2936.36099994183,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn-careers.sstatic.net/careers/gethired/company.min.css?v=4d46b94c8e37",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 3538.07500004768,
+               "time" : 5.73099963366985,
+               "type" : 2,
+               "id" : "comp_78",
+               "e_time" : 3543.80599968135
+            }
+         ],
+         "download" : {
+            "s_time" : 3490.0670000352,
+            "id" : "download_19",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://careers.stackoverflow.com/ad/companyjs?divs=careers2,hireme&_=1378092582666",
+         "id" : "r22",
+         "comps" : [
+            {
+               "s_time" : 3697.99399981275,
+               "time" : 10.6819998472897,
+               "type" : 2,
+               "id" : "comp_81",
+               "e_time" : 3708.67599966004
+            }
+         ],
+         "download" : {
+            "s_time" : 3490.54499994963,
+            "id" : "download_20",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn-careers.sstatic.net/careers/gethired/sidebar.min.css?v=17be6ca0db4b",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 3740.43399980292,
+               "time" : 85.9480001963602,
+               "type" : null,
+               "id" : "comp_85",
+               "e_time" : 3826.38199999928
+            }
+         ],
+         "download" : {
+            "s_time" : 3721.26499982551,
+            "id" : "download_21",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn-careers.sstatic.net/careers/gethired/img/careers2-ad-header-so-crop.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3827.01799971983,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://stackauth.com/auth/global/read?request=gbpJe%2FjliDEiNCuRQ9O2gsexTn%2Bc2jf%2FkIC1DREsxpZleQN9o5DR7GlrwLlStsWMVjmb4SFuimxXw3VCjMgmTw%3D%3D&nonce=JQYkUgAAAADzbYo%2BQD7QCQ%3D%3D",
+         "id" : "r20",
+         "comps" : [
+            {
+               "s_time" : 4398.58999988064,
+               "time" : 14.0660000033704,
+               "type" : "evalhtml",
+               "id" : "r20_c1",
+               "e_time" : 4412.65599988401
+            }
+         ],
+         "download" : {
+            "s_time" : 3464.19299999252,
+            "id" : "download_23",
+            "type" : "text/html"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_2"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_6",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_2"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 1811.091999989,
+         "id" : "dep4",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 2068.16399982199,
+         "id" : "dep6",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 1837.44399994611,
+         "id" : "dep7",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 1836.96600003168,
+         "id" : "dep8",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 1283.25999993831,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 1106.09999997541,
+         "id" : "dep10",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 1071.13599963486,
+         "id" : "dep11",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 899.72299989313,
+         "id" : "dep12",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 492.21599986776,
+         "id" : "dep13",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 491.46299995482,
+         "id" : "dep14",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 491.85299966484,
+         "id" : "dep15",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 491.05499964207,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 115.10399961844,
+         "id" : "dep17",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 248.623999767,
+         "id" : "dep18",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 492.58099962026,
+         "id" : "dep19",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 492.9430000484,
+         "id" : "dep20",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 493.29899996519,
+         "id" : "dep21",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 459.93699971586,
+         "id" : "dep22",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 248.18599969148,
+         "id" : "dep23",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_3",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 5.66199980676197,
+         "id" : "dep25",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 5.107999779284,
+         "id" : "dep26",
+         "a1" : "r1_c1"
+      }
+   ]
+}

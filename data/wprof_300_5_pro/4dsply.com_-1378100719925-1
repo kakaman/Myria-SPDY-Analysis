@@ -1,0 +1,414 @@
+{"page": "4dsply.com_"}
+{"DOMLoad": 2269312.171930}
+{"Resource": {"id": 1, "url": "http://4dsply.com/", "sentTime": -1.000000, "len": 8541, "from": "0x0",                            "mimeType": "text/html", "contentLength": 8541, "httpStatus": 200, "connId": 84, "connReused": 0, "cached": 0,                            "requestTime": 2269311.382584, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 51, "dnsEnd": 141, "connectStart": 51, "connectEnd": 176, "sendStart": 176, "sendEnd": 176, "receiveHeadersEnd": 213, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.614232, "len": 1142}}
+{"ReceivedChunk": {"receivedTime": 2269311.656649, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269311.662322, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2269311.765380, "len": 1927}}
+{"ObjectHash": {"code": "0x4243000", "doc": "http://4dsply.com/", "row": 4, "column": 43, "tagName": "html", "time": 2269311.645070, "url": "", "pos": 272, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4243780", "doc": "http://4dsply.com/", "row": 5, "column": 10, "tagName": "head", "time": 2269311.645517, "url": "", "pos": 300, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4243960", "doc": "http://4dsply.com/", "row": 6, "column": 30, "tagName": "meta", "time": 2269311.645559, "url": "", "pos": 331, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4243990", "doc": "http://4dsply.com/", "row": 7, "column": 70, "tagName": "meta", "time": 2269311.645592, "url": "", "pos": 402, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4243ae0", "doc": "http://4dsply.com/", "row": 8, "column": 15, "tagName": "title", "time": 2269311.645605, "url": "", "pos": 418, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42503d0", "doc": "http://4dsply.com/", "row": 8, "column": 31, "tagName": "title", "time": 2269311.649165, "url": "", "pos": 434, "chunkLen": 1142, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4250a60", "doc": "http://4dsply.com/", "row": 9, "column": 44, "tagName": "meta", "time": 2269311.649186, "url": "", "pos": 479, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4250b90", "doc": "http://4dsply.com/", "row": 10, "column": 59, "tagName": "meta", "time": 2269311.649221, "url": "", "pos": 539, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4250df0", "doc": "http://4dsply.com/", "row": 14, "column": 56, "tagName": "link", "time": 2269311.649263, "url": "http://4dsply.com/css/normalize.css", "pos": 680, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4251d80", "doc": "http://4dsply.com/", "row": 15, "column": 70, "tagName": "link", "time": 2269311.650912, "url": "http://4dsply.com/plugins/colorbox/colorbox.css", "pos": 751, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4252bf0", "doc": "http://4dsply.com/", "row": 16, "column": 58, "tagName": "link", "time": 2269311.652267, "url": "http://4dsply.com/css/bootstrap.css", "pos": 810, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4253ca0", "doc": "http://4dsply.com/", "row": 17, "column": 51, "tagName": "link", "time": 2269311.653556, "url": "http://4dsply.com/css/main.css", "pos": 862, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4254950", "doc": "http://4dsply.com/", "row": 18, "column": 46, "tagName": "link", "time": 2269311.654779, "url": "http://4dsply.com/css/style.css", "pos": 909, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42550c0", "doc": "http://4dsply.com/", "row": 20, "column": 11, "tagName": "head", "time": 2269311.655957, "url": "", "pos": 922, "chunkLen": 1142, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4255480", "doc": "http://4dsply.com/", "row": 21, "column": 24, "tagName": "body", "time": 2269311.655971, "url": "", "pos": 947, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42555d0", "doc": "http://4dsply.com/", "row": 22, "column": 26, "tagName": "ul", "time": 2269311.655999, "url": "", "pos": 974, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255970", "doc": "http://4dsply.com/", "row": 23, "column": 32, "tagName": "li", "time": 2269311.656035, "url": "", "pos": 1007, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255a50", "doc": "http://4dsply.com/", "row": 23, "column": 37, "tagName": "li", "time": 2269311.656061, "url": "", "pos": 1012, "chunkLen": 1142, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4255ae0", "doc": "http://4dsply.com/", "row": 24, "column": 32, "tagName": "li", "time": 2269311.656071, "url": "", "pos": 1045, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255bb0", "doc": "http://4dsply.com/", "row": 24, "column": 37, "tagName": "li", "time": 2269311.656080, "url": "", "pos": 1050, "chunkLen": 1142, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4255c40", "doc": "http://4dsply.com/", "row": 25, "column": 32, "tagName": "li", "time": 2269311.656088, "url": "", "pos": 1083, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255d30", "doc": "http://4dsply.com/", "row": 25, "column": 37, "tagName": "li", "time": 2269311.656098, "url": "", "pos": 1088, "chunkLen": 1142, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4255dd0", "doc": "http://4dsply.com/", "row": 26, "column": 32, "tagName": "li", "time": 2269311.656106, "url": "", "pos": 1121, "chunkLen": 1142, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255ea0", "doc": "http://4dsply.com/", "row": 26, "column": 37, "tagName": "li", "time": 2269311.656115, "url": "", "pos": 1126, "chunkLen": 1142, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4242be0", "doc": "http://4dsply.com/", "row": 27, "column": 32, "tagName": "li", "time": 2269311.656699, "url": "", "pos": 1159, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255f90", "doc": "http://4dsply.com/", "row": 27, "column": 37, "tagName": "li", "time": 2269311.656718, "url": "", "pos": 1164, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4241340", "doc": "http://4dsply.com/", "row": 28, "column": 13, "tagName": "ul", "time": 2269311.656726, "url": "", "pos": 1178, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42413a0", "doc": "http://4dsply.com/", "row": 29, "column": 27, "tagName": "div", "time": 2269311.656733, "url": "", "pos": 1206, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255d90", "doc": "http://4dsply.com/", "row": 29, "column": 33, "tagName": "div", "time": 2269311.656743, "url": "", "pos": 1212, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4256210", "doc": "http://4dsply.com/", "row": 30, "column": 31, "tagName": "div", "time": 2269311.656751, "url": "", "pos": 1244, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42562d0", "doc": "http://4dsply.com/", "row": 31, "column": 41, "tagName": "div", "time": 2269311.656764, "url": "", "pos": 1286, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42564d0", "doc": "http://4dsply.com/", "row": 32, "column": 34, "tagName": "div", "time": 2269311.656779, "url": "", "pos": 1321, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4256670", "doc": "http://4dsply.com/", "row": 33, "column": 54, "tagName": "a", "time": 2269311.656793, "url": "", "pos": 1376, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4256840", "doc": "http://4dsply.com/", "row": 34, "column": 47, "tagName": "span", "time": 2269311.656824, "url": "", "pos": 1424, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4256980", "doc": "http://4dsply.com/", "row": 34, "column": 62, "tagName": "span", "time": 2269311.656845, "url": "", "pos": 1439, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4256b30", "doc": "http://4dsply.com/", "row": 35, "column": 90, "tagName": "img", "time": 2269311.656862, "url": "", "pos": 1530, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42570b0", "doc": "http://4dsply.com/", "row": 36, "column": 24, "tagName": "a", "time": 2269311.657185, "url": "", "pos": 1555, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4256d70", "doc": "http://4dsply.com/", "row": 37, "column": 22, "tagName": "div", "time": 2269311.657193, "url": "", "pos": 1578, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4256e00", "doc": "http://4dsply.com/", "row": 38, "column": 49, "tagName": "a", "time": 2269311.657202, "url": "", "pos": 1628, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257130", "doc": "http://4dsply.com/", "row": 38, "column": 63, "tagName": "a", "time": 2269311.657215, "url": "", "pos": 1642, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4257160", "doc": "http://4dsply.com/", "row": 39, "column": 18, "tagName": "div", "time": 2269311.657221, "url": "", "pos": 1661, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4257220", "doc": "http://4dsply.com/", "row": 40, "column": 40, "tagName": "div", "time": 2269311.657229, "url": "", "pos": 1702, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257380", "doc": "http://4dsply.com/", "row": 41, "column": 37, "tagName": "div", "time": 2269311.657244, "url": "", "pos": 1740, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257490", "doc": "http://4dsply.com/", "row": 42, "column": 51, "tagName": "h1", "time": 2269311.657280, "url": "", "pos": 1792, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257680", "doc": "http://4dsply.com/", "row": 42, "column": 117, "tagName": "h1", "time": 2269311.657297, "url": "", "pos": 1858, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4257720", "doc": "http://4dsply.com/", "row": 43, "column": 53, "tagName": "h2", "time": 2269311.657307, "url": "", "pos": 1912, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42578d0", "doc": "http://4dsply.com/", "row": 43, "column": 149, "tagName": "h2", "time": 2269311.657321, "url": "", "pos": 2008, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4257970", "doc": "http://4dsply.com/", "row": 44, "column": 22, "tagName": "div", "time": 2269311.657327, "url": "", "pos": 2031, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42579f0", "doc": "http://4dsply.com/", "row": 45, "column": 36, "tagName": "div", "time": 2269311.657335, "url": "", "pos": 2068, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257b40", "doc": "http://4dsply.com/", "row": 46, "column": 81, "tagName": "img", "time": 2269311.657352, "url": "", "pos": 2150, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257ef0", "doc": "http://4dsply.com/", "row": 47, "column": 22, "tagName": "div", "time": 2269311.657604, "url": "", "pos": 2173, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4257da0", "doc": "http://4dsply.com/", "row": 48, "column": 43, "tagName": "div", "time": 2269311.657613, "url": "", "pos": 2217, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4257ea0", "doc": "http://4dsply.com/", "row": 49, "column": 42, "tagName": "div", "time": 2269311.657630, "url": "", "pos": 2260, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4258300", "doc": "http://4dsply.com/", "row": 50, "column": 52, "tagName": "h2", "time": 2269311.657645, "url": "", "pos": 2313, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42583c0", "doc": "http://4dsply.com/", "row": 50, "column": 71, "tagName": "h2", "time": 2269311.657656, "url": "", "pos": 2332, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4258500", "doc": "http://4dsply.com/", "row": 51, "column": 54, "tagName": "h3", "time": 2269311.657666, "url": "", "pos": 2387, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4258600", "doc": "http://4dsply.com/", "row": 51, "column": 104, "tagName": "h3", "time": 2269311.657679, "url": "", "pos": 2437, "chunkLen": 2510, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42586e0", "doc": "http://4dsply.com/", "row": 52, "column": 49, "tagName": "ul", "time": 2269311.657688, "url": "", "pos": 2487, "chunkLen": 2510, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40336d0", "doc": "http://4dsply.com/", "row": 53, "column": 32, "tagName": "li", "time": 2269311.662497, "url": "", "pos": 2520, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40272b0", "doc": "http://4dsply.com/", "row": 53, "column": 80, "tagName": "li", "time": 2269311.662537, "url": "", "pos": 2568, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40365a0", "doc": "http://4dsply.com/", "row": 54, "column": 32, "tagName": "li", "time": 2269311.662545, "url": "", "pos": 2601, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4033380", "doc": "http://4dsply.com/", "row": 54, "column": 72, "tagName": "li", "time": 2269311.662556, "url": "", "pos": 2641, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4026a90", "doc": "http://4dsply.com/", "row": 55, "column": 32, "tagName": "li", "time": 2269311.662563, "url": "", "pos": 2674, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4035f40", "doc": "http://4dsply.com/", "row": 55, "column": 72, "tagName": "li", "time": 2269311.662573, "url": "", "pos": 2714, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4035ff0", "doc": "http://4dsply.com/", "row": 56, "column": 32, "tagName": "li", "time": 2269311.662579, "url": "", "pos": 2747, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037090", "doc": "http://4dsply.com/", "row": 56, "column": 78, "tagName": "li", "time": 2269311.662589, "url": "", "pos": 2793, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037140", "doc": "http://4dsply.com/", "row": 57, "column": 32, "tagName": "li", "time": 2269311.662596, "url": "", "pos": 2826, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40371f0", "doc": "http://4dsply.com/", "row": 57, "column": 61, "tagName": "li", "time": 2269311.662605, "url": "", "pos": 2855, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4026e50", "doc": "http://4dsply.com/", "row": 58, "column": 29, "tagName": "ul", "time": 2269311.662612, "url": "", "pos": 2885, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4026e80", "doc": "http://4dsply.com/", "row": 59, "column": 55, "tagName": "div", "time": 2269311.662624, "url": "", "pos": 2941, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037350", "doc": "http://4dsply.com/", "row": 60, "column": 56, "tagName": "h2", "time": 2269311.662646, "url": "", "pos": 2998, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40373f0", "doc": "http://4dsply.com/", "row": 60, "column": 77, "tagName": "h2", "time": 2269311.662657, "url": "", "pos": 3019, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40374d0", "doc": "http://4dsply.com/", "row": 61, "column": 86, "tagName": "a", "time": 2269311.662670, "url": "", "pos": 3106, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037690", "doc": "http://4dsply.com/", "row": 61, "column": 109, "tagName": "span", "time": 2269311.662687, "url": "", "pos": 3129, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037710", "doc": "http://4dsply.com/", "row": 61, "column": 117, "tagName": "span", "time": 2269311.662698, "url": "", "pos": 3137, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037740", "doc": "http://4dsply.com/", "row": 61, "column": 121, "tagName": "a", "time": 2269311.662701, "url": "", "pos": 3141, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40377f0", "doc": "http://4dsply.com/", "row": 62, "column": 30, "tagName": "div", "time": 2269311.662707, "url": "", "pos": 3172, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037850", "doc": "http://4dsply.com/", "row": 63, "column": 26, "tagName": "div", "time": 2269311.662713, "url": "", "pos": 3199, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40378e0", "doc": "http://4dsply.com/", "row": 64, "column": 43, "tagName": "div", "time": 2269311.662721, "url": "", "pos": 3243, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40379e0", "doc": "http://4dsply.com/", "row": 65, "column": 52, "tagName": "h2", "time": 2269311.662735, "url": "", "pos": 3296, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037aa0", "doc": "http://4dsply.com/", "row": 65, "column": 72, "tagName": "h2", "time": 2269311.662746, "url": "", "pos": 3316, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037b90", "doc": "http://4dsply.com/", "row": 66, "column": 53, "tagName": "dl", "time": 2269311.662754, "url": "", "pos": 3370, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037c90", "doc": "http://4dsply.com/", "row": 67, "column": 32, "tagName": "dt", "time": 2269311.662778, "url": "", "pos": 3403, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037ce0", "doc": "http://4dsply.com/", "row": 67, "column": 62, "tagName": "h3", "time": 2269311.662788, "url": "", "pos": 3433, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037dc0", "doc": "http://4dsply.com/", "row": 67, "column": 86, "tagName": "h3", "time": 2269311.662799, "url": "", "pos": 3457, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037df0", "doc": "http://4dsply.com/", "row": 67, "column": 91, "tagName": "dt", "time": 2269311.662802, "url": "", "pos": 3462, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037ea0", "doc": "http://4dsply.com/", "row": 68, "column": 32, "tagName": "dd", "time": 2269311.662808, "url": "", "pos": 3495, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40290e0", "doc": "http://4dsply.com/", "row": 69, "column": 35, "tagName": "p", "time": 2269311.662820, "url": "", "pos": 3531, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4037ed0", "doc": "http://4dsply.com/", "row": 73, "column": 36, "tagName": "p", "time": 2269311.662852, "url": "", "pos": 3885, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037f80", "doc": "http://4dsply.com/", "row": 74, "column": 33, "tagName": "dd", "time": 2269311.662859, "url": "", "pos": 3919, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4037fe0", "doc": "http://4dsply.com/", "row": 75, "column": 32, "tagName": "dt", "time": 2269311.662865, "url": "", "pos": 3952, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4038010", "doc": "http://4dsply.com/", "row": 75, "column": 62, "tagName": "h3", "time": 2269311.662875, "url": "", "pos": 3982, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4026f30", "doc": "http://4dsply.com/", "row": 75, "column": 89, "tagName": "h3", "time": 2269311.662886, "url": "", "pos": 4009, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4026f60", "doc": "http://4dsply.com/", "row": 75, "column": 94, "tagName": "dt", "time": 2269311.662888, "url": "", "pos": 4014, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036b70", "doc": "http://4dsply.com/", "row": 76, "column": 32, "tagName": "dd", "time": 2269311.662894, "url": "", "pos": 4047, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4036ba0", "doc": "http://4dsply.com/", "row": 77, "column": 35, "tagName": "p", "time": 2269311.662905, "url": "", "pos": 4083, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40329d0", "doc": "http://4dsply.com/", "row": 81, "column": 36, "tagName": "p", "time": 2269311.662927, "url": "", "pos": 4425, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4032a80", "doc": "http://4dsply.com/", "row": 82, "column": 33, "tagName": "dd", "time": 2269311.662933, "url": "", "pos": 4459, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4032ae0", "doc": "http://4dsply.com/", "row": 83, "column": 32, "tagName": "dt", "time": 2269311.662939, "url": "", "pos": 4492, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4032b10", "doc": "http://4dsply.com/", "row": 83, "column": 62, "tagName": "h3", "time": 2269311.662947, "url": "", "pos": 4522, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4036cb0", "doc": "http://4dsply.com/", "row": 83, "column": 96, "tagName": "h3", "time": 2269311.662958, "url": "", "pos": 4556, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036ce0", "doc": "http://4dsply.com/", "row": 83, "column": 101, "tagName": "dt", "time": 2269311.662961, "url": "", "pos": 4561, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036d90", "doc": "http://4dsply.com/", "row": 84, "column": 32, "tagName": "dd", "time": 2269311.662967, "url": "", "pos": 4594, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4036e50", "doc": "http://4dsply.com/", "row": 85, "column": 35, "tagName": "p", "time": 2269311.662977, "url": "", "pos": 4630, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4036eb0", "doc": "http://4dsply.com/", "row": 88, "column": 106, "tagName": "a", "time": 2269311.663000, "url": "", "pos": 4959, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4036fc0", "doc": "http://4dsply.com/", "row": 88, "column": 127, "tagName": "a", "time": 2269311.663012, "url": "", "pos": 4980, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4038310", "doc": "http://4dsply.com/", "row": 89, "column": 68, "tagName": "span", "time": 2269311.663101, "url": "", "pos": 5050, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40383d0", "doc": "http://4dsply.com/", "row": 89, "column": 96, "tagName": "span", "time": 2269311.663116, "url": "", "pos": 5078, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40384b0", "doc": "http://4dsply.com/", "row": 90, "column": 36, "tagName": "p", "time": 2269311.663123, "url": "", "pos": 5116, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4038560", "doc": "http://4dsply.com/", "row": 91, "column": 33, "tagName": "dd", "time": 2269311.663177, "url": "", "pos": 5150, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036830", "doc": "http://4dsply.com/", "row": 92, "column": 29, "tagName": "dl", "time": 2269311.663187, "url": "", "pos": 5180, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036890", "doc": "http://4dsply.com/", "row": 93, "column": 26, "tagName": "div", "time": 2269311.663193, "url": "", "pos": 5207, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40368f0", "doc": "http://4dsply.com/", "row": 94, "column": 22, "tagName": "div", "time": 2269311.663198, "url": "", "pos": 5230, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036920", "doc": "http://4dsply.com/", "row": 95, "column": 18, "tagName": "div", "time": 2269311.663203, "url": "", "pos": 5249, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40384e0", "doc": "http://4dsply.com/", "row": 96, "column": 32, "tagName": "div", "time": 2269311.663210, "url": "", "pos": 5282, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4038680", "doc": "http://4dsply.com/", "row": 97, "column": 34, "tagName": "div", "time": 2269311.663231, "url": "", "pos": 5317, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4038710", "doc": "http://4dsply.com/", "row": 99, "column": 22, "tagName": "div", "time": 2269311.663259, "url": "", "pos": 5413, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4038820", "doc": "http://4dsply.com/", "row": 100, "column": 18, "tagName": "div", "time": 2269311.663265, "url": "", "pos": 5432, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40388a0", "doc": "http://4dsply.com/", "row": 101, "column": 14, "tagName": "div", "time": 2269311.663270, "url": "", "pos": 5447, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4038900", "doc": "http://4dsply.com/", "row": 103, "column": 86, "tagName": "script", "time": 2269311.663283, "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js", "pos": 5535, "chunkLen": 6611, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40389c0", "doc": "http://4dsply.com/", "row": 103, "column": 95, "tagName": "script", "time": 2269311.663320, "url": "", "pos": 5544, "chunkLen": 6611, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40625c0", "doc": "http://4dsply.com/", "row": 0, "column": 9, "tagName": "link", "time": 2269311.977519, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062620", "doc": "http://4dsply.com/", "row": 0, "column": 16, "tagName": "table", "time": 2269311.977538, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4036a40", "doc": "http://4dsply.com/", "row": 0, "column": 24, "tagName": "table", "time": 2269311.977558, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4036a70", "doc": "http://4dsply.com/", "row": 0, "column": 37, "tagName": "a", "time": 2269311.977567, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40629b0", "doc": "http://4dsply.com/", "row": 0, "column": 42, "tagName": "a", "time": 2269311.977580, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40629e0", "doc": "http://4dsply.com/", "row": 0, "column": 66, "tagName": "input", "time": 2269311.977587, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42584d0", "doc": "http://4dsply.com/", "row": 0, "column": 12, "tagName": "a", "time": 2269311.989310, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255ed0", "doc": "http://4dsply.com/", "row": 0, "column": 16, "tagName": "a", "time": 2269311.989335, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x423b8c0", "doc": "http://4dsply.com/", "row": 0, "column": 8, "tagName": "select", "time": 2269311.989424, "url": "", "pos": 8, "chunkLen": 17, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4259e20", "doc": "http://4dsply.com/", "row": 0, "column": 17, "tagName": "select", "time": 2269311.989439, "url": "", "pos": 17, "chunkLen": 17, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x426fa80", "doc": "http://4dsply.com/", "row": 0, "column": 22, "tagName": "div", "time": 2269311.989522, "url": "", "pos": 22, "chunkLen": 54, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4270270", "doc": "http://4dsply.com/", "row": 0, "column": 28, "tagName": "div", "time": 2269311.989534, "url": "", "pos": 28, "chunkLen": 54, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4270820", "doc": "http://4dsply.com/", "row": 0, "column": 48, "tagName": "div", "time": 2269311.989539, "url": "", "pos": 48, "chunkLen": 54, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4240690", "doc": "http://4dsply.com/", "row": 0, "column": 54, "tagName": "div", "time": 2269311.989545, "url": "", "pos": 54, "chunkLen": 54, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42553d0", "doc": "http://4dsply.com/", "row": 0, "column": 37, "tagName": "a", "time": 2269311.989707, "url": "", "pos": 37, "chunkLen": 86, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4270620", "doc": "http://4dsply.com/", "row": 0, "column": 41, "tagName": "a", "time": 2269311.989716, "url": "", "pos": 41, "chunkLen": 86, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4270650", "doc": "http://4dsply.com/", "row": 0, "column": 80, "tagName": "div", "time": 2269311.989724, "url": "", "pos": 80, "chunkLen": 86, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x42663e0", "doc": "http://4dsply.com/", "row": 0, "column": 86, "tagName": "div", "time": 2269311.989730, "url": "", "pos": 86, "chunkLen": 86, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x42544f0", "doc": "http://4dsply.com/", "row": 0, "column": 8, "tagName": "select", "time": 2269311.992797, "url": "", "pos": 8, "chunkLen": 46, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4254520", "doc": "http://4dsply.com/", "row": 0, "column": 28, "tagName": "option", "time": 2269311.992817, "url": "", "pos": 28, "chunkLen": 46, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x425b900", "doc": "http://4dsply.com/", "row": 0, "column": 37, "tagName": "option", "time": 2269311.992843, "url": "", "pos": 37, "chunkLen": 46, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x425b150", "doc": "http://4dsply.com/", "row": 0, "column": 46, "tagName": "select", "time": 2269311.992852, "url": "", "pos": 46, "chunkLen": 46, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4266a60", "doc": "http://4dsply.com/", "row": 0, "column": 11, "tagName": "p", "time": 2269311.992997, "url": "", "pos": 11, "chunkLen": 15, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4255390", "doc": "http://4dsply.com/", "row": 0, "column": 15, "tagName": "p", "time": 2269311.993007, "url": "", "pos": 15, "chunkLen": 15, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4266a20", "doc": "http://4dsply.com/", "row": 0, "column": 22, "tagName": "input", "time": 2269311.993048, "url": "", "pos": 22, "chunkLen": 22, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40610c0", "doc": "http://4dsply.com/", "row": 104, "column": 16, "tagName": "script", "time": 2269312.001618, "url": "", "pos": 3051, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40487e0", "doc": "http://4dsply.com/", "row": 104, "column": 114, "tagName": "script", "time": 2269312.001689, "url": "", "pos": 3149, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40488b0", "doc": "http://4dsply.com/", "row": 106, "column": 59, "tagName": "script", "time": 2269312.002064, "url": "http://4dsply.com/plugins/colorbox/jquery.colorbox.js", "pos": 3210, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40662f0", "doc": "http://4dsply.com/", "row": 106, "column": 68, "tagName": "script", "time": 2269312.002094, "url": "", "pos": 3219, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4065ee0", "doc": "http://4dsply.com/", "row": 107, "column": 66, "tagName": "script", "time": 2269312.009511, "url": "http://service.rapidpaytoday.com/payday.js", "pos": 3286, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4066290", "doc": "http://4dsply.com/", "row": 107, "column": 75, "tagName": "script", "time": 2269312.009566, "url": "", "pos": 3295, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4272580", "doc": "http://4dsply.com/", "row": 108, "column": 40, "tagName": "script", "time": 2269312.074083, "url": "http://4dsply.com/js/validation.js", "pos": 3336, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x404fbf0", "doc": "http://4dsply.com/", "row": 108, "column": 49, "tagName": "script", "time": 2269312.074318, "url": "", "pos": 3345, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x403f6a0", "doc": "http://4dsply.com/", "row": 109, "column": 33, "tagName": "script", "time": 2269312.075459, "url": "http://4dsply.com/js/main.js", "pos": 3379, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061d10", "doc": "http://4dsply.com/", "row": 109, "column": 42, "tagName": "script", "time": 2269312.075491, "url": "", "pos": 3388, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4075560", "doc": "http://4dsply.com/", "row": 110, "column": 35, "tagName": "div", "time": 2269312.075988, "url": "", "pos": 3424, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4076630", "doc": "http://4dsply.com/", "row": 111, "column": 49, "tagName": "div", "time": 2269312.076147, "url": "", "pos": 3474, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061200", "doc": "http://4dsply.com/", "row": 113, "column": 59, "tagName": "form", "time": 2269312.076169, "url": "", "pos": 3535, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4062880", "doc": "http://4dsply.com/", "row": 114, "column": 28, "tagName": "legend", "time": 2269312.076205, "url": "", "pos": 3564, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40660c0", "doc": "http://4dsply.com/", "row": 114, "column": 47, "tagName": "legend", "time": 2269312.076220, "url": "", "pos": 3583, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40627c0", "doc": "http://4dsply.com/", "row": 115, "column": 30, "tagName": "fieldset", "time": 2269312.076229, "url": "", "pos": 3614, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4048780", "doc": "http://4dsply.com/", "row": 116, "column": 51, "tagName": "div", "time": 2269312.076249, "url": "", "pos": 3666, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4048730", "doc": "http://4dsply.com/", "row": 117, "column": 77, "tagName": "label", "time": 2269312.076268, "url": "", "pos": 3744, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4049220", "doc": "http://4dsply.com/", "row": 117, "column": 93, "tagName": "label", "time": 2269312.076282, "url": "", "pos": 3760, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4049110", "doc": "http://4dsply.com/", "row": 118, "column": 50, "tagName": "div", "time": 2269312.076292, "url": "", "pos": 3811, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074b60", "doc": "http://4dsply.com/", "row": 119, "column": 59, "tagName": "select", "time": 2269312.076309, "url": "", "pos": 3871, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4074a00", "doc": "http://4dsply.com/", "row": 120, "column": 81, "tagName": "option", "time": 2269312.076341, "url": "", "pos": 3953, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4061510", "doc": "http://4dsply.com/", "row": 120, "column": 109, "tagName": "option", "time": 2269312.076362, "url": "", "pos": 3981, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40614e0", "doc": "http://4dsply.com/", "row": 121, "column": 71, "tagName": "option", "time": 2269312.076388, "url": "", "pos": 4053, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40617b0", "doc": "http://4dsply.com/", "row": 121, "column": 98, "tagName": "option", "time": 2269312.076401, "url": "", "pos": 4080, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4061570", "doc": "http://4dsply.com/", "row": 122, "column": 66, "tagName": "option", "time": 2269312.076413, "url": "", "pos": 4147, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40616e0", "doc": "http://4dsply.com/", "row": 122, "column": 88, "tagName": "option", "time": 2269312.076427, "url": "", "pos": 4169, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069c80", "doc": "http://4dsply.com/", "row": 123, "column": 41, "tagName": "select", "time": 2269312.076435, "url": "", "pos": 4211, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069fb0", "doc": "http://4dsply.com/", "row": 124, "column": 34, "tagName": "div", "time": 2269312.076445, "url": "", "pos": 4246, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069db0", "doc": "http://4dsply.com/", "row": 125, "column": 30, "tagName": "div", "time": 2269312.076452, "url": "", "pos": 4277, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069f10", "doc": "http://4dsply.com/", "row": 126, "column": 51, "tagName": "div", "time": 2269312.076461, "url": "", "pos": 4329, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069ce0", "doc": "http://4dsply.com/", "row": 127, "column": 68, "tagName": "label", "time": 2269312.076478, "url": "", "pos": 4398, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069d40", "doc": "http://4dsply.com/", "row": 127, "column": 81, "tagName": "label", "time": 2269312.076490, "url": "", "pos": 4411, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4069de0", "doc": "http://4dsply.com/", "row": 128, "column": 50, "tagName": "div", "time": 2269312.076499, "url": "", "pos": 4462, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069800", "doc": "http://4dsply.com/", "row": 129, "column": 103, "tagName": "input", "time": 2269312.076519, "url": "", "pos": 4566, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4069730", "doc": "http://4dsply.com/", "row": 130, "column": 34, "tagName": "div", "time": 2269312.076566, "url": "", "pos": 4601, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406ae60", "doc": "http://4dsply.com/", "row": 131, "column": 30, "tagName": "div", "time": 2269312.076573, "url": "", "pos": 4632, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077700", "doc": "http://4dsply.com/", "row": 132, "column": 51, "tagName": "div", "time": 2269312.076582, "url": "", "pos": 4684, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077680", "doc": "http://4dsply.com/", "row": 133, "column": 71, "tagName": "label", "time": 2269312.076599, "url": "", "pos": 4756, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406afc0", "doc": "http://4dsply.com/", "row": 133, "column": 87, "tagName": "label", "time": 2269312.076611, "url": "", "pos": 4772, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40774d0", "doc": "http://4dsply.com/", "row": 134, "column": 50, "tagName": "div", "time": 2269312.076621, "url": "", "pos": 4823, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077590", "doc": "http://4dsply.com/", "row": 135, "column": 84, "tagName": "input", "time": 2269312.076637, "url": "", "pos": 4908, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077a60", "doc": "http://4dsply.com/", "row": 136, "column": 34, "tagName": "div", "time": 2269312.076666, "url": "", "pos": 4943, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077ac0", "doc": "http://4dsply.com/", "row": 137, "column": 30, "tagName": "div", "time": 2269312.076673, "url": "", "pos": 4974, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077c20", "doc": "http://4dsply.com/", "row": 138, "column": 51, "tagName": "div", "time": 2269312.076682, "url": "", "pos": 5026, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406af40", "doc": "http://4dsply.com/", "row": 139, "column": 69, "tagName": "label", "time": 2269312.076716, "url": "", "pos": 5096, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077af0", "doc": "http://4dsply.com/", "row": 139, "column": 83, "tagName": "label", "time": 2269312.076729, "url": "", "pos": 5110, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4077ba0", "doc": "http://4dsply.com/", "row": 140, "column": 50, "tagName": "div", "time": 2269312.076738, "url": "", "pos": 5161, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405afa0", "doc": "http://4dsply.com/", "row": 141, "column": 110, "tagName": "input", "time": 2269312.076758, "url": "", "pos": 5272, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4077ff0", "doc": "http://4dsply.com/", "row": 142, "column": 34, "tagName": "div", "time": 2269312.076804, "url": "", "pos": 5307, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078050", "doc": "http://4dsply.com/", "row": 143, "column": 30, "tagName": "div", "time": 2269312.076812, "url": "", "pos": 5338, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40781b0", "doc": "http://4dsply.com/", "row": 144, "column": 51, "tagName": "div", "time": 2269312.076821, "url": "", "pos": 5390, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405aed0", "doc": "http://4dsply.com/", "row": 145, "column": 71, "tagName": "label", "time": 2269312.076838, "url": "", "pos": 5462, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078230", "doc": "http://4dsply.com/", "row": 145, "column": 87, "tagName": "label", "time": 2269312.076850, "url": "", "pos": 5478, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078080", "doc": "http://4dsply.com/", "row": 146, "column": 50, "tagName": "div", "time": 2269312.076859, "url": "", "pos": 5529, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078420", "doc": "http://4dsply.com/", "row": 147, "column": 116, "tagName": "textarea", "time": 2269312.076880, "url": "", "pos": 5646, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078140", "doc": "http://4dsply.com/", "row": 147, "column": 127, "tagName": "textarea", "time": 2269312.076916, "url": "", "pos": 5657, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078750", "doc": "http://4dsply.com/", "row": 148, "column": 34, "tagName": "div", "time": 2269312.076925, "url": "", "pos": 5692, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40788b0", "doc": "http://4dsply.com/", "row": 149, "column": 30, "tagName": "div", "time": 2269312.076932, "url": "", "pos": 5723, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078910", "doc": "http://4dsply.com/", "row": 150, "column": 31, "tagName": "fieldset", "time": 2269312.076939, "url": "", "pos": 5755, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40787e0", "doc": "http://4dsply.com/", "row": 151, "column": 46, "tagName": "div", "time": 2269312.076947, "url": "", "pos": 5802, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40789a0", "doc": "http://4dsply.com/", "row": 152, "column": 92, "tagName": "button", "time": 2269312.076966, "url": "", "pos": 5895, "chunkLen": 6029, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4078aa0", "doc": "http://4dsply.com/", "row": 152, "column": 117, "tagName": "button", "time": 2269312.077022, "url": "", "pos": 5920, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078c20", "doc": "http://4dsply.com/", "row": 153, "column": 26, "tagName": "div", "time": 2269312.077030, "url": "", "pos": 5947, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078d80", "doc": "http://4dsply.com/", "row": 154, "column": 23, "tagName": "form", "time": 2269312.077037, "url": "", "pos": 5971, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078ee0", "doc": "http://4dsply.com/", "row": 156, "column": 18, "tagName": "div", "time": 2269312.077044, "url": "", "pos": 5991, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078c80", "doc": "http://4dsply.com/", "row": 157, "column": 14, "tagName": "div", "time": 2269312.077050, "url": "", "pos": 6006, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078d30", "doc": "http://4dsply.com/", "row": 159, "column": 11, "tagName": "body", "time": 2269312.077068, "url": "", "pos": 6019, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4078f40", "doc": "http://4dsply.com/", "row": 160, "column": 7, "tagName": "html", "time": 2269312.077074, "url": "", "pos": 6027, "chunkLen": 6029, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40794b0", "doc": "http://4dsply.com/", "row": 0, "column": 7, "tagName": "table", "time": 2269312.078303, "url": "", "pos": 7, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4079330", "doc": "http://4dsply.com/", "row": 0, "column": 11, "tagName": "tr", "time": 2269312.078313, "url": "", "pos": 11, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4079710", "doc": "http://4dsply.com/", "row": 0, "column": 15, "tagName": "td", "time": 2269312.078329, "url": "", "pos": 15, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40797d0", "doc": "http://4dsply.com/", "row": 0, "column": 20, "tagName": "td", "time": 2269312.078334, "url": "", "pos": 20, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079810", "doc": "http://4dsply.com/", "row": 0, "column": 24, "tagName": "td", "time": 2269312.078337, "url": "", "pos": 24, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40798b0", "doc": "http://4dsply.com/", "row": 0, "column": 30, "tagName": "td", "time": 2269312.078343, "url": "", "pos": 30, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40798e0", "doc": "http://4dsply.com/", "row": 0, "column": 35, "tagName": "tr", "time": 2269312.078345, "url": "", "pos": 35, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4079910", "doc": "http://4dsply.com/", "row": 0, "column": 43, "tagName": "table", "time": 2269312.078347, "url": "", "pos": 43, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x407b050", "doc": "http://4dsply.com/", "row": 0, "column": 5, "tagName": "div", "time": 2269312.080975, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x407b0a0", "doc": "http://4dsply.com/", "row": 0, "column": 11, "tagName": "div", "time": 2269312.080985, "url": "", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"Resource": {"id": 9, "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js", "sentTime": -1.000000, "len": 92793, "from": "0x4038900",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 154, "connReused": 0, "cached": 0,                            "requestTime": 2269311.664054, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 5, "connectStart": 1, "connectEnd": 14, "sendStart": 14, "sendEnd": 14, "receiveHeadersEnd": 23, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.771280, "len": 1396}}
+{"ReceivedChunk": {"receivedTime": 2269311.771608, "len": 25367}}
+{"ReceivedChunk": {"receivedTime": 2269311.771909, "len": 3921}}
+{"ReceivedChunk": {"receivedTime": 2269311.772141, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2269311.772499, "len": 7465}}
+{"ReceivedChunk": {"receivedTime": 2269311.772741, "len": 9101}}
+{"ReceivedChunk": {"receivedTime": 2269311.772996, "len": 6281}}
+{"ReceivedChunk": {"receivedTime": 2269311.773215, "len": 6494}}
+{"Resource": {"id": 2, "url": "http://4dsply.com/css/normalize.css", "sentTime": -1.000000, "len": 9067, "from": "0x4250df0",                            "mimeType": "text/css", "contentLength": 9067, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2269311.650102, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 17, "sendStart": 19, "sendEnd": 20, "receiveHeadersEnd": 57, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.774007, "len": 1040}}
+{"ReceivedChunk": {"receivedTime": 2269311.774219, "len": 2976}}
+{"ReceivedChunk": {"receivedTime": 2269311.777305, "len": 5051}}
+{"Resource": {"id": 4, "url": "http://4dsply.com/css/bootstrap.css", "sentTime": -1.000000, "len": 35167, "from": "0x4252bf0",                            "mimeType": "text/css", "contentLength": 35167, "httpStatus": 200, "connId": 100, "connReused": 0, "cached": 0,                            "requestTime": 2269311.652865, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 0, "connectStart": 1, "connectEnd": 35, "sendStart": 35, "sendEnd": 35, "receiveHeadersEnd": 72, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.774774, "len": 1039}}
+{"ReceivedChunk": {"receivedTime": 2269311.774977, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269311.778304, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269311.778508, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2269311.806496, "len": 8208}}
+{"ReceivedChunk": {"receivedTime": 2269311.847194, "len": 10944}}
+{"ReceivedChunk": {"receivedTime": 2269311.877524, "len": 6840}}
+{"ReceivedChunk": {"receivedTime": 2269311.883223, "len": 2664}}
+{"Resource": {"id": 3, "url": "http://4dsply.com/plugins/colorbox/colorbox.css", "sentTime": -1.000000, "len": 4354, "from": "0x4251d80",                            "mimeType": "text/css", "contentLength": 4354, "httpStatus": 200, "connId": 92, "connReused": 0, "cached": 0,                            "requestTime": 2269311.651529, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 0, "connectStart": 1, "connectEnd": 36, "sendStart": 36, "sendEnd": 36, "receiveHeadersEnd": 75, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.776506, "len": 2408}}
+{"ReceivedChunk": {"receivedTime": 2269311.778704, "len": 1946}}
+{"Resource": {"id": 5, "url": "http://4dsply.com/css/main.css", "sentTime": -1.000000, "len": 9933, "from": "0x4253ca0",                            "mimeType": "text/css", "contentLength": 9933, "httpStatus": 200, "connId": 108, "connReused": 0, "cached": 0,                            "requestTime": 2269311.654152, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 0, "connectStart": 1, "connectEnd": 35, "sendStart": 36, "sendEnd": 36, "receiveHeadersEnd": 74, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.776714, "len": 1120}}
+{"ReceivedChunk": {"receivedTime": 2269311.779584, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269311.779992, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2269311.807494, "len": 4709}}
+{"Resource": {"id": 6, "url": "http://4dsply.com/css/style.css", "sentTime": -1.000000, "len": 12991, "from": "0x4254950",                            "mimeType": "text/css", "contentLength": 12991, "httpStatus": 200, "connId": 116, "connReused": 0, "cached": 0,                            "requestTime": 2269311.655354, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 0, "connectStart": 1, "connectEnd": 35, "sendStart": 35, "sendEnd": 35, "receiveHeadersEnd": 73, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.776912, "len": 2407}}
+{"ReceivedChunk": {"receivedTime": 2269311.779789, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2269311.810023, "len": 6480}}
+{"Resource": {"id": 10, "url": "http://4dsply.com/plugins/colorbox/jquery.colorbox.js", "sentTime": -1.000000, "len": 26061, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 26061, "httpStatus": 200, "connId": 124, "connReused": 0, "cached": 0,                            "requestTime": 2269311.666025, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -9, "dnsEnd": -9, "connectStart": 3, "connectEnd": 26, "sendStart": 26, "sendEnd": 26, "receiveHeadersEnd": 63, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.777110, "len": 2391}}
+{"ReceivedChunk": {"receivedTime": 2269311.780184, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2269311.781489, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269311.811922, "len": 6840}}
+{"ReceivedChunk": {"receivedTime": 2269311.846884, "len": 9576}}
+{"ReceivedChunk": {"receivedTime": 2269311.880784, "len": 3150}}
+{"Resource": {"id": 12, "url": "http://4dsply.com/js/validation.js", "sentTime": -1.000000, "len": 4291, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 4291, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2269311.667613, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 77, "sendStart": 78, "sendEnd": 78, "receiveHeadersEnd": 115, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.794071, "len": 3752}}
+{"ReceivedChunk": {"receivedTime": 2269311.794404, "len": 539}}
+{"Resource": {"id": 13, "url": "http://4dsply.com/js/main.js", "sentTime": -1.000000, "len": 1271, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 1271, "httpStatus": 200, "connId": 92, "connReused": 1, "cached": 0,                            "requestTime": 2269311.667945, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 94, "sendStart": 95, "sendEnd": 95, "receiveHeadersEnd": 137, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.812641, "len": 1271}}
+{"Resource": {"id": 7, "url": "http://4dsply.com/images/logo.png", "sentTime": -1.000000, "len": 4520, "from": "0x4256b30",                            "mimeType": "image/png", "contentLength": 4520, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2269311.658353, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 129, "sendStart": 129, "sendEnd": 129, "receiveHeadersEnd": 178, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.849168, "len": 3767}}
+{"ReceivedChunk": {"receivedTime": 2269311.852888, "len": 753}}
+{"Resource": {"id": 11, "url": "http://service.rapidpaytoday.com/payday.js", "sentTime": -1.000000, "len": 22077, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 22077, "httpStatus": 200, "connId": 167, "connReused": 0, "cached": 0,                            "requestTime": 2269311.667239, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 80, "connectStart": 2, "connectEnd": 117, "sendStart": 118, "sendEnd": 118, "receiveHeadersEnd": 175, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.852147, "len": 2469}}
+{"ReceivedChunk": {"receivedTime": 2269311.877068, "len": 4104}}
+{"ReceivedChunk": {"receivedTime": 2269312.065422, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269312.065720, "len": 5472}}
+{"ReceivedChunk": {"receivedTime": 2269312.066676, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269312.066917, "len": 2736}}
+{"ReceivedChunk": {"receivedTime": 2269312.067127, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269312.067332, "len": 3192}}
+{"Resource": {"id": 8, "url": "http://4dsply.com/images/banner.jpg", "sentTime": -1.000000, "len": 26374, "from": "0x4257b40",                            "mimeType": "image/jpeg", "contentLength": 26374, "httpStatus": 200, "connId": 108, "connReused": 1, "cached": 0,                            "requestTime": 2269311.659176, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 146, "sendStart": 147, "sendEnd": 147, "receiveHeadersEnd": 186, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269311.853309, "len": 3765}}
+{"ReceivedChunk": {"receivedTime": 2269311.853688, "len": 4096}}
+{"ReceivedChunk": {"receivedTime": 2269312.009945, "len": 9576}}
+{"ReceivedChunk": {"receivedTime": 2269312.065945, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269312.066193, "len": 7569}}
+{"Resource": {"id": 14, "url": "http://4dsply.com/images/bullet.png", "sentTime": -1.000000, "len": 1024, "from": "0x40389c0",                            "mimeType": "image/png", "contentLength": 1024, "httpStatus": 200, "connId": 108, "connReused": 1, "cached": 0,                            "requestTime": 2269312.011302, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 40, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269312.112481, "len": 1024}}
+{"Resource": {"id": 15, "url": "http://4dsply.com/images/btn-contact-adsupply.png", "sentTime": -1.000000, "len": 19001, "from": "0x40389c0",                            "mimeType": "image/png", "contentLength": 19001, "httpStatus": 200, "connId": 100, "connReused": 1, "cached": 0,                            "requestTime": 2269312.011697, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 42, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269312.112933, "len": 3766}}
+{"ReceivedChunk": {"receivedTime": 2269312.113213, "len": 8192}}
+{"ReceivedChunk": {"receivedTime": 2269312.142781, "len": 1368}}
+{"ReceivedChunk": {"receivedTime": 2269312.143104, "len": 5675}}
+{"Resource": {"id": 17, "url": "http://4dsply.com/plugins/colorbox/images/border2.png", "sentTime": -1.000000, "len": 170, "from": "0x407b0a0",                            "mimeType": "image/png", "contentLength": 170, "httpStatus": 200, "connId": 108, "connReused": 1, "cached": 0,                            "requestTime": 2269312.127758, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 40, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269312.170504, "len": 170}}
+{"Resource": {"id": 16, "url": "http://4dsply.com/plugins/colorbox/images/border1.png", "sentTime": -1.000000, "len": 1057, "from": "0x407b0a0",                            "mimeType": "image/png", "contentLength": 1057, "httpStatus": 200, "connId": 100, "connReused": 1, "cached": 0,                            "requestTime": 2269312.127244, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 43, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269312.171553, "len": 1057}}
+{"HOL": {"type": 4, "docUrl": "http://4dsply.com/", "code": "0x4250df0", "row": 14, "column": 56, "url": "http://4dsply.com/css/normalize.css"}}
+{"HOL": {"type": 4, "docUrl": "http://4dsply.com/", "code": "0x4251d80", "row": 15, "column": 70, "url": "http://4dsply.com/plugins/colorbox/colorbox.css"}}
+{"HOL": {"type": 4, "docUrl": "http://4dsply.com/", "code": "0x4252bf0", "row": 16, "column": 58, "url": "http://4dsply.com/css/bootstrap.css"}}
+{"HOL": {"type": 4, "docUrl": "http://4dsply.com/", "code": "0x4253ca0", "row": 17, "column": 51, "url": "http://4dsply.com/css/main.css"}}
+{"HOL": {"type": 4, "docUrl": "http://4dsply.com/", "code": "0x4254950", "row": 18, "column": 46, "url": "http://4dsply.com/css/style.css"}}
+{"HOL": {"type": 1, "docUrl": "http://4dsply.com/", "code": "0x4038900", "row": 103, "column": 86, "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"}}
+{"HOL": {"type": 1, "docUrl": "http://4dsply.com/", "code": "0x40610c0", "row": 104, "column": 16, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://4dsply.com/", "code": "0x40488b0", "row": 106, "column": 59, "url": "http://4dsply.com/plugins/colorbox/jquery.colorbox.js"}}
+{"HOL": {"type": 1, "docUrl": "http://4dsply.com/", "code": "0x4065ee0", "row": 107, "column": 66, "url": "http://service.rapidpaytoday.com/payday.js"}}
+{"HOL": {"type": 1, "docUrl": "http://4dsply.com/", "code": "0x4272580", "row": 108, "column": 40, "url": "http://4dsply.com/js/validation.js"}}
+{"HOL": {"type": 1, "docUrl": "http://4dsply.com/", "code": "0x403f6a0", "row": 109, "column": 33, "url": "http://4dsply.com/js/main.js"}}
+{"Computation": {"type": "layout", "code": "0x42586e0", "docUrl": "http://4dsply.com/", "startTime": 2269311.660060, "endTime": 2269311.661846, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x42586e0", "docUrl": "http://4dsply.com/", "startTime": 2269311.661797, "endTime": 2269311.661836, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.663680, "endTime": -1.000000, "urlRecalcStyle": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.703204, "endTime": 2269311.765002, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.763171, "endTime": 2269311.764963, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.764824, "endTime": 2269311.764856, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.773432, "endTime": -1.000000, "urlRecalcStyle": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"}}
+{"Computation": {"type": "recalcStyle", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.777486, "endTime": 2269311.778169, "urlRecalcStyle": "http://4dsply.com/css/normalize.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.778885, "endTime": 2269311.779458, "urlRecalcStyle": "http://4dsply.com/plugins/colorbox/colorbox.css"}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.780898, "endTime": 2269311.781365, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.792818, "endTime": 2269311.793436, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.795440, "endTime": 2269311.796058, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.796532, "endTime": 2269311.797059, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.797528, "endTime": 2269311.798100, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.798712, "endTime": 2269311.799379, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.799860, "endTime": 2269311.800465, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.800979, "endTime": 2269311.801487, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.803948, "endTime": 2269311.805153, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.807732, "endTime": 2269311.808900, "urlRecalcStyle": "http://4dsply.com/css/main.css"}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.809375, "endTime": 2269311.809851, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.810361, "endTime": 2269311.811770, "urlRecalcStyle": "http://4dsply.com/css/style.css"}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.821759, "endTime": 2269311.822300, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.822860, "endTime": 2269311.823306, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.823707, "endTime": 2269311.824473, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.824944, "endTime": 2269311.825472, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.825986, "endTime": 2269311.826579, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.827121, "endTime": 2269311.827618, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.828065, "endTime": 2269311.828556, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.828999, "endTime": 2269311.829490, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.829933, "endTime": 2269311.830454, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.830985, "endTime": 2269311.831538, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.831985, "endTime": 2269311.832589, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.833046, "endTime": 2269311.833537, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.833982, "endTime": 2269311.834599, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.835058, "endTime": 2269311.835615, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.836265, "endTime": 2269311.836998, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.837619, "endTime": 2269311.838172, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.838971, "endTime": 2269311.839636, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.840349, "endTime": 2269311.840813, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.841238, "endTime": 2269311.841803, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.842629, "endTime": 2269311.843137, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.845727, "endTime": 2269311.846491, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.848595, "endTime": 2269311.849084, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.849891, "endTime": 2269311.850354, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.850765, "endTime": 2269311.851207, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.851594, "endTime": 2269311.852042, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.854330, "endTime": 2269311.854821, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.855457, "endTime": 2269311.855917, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.856318, "endTime": 2269311.856758, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.857145, "endTime": 2269311.857588, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.857969, "endTime": 2269311.858410, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.858787, "endTime": 2269311.859233, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.859626, "endTime": 2269311.860095, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.860517, "endTime": 2269311.860957, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.861575, "endTime": 2269311.862341, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.862766, "endTime": 2269311.863278, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.863851, "endTime": 2269311.864409, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.865747, "endTime": 2269311.866271, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.866739, "endTime": 2269311.867315, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.868933, "endTime": 2269311.872774, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.873256, "endTime": 2269311.876841, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.878180, "endTime": 2269311.878805, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.879351, "endTime": 2269311.880409, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.882570, "endTime": 2269311.883064, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.883511, "endTime": 2269312.009614, "urlRecalcStyle": "http://4dsply.com/css/bootstrap.css"}}
+{"Computation": {"type": "execScript", "code": "0x40389c0", "docUrl": "http://4dsply.com/", "startTime": 2269311.899952, "endTime": 2269312.001591, "urlRecalcStyle": "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4266a20", "docUrl": "http://4dsply.com/", "startTime": 2269312.001581, "endTime": 2269312.001583, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x40487e0", "docUrl": "http://4dsply.com/", "startTime": 2269312.001701, "endTime": 2269312.002043, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x40662f0", "docUrl": "http://4dsply.com/", "startTime": 2269312.002127, "endTime": 2269312.009480, "urlRecalcStyle": "http://4dsply.com/plugins/colorbox/jquery.colorbox.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x40662f0", "docUrl": "http://4dsply.com/", "startTime": 2269312.009472, "endTime": 2269312.009473, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4066290", "docUrl": "http://4dsply.com/", "startTime": 2269312.009607, "endTime": -1.000000, "urlRecalcStyle": "http://service.rapidpaytoday.com/payday.js"}}
+{"Computation": {"type": "layout", "code": "0x4066290", "docUrl": "http://4dsply.com/", "startTime": 2269312.010243, "endTime": 2269312.024828, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4066290", "docUrl": "http://4dsply.com/", "startTime": 2269312.024689, "endTime": 2269312.024813, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x4066290", "docUrl": "http://4dsply.com/", "startTime": 2269312.025087, "endTime": 2269312.025088, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4066290", "docUrl": "http://4dsply.com/", "startTime": 2269312.067627, "endTime": 2269312.074044, "urlRecalcStyle": "http://service.rapidpaytoday.com/payday.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4066290", "docUrl": "http://4dsply.com/", "startTime": 2269312.074033, "endTime": 2269312.074035, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x404fbf0", "docUrl": "http://4dsply.com/", "startTime": 2269312.074366, "endTime": 2269312.075442, "urlRecalcStyle": "http://4dsply.com/js/validation.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x404fbf0", "docUrl": "http://4dsply.com/", "startTime": 2269312.075437, "endTime": 2269312.075438, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4061d10", "docUrl": "http://4dsply.com/", "startTime": 2269312.075513, "endTime": 2269312.075973, "urlRecalcStyle": "http://4dsply.com/js/main.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4061d10", "docUrl": "http://4dsply.com/", "startTime": 2269312.075968, "endTime": 2269312.075969, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x4078f40", "docUrl": "http://4dsply.com/", "startTime": 2269312.077103, "endTime": 2269312.077105, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x4078f40", "docUrl": "http://4dsply.com/", "startTime": 2269312.077107, "endTime": 2269312.110674, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x4079910", "docUrl": "http://4dsply.com/", "startTime": 2269312.078860, "endTime": 2269312.079083, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4079910", "docUrl": "http://4dsply.com/", "startTime": 2269312.079364, "endTime": 2269312.079475, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4079910", "docUrl": "http://4dsply.com/", "startTime": 2269312.079749, "endTime": 2269312.079821, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4079910", "docUrl": "http://4dsply.com/", "startTime": 2269312.080282, "endTime": 2269312.080373, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4079910", "docUrl": "http://4dsply.com/", "startTime": 2269312.080723, "endTime": 2269312.080830, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x407b0a0", "docUrl": "http://4dsply.com/", "startTime": 2269312.081127, "endTime": 2269312.081213, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x407b0a0", "docUrl": "http://4dsply.com/", "startTime": 2269312.083517, "endTime": 2269312.083612, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x407b0a0", "docUrl": "http://4dsply.com/", "startTime": 2269312.110679, "endTime": 2269312.110681, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x407b0a0", "docUrl": "http://4dsply.com/", "startTime": 2269312.113407, "endTime": 2269312.113409, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0x40389c0", "docUrl": "http://4dsply.com/", "url": "http://4dsply.com/plugins/colorbox/jquery.colorbox.js", "time": 2269311.664353}}
+{"Preload": {"code": "0x40389c0", "docUrl": "http://4dsply.com/", "url": "http://service.rapidpaytoday.com/payday.js", "time": 2269311.665941}}
+{"Preload": {"code": "0x40389c0", "docUrl": "http://4dsply.com/", "url": "http://4dsply.com/js/validation.js", "time": 2269311.666351}}
+{"Preload": {"code": "0x40389c0", "docUrl": "http://4dsply.com/", "url": "http://4dsply.com/js/main.js", "time": 2269311.666680}}
+{"Complete": "4dsply.com_"}

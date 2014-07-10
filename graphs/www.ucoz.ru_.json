@@ -1,0 +1,1764 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.ucoz.ru_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.ucoz.ru/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 435.75800023973,
+               "time" : 31.750000081956,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 467.508000321686
+            },
+            {
+               "s_time" : 862.44500009343,
+               "time" : 0.0630002468828934,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 862.508000340313
+            },
+            {
+               "s_time" : 1040.72900023311,
+               "time" : 0.0589997507699991,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1040.78799998388
+            },
+            {
+               "s_time" : 1070.30500005931,
+               "time" : 0.0670002773399574,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 1070.37200033665
+            },
+            {
+               "s_time" : 1083.21900013834,
+               "time" : 1073.17600026727,
+               "type" : "evalhtml",
+               "id" : "r1_c5",
+               "e_time" : 2156.39500040561
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/src/main_new.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 652.423000428826,
+               "time" : 8.24399990960899,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 660.667000338435
+            }
+         ],
+         "download" : {
+            "s_time" : 464.967000298202,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/local.css",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 573.827000334859,
+               "time" : 0.819999724625973,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 574.647000059485
+            }
+         ],
+         "download" : {
+            "s_time" : 465.990000404418,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/src/jquery-1.3.2.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 817.261000163853,
+               "time" : 45.183999929577,
+               "type" : 1,
+               "id" : "comp_8",
+               "e_time" : 862.44500009343
+            }
+         ],
+         "download" : {
+            "s_time" : 466.378000099212,
+            "id" : "download_3",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/src/uwnd.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 997.816000133753,
+               "time" : 42.9130000993569,
+               "type" : 1,
+               "id" : "comp_11",
+               "e_time" : 1040.72900023311
+            }
+         ],
+         "download" : {
+            "s_time" : 466.737000271678,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/src/main.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 1070.42200025171,
+               "time" : 12.7969998866301,
+               "type" : 1,
+               "id" : "comp_15",
+               "e_time" : 1083.21900013834
+            }
+         ],
+         "download" : {
+            "s_time" : 467.508000321686,
+            "id" : "download_5",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/src/ui.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1040.83900013939,
+               "time" : 29.46599991992,
+               "type" : 1,
+               "id" : "comp_13",
+               "e_time" : 1070.30500005931
+            }
+         ],
+         "download" : {
+            "s_time" : 467.126999981701,
+            "id" : "download_6",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://mc.yandex.ru/metrika/watch.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1404.86400015652,
+               "time" : 51.24300019816,
+               "type" : 2,
+               "id" : "comp_42",
+               "e_time" : 1456.10700035468
+            }
+         ],
+         "download" : {
+            "s_time" : 459.016000386328,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 1348.26700016856,
+               "time" : 56.5519998781401,
+               "type" : 2,
+               "id" : "comp_40",
+               "e_time" : 1404.8190000467
+            }
+         ],
+         "download" : {
+            "s_time" : 1085.71400027722,
+            "id" : "download_8",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1792618756&utmhn=www.ucoz.ru&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%20-%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%20-%20uCoz&utmhid=867026000&utmr=-&utmp=%2F&utmht=1378096916604&utmac=UA-24227814-3&utmcc=__utma%3D197224235.1307642811.1378096917.1378096917.1378096917.1%3B%2B__utmz%3D197224235.1378096917.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1401.38000017032,
+            "id" : "download_9",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/top_menu_bottom.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1278.84800033644,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bg.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1277.07700012252,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/logo.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1280.59400012717,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/header.jpg",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1278.22300000116,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/top_menu_separate.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1279.47100019082,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/select_arrow.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1280.12900007889,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/slogan.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1280.95300029963,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/create_button1.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1281.30900021642,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/tour-btn.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1281.68500028551,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/know-more.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1282.09100011736,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/api/json/news/novosti/1-0-1-0-0-0-getnews?callback=jsonp1378096916070&_=1378096916443",
+         "id" : "r74",
+         "comps" : [
+            {
+               "s_time" : 1566.81099999696,
+               "time" : 47.14300017804,
+               "type" : 2,
+               "id" : "comp_47",
+               "e_time" : 1613.954000175
+            }
+         ],
+         "download" : {
+            "s_time" : 1235.77200016007,
+            "id" : "download_20",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/bg_preview.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1282.47199999169,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/arrow_left.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1282.85800013691,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/1.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1283.25200034305,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://mc.yandex.ru/watch/18794098/1?wmode=5&callback=_ymjsp313569788&page-url=http%3A%2F%2Fwww.ucoz.ru%2F&browser-info=j:1:s:2048x1152x24:f:11.8.800:w:935x999:z:-420:i:20130901214156:en:utf-8:v:1825:c:1:la:en-us:rn:161624666:hid:677060023:ds:226,85,87,87,944,0,,699,156,,,:fp:1487:wn:30777:hl:4:t:%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%20-%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%20-%20uCoz",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1712.35400019214,
+            "id" : "download_24",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/3.jpg",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1283.63199997693,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/4.jpg",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1284.037000034,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/_nw/1/46027135.png",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1588.94800022244,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/9.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1285.27300013229,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/5.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1284.42600043491,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/7.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1284.86200002953,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/narod-news.png",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1615.10200006887,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/updates.jpg",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1615.81900017336,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/forum-news.png",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1615.48500042409,
+            "id" : "download_33",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/narod.png",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1616.16200022399,
+            "id" : "download_34",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/pda.png",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1616.49000039324,
+            "id" : "download_35",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/10.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1285.68200021982,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/h_01.png",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1286.88900033012,
+            "id" : "download_37",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/up-bugs.png",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1616.82400014251,
+            "id" : "download_38",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/sshots/12.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1286.10300039873,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/h_02.png",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1287.68600011244,
+            "id" : "download_40",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/arrow_right.png",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1286.49700013921,
+            "id" : "download_41",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bullet1.png",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1287.28200029582,
+            "id" : "download_42",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/profit.jpg",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1617.15200031176,
+            "id" : "download_43",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/cell_ph_ru_126.png",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1617.49100033194,
+            "id" : "download_44",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ucoznews.ucoz.net/crossposting_release.png",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1617.85600008443,
+            "id" : "download_45",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/h_03.png",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1288.52700022981,
+            "id" : "download_46",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bg_contanier.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1289.13900023326,
+            "id" : "download_47",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/img/manage_block.png",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1289.95600016788,
+            "id" : "download_48",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bg_contanier_top.png",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1289.53499998897,
+            "id" : "download_49",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/manage_block_close.png",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1290.37500033155,
+            "id" : "download_50",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://counter.yadro.ru/hit?q;r;s2048*1152*24;uhttp%3A//www.ucoz.ru/;0.20702553680166602",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2156.39500040561,
+            "id" : "download_51",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/block_top.png",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1290.77100008726,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/block_bottom.png",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1291.15399997681,
+            "id" : "download_53",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/block_close.png",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1291.53300030157,
+            "id" : "download_54",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/block_news.png",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1291.91700043157,
+            "id" : "download_55",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/block_icons.png",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1292.30000032112,
+            "id" : "download_56",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/arrow_small_right.png",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1292.6760003902,
+            "id" : "download_57",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/arrow_small_left.png",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1293.07000013068,
+            "id" : "download_58",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/stat.png",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1293.45100000501,
+            "id" : "download_59",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/arrow_small_up.png",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1293.83100010455,
+            "id" : "download_60",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/arrow_small_down.png",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1294.21300021932,
+            "id" : "download_61",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/block_vidget.png",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1294.63000036776,
+            "id" : "download_62",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opin1.jpg",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1295.02000007778,
+            "id" : "download_63",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opin1c.jpg",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1295.4120002687,
+            "id" : "download_64",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_06.gif",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1295.9400000982,
+            "id" : "download_65",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_02.gif",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1296.75300000235,
+            "id" : "download_66",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_03.gif",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1297.54900000989,
+            "id" : "download_67",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_04.gif",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1298.19500027224,
+            "id" : "download_68",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_05.gif",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1298.75800013542,
+            "id" : "download_69",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_07.gif",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1299.16300019249,
+            "id" : "download_70",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_08.gif",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1299.94100006297,
+            "id" : "download_71",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_01.gif",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1299.55200012773,
+            "id" : "download_72",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/opinion_company_09.gif",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1300.37800036371,
+            "id" : "download_73",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/quote_left.png",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1300.77200010419,
+            "id" : "download_74",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/quote_right.png",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1301.13200005144,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/award1.jpg",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1301.51200015098,
+            "id" : "download_76",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/award2.jpg",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1301.90500011668,
+            "id" : "download_77",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/award3.jpg",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1302.28900024667,
+            "id" : "download_78",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/award4.jpg",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1302.67300037667,
+            "id" : "download_79",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bg_footer.png",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1303.07600041851,
+            "id" : "download_80",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bg_footer_top.jpg",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1303.45400003716,
+            "id" : "download_81",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/footer_line.png",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1303.83600015193,
+            "id" : "download_82",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/bullet2.png",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1304.21099998057,
+            "id" : "download_83",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/logo_white.png",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1304.625000339,
+            "id" : "download_84",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/img/footer_button.png",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1305.01100001857,
+            "id" : "download_85",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ6.jpg",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1305.41300028563,
+            "id" : "download_86",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ7.jpg",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1305.79700041562,
+            "id" : "download_87",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ8.jpg",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1306.18500011042,
+            "id" : "download_88",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ9.jpg",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1306.59500043839,
+            "id" : "download_89",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ1.jpg",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1306.98300013319,
+            "id" : "download_90",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ2.jpg",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1307.40000028163,
+            "id" : "download_91",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ3.jpg",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1308.09000041336,
+            "id" : "download_92",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.ucoz.ru/ucoz/ru/pick/integ5.jpg",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1308.71500028297,
+            "id" : "download_93",
+            "type" : "image/jpeg"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_11"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_13"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_15"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_11",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_13",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_11"
+      },
+      {
+         "a2" : "comp_15",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_13"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 225.49600014463,
+         "id" : "dep10",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 224.87100027502,
+         "id" : "dep11",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 224.18100014329,
+         "id" : "dep12",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 223.76399999485,
+         "id" : "dep13",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 223.37600030005,
+         "id" : "dep14",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 222.96599997208,
+         "id" : "dep15",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 222.57800027728,
+         "id" : "dep16",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 222.19400014729,
+         "id" : "dep17",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 221.79199988023,
+         "id" : "dep18",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 221.40600020066,
+         "id" : "dep19",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 220.99199984223,
+         "id" : "dep20",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 220.61700001359,
+         "id" : "dep21",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 220.23499989882,
+         "id" : "dep22",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 219.85700028017,
+         "id" : "dep23",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 219.45400023833,
+         "id" : "dep24",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 219.07000010833,
+         "id" : "dep25",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 218.68599997834,
+         "id" : "dep26",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 218.29300001264,
+         "id" : "dep27",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 217.9129999131,
+         "id" : "dep28",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 217.55299996585,
+         "id" : "dep29",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 217.15900022537,
+         "id" : "dep30",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 216.33299998939,
+         "id" : "dep31",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 216.72199992463,
+         "id" : "dep32",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 215.94400005415,
+         "id" : "dep33",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 215.53899999708,
+         "id" : "dep34",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 214.9760001339,
+         "id" : "dep35",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 214.32999987155,
+         "id" : "dep36",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 213.53399986401,
+         "id" : "dep37",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 212.72099995986,
+         "id" : "dep38",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 212.19300013036,
+         "id" : "dep39",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 211.80099993944,
+         "id" : "dep40",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 211.41100022942,
+         "id" : "dep41",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 210.99400008098,
+         "id" : "dep42",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 210.61199996621,
+         "id" : "dep43",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 210.23199986667,
+         "id" : "dep44",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 209.85099999234,
+         "id" : "dep45",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 209.45700025186,
+         "id" : "dep46",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 209.08100018278,
+         "id" : "dep47",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 208.69800029323,
+         "id" : "dep48",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 208.31400016323,
+         "id" : "dep49",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 207.93499983847,
+         "id" : "dep50",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 207.55199994892,
+         "id" : "dep51",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_51",
+         "time" : -1,
+         "id" : "dep52",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 207.15600019321,
+         "id" : "dep53",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 206.31599985063,
+         "id" : "dep54",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 206.73700002954,
+         "id" : "dep55",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 205.92000009492,
+         "id" : "dep56",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 205.30800009147,
+         "id" : "dep57",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 534.63699994609,
+         "id" : "dep58",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 534.2720001936,
+         "id" : "dep59",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 533.93300017342,
+         "id" : "dep60",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 204.06300015748,
+         "id" : "dep61",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 203.27800000087,
+         "id" : "dep62",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 204.4669999741,
+         "id" : "dep63",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 202.88400026039,
+         "id" : "dep64",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 533.60500000417,
+         "id" : "dep65",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 203.67000019178,
+         "id" : "dep66",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 202.46300008148,
+         "id" : "dep67",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 533.2710002549,
+         "id" : "dep68",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 532.94300008565,
+         "id" : "dep69",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 532.26600028575,
+         "id" : "dep70",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 532.60000003502,
+         "id" : "dep71",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 531.88299993053,
+         "id" : "dep72",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 201.64299989119,
+         "id" : "dep73",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 201.20700029657,
+         "id" : "dep74",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 202.05399999395,
+         "id" : "dep75",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 505.7290000841,
+         "id" : "dep76",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 200.81799989566,
+         "id" : "dep77",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 200.41299983859,
+         "id" : "dep78",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 629.1350000538,
+         "id" : "dep79",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 200.03300020471,
+         "id" : "dep80",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 199.63899999857,
+         "id" : "dep81",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 199.25299985335,
+         "id" : "dep82",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 152.55300002173,
+         "id" : "dep83",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 198.87199997902,
+         "id" : "dep84",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 198.46600014717,
+         "id" : "dep85",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 198.09000007808,
+         "id" : "dep86",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 197.73400016129,
+         "id" : "dep87",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 196.90999994055,
+         "id" : "dep88",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 196.25200005248,
+         "id" : "dep89",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 195.00399986282,
+         "id" : "dep90",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 197.37499998883,
+         "id" : "dep91",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 193.85799998418,
+         "id" : "dep92",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 195.6290001981,
+         "id" : "dep93",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 318.16100003198,
+         "id" : "dep94",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 2.49500013887996,
+         "id" : "dep95",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 23.258000146598,
+         "id" : "dep96",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : -1,
+         "id" : "dep97",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : -1,
+         "id" : "dep98",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 30.979000031948,
+         "id" : "dep99",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 30.619999859482,
+         "id" : "dep100",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 30.232000164688,
+         "id" : "dep101",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 29.209000058472,
+         "id" : "dep102",
+         "a1" : "r1_c1"
+      }
+   ]
+}

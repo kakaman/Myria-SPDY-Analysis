@@ -1,0 +1,417 @@
+{
+   "n_download_no_trigger" : 28,
+   "start_activity" : "download_0",
+   "name" : "www.bing.com_fd_fb_r?v=9_00_0_2057255&sId=6",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.bing.com/fd/fb/r?v=9_00_0_2057255&sId=6",
+         "id" : "r18",
+         "comps" : [
+            {
+               "s_time" : 58.0920004285872,
+               "time" : 674.163999967277,
+               "type" : "evalhtml",
+               "id" : "r18_c1",
+               "e_time" : 732.256000395864
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.bing.com/hpm?IID=SERP.1000&IG=2f01624de196412f947c6fdc8393c19d",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : -42.0889998786151,
+            "id" : "download_1",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://api.bing.com/qsonhs.aspx?FORM=ASAPIH&q=",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : -272.769999690354,
+            "id" : "download_2",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.TUiIf-JS_N1JGXCE0qMSAw600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 145.464000292122,
+            "id" : "download_3",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.ERvYeXHEIEb2VoFnvFdxFg600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 146.576000377536,
+            "id" : "download_4",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.Su1CqutruVGYheknNPYU5g600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 146.057000383735,
+            "id" : "download_5",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.S2EXjGkGKJXwXrO3d_eBpQ600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 147.000000346452,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.glC6NSdLspiMH2vzIto53g600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 147.407000418752,
+            "id" : "download_7",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.-Lu6yWk9QW-fshOCFQZdHg600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 147.80900022015,
+            "id" : "download_8",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.TMplJrcOjLnFojkpR7ghhA600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 148.235000204295,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://connect.facebook.net/en_US/all.js",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : -177.292999811471,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.TgAJchm9Pp4PV-GDe4HZng600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 148.654000367969,
+            "id" : "download_11",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.jBZ6O4kEcq6-a4FGPktiRQ600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 149.074000306427,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.erGKPaqCHw994cl1yVTPTQ600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 149.921000003815,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.u-3DCuzgSOpaaNI-EO-cYA600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 149.498000275344,
+            "id" : "download_14",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.HjtAatjgXq3oxMf5CRhjxw600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 150.364000350237,
+            "id" : "download_15",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.j0rLlqUkc0DilVxsuge4kw600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 150.779000017792,
+            "id" : "download_16",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/fd/s/a/sca.gif",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 152.01500011608,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/az/hprichbg/rb/IntlFountain_EN-US9961960051_1366x768.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 152.435000054538,
+            "id" : "download_18",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.P0UtskMaizKttD2pAyCO5g600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 151.604000013322,
+            "id" : "download_19",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/th?id=OS.ZYx9pOJOhFZJ0FycbbYqVg600C600&w=160&h=80&c=8&rs=2&qlt=80&pid=PopNow",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 151.194000151008,
+            "id" : "download_20",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/fd/ls/l?IG=2f01624de196412f947c6fdc8393c19d&CID=1B87296D3E106DA501062C513F036D2D&PM=Y&Type=Event.PPT&DATA={%22S%22:606,%22E%22:1073,%22T%22:0,%22I%22:0,%22N%22:{%22H%22:{%22S%22:607,%22E%22:1038,%22T%22:1}},%22M%22:{}}&P=SERP&DA=WSTv2",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 182.29900021106,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.bing.com/fd/fb/u?v=9_00_0_2057255&sId=6#error=unknown_user",
+         "id" : "r19",
+         "comps" : [
+            {
+               "s_time" : 658.050000201911,
+               "time" : 11.2519999966021,
+               "type" : "evalhtml",
+               "id" : "r19_c1",
+               "e_time" : 669.302000198513
+            }
+         ],
+         "download" : {
+            "s_time" : 576.950000133365,
+            "id" : "download_22",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/fd/id/clear?provider=facebook&completion_mode=image&sig=12442817AD1548598BD2EF04432C272D",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 670.904000289738,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/fd/sa/9_00_0_2057255/WindowsLiveConnect_c.js",
+         "id" : "r48",
+         "comps" : [
+            {
+               "s_time" : 737.519999966025,
+               "time" : 6.68900040909693,
+               "type" : null,
+               "id" : "comp_177",
+               "e_time" : 744.209000375122
+            }
+         ],
+         "download" : {
+            "s_time" : 732.256000395864,
+            "id" : "download_24",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.facebook.com/plugins/like.php?api_key=111239619098&channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D26%23cb%3Df2422f0b8%26domain%3Dwww.bing.com%26origin%3Dhttp%253A%252F%252Fwww.bing.com%252Ff6f53e9c%26relation%3Dparent.parent&colorscheme=light&extended_social_context=false&font=arial&href=http%3A%2F%2Fwww.bing.com%2F%3FFORM%3DHPFBBK%26ssd%3D20130901_0700%26mkt%3Den-US&layout=button_count&locale=en_US&node_type=link&sdk=joey&send=false&show_faces=false&width=90",
+         "id" : "r49",
+         "comps" : [
+            {
+               "s_time" : 826.890000142157,
+               "time" : 17.051999922842,
+               "type" : "evalhtml",
+               "id" : "r49_c1",
+               "e_time" : 843.942000064999
+            }
+         ],
+         "download" : {
+            "s_time" : 734.825000166893,
+            "id" : "download_25",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://static.ak.facebook.com/connect/xd_arbiter.php?version=26#channel=f6f53e9c&channel_path=%2F%3Ffb_xd_fragment%23xd_sig%3Df28cbbf22%26&origin=http%3A%2F%2Fwww.bing.com",
+         "id" : "r44",
+         "comps" : [
+            {
+               "s_time" : 1077.91800005361,
+               "time" : 26.2890001758999,
+               "type" : "evalhtml",
+               "id" : "r44_c1",
+               "e_time" : 1104.20700022951
+            }
+         ],
+         "download" : {
+            "s_time" : 672.826000023633,
+            "id" : "download_26",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://static.ak.facebook.com/connect/xd_arbiter.php?version=26#cb=f3d8013218&domain=www.bing.com&origin=http%3A%2F%2Fwww.bing.com%2Ff6f53e9c&relation=parent&error=unknown_user",
+         "id" : "r46",
+         "comps" : [
+            {
+               "s_time" : 1128.88700002804,
+               "time" : 26.56300039962,
+               "type" : "evalhtml",
+               "id" : "r46_c1",
+               "e_time" : 1155.45000042766
+            }
+         ],
+         "download" : {
+            "s_time" : 733.922000043094,
+            "id" : "download_27",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.ak.fbcdn.net/rsrc.php/v2/yb/r/X3sPtsHRA2Z.js",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 837.59200014174,
+            "id" : "download_28",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.ak.fbcdn.net/rsrc.php/v2/y-/r/tbhIfdAHjXE.png",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 847.68500039354,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.bing.com/fd/fb/v?noop=1",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 79.1870001703501,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_30",
+         "time" : 21.0949997417629,
+         "id" : "dep1",
+         "a1" : "r18_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 10.701999999583,
+         "id" : "dep2",
+         "a1" : "r49_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "r18_c1"
+      }
+   ]
+}

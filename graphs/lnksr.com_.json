@@ -1,0 +1,80 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "lnksr.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://lnksr.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 415.371999999934,
+               "time" : 10.357999999996,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 425.72999999993
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://lnksr.com/images/bg.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 424.897999999985,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://lnksr.com/images/errorbg.png",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 425.399999999854,
+            "id" : "download_2",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://lnksr.com/images/check.png",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 425.72999999993,
+            "id" : "download_3",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_3",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 10.02799999992,
+         "id" : "dep2",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 9.526000000051,
+         "id" : "dep3",
+         "a1" : "r1_c1"
+      }
+   ]
+}

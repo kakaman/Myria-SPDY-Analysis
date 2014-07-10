@@ -1,0 +1,3615 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "us.weibo.com_gb",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://us.weibo.com/gb",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 91.9409999623895,
+               "time" : 16.8710001744325,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 108.812000136822
+            },
+            {
+               "s_time" : 489.324000198394,
+               "time" : 0.0609997659919941,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 489.384999964386
+            },
+            {
+               "s_time" : 501.186000183225,
+               "time" : 0.0620000064369606,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 501.248000189662
+            },
+            {
+               "s_time" : 509.237000253052,
+               "time" : 0.0549997203050339,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 509.291999973357
+            },
+            {
+               "s_time" : 511.008000001311,
+               "time" : 0.074000097811961,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 511.082000099123
+            },
+            {
+               "s_time" : 513.385999947786,
+               "time" : 0.0380002893509754,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 513.424000237137
+            },
+            {
+               "s_time" : 519.061000086367,
+               "time" : 0.0539999455210136,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 519.115000031888
+            },
+            {
+               "s_time" : 521.087000146508,
+               "time" : 0.0519999302930501,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 521.139000076801
+            },
+            {
+               "s_time" : 555.850999895483,
+               "time" : 9.56300040706992,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 565.414000302553
+            },
+            {
+               "s_time" : 603.336000349373,
+               "time" : 0.054999720304977,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 603.391000069678
+            },
+            {
+               "s_time" : 654.826000332832,
+               "time" : 454.917999915778,
+               "id" : "r1_c11",
+               "type" : "evalhtml",
+               "e_time" : 1109.74400024861
+            },
+            {
+               "s_time" : 1110.7310000807,
+               "time" : 6.17599999533013,
+               "id" : "r1_c12",
+               "type" : "evalhtml",
+               "e_time" : 1116.90700007603
+            },
+            {
+               "s_time" : 1117.45900008827,
+               "time" : 19.5300001651101,
+               "id" : "r1_c13",
+               "type" : "evalhtml",
+               "e_time" : 1136.98900025338
+            },
+            {
+               "s_time" : 1289.06200034544,
+               "time" : 20.5709999427199,
+               "id" : "r1_c14",
+               "type" : "evalhtml",
+               "e_time" : 1309.63300028816
+            },
+            {
+               "s_time" : 1314.56799991429,
+               "time" : 688.19900043309,
+               "id" : "r1_c15",
+               "type" : "evalhtml",
+               "e_time" : 2002.76700034738
+            },
+            {
+               "s_time" : 2004.0549999103,
+               "time" : 524.8660002835,
+               "id" : "r1_c16",
+               "type" : "evalhtml",
+               "e_time" : 2528.9210001938
+            },
+            {
+               "s_time" : 2535.80099996179,
+               "time" : 849.54000031576,
+               "id" : "r1_c17",
+               "type" : "evalhtml",
+               "e_time" : 3385.34100027755
+            },
+            {
+               "s_time" : 3389.45400016382,
+               "time" : 261.67100016028,
+               "id" : "r1_c18",
+               "type" : "evalhtml",
+               "e_time" : 3651.1250003241
+            },
+            {
+               "s_time" : 3651.46700013429,
+               "time" : 1.69500010087995,
+               "id" : "r1_c19",
+               "type" : "evalhtml",
+               "e_time" : 3653.16200023517
+            },
+            {
+               "s_time" : 3654.22900021076,
+               "time" : 284.92200002074,
+               "id" : "r1_c20",
+               "type" : "evalhtml",
+               "e_time" : 3939.1510002315
+            },
+            {
+               "s_time" : 4081.44799992442,
+               "time" : 209.02399998158,
+               "id" : "r1_c21",
+               "type" : "evalhtml",
+               "e_time" : 4290.471999906
+            },
+            {
+               "s_time" : 4313.8900003396,
+               "time" : 6.67999964206956,
+               "id" : "r1_c22",
+               "type" : "evalhtml",
+               "e_time" : 4320.56999998167
+            },
+            {
+               "s_time" : 4324.00800008327,
+               "time" : 1028.5229999572,
+               "type" : "evalhtml",
+               "id" : "r1_c23",
+               "e_time" : 5352.53100004047
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://news.sina.com.cn/js/87/20110714/205/sinalib.js",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 565.487000159919,
+               "time" : 37.8490001894539,
+               "type" : 1,
+               "id" : "comp_25",
+               "e_time" : 603.336000349373
+            }
+         ],
+         "download" : {
+            "s_time" : 103.893999941647,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/css/style_c.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 187.067000195384,
+               "time" : 3.70199978351602,
+               "type" : 4,
+               "id" : "comp_7",
+               "e_time" : 190.7689999789
+            }
+         ],
+         "download" : {
+            "s_time" : 97.0100001432002,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/css/colorbox.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 162.525000050664,
+               "time" : 0.514000188558981,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 163.039000239223
+            }
+         ],
+         "download" : {
+            "s_time" : 97.5930001586676,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/css/wb_us_add.css",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 164.353000000119,
+               "time" : 0.146000180393997,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 164.499000180513
+            }
+         ],
+         "download" : {
+            "s_time" : 97.9430000297725,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/jquery.masonry.min.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 489.438000135124,
+               "time" : 11.748000048101,
+               "type" : 1,
+               "id" : "comp_10",
+               "e_time" : 501.186000183225
+            }
+         ],
+         "download" : {
+            "s_time" : 98.9959998987615,
+            "id" : "download_5",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/jquery.infinitescroll.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 501.300999894738,
+               "time" : 7.93600035831395,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 509.237000253052
+            }
+         ],
+         "download" : {
+            "s_time" : 99.3340001441538,
+            "id" : "download_6",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/jquery-1.8.3.min.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 301.078000105917,
+               "time" : 188.246000092477,
+               "type" : 1,
+               "id" : "comp_8",
+               "e_time" : 489.324000198394
+            }
+         ],
+         "download" : {
+            "s_time" : 98.6419999971986,
+            "id" : "download_7",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/jquery.scrollTo.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 509.343999903649,
+               "time" : 1.66400009766204,
+               "type" : 1,
+               "id" : "comp_14",
+               "e_time" : 511.008000001311
+            }
+         ],
+         "download" : {
+            "s_time" : 99.7130000032485,
+            "id" : "download_8",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/jquery.lazyload.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 511.14400010556,
+               "time" : 2.24199984222599,
+               "type" : 1,
+               "id" : "comp_16",
+               "e_time" : 513.385999947786
+            }
+         ],
+         "download" : {
+            "s_time" : 100.061000324786,
+            "id" : "download_9",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/jquery.colorbox.min.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 513.453000225127,
+               "time" : 5.60799986124005,
+               "type" : 1,
+               "id" : "comp_18",
+               "e_time" : 519.061000086367
+            }
+         ],
+         "download" : {
+            "s_time" : 100.465000141412,
+            "id" : "download_10",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/doT.min.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 519.158999901265,
+               "time" : 1.92800024524297,
+               "type" : 1,
+               "id" : "comp_20",
+               "e_time" : 521.087000146508
+            }
+         ],
+         "download" : {
+            "s_time" : 102.38300031051,
+            "id" : "download_11",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/css/widgets.css",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 529.320000205189,
+               "time" : 0.14999974519003,
+               "type" : 4,
+               "id" : "comp_22",
+               "e_time" : 529.469999950379
+            }
+         ],
+         "download" : {
+            "s_time" : 103.490999899805,
+            "id" : "download_12",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/usWeibo.js",
+         "id" : "r24",
+         "comps" : [
+            {
+               "s_time" : 4320.60300000012,
+               "time" : 3.4050000831503,
+               "type" : 1,
+               "id" : "comp_256",
+               "e_time" : 4324.00800008327
+            }
+         ],
+         "download" : {
+            "s_time" : 108.812000136822,
+            "id" : "download_13",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/js/widgets.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 603.926999960095,
+               "time" : 50.899000372737,
+               "type" : 1,
+               "id" : "comp_29",
+               "e_time" : 654.826000332832
+            }
+         ],
+         "download" : {
+            "s_time" : 104.346999898553,
+            "id" : "download_14",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.sso.sina.com.cn/js/ssologin.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 534.020000137389,
+               "time" : 21.830999758094,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 555.850999895483
+            }
+         ],
+         "download" : {
+            "s_time" : 102.983999997377,
+            "id" : "download_15",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/728_90/15.js",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 104.724999982864,
+            "id" : "download_16",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/gb/ads/weibo/text/23.js",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 1116.94000009447,
+               "time" : 0.51899999379998,
+               "type" : 1,
+               "id" : "comp_45",
+               "e_time" : 1117.45900008827
+            }
+         ],
+         "download" : {
+            "s_time" : 105.090999975801,
+            "id" : "download_17",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/300_250/16.js",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 105.458999983966,
+            "id" : "download_18",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/text/21.js",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 3653.19700026885,
+               "time" : 1.03199994191027,
+               "type" : 1,
+               "id" : "comp_172",
+               "e_time" : 3654.22900021076
+            }
+         ],
+         "download" : {
+            "s_time" : 107.660999987274,
+            "id" : "download_19",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/728_90/17.js",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 106.848000083119,
+            "id" : "download_20",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/300_250/20.js",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 107.248000334948,
+            "id" : "download_21",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/728_90/18.js",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 108.035000041127,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dailynews.sina.com/bg/ads/weibo/728_90/19.js",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 108.423999976367,
+            "id" : "download_23",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/images/icon.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 675.960999913514,
+            "id" : "download_24",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp4.sinaimg.cn/1716761743/50/1279890211/1",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 658.346999902278,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp4.sinaimg.cn/1596329427/50/40018249698/1",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 674.095999915153,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp4.sinaimg.cn/1733879143/50/5597159691/1",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 674.827999901026,
+            "id" : "download_27",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp4.sinaimg.cn/1680775623/50/5598385884/1",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 675.571999978274,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp4.sinaimg.cn/2016581283/50/40005704846/0",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 674.458000343293,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp1.sinaimg.cn/2132734472/50/40002672483/0",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 673.721000086516,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp1.sinaimg.cn/2244968452/50/5616822534/0",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 664.510000031441,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/sina_logo.png",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 657.883000094444,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp2.sinaimg.cn/1845935593/50/5646637325/1",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 667.875000275671,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/footerPic.png",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 677.448000293225,
+            "id" : "download_34",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp3.sinaimg.cn/3210652194/50/40017741333/1",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 673.35300007835,
+            "id" : "download_35",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp3.sinaimg.cn/1640337222/50/1289807461/1",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 672.881999984384,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp2.sinaimg.cn/1929832665/50/1295935547/1",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 676.332000177354,
+            "id" : "download_37",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tp4.sinaimg.cn/3483523243/50/40023971572/0",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 675.201000180095,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/transparent.gif",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 677.068999968469,
+            "id" : "download_39",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/us_logo.jpg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 676.702000200748,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/us.weibo/;pos=top;sz=728x90;ord=1517699528485536.5?",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 1083.728000056,
+               "time" : 27.0030000247,
+               "type" : 1,
+               "id" : "comp_36",
+               "e_time" : 1110.7310000807
+            }
+         ],
+         "download" : {
+            "s_time" : 683.213999960572,
+            "id" : "download_41",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/879366/flashwrite_1_2.js",
+         "id" : "r44",
+         "comps" : [
+            {
+               "s_time" : 1288.56300003827,
+               "time" : 0.499000307170036,
+               "type" : 1,
+               "id" : "comp_53",
+               "e_time" : 1289.06200034544
+            },
+            {
+               "s_time" : 3388.64500029013,
+               "time" : 0.808999873690027,
+               "type" : 1,
+               "id" : "comp_151",
+               "e_time" : 3389.45400016382
+            }
+         ],
+         "download" : {
+            "s_time" : 1109.74400024861,
+            "id" : "download_42",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/images/menuBg.png",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.96799997985,
+            "id" : "download_43",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/us.weibo/;pos=top;sz=300x250;ord=1062704427167773.2?",
+         "id" : "r55",
+         "comps" : [
+            {
+               "s_time" : 1311.59800011665,
+               "time" : 2.96999979764018,
+               "type" : 1,
+               "id" : "comp_58",
+               "e_time" : 1314.56799991429
+            }
+         ],
+         "download" : {
+            "s_time" : 1127.21800012514,
+            "id" : "download_44",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/blkCenter.png",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1135.47000009567,
+            "id" : "download_45",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/blk1Top.png",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1135.10500034317,
+            "id" : "download_46",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/bgTopR.png",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1135.86000027135,
+            "id" : "download_47",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/bgTopL.png",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1136.23999990523,
+            "id" : "download_48",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/bgBottomR.png",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1136.62400003523,
+            "id" : "download_49",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/bgBottomL.png",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1136.98900025338,
+            "id" : "download_50",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-8697294910918273",
+         "id" : "r56",
+         "comps" : [
+            {
+               "s_time" : 1938.57800029218,
+               "time" : 3010.5359996669,
+               "type" : "evalhtml",
+               "id" : "r56_c1",
+               "e_time" : 4949.11399995908
+            }
+         ],
+         "download" : {
+            "s_time" : 1308.4309999831,
+            "id" : "download_51",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/btn_focus.gif",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1336.67600015178,
+            "id" : "download_52",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/linedot.gif",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1338.2410001941,
+            "id" : "download_53",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/gray_icon.gif",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1337.19399990514,
+            "id" : "download_54",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/ico.png",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1337.75599999353,
+            "id" : "download_55",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/bgTopR1.png",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1338.64099998027,
+            "id" : "download_56",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/bgTopL1.png",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1339.0500000678,
+            "id" : "download_57",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/btn_focus1.gif",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1339.46399996057,
+            "id" : "download_58",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20110914/abg.js",
+         "id" : "r45",
+         "comps" : [
+            {
+               "s_time" : 4060.20700000226,
+               "time" : 21.24099992216,
+               "type" : 1,
+               "id" : "comp_221",
+               "e_time" : 4081.44799992442
+            },
+            {
+               "s_time" : 4290.8610003069,
+               "time" : 23.0290000327004,
+               "type" : 1,
+               "id" : "comp_247",
+               "e_time" : 4313.8900003396
+            },
+            {
+               "s_time" : 1948.78500001505,
+               "time" : 8.60300008208014,
+               "type" : 2,
+               "id" : "comp_87",
+               "e_time" : 1957.38800009713
+            }
+         ],
+         "download" : {
+            "s_time" : 1111.92300030962,
+            "id" : "download_59",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/simgad/705338207098033164",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1340.92200035229,
+            "id" : "download_60",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/blkB.png",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1340.43900016695,
+            "id" : "download_61",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/gray_icon1.gif",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1339.92699999362,
+            "id" : "download_62",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/us.weibo/;pos=middle1;sz=728x90;ord=6419145057443529?",
+         "id" : "r67",
+         "comps" : [
+            {
+               "s_time" : 1981.92099994048,
+               "time" : 22.13399996982,
+               "type" : 1,
+               "id" : "comp_92",
+               "e_time" : 2004.0549999103
+            }
+         ],
+         "download" : {
+            "s_time" : 1336.14400029182,
+            "id" : "download_63",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/879366/flash_inpage_rendering_lib_200_27.js",
+         "id" : "r72",
+         "comps" : [
+            {
+               "s_time" : 2642.20699993894,
+               "time" : 194.14000026881,
+               "type" : 3,
+               "id" : "comp_124",
+               "e_time" : 2836.34700020775
+            }
+         ],
+         "download" : {
+            "s_time" : 2002.76700034738,
+            "id" : "download_64",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/3368141/plcr_2687762_0_1377697810589.js",
+         "id" : "r71",
+         "comps" : [
+            {
+               "s_time" : 2640.28399996459,
+               "time" : 1.77600001917017,
+               "type" : 3,
+               "id" : "comp_122",
+               "e_time" : 2642.05999998376
+            }
+         ],
+         "download" : {
+            "s_time" : 2002.34600016847,
+            "id" : "download_65",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/blkTop.png",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2027.63700019568,
+            "id" : "download_66",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/dot.jpg",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2027.98500005156,
+            "id" : "download_67",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/us.weibo/;pos=bottom;sz=300x250;ord=9462326886132360?",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2027.17899996787,
+            "id" : "download_68",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/2878480/ChromebookUS_Generic_BTS_bn_v2_728x90.swf",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2154.3370001018,
+            "id" : "download_69",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ad.doubleclick.net/activity;src=2542116;type=googl837;cat=gb2cd589;ord=1?",
+         "id" : "r70",
+         "comps" : [
+            {
+               "s_time" : 2532.58500015363,
+               "time" : 3.21599980815972,
+               "type" : 1,
+               "id" : "comp_113",
+               "e_time" : 2535.80099996179
+            }
+         ],
+         "download" : {
+            "s_time" : 2001.08000030741,
+            "id" : "download_70",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=turn1&google_push=AHNF13KOCa1nmUq2_eJj30tKJ1d0H-HNEm2PJDoKtA&google_hm=MzEyNjE2Mjc4ODg0NzYxNjg5OQ==",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2528.9210001938,
+            "id" : "download_71",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-8697294910918273",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2537.83300006762,
+            "id" : "download_72",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ib.adnxs.com/ttj?id=543033&size=300x250&referrer=Sina.com&rnd=1072215814&pubclick=http://adclick.g.doubleclick.net/aclk%253Fsa%253DL%2526ai%253DB9aHAkQEkUt_sE4GKlAK0oIC4Bc34vJ8DAAAAEAEgADgAWOXgjZFXYMmOxo30pNAZggEXY2EtcHViLTY5NzcwNTk1NjIwNTU2OTmyAQx1cy53ZWliby5jb226AQlnZnBfaW1hZ2XIAQnaARZodHRwOi8vdXMud2VpYm8uY29tL2diwAIC4AIA6gINNDQ2MS91cy53ZWlib_gCgdIekAOsApgD4AOoAwHQBJBO4AQBoAYW%2526num%253D0%2526sig%253DAOD64_1stQxXvieZC9PF3bUOdaZ5eIKubw%2526client%253Dca-pub-6977059562055699%2526adurl%253D",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2528.210000135,
+            "id" : "download_73",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/p?c1=8&c2=6035951&c3=56272&c4=&c5=&c6=&c15=&cv=2.0&cj=20",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2854.21000001952,
+            "id" : "download_74",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/ads/richmedia/studio/22907883/24517968_20130819175015248_Google_728x90_shell.swf",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2857.96200018376,
+            "id" : "download_75",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.turn.com/server/ads.js?pub=5114155&cch=5114180&code=5114206&l=300x250&aid=32131320&ahcid=7803781&bimpd=ViDIm59hKTY7dyf3viKTQimXYKZk-of3eo-0ies0Cc38GXVcQmMBsaBWCfZOxIdwtJjhgxupytl3avNi50_JXKVVxSOlKE9BtFxiNohJ5l6pktr2O193ix-cJe1myXEyVA6C6sVZv-Wi8Wp_0UDNlHLuomQ88Nsgs4CV8-WKwys7O7SrL5jN5HVcpzr56kdVzomhBrXfSgPzCM9z7ejaStExK_WBRD_PwWP7P9llIjNxXzwxRmQacxPdakjsV7k5sw1Y1BJaUBv-LpKXjzT50GPZUHLlP6X4NMOO2L8cfTKOMmpuvXIrCdCBmS2U4pg8dcVk3WBKwAXsyRFYaoyjb8A3mW1WJFfg-e9aFlzBzj1BfnoRykVsYYedZQtq64d9Mv44uf_3qMIpUrLMwgizV4rjP6bGwZQEF9gghlm3F2K_BxPG_SU6jpSxX75I9Wz-pses5KeNYvYf5mE2AkFQ9aMVNX4CSwhgcPrA0KgvPUyDuM8Wj4t7oYcaz_gZpKMdmXL7X9_rN8_K6yH2d2nP5xg2U2dS3dtC0Nzccc7-tJq98HPnEOxUSpyEymMzt82F9lqyG6UOeBWek_on-3le0VR7wYPKs_gHTp6HRwLi4YSA9le03qs4QDvCUC6JYWF4ShCgwqR0bKjhBIn8Dviu6yyljN4DLcDUCAc2wC1b_K698HPnEOxUSpyEymMzt82FSFIteKZpU-yzuoNN74ZJ0U_bgPAMapF3WmZtDKOm5UjVz95BwhQvRSK5BQldjMeP0hb7igoUiQbpfJ-60DCUykczs1txbJi7O53p4RtTx2zCHusj7glR7oVbXBSmacWpcbTm16Be0cj6H0qrp7MHP2WF0HHhKXkmyP-EAMlgwZkbvc04292QisWvrdOEGI8fvfBz5xDsVEqchMpjM7fNhfIAhE1CeHcuy8obopAG28rziqnvo7OyzESpCRoH5RL2jTL75YT1H3IzjN5SWAbNwj2ZuopiZynZD6jd2mF4cvT_scziLZRdT99JFTN5lzBvVDGHb9Jq8LxnykqnxP4a18YPnvZljNhJfjgCqfHnGBB-I7nljy8yVQcoKQ_ki3O8TAbbDMZbpXaUoa1wmR7VlA&acp=0.141305&age=0&sex=${SEX}&preview=0",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2853.52599993348,
+            "id" : "download_76",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fw.adsafeprotected.com/rjss/dc/18878/1192126/adj/N7443.147350.VIVAKIAOD/B7754082.103;sz=300x250;ord=3888315392555166256?;click=http://r.turn.com/r/formclick/id/MCrvkz8S9jXKhAMAXwIBAA/url/;",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2912.02499996871,
+            "id" : "download_77",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fw.adsafeprotected.com/rjss/c.betrad.com/18878/9004/surly.js?;ad_w=300;ad_h=250;coid=273;nid=9582;crid=667;",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2912.53400035203,
+            "id" : "download_78",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.facebook.com/fr/u.php?p=391363987594223&m=5429878587576763454",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2854.67100003734,
+            "id" : "download_79",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fw.adsafeprotected.com/dt?asId=2d4a9907-137d-11e3-b27c-0025904ea168&tv={c:mZxhn4,pingTime:-2,time:35,type:a,fc:0,rt:1,cb:0,np:1,em:false,fr:true,slTimes:{i:0,o:35,n:0,pp:0,pm:0,gpp:0,gpm:0,gi:0,go:35,gn:0,fi:0,fo:0,fn:35},slEvents:[{sl:o,fsl:fn,gsl:go,t:25,wc:0.0.950.688,ac:13.1428.1.1,am:s,cc:13.1428.300.250,piv:0,obst:na,th:0,reas:l}],slEventCount:1,uf:0,tt:jss,fm:ogfp7eW+1*.18878-1192126|111|121,sinceFw:5,readyFired:false}&br=c&adsafePrivacyPolicy=http://integr.al/privacy-policy",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3166.22800007463,
+            "id" : "download_80",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=lucid1&google_hm=NDY3Mzc5MzE4ODM3ODQ2NzQwNw&google_push",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3265.28799999505,
+            "id" : "download_81",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/ads/richmedia/studio/22907883/24517968_20130819175027757_main.swf",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3316.97000004351,
+            "id" : "download_82",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/N7443.147350.VIVAKIAOD/B7754082.103;sz=300x250;ord=3888315392555166256?;click=http://r.turn.com/r/formclick/id/MCrvkz8S9jXKhAMAXwIBAA/url/;",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3270.46400029212,
+            "id" : "download_83",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/879366/flashwrite_1_2.js",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3385.34100027755,
+            "id" : "download_84",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/3756078/Sprint_Consumer_SummerEnd_DDR_GS4_300x250.swf",
+         "id" : "r96",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3533.84099993855,
+            "id" : "download_85",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.betrad.com/surly.js?;ad_w=300;ad_h=250;coid=273;nid=9582;crid=667;",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3574.56300035119,
+            "id" : "download_86",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://c.betrad.com/ba.html?1159",
+         "id" : "r98",
+         "comps" : [
+            {
+               "s_time" : 3728.77900023013,
+               "time" : 11.02099986747,
+               "type" : "evalhtml",
+               "id" : "r98_c1",
+               "e_time" : 3739.8000000976
+            }
+         ],
+         "download" : {
+            "s_time" : 3651.1250003241,
+            "id" : "download_87",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/secondMenuBg.png",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1134.68699995428,
+            "id" : "download_88",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/menuBg.png",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1115.58100022376,
+            "id" : "download_89",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.betrad.com/a/4.gif",
+         "id" : "r97",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3683.94799996167,
+            "id" : "download_90",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.betrad.com/geo/ba.js?1159",
+         "id" : "r101",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3740.54000014439,
+            "id" : "download_91",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://d.agkn.com/iframe/1996/?che=1931240&plaid=99918097&creid=55671652&adgid=273739498&sid=1241720&camid=7754082&advid=3756078",
+         "id" : "r93",
+         "comps" : [
+            {
+               "s_time" : 3856.04100022465,
+               "time" : 0.507999677210137,
+               "type" : "evalhtml",
+               "id" : "r93_c1",
+               "e_time" : 3856.54899990186
+            }
+         ],
+         "download" : {
+            "s_time" : 3396.49800024927,
+            "id" : "download_92",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.betrad.com/a/n/273/9582.js",
+         "id" : "r102",
+         "comps" : [
+            {
+               "s_time" : 3874.31100010872,
+               "time" : 1.04699982330021,
+               "type" : null,
+               "id" : "comp_203",
+               "e_time" : 3875.35799993202
+            }
+         ],
+         "download" : {
+            "s_time" : 3814.47899993509,
+            "id" : "download_93",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/us.weibo/;pos=top;sz=728x90;ord=9476138679310680?",
+         "id" : "r100",
+         "comps" : [
+            {
+               "s_time" : 3891.90299995244,
+               "time" : 31.1790001578602,
+               "type" : null,
+               "id" : "comp_205",
+               "e_time" : 3923.0820001103
+            }
+         ],
+         "download" : {
+            "s_time" : 3683.50400030613,
+            "id" : "download_94",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20110914/abg.js",
+         "id" : "r104",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3922.07500012591,
+            "id" : "download_95",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cdn.turn.com/server/ddc.htm?uid=3126162788847616899&mktid=23&mpid=3808428&fpid=2&rnd=2464415118600864643&nu=n&sp=n&ctid=1",
+         "id" : "r99",
+         "comps" : [
+            {
+               "s_time" : 4105.57499993593,
+               "time" : 849.271000362931,
+               "type" : "evalhtml",
+               "id" : "r99_c1",
+               "e_time" : 4954.84600029886
+            }
+         ],
+         "download" : {
+            "s_time" : 3652.99400035292,
+            "id" : "download_96",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-8697294910918273",
+         "id" : "r106",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4085.00399999321,
+            "id" : "download_97",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/us.weibo/;pos=top;sz=728x90;ord=1113355688285082.6?",
+         "id" : "r105",
+         "comps" : [
+            {
+               "s_time" : 4256.96999998763,
+               "time" : 62.2510001994697,
+               "type" : 2,
+               "id" : "comp_238",
+               "e_time" : 4319.2210001871
+            }
+         ],
+         "download" : {
+            "s_time" : 3939.1510002315,
+            "id" : "download_98",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tag.admeld.com/match?admeld_adprovider_id=24&external_user_id=3126162788847616899",
+         "id" : "r111",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4144.29600024596,
+            "id" : "download_99",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODImdGw9MTU3NjgwMCZkcF9pZD0yMg==&piggybackCookie=pcv:1|uid:3126162788847616899",
+         "id" : "r107",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4141.4620000869,
+            "id" : "download_100",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgIDQ6ffL_wEQ2AUYWjIIrMcmv2NYo24",
+         "id" : "r135",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4192.47899996117,
+            "id" : "download_101",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=turn1&google_cm&google_sc&google_hm=MzEyNjE2Mjc4ODg0NzYxNjg5OQ==",
+         "id" : "r110",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4193.46900004894,
+            "id" : "download_102",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.facebook.com/fr/u.php?p=328546547221502&m=3126162788847616899&t=2592000",
+         "id" : "r128",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4183.23400011286,
+            "id" : "download_103",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d.audienceiq.com/r/dm/mkt/44/mpid//mpuid/3126162788847616899",
+         "id" : "r118",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4156.9469999522,
+            "id" : "download_104",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d.audienceiq.com/r/dm/mkt/73/mpid//mpuid/3126162788847616899",
+         "id" : "r119",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4193.04700009525,
+            "id" : "download_105",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.rubiconproject.com/tap.php?v=4212&nid=1185&put=3126162788847616899&expires=60",
+         "id" : "r113",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4146.29800012335,
+            "id" : "download_106",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ib.adnxs.com/setuid?entity=20&code=3126162788847616899",
+         "id" : "r109",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4194.85600013286,
+            "id" : "download_107",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cm.g.doubleclick.net/push?client=ca-pub-8697294910918273",
+         "id" : "r140",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4317.02300021425,
+            "id" : "download_108",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/analytics.js",
+         "id" : "r141",
+         "comps" : [
+            {
+               "s_time" : 5052.34399996698,
+               "time" : 38.6520000174596,
+               "type" : null,
+               "id" : "comp_346",
+               "e_time" : 5090.99599998444
+            }
+         ],
+         "download" : {
+            "s_time" : 4328.69900017977,
+            "id" : "download_109",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adadvisor.net/adscores/g.js?sid=9201023828",
+         "id" : "r121",
+         "comps" : [
+            {
+               "s_time" : 4954.35400027782,
+               "time" : 0.454999972130281,
+               "type" : null,
+               "id" : "comp_295",
+               "e_time" : 4954.80900024995
+            }
+         ],
+         "download" : {
+            "s_time" : 4169.79099996388,
+            "id" : "download_110",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.afy11.net/ad?mode=7&publisher_dsp_id=2&external_user_id=3126162788847616899",
+         "id" : "r117",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4156.08200011775,
+            "id" : "download_111",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/api/friendships_exists",
+         "id" : "r142",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4430.74900005013,
+            "id" : "download_112",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ui.sina.com/pub/weibo/0522/pageBg.png",
+         "id" : "r165",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4550.7290000096,
+            "id" : "download_134",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://turn.nexac.com/r/pu?&pid=4&tuid=3126162788847616899",
+         "id" : "r115",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4155.27400001884,
+            "id" : "download_135",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.openx.net/set?pid=21a19823-5de3-4917-bc81-a4edea5127ff&rtb=3126162788847616899",
+         "id" : "r114",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4154.77100014687,
+            "id" : "download_136",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d.p-td.com/r/dm/mkt/4/mpid//mpuid/3126162788847616899",
+         "id" : "r116",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4155.67700006068,
+            "id" : "download_137",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/user/show",
+         "id" : "r167",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4751.58999999985,
+            "id" : "download_138",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/simgad/4186378567220027086",
+         "id" : "r138",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4844.20800022781,
+            "id" : "download_139",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://bh.contextweb.com/bh/rtset?do=add&pid=535461&ev=3126162788847616899",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4169.1160001792,
+            "id" : "download_140",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://us.weibo.com/images/loading.gif",
+         "id" : "r144",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4843.70500035584,
+            "id" : "download_141",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.turn.com/r/bd?ddc=1&pid=54&cver=1&uid=5429878587576763454",
+         "id" : "r108",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4904.19299993664,
+            "id" : "download_142",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ce.lijit.com/merge?pid=1&3pid=3126162788847616899",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4170.45200010762,
+            "id" : "download_143",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.casalemedia.com/rum?cm_dsp_id=4&external_user_id=3126162788847616899",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4171.73400009051,
+            "id" : "download_144",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d.turn.com/r/du/id/L2NzaWQvMS9tcGlkLzI0MTMwODU4/rnd/?mpuid=CAESEByeihIB3lNj7WhXsyEwvrM&google_cver=1",
+         "id" : "r131",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4932.72199993953,
+            "id" : "download_145",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_sc&google_nid=invitemedia&google_push&google_hm=aKQlUGYwT_2JfsrOApG1Bw==",
+         "id" : "r136",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4978.66700030863,
+            "id" : "download_146",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tags.bluekai.com/site/4499?id=3126162788847616899",
+         "id" : "r126",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4979.71800016239,
+            "id" : "download_147",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sync.adap.tv/sync?type=gif&key=turn&uid=3126162788847616899",
+         "id" : "r124",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4171.29900027066,
+            "id" : "download_148",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/collect?v=1&_v=j11&a=1277588811&t=pageview&_s=1&dl=http%3A%2F%2Fus.weibo.com%2Fgb&dr=&ul=en-us&de=UTF-8&dt=%E5%8C%97%E7%BE%8E%E5%BE%AE%E5%8D%9A%E5%B9%BF%E5%9C%BA&sd=24-bit&sr=2048x1152&vp=935x673&je=1&fl=11.8%20r800&_u=ME~&cid=870460931.1378091412&tid=UA-41491586-1&z=142555312",
+         "id" : "r171",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5092.13700005785,
+            "id" : "download_149",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.adsafeprotected.com/detector2.pix",
+         "id" : "r170",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4980.96700012684,
+            "id" : "download_150",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=rfi&google_push&google_hm=ODIwNzgxMDMyOTYxNTQyMjEz",
+         "id" : "r168",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5149.1129999049,
+            "id" : "download_151",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d.agkn.com/pixel/2189/?sync=103&che=[cachebuster]&uuid=3126162788847616899",
+         "id" : "r130",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5112.26799990982,
+            "id" : "download_152",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=375&dpuuid=3126162788847616899",
+         "id" : "r127",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5203.77400005236,
+            "id" : "download_153",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=470&dpuuid=3126162788847616899",
+         "id" : "r132",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5218.59600022435,
+            "id" : "download_154",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.turn.com/r/cms/id/0/ddc/1/pid/43/uid/?xid=J8evadnu4Pca89Bi1NN86Bh6",
+         "id" : "r112",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5242.40999994799,
+            "id" : "download_155",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://segment-pixel.invitemedia.com/set_partner_uid?partnerID=402&sscs_active=1&partnerUID=3126162788847616899",
+         "id" : "r129",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5111.68699990958,
+            "id" : "download_156",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.turn.com/r/bd?ddc=1&pid=64&cver=1&uid=bf1bdb24-e0c1-4168-a426-96b2f7af1c6b",
+         "id" : "r133",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5352.53100004047,
+            "id" : "download_157",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.spotxchange.com/media/thumbs/pixel/pixel.gif",
+         "id" : "r123",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5315.54900016636,
+            "id" : "download_158",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_25"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_29"
+      },
+      {
+         "a2" : "r1_c12",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "r1_c13",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_45"
+      },
+      {
+         "a2" : "r1_c14",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_53"
+      },
+      {
+         "a2" : "r1_c15",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_58"
+      },
+      {
+         "a2" : "r1_c16",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_92"
+      },
+      {
+         "a2" : "r1_c17",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_113"
+      },
+      {
+         "a2" : "r1_c18",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_151"
+      },
+      {
+         "a2" : "r1_c19",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_166"
+      },
+      {
+         "a2" : "r1_c20",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_172"
+      },
+      {
+         "a2" : "r1_c21",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_221"
+      },
+      {
+         "a2" : "r1_c22",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_247"
+      },
+      {
+         "a2" : "r1_c23",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "comp_256"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep25",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_10",
+         "time" : -1,
+         "id" : "dep26",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_12",
+         "time" : -1,
+         "id" : "dep27",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "comp_14",
+         "time" : -1,
+         "id" : "dep28",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "comp_16",
+         "time" : -1,
+         "id" : "dep29",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "comp_18",
+         "time" : -1,
+         "id" : "dep30",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "comp_20",
+         "time" : -1,
+         "id" : "dep31",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "comp_23",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "comp_25",
+         "time" : -1,
+         "id" : "dep33",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "comp_25",
+         "time" : -1,
+         "id" : "dep34",
+         "a1" : "comp_22"
+      },
+      {
+         "a2" : "comp_29",
+         "time" : -1,
+         "id" : "dep35",
+         "a1" : "comp_25"
+      },
+      {
+         "a2" : "comp_45",
+         "time" : -1,
+         "id" : "dep36",
+         "a1" : "comp_53"
+      },
+      {
+         "a2" : "comp_53",
+         "time" : -1,
+         "id" : "dep37",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "comp_151",
+         "time" : -1,
+         "id" : "dep38",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "comp_172",
+         "time" : -1,
+         "id" : "dep39",
+         "a1" : "comp_166"
+      },
+      {
+         "a2" : "comp_221",
+         "time" : -1,
+         "id" : "dep40",
+         "a1" : "comp_92"
+      },
+      {
+         "a2" : "comp_247",
+         "time" : -1,
+         "id" : "dep41",
+         "a1" : "comp_92"
+      },
+      {
+         "a2" : "comp_256",
+         "time" : -1,
+         "id" : "dep42",
+         "a1" : "comp_221"
+      },
+      {
+         "a2" : "download_158",
+         "time" : -1,
+         "id" : "dep43",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_157",
+         "time" : -1,
+         "id" : "dep44",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_156",
+         "time" : 787.678999826309,
+         "id" : "dep45",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_155",
+         "time" : 918.40199986472,
+         "id" : "dep46",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_154",
+         "time" : 894.58800014108,
+         "id" : "dep47",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_153",
+         "time" : 879.76599996909,
+         "id" : "dep48",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_152",
+         "time" : 788.25999982655,
+         "id" : "dep49",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_151",
+         "time" : 825.104999821629,
+         "id" : "dep50",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_150",
+         "time" : 656.959000043569,
+         "id" : "dep51",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_149",
+         "time" : 768.12899997458,
+         "id" : "dep52",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_148",
+         "time" : 65.7240003347306,
+         "id" : "dep53",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_148",
+         "time" : 2232.72099997848,
+         "id" : "dep54",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_148",
+         "time" : 89.8510003462402,
+         "id" : "dep55",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_147",
+         "time" : 655.71000007912,
+         "id" : "dep56",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_146",
+         "time" : 654.65900022536,
+         "id" : "dep57",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 827.147000003601,
+         "id" : "dep58",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 2994.14399964735,
+         "id" : "dep59",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 608.71399985626,
+         "id" : "dep60",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 66.1590001545801,
+         "id" : "dep61",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 2233.15599979833,
+         "id" : "dep62",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 90.2860001660897,
+         "id" : "dep63",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 64.8770001716903,
+         "id" : "dep64",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 2231.87399981544,
+         "id" : "dep65",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 89.0040001831999,
+         "id" : "dep66",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 798.618000000711,
+         "id" : "dep67",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 2965.61499964446,
+         "id" : "dep68",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 580.18499985337,
+         "id" : "dep69",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 738.13000041991,
+         "id" : "dep70",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 2905.12700006366,
+         "id" : "dep71",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 519.697000272569,
+         "id" : "dep72",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 63.54100024327,
+         "id" : "dep73",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 2230.53799988702,
+         "id" : "dep74",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 87.6680002547796,
+         "id" : "dep75",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 738.63300029188,
+         "id" : "dep76",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 2905.62999993563,
+         "id" : "dep77",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 520.200000144539,
+         "id" : "dep78",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 646.015000063921,
+         "id" : "dep79",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 2813.01199970767,
+         "id" : "dep80",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 427.58199991658,
+         "id" : "dep81",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 50.1020001247507,
+         "id" : "dep82",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 2217.0989997685,
+         "id" : "dep83",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 74.2290001362603,
+         "id" : "dep84",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 49.1960002109408,
+         "id" : "dep85",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 2216.19299985469,
+         "id" : "dep86",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 73.3230002224504,
+         "id" : "dep87",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_135",
+         "time" : 49.6990000829101,
+         "id" : "dep88",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_135",
+         "time" : 2216.69599972666,
+         "id" : "dep89",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_135",
+         "time" : 73.8260000944197,
+         "id" : "dep90",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 445.15400007367,
+         "id" : "dep91",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 2612.15099971742,
+         "id" : "dep92",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 226.72099992633,
+         "id" : "dep93",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 325.174000114201,
+         "id" : "dep94",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 2492.17099975795,
+         "id" : "dep95",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 106.74099996686,
+         "id" : "dep96",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 50.5070001818203,
+         "id" : "dep97",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 2217.50399982557,
+         "id" : "dep98",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 74.6340001933299,
+         "id" : "dep99",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 88.3430000394596,
+         "id" : "dep100",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 64.21600002795,
+         "id" : "dep101",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 2231.2129996717,
+         "id" : "dep102",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 88.3430000394596,
+         "id" : "dep103",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 223.124000243841,
+         "id" : "dep104",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 2390.12099988759,
+         "id" : "dep105",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 4.69100009649992,
+         "id" : "dep106",
+         "a1" : "r1_c23"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 211.44800027832,
+         "id" : "dep107",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 2378.44499992207,
+         "id" : "dep108",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 3.13299987464961,
+         "id" : "dep109",
+         "a1" : "r1_c22"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 89.2810001969301,
+         "id" : "dep110",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 2256.27799984068,
+         "id" : "dep111",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 113.40800020844,
+         "id" : "dep112",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 40.7230001874204,
+         "id" : "dep113",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 2207.71999983117,
+         "id" : "dep114",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 64.85000019893,
+         "id" : "dep115",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 87.4720001593205,
+         "id" : "dep116",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 2254.46899980307,
+         "id" : "dep117",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 111.59900017083,
+         "id" : "dep118",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 51.3720000162702,
+         "id" : "dep119",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 2218.36899966002,
+         "id" : "dep120",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 75.4990000277799,
+         "id" : "dep121",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 77.65900017693,
+         "id" : "dep122",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 2244.65599982068,
+         "id" : "dep123",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 101.78600018844,
+         "id" : "dep124",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 87.8940001130104,
+         "id" : "dep125",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 2254.89099975676,
+         "id" : "dep126",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 112.02100012452,
+         "id" : "dep127",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 86.9040000252407,
+         "id" : "dep128",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 2253.90099966899,
+         "id" : "dep129",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 111.03100003675,
+         "id" : "dep130",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 35.8870001509704,
+         "id" : "dep131",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 2202.88399979472,
+         "id" : "dep132",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 60.01400016248,
+         "id" : "dep133",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 38.7210003100308,
+         "id" : "dep134",
+         "a1" : "r99_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 2205.71799995378,
+         "id" : "dep135",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 62.8480003215404,
+         "id" : "dep136",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 2000.57299993932,
+         "id" : "dep137",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_98",
+         "time" : -1,
+         "id" : "dep138",
+         "a1" : "r1_c20"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 2146.42599970103,
+         "id" : "dep139",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 3.55600006879013,
+         "id" : "dep140",
+         "a1" : "r1_c21"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 1714.41600006074,
+         "id" : "dep141",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 1.52700021862984,
+         "id" : "dep142",
+         "a1" : "r1_c19"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 30.1720001734698,
+         "id" : "dep143",
+         "a1" : "comp_205"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 1744.92600001395,
+         "id" : "dep144",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 29.2750000953697,
+         "id" : "dep145",
+         "a1" : "r1_c20"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 1875.90099964291,
+         "id" : "dep146",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 160.24999972433,
+         "id" : "dep147",
+         "a1" : "r1_c20"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 1457.91999995709,
+         "id" : "dep148",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 7.04400008544962,
+         "id" : "dep149",
+         "a1" : "r1_c18"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 1801.96199985221,
+         "id" : "dep150",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 86.3109999336298,
+         "id" : "dep151",
+         "a1" : "r1_c20"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 1745.36999966949,
+         "id" : "dep152",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 29.7189997509099,
+         "id" : "dep153",
+         "a1" : "r1_c20"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 4.85000014306002,
+         "id" : "dep154",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_88",
+         "time" : -1,
+         "id" : "dep155",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 1712.54700003192,
+         "id" : "dep156",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_87",
+         "time" : -1,
+         "id" : "dep157",
+         "a1" : "r1_c18"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 1635.98500005901,
+         "id" : "dep158",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 185.10900018737,
+         "id" : "dep159",
+         "a1" : "r1_c18"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 1595.26299964637,
+         "id" : "dep160",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 144.38699977473,
+         "id" : "dep161",
+         "a1" : "r1_c18"
+      },
+      {
+         "a2" : "download_84",
+         "time" : -1,
+         "id" : "dep162",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 1446.76299998537,
+         "id" : "dep163",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 849.54000031576,
+         "id" : "dep164",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 1331.88599999994,
+         "id" : "dep165",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 734.66300033033,
+         "id" : "dep166",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 1378.39199975133,
+         "id" : "dep167",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 781.16900008172,
+         "id" : "dep168",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 1326.70999970287,
+         "id" : "dep169",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 729.48700003326,
+         "id" : "dep170",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 1227.64999978245,
+         "id" : "dep171",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 630.42700011284,
+         "id" : "dep172",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 916.09299974516,
+         "id" : "dep173",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 318.87000007555,
+         "id" : "dep174",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 973.95600005985,
+         "id" : "dep175",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 376.73300039024,
+         "id" : "dep176",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 973.44699967653,
+         "id" : "dep177",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 376.22400000692,
+         "id" : "dep178",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 317.72499997169,
+         "id" : "dep179",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 914.9479996413,
+         "id" : "dep180",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 317.72499997169,
+         "id" : "dep181",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 919.38399989158,
+         "id" : "dep182",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 322.16100022197,
+         "id" : "dep183",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 915.63199972734,
+         "id" : "dep184",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 318.40900005773,
+         "id" : "dep185",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 589.63199984282,
+         "id" : "dep186",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_73",
+         "time" : -1,
+         "id" : "dep187",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 599.25499977544,
+         "id" : "dep188",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 2.03200010583032,
+         "id" : "dep189",
+         "a1" : "r1_c17"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 590.34299990162,
+         "id" : "dep190",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_71",
+         "time" : -1,
+         "id" : "dep191",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_70",
+         "time" : -1,
+         "id" : "dep192",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 62.5020000152301,
+         "id" : "dep193",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 686.51200039312,
+         "id" : "dep194",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 215.75899980962,
+         "id" : "dep195",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 150.2820001915,
+         "id" : "dep196",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 88.60099967569,
+         "id" : "dep197",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 23.1240000575699,
+         "id" : "dep198",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 89.4069997593801,
+         "id" : "dep199",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 23.9300001412601,
+         "id" : "dep200",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 89.0589999035001,
+         "id" : "dep201",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 23.58200028538,
+         "id" : "dep202",
+         "a1" : "r1_c16"
+      },
+      {
+         "a2" : "download_65",
+         "time" : -1,
+         "id" : "dep203",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 63.7679998762901,
+         "id" : "dep204",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 687.77800025418,
+         "id" : "dep205",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 64.1890000552,
+         "id" : "dep206",
+         "a1" : "r56_c1"
+      },
+      {
+         "a2" : "download_64",
+         "time" : -1,
+         "id" : "dep207",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 21.5760003775299,
+         "id" : "dep208",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 21.5760003775299,
+         "id" : "dep209",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 25.3590000793299,
+         "id" : "dep210",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 25.87100025266,
+         "id" : "dep211",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 26.354000438,
+         "id" : "dep212",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 1.19200022892005,
+         "id" : "dep213",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 24.8960000462798,
+         "id" : "dep214",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 24.4820001535099,
+         "id" : "dep215",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 24.0730000659798,
+         "id" : "dep216",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 23.1880000792398,
+         "id" : "dep217",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 22.6259999908498,
+         "id" : "dep218",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 23.6730002798099,
+         "id" : "dep219",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 22.1080002374899,
+         "id" : "dep220",
+         "a1" : "r1_c15"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 19.36899963766,
+         "id" : "dep221",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_50",
+         "time" : -1,
+         "id" : "dep222",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 19.1649999469601,
+         "id" : "dep223",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 18.78099981696,
+         "id" : "dep224",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 18.40100018308,
+         "id" : "dep225",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 17.6460002549002,
+         "id" : "dep226",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 18.0110000074001,
+         "id" : "dep227",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 9.75900003687002,
+         "id" : "dep228",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 4.23699989915008,
+         "id" : "dep229",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_42",
+         "time" : -1,
+         "id" : "dep230",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 454.917999915778,
+         "id" : "dep231",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 28.38799962774,
+         "id" : "dep232",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 21.875999867916,
+         "id" : "dep233",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 22.242999635637,
+         "id" : "dep234",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 20.374999847263,
+         "id" : "dep235",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 21.505999844522,
+         "id" : "dep236",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 18.055999651552,
+         "id" : "dep237",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 18.526999745518,
+         "id" : "dep238",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 22.6219999603931,
+         "id" : "dep239",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 13.048999942839,
+         "id" : "dep240",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 3.05699976161202,
+         "id" : "dep241",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 9.683999698609,
+         "id" : "dep242",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 18.894999753684,
+         "id" : "dep243",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 19.632000010461,
+         "id" : "dep244",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 20.745999645442,
+         "id" : "dep245",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 20.001999568194,
+         "id" : "dep246",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 19.269999582321,
+         "id" : "dep247",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 3.52099956944596,
+         "id" : "dep248",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 21.134999580682,
+         "id" : "dep249",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_23",
+         "time" : -1,
+         "id" : "dep250",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 16.0940000787375,
+         "id" : "dep251",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 15.3070003725585,
+         "id" : "dep252",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 14.9070001207295,
+         "id" : "dep253",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 15.7200000248845,
+         "id" : "dep254",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 13.5180000215765,
+         "id" : "dep255",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 13.1500000134115,
+         "id" : "dep256",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 12.7840000204745,
+         "id" : "dep257",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 11.0430000349875,
+         "id" : "dep258",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 12.4059999361635,
+         "id" : "dep259",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : -1,
+         "id" : "dep260",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 11.5499999374155,
+         "id" : "dep261",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 10.4420003481205,
+         "id" : "dep262",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 8.52400017902251,
+         "id" : "dep263",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 8.1200003623965,
+         "id" : "dep264",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 7.772000040859,
+         "id" : "dep265",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 6.7010000348091,
+         "id" : "dep266",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 7.39300018176431,
+         "id" : "dep267",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 7.054999936372,
+         "id" : "dep268",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 6.00200006738301,
+         "id" : "dep269",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 5.65200019627811,
+         "id" : "dep270",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 5.0690001808107,
+         "id" : "dep271",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 11.9529999792575,
+         "id" : "dep272",
+         "a1" : "r1_c1"
+      }
+   ]
+}

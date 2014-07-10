@@ -1,0 +1,46 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.google.es_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.es/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 420.382999815047,
+               "time" : 274.631000123918,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 695.013999938965
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.es/images/srpr/logo4w.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 656.15399973467,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_1",
+         "time" : 235.770999919623,
+         "id" : "dep1",
+         "a1" : "r1_c1"
+      }
+   ]
+}

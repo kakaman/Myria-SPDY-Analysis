@@ -1,0 +1,351 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "blogfa.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://blogfa.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 367.311000358313,
+               "time" : 469.037999864668,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 836.349000222981
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://blogfa.com/ads/left.htm?37502934",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 553.665000014007,
+               "time" : 196.547000203282,
+               "type" : "evalhtml",
+               "id" : "r4_c1",
+               "e_time" : 750.212000217289
+            }
+         ],
+         "download" : {
+            "s_time" : 381.809000391513,
+            "id" : "download_1",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/css/theme.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 751.453000120819,
+               "time" : 53.393000271171,
+               "type" : null,
+               "id" : "comp_13",
+               "e_time" : 804.84600039199
+            }
+         ],
+         "download" : {
+            "s_time" : 378.270000219345,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/images/blogfa.gif",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 383.590999990702,
+            "id" : "download_3",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/home/kclose.gif",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 538.800000213087,
+            "id" : "download_4",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/home/host-ouriran.gif",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 539.78700004518,
+            "id" : "download_5",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/home/kopen.gif",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 538.390000350773,
+            "id" : "download_6",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/home/new-blog.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 539.448000025004,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/leftM.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 829.902000259608,
+            "id" : "download_8",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/bg.jpg",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 828.926000278443,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/tlC.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 830.213000066578,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/topM.jpg",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 829.574000090361,
+            "id" : "download_11",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/trC.gif",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 830.539000220597,
+            "id" : "download_12",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/rightM.jpg",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 830.857000313699,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/hbox.gif",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 836.349000222981,
+            "id" : "download_14",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/trGradient.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 831.174000166357,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://blogfa.com/static/theme/menubg.gif",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 831.492000259459,
+            "id" : "download_16",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.blogfa.com/ads/banner2/4842739506760.gif",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 749.974000267684,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.blogfa.com/ads/banner2/5129110425468.gif",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 806.887000333518,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_18",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 196.309000253677,
+         "id" : "dep2",
+         "a1" : "r4_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 463.862999808044,
+         "id" : "dep4",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 463.545999955386,
+         "id" : "dep6",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 463.227999862284,
+         "id" : "dep7",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 462.262999732048,
+         "id" : "dep8",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 462.901999708265,
+         "id" : "dep9",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 461.61499992013,
+         "id" : "dep10",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 462.590999901295,
+         "id" : "dep11",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 172.136999666691,
+         "id" : "dep12",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 171.07899999246,
+         "id" : "dep13",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 172.475999686867,
+         "id" : "dep14",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 171.488999854774,
+         "id" : "dep15",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 16.279999632389,
+         "id" : "dep16",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 10.958999861032,
+         "id" : "dep17",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 14.4980000332,
+         "id" : "dep18",
+         "a1" : "r1_c1"
+      }
+   ]
+}

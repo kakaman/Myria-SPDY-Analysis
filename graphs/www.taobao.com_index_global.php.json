@@ -1,0 +1,3079 @@
+{
+   "n_download_no_trigger" : 3,
+   "start_activity" : "download_0",
+   "name" : "www.taobao.com_index_global.php",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.taobao.com/index_global.php",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 424.736000131816,
+               "time" : 27.850000187754,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 452.58600031957
+            },
+            {
+               "s_time" : 611.290000379086,
+               "time" : 0.0679995864629745,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 611.357999965549
+            },
+            {
+               "s_time" : 1575.46800002456,
+               "time" : 47.3370002582599,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1622.80500028282
+            },
+            {
+               "s_time" : 1968.59299996868,
+               "time" : 3338.24200043455,
+               "type" : "evalhtml",
+               "id" : "r1_c4",
+               "e_time" : 5306.83500040323
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/??p/global/1.0/global-min.css?t=2013060820110301.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 487.261000089347,
+               "time" : 4.92000021040496,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 492.181000299752
+            }
+         ],
+         "download" : {
+            "s_time" : 449.517000000924,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/p/fp/2011hk/??html5-reset.css,global.css,header/header.css,attraction/attraction.css,bottom-gg/bottom-gg.css,category/category.css,category-sub-recom/category-sub-recom.css,footer/footer.css,header/header.css,header/header-logo-info.css,help/help.css,most-popular/most-popular.css,pavilion/pavilion.css,sell-top/sell-top.css,site-nav/site-nav.css,sub-promotion/sub-promotion.css,top10/top10.css,subfooter/subfooter.css?t=20111110.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 524.665000382811,
+               "time" : 11.4209996536371,
+               "type" : 4,
+               "id" : "comp_7",
+               "e_time" : 536.086000036448
+            }
+         ],
+         "download" : {
+            "s_time" : 450.188000220805,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/s/kissy/1.1.6/kissy-min.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 578.207000158727,
+               "time" : 33.0830002203589,
+               "type" : 1,
+               "id" : "comp_9",
+               "e_time" : 611.290000379086
+            }
+         ],
+         "download" : {
+            "s_time" : 451.672000344843,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://g.tbcdn.cn/tb/global/1.0.9/global-min.js?t=20130802",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1568.79300018772,
+               "time" : 6.67499983684002,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 1575.46800002456
+            }
+         ],
+         "download" : {
+            "s_time" : 452.086000237614,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/p/fp/2010c/js/fp-direct-promo-min.js?t=20110601.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1616.53200024739,
+               "time" : 3.10500012711009,
+               "type" : 2,
+               "id" : "comp_15",
+               "e_time" : 1619.6370003745
+            }
+         ],
+         "download" : {
+            "s_time" : 1579.67800041661,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://z.alimama.com/tbk_inf.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 1962.41400018334,
+               "time" : 6.17899978534001,
+               "type" : 1,
+               "id" : "comp_18",
+               "e_time" : 1968.59299996868
+            }
+         ],
+         "download" : {
+            "s_time" : 452.58600031957,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/s/aplus_v2.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 3184.19300019741,
+               "time" : 26.6550001688297,
+               "type" : 2,
+               "id" : "comp_139",
+               "e_time" : 3210.84800036624
+            }
+         ],
+         "download" : {
+            "s_time" : 1972.12000004947,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1CCRNXmRFXXXXXXXX.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1972.54700027406,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1Kz0pXzJdXXXIdnjb-146-58.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1995.11500028893,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1sG9zXidKXXXXXXXX-444-502.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1997.16800032184,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/??s/kissy/1.1.6/switchable/switchable-pkg-min.js,s/kissy/1.1.6/suggest/suggest-pkg-min.js,s/kissy/1.1.6/datalazyload/datalazyload-pkg-min.js,s/kissy/1.1.3/flash/flash-pkg-min.js,p/fp/2011hk/search/searchsuggest-min.js,p/fp/2011hk/header/header.js,p/fp/2011hk/header/nav-hide.js,p/fp/2011hk/header/header-logo-hide.js,p/fp/2011hk/attraction/attraction.js,p/fp/2011hk/attraction/ald.js,p/fp/2011hk/category-sub-recom/category-sub-recom.js,p/fp/2011hk/help/help.js,p/fp/2011hk/sell-top/sell-top.js,p/fp/2011hk/sell-top/sell-top-loader.js,p/fp/2011hk/most-popular/most-popular.js,p/fp/2011hk/sub-promotion/sub-promotion.js,p/fp/2011hk/top10/top10.js,p/fp/2010c/js/fp-hubble-monitor-min.js,p/fp/2011hk/footer/footer.js?t=20110715.js",
+         "id" : "r19",
+         "comps" : [
+            {
+               "s_time" : 3210.88300039992,
+               "time" : 26.4829997904599,
+               "type" : 2,
+               "id" : "comp_141",
+               "e_time" : 3237.36600019038
+            }
+         ],
+         "download" : {
+            "s_time" : 2150.54700011387,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1UJSkXbRvXXXXXXXX-444-502.gif",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2152.10400009528,
+            "id" : "download_12",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/apps/cart/mini/minicart-min.js?t=20130328.js",
+         "id" : "r105",
+         "comps" : [
+            {
+               "s_time" : 3358.4310002625,
+               "time" : 3.29100014641972,
+               "type" : 2,
+               "id" : "comp_151",
+               "e_time" : 3361.72200040892
+            }
+         ],
+         "download" : {
+            "s_time" : 2243.41800017282,
+            "id" : "download_13",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/apps/matrix-mission/feedback/feedback.js",
+         "id" : "r106",
+         "comps" : [
+            {
+               "s_time" : 3363.36400033906,
+               "time" : 3.4579997882297,
+               "type" : 2,
+               "id" : "comp_154",
+               "e_time" : 3366.82200012729
+            }
+         ],
+         "download" : {
+            "s_time" : 2244.83300000429,
+            "id" : "download_14",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1lcyQXnJaXXXXXXXX-16-16.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2250.2200002782,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1i2WwXehjXXXXXXXX-110-135.png",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.81000019237,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1sm4WFm4XXXcr_tT7-490-170.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2266.50900021195,
+            "id" : "download_17",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1C0FwFgFfXXaokqjm-70-40.gif",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2274.79400020093,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/p/fp/2011a/assets/space.gif",
+         "id" : "r101",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2274.43200023845,
+            "id" : "download_19",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1Fz14XcBXXXXXXXXX-20-40.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2250.62500033528,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T16WJqXaXeXXXXXXXX-32-32.gif",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2250.98000001162,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1pe_wXcViXXciAGbm-70-30.png",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2253.00600007176,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1.vtWFjVcXXXg4psc-1000-60.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2251.33400037885,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1MJ9NXopaXXXXXXXX-49-20.gif",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2251.68300000951,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1_3dMXvxiXXciAGbm-70-30.png",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.19900012761,
+            "id" : "download_25",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T10I92XsdhXXcSfvPT-163-150.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.58200001717,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1g8h9Xr0jXXaH2SLx-300-26.png",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2260.96300035715,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1Y_hQFnBfXXc2jIrl-250-125.png",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2261.398000177,
+            "id" : "download_28",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T13XNEFd4gXXc2jIrl-250-125.png",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2261.82899996638,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1yF0eFfhcXXX02CfV-164-150.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2253.59800038859,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/imgextra/i4/91106030/T2_ud7Xh4aXXXXXXXX_!!91106030.png",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2267.41100009531,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1hIqwXoldXXXXXXXX-110-135.png",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2267.0150003396,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T19LYbXadoXXXGyWbm-70-30.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2267.79300021008,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1cSjxXelaXXciAGbm-70-30.png",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2268.51800037548,
+            "id" : "download_34",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1rZiwXgtfXXXXXXXX-110-135.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2275.51800012589,
+            "id" : "download_35",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1aB4TFo0eXXcr_tT7-490-170.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2275.15500038862,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1kxPxXcXqXXciAGbm-70-30.png",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2268.15500017256,
+            "id" : "download_37",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T19RbtXjNcXXbhUeDD-289-17.png",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2276.59400040284,
+            "id" : "download_38",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1lQrbXXhgXXXGyWbm-70-30.jpg",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2275.88100032881,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1udFYFfXaXXX6GtLA-280-72.jpg",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2276.23900026083,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1IZRRFXlfXXc2jIrl-250-125.png",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2262.23100023344,
+            "id" : "download_41",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1aadRFkxfXXbjiBky-190-250.png",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2276.97200002149,
+            "id" : "download_42",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1yopFFgBgXXc2jIrl-250-125.png",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2254.46500023827,
+            "id" : "download_43",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1QwVEFmpaXXc2jIrl-250-125.png",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2254.85200015828,
+            "id" : "download_44",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1EIFRFmRfXXbjiBky-190-250.png",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2255.26300026104,
+            "id" : "download_45",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1TQxLFolfXXc2jIrl-250-125.png",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2255.62700023875,
+            "id" : "download_46",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1B7GSXsxhXXcSfvPT-163-150.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2268.88600038365,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1v48RFf0eXXc2jIrl-250-125.png",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2262.62900000438,
+            "id" : "download_48",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1JV8FFb4hXXbjiBky-190-250.png",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2263.18500004709,
+            "id" : "download_49",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T17f8RFfBfXXc2jIrl-250-125.png",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2277.69900020212,
+            "id" : "download_50",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1AMdzXDVeXXckTCTS-300-100.jpg",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2269.26400000229,
+            "id" : "download_51",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1qf0TFgNaXXc2jIrl-250-125.png",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2277.3359999992,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1xdxFFldgXXbjiBky-190-250.png",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2269.64900037274,
+            "id" : "download_53",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T152VDFoJcXXc2jIrl-250-125.png",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2263.55100004002,
+            "id" : "download_54",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1TT4PFoXfXXc2jIrl-250-125.png",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2263.91200022772,
+            "id" : "download_55",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1lbJRFitdXXc2jIrl-250-125.png",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2278.10400025919,
+            "id" : "download_56",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1wExQFkNeXXc2jIrl-250-125.png",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2278.4820003435,
+            "id" : "download_57",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1jzRPFeJhXXc2jIrl-250-125.png",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2270.60399996117,
+            "id" : "download_58",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1UVhEFohgXXc2jIrl-250-125.png",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2270.99900040776,
+            "id" : "download_59",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1ngpTFiNXXXc2jIrl-250-125.png",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2270.07300034165,
+            "id" : "download_60",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1f6eVXaVaXXXXXXXX-296-65.png",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2264.27899999544,
+            "id" : "download_61",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1JNu2XoNlXXXXXXXX-296-65.png",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2264.63800016791,
+            "id" : "download_62",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1ZJXRFc0fXXc2jIrl-250-125.png",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2256.0010002926,
+            "id" : "download_63",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1eBNQFkdfXXc2jIrl-250-125.png",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2256.37000007555,
+            "id" : "download_64",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1TKi4XXBkXXXXXXXX-296-65.png",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2256.74100033939,
+            "id" : "download_65",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1U6q2XjFfXXXXXXXX-296-65.png",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2257.12200021371,
+            "id" : "download_66",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1H093XjlcXXXXXXXX-296-65.png",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2257.49099999666,
+            "id" : "download_67",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T16hh4XoVCXXXXXXXX-135-135.png",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2257.8620002605,
+            "id" : "download_68",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T139ijXhpzXXXXXXXX-135-135.png",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2265.0080001913,
+            "id" : "download_69",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1x8t4XoXzXXXXXXXX-444-502.gif",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2278.84200029075,
+            "id" : "download_70",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1o2y2XkBnXXXXXXXX-296-65.png",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2279.1969999671,
+            "id" : "download_71",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1IBG4XbxaXXXXXXXX-296-65.png",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2279.55700038001,
+            "id" : "download_72",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1I4tQFdheXXb52.rS-270-270.jpg",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2279.92600016296,
+            "id" : "download_73",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1RouGXkRiXXXXXXXX-80-80.png",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2265.40000038221,
+            "id" : "download_74",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T13.mGXihiXXXXXXXX-100-100.png",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2265.78100025654,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1Lxt4XdtGXXXXXXXX-135-135.png",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2280.28800012544,
+            "id" : "download_76",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1H9ijXdJAXXXXXXXX-135-135.png",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2280.642000027,
+            "id" : "download_77",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1Gx8EFd0cXXc2jIrl-250-125.png",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2272.10900001228,
+            "id" : "download_78",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1zsRtFkxgXXc2jIrl-250-125.png",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2271.74600027502,
+            "id" : "download_79",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T11z1FXfJbXXXXXXXX-444-502.gif",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2271.38200029731,
+            "id" : "download_80",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1Yla4Xl8kXXXXXXXX-296-65.png",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2272.9400000535,
+            "id" : "download_81",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1_60QFoXfXXbjiBky-190-250.png",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2272.56399998441,
+            "id" : "download_82",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T17z5GXm8nXXXXXXXX-40-40.png",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2266.15000003949,
+            "id" : "download_83",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1oSijXmxAXXXXXXXX-135-135.png",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2258.23300005868,
+            "id" : "download_84",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1XP9GXmRnXXXXXXXX-40-40.png",
+         "id" : "r96",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2258.62700026482,
+            "id" : "download_85",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1B8KjXXdFXXXXXXXX-444-502.gif",
+         "id" : "r102",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.03800036758,
+            "id" : "download_86",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1hSO2XXJhXXXXXXXX-296-65.png",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2273.32100039348,
+            "id" : "download_87",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1059GXfJsXXXXXXXX-80-80.png",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2280.99600039423,
+            "id" : "download_88",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1dzaGXitrXXXXXXXX-80-80.png",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2281.35400032625,
+            "id" : "download_89",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1MMPaXkNjXXaXezbh-48-70.png",
+         "id" : "r103",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2282.07900002599,
+            "id" : "download_90",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T16z5GXnhnXXXXXXXX-40-40.png",
+         "id" : "r98",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2281.72600036487,
+            "id" : "download_91",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.tanx.com/ex?i=mm_12852562_1778064_9118777",
+         "id" : "r22",
+         "comps" : [
+            {
+               "s_time" : 3366.91800039262,
+               "time" : 1.0189996100903,
+               "type" : 2,
+               "id" : "comp_157",
+               "e_time" : 3367.93700000271
+            }
+         ],
+         "download" : {
+            "s_time" : 2161.10000014305,
+            "id" : "download_92",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1_9ijXhNxXXXXXXXX-135-135.png",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2273.68300035596,
+            "id" : "download_93",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1865GXm8nXXXXXXXX-40-40.png",
+         "id" : "r97",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2274.03700025752,
+            "id" : "download_94",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1I_56Xl0wXXXXXXXX-104-1.png",
+         "id" : "r104",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2282.47900027782,
+            "id" : "download_95",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.tanx.com/ex?i=mm_12852562_1778064_9118778",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 3367.95500013977,
+               "time" : 0.566999893640059,
+               "type" : 2,
+               "id" : "comp_159",
+               "e_time" : 3368.52200003341
+            }
+         ],
+         "download" : {
+            "s_time" : 2163.29600010067,
+            "id" : "download_96",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.tanx.com/ex?i=mm_12852562_1778064_9118779",
+         "id" : "r24",
+         "comps" : [
+            {
+               "s_time" : 3368.53900039569,
+               "time" : 0.541999936100183,
+               "type" : 2,
+               "id" : "comp_161",
+               "e_time" : 3369.08100033179
+            }
+         ],
+         "download" : {
+            "s_time" : 2164.45000004023,
+            "id" : "download_97",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.tanx.com/ex?i=mm_12852562_1778064_10263233",
+         "id" : "r99",
+         "comps" : [
+            {
+               "s_time" : 3369.09699998796,
+               "time" : 0.518000219019996,
+               "type" : 2,
+               "id" : "comp_163",
+               "e_time" : 3369.61500020698
+            }
+         ],
+         "download" : {
+            "s_time" : 2226.55400028452,
+            "id" : "download_98",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gtms04.alicdn.com/tps/i4/T1c4XYFdtcXXXRAFgs-110-135.png",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2172.84600017592,
+            "id" : "download_99",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gtms04.alicdn.com/tps/i4/T1FHiwFahhXXXRAFgs-110-135.png",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2259.41900024191,
+            "id" : "download_100",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gtms03.alicdn.com/tps/i3/T1d7GlFg8gXXXRAFgs-110-135.png",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2170.31399998814,
+            "id" : "download_101",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.tanx.com/ex?i=mm_12852562_1778064_9087844",
+         "id" : "r100",
+         "comps" : [
+            {
+               "s_time" : 3369.63200010359,
+               "time" : 3.85800004005978,
+               "type" : 2,
+               "id" : "comp_165",
+               "e_time" : 3373.49000014365
+            }
+         ],
+         "download" : {
+            "s_time" : 2227.03000018373,
+            "id" : "download_102",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gtms02.alicdn.com/tps/i2/T14dWCFX0aXXXB7qAM-440-135.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2167.43000037968,
+            "id" : "download_103",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gtms01.alicdn.com/tps/i1/T1XcmAFl8cXXXRAFgs-110-135.png",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2172.08000039682,
+            "id" : "download_104",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://delta.taobao.com/home/delivery/AllContentByPage.do?resourceIds=49,75,51,52,53,68,73,74,127,128,129,145,215,225,226,227,228,229,230,231,232,233,236,274&t=1378091211258",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 3373.51700011641,
+               "time" : 1.33799994363972,
+               "type" : 2,
+               "id" : "comp_167",
+               "e_time" : 3374.85500006005
+            }
+         ],
+         "download" : {
+            "s_time" : 1622.80500028282,
+            "id" : "download_105",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/p/header/webww-min.js?t=20110629.js",
+         "id" : "r107",
+         "comps" : [
+            {
+               "s_time" : 3824.65900015086,
+               "time" : 63.70300007984,
+               "type" : 2,
+               "id" : "comp_257",
+               "e_time" : 3888.3620002307
+            }
+         ],
+         "download" : {
+            "s_time" : 3153.23200030252,
+            "id" : "download_106",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/s/fdc/??spm.js,spmact.js?v=130821",
+         "id" : "r108",
+         "comps" : [
+            {
+               "s_time" : 3888.46700033173,
+               "time" : 8.97399988024972,
+               "type" : 2,
+               "id" : "comp_260",
+               "e_time" : 3897.44100021198
+            }
+         ],
+         "download" : {
+            "s_time" : 3201.01100020111,
+            "id" : "download_107",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1470PFfXfXXaiKCsI-120-120.png",
+         "id" : "r110",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3286.11300000921,
+            "id" : "download_108",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T18RtQFmJfXXaiKCsI-120-120.png",
+         "id" : "r111",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3288.05600013584,
+            "id" : "download_109",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1ENtTFfBXXXX1dP6j-60-60.png",
+         "id" : "r115",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3292.85000031814,
+            "id" : "download_110",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1U.hFFkhgXXX1dP6j-60-60.png",
+         "id" : "r116",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3295.20300030708,
+            "id" : "download_111",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.tanx.com/t/tanxssp.js",
+         "id" : "r149",
+         "comps" : [
+            {
+               "s_time" : 3897.48200029135,
+               "time" : 9.07199969515023,
+               "type" : 2,
+               "id" : "comp_262",
+               "e_time" : 3906.5539999865
+            },
+            {
+               "s_time" : 3906.57300036401,
+               "time" : 4.21499973163009,
+               "type" : 2,
+               "id" : "comp_264",
+               "e_time" : 3910.78800009564
+            },
+            {
+               "s_time" : 3910.81200027838,
+               "time" : 3.05800000206,
+               "type" : 2,
+               "id" : "comp_266",
+               "e_time" : 3913.87000028044
+            },
+            {
+               "s_time" : 3913.8919999823,
+               "time" : 3.05000040679988,
+               "type" : 2,
+               "id" : "comp_268",
+               "e_time" : 3916.9420003891
+            },
+            {
+               "s_time" : 3916.96100030094,
+               "time" : 3.10300011187974,
+               "type" : 2,
+               "id" : "comp_270",
+               "e_time" : 3920.06400041282
+            }
+         ],
+         "download" : {
+            "s_time" : 3368.46500029787,
+            "id" : "download_112",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gtms03.alicdn.com/tps/i3/T1oNewFllcXXcr_tT7-490-170.jpg",
+         "id" : "r150",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3376.2300000526,
+            "id" : "download_113",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1F_JQFfhgXXaiKCsI-120-120.png",
+         "id" : "r112",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3386.55799999833,
+            "id" : "download_114",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1aThQFjddXXX1dP6j-60-60.png",
+         "id" : "r117",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3390.13600023463,
+            "id" : "download_115",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1nEFCFcJhXXaiKCsI-120-120.png",
+         "id" : "r131",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3388.71400011703,
+            "id" : "download_116",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1T3tSFb0cXXaiKCsI-120-120.png",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3386.96100004017,
+            "id" : "download_117",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1JjxTFmtaXXX1dP6j-60-60.png",
+         "id" : "r124",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3388.00500007346,
+            "id" : "download_118",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1tHRRFfNdXXaiKCsI-120-120.png",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3387.51500006765,
+            "id" : "download_119",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1ft4UFbJbXXX1dP6j-60-60.png",
+         "id" : "r128",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3390.82700014114,
+            "id" : "download_120",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1lQNRFcNfXXX1dP6j-60-60.png",
+         "id" : "r126",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3390.48500033095,
+            "id" : "download_121",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1gbFEFexhXXX1dP6j-60-60.png",
+         "id" : "r129",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3391.18600031361,
+            "id" : "download_122",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1jFXFFohfXXaiKCsI-120-120.png",
+         "id" : "r130",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3388.37000029162,
+            "id" : "download_123",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1yx8tFgNiXXX1dP6j-60-60.png",
+         "id" : "r135",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3391.63600001484,
+            "id" : "download_124",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1nrhSFbVcXXX1dP6j-60-60.png",
+         "id" : "r118",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3393.35600007325,
+            "id" : "download_125",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T12GBTFX8cXXX1dP6j-60-60.png",
+         "id" : "r138",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3391.97600027546,
+            "id" : "download_126",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1bc8FFcxgXXX1dP6j-60-60.png",
+         "id" : "r119",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3393.70300015435,
+            "id" : "download_127",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1B8dGFllfXXX1dP6j-60-60.png",
+         "id" : "r133",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3394.80500016361,
+            "id" : "download_128",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1GtpEFelhXXX1dP6j-60-60.png",
+         "id" : "r127",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3394.08400002867,
+            "id" : "download_129",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1TJlPFfdfXXaiKCsI-120-120.png",
+         "id" : "r132",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3394.43900017068,
+            "id" : "download_130",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1xbFQFmNgXXX1dP6j-60-60.png",
+         "id" : "r134",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3395.21200023592,
+            "id" : "download_131",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T15SxQFbRfXXaiKCsI-120-120.png",
+         "id" : "r121",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3398.09700008482,
+            "id" : "download_132",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1yttQFkteXXX1dP6j-60-60.png",
+         "id" : "r113",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3397.02500030398,
+            "id" : "download_133",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1yXdSFhVcXXX1dP6j-60-60.png",
+         "id" : "r114",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3397.69700029865,
+            "id" : "download_134",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1TWlFFaBgXXX1dP6j-60-60.png",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3398.98900035769,
+            "id" : "download_135",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1hetTFohbXXX1dP6j-60-60.png",
+         "id" : "r123",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3398.56900041923,
+            "id" : "download_136",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1lfpRFhRfXXX1dP6j-60-60.png",
+         "id" : "r136",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3399.40200001001,
+            "id" : "download_137",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1yqYkXmFiXXX9hhfo-80-80.jpg",
+         "id" : "r142",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3389.05700016767,
+            "id" : "download_138",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1j.dPFclfXXX1dP6j-60-60.png",
+         "id" : "r139",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3392.31600007042,
+            "id" : "download_139",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T1x0CrXXt7XXcKi4fo-80-80.png",
+         "id" : "r140",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3392.65900012106,
+            "id" : "download_140",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1HiHjXhtkXXX9hhfo-80-80.jpg",
+         "id" : "r147",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3389.76299995556,
+            "id" : "download_141",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img02.taobaocdn.com/tps/i2/T15hHiXbFoXXX9hhfo-80-80.jpg",
+         "id" : "r148",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3393.00600020215,
+            "id" : "download_142",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img04.taobaocdn.com/tps/i4/T1RAnjXkhjXXX9hhfo-80-80.jpg",
+         "id" : "r146",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3389.40400024876,
+            "id" : "download_143",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1fe4QFd8gXXX1dP6j-60-60.png",
+         "id" : "r137",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3395.57299995795,
+            "id" : "download_144",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1_ZYjXaxnXXX9hhfo-80-80.jpg",
+         "id" : "r144",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3396.31200022995,
+            "id" : "download_145",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T1rhjeXaRwXXX9hhfo-80-80.jpg",
+         "id" : "r143",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3395.94499999657,
+            "id" : "download_146",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img03.taobaocdn.com/tps/i3/T18HDkXidgXXX9hhfo-80-80.jpg",
+         "id" : "r145",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3396.67600020766,
+            "id" : "download_147",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1sZjjXlVmXXX9hhfo-80-80.jpg",
+         "id" : "r141",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3399.79800023139,
+            "id" : "download_148",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img01.taobaocdn.com/tps/i1/T1c5qMXdVXXXXXXXXX-270-70.png",
+         "id" : "r151",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3400.19300021231,
+            "id" : "download_149",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://log.mmstat.com/1.gif?logtype=1&title=%u6DD8%u5B9D%u7F51%20-%20%u6DD8%uFF01%u6211%u559C%u6B22&pre=&cache=4b92927&scr=2048x1152&isbeta=7&cna=u+6qCpiY6TkCAYDQBNQw3RjE&spm-cnt=0.0.0.0.bVqo5q&category=&uidaplus=&aplus",
+         "id" : "r109",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3212.82700030133,
+            "id" : "download_150",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.tanx.com/t/tanxssp/main.js?_t=20130902.js",
+         "id" : "r152",
+         "comps" : [
+            {
+               "s_time" : 3956.92500006407,
+               "time" : 4.43299999460987,
+               "type" : 2,
+               "id" : "comp_277",
+               "e_time" : 3961.35800005868
+            }
+         ],
+         "download" : {
+            "s_time" : 3906.48800041527,
+            "id" : "download_151",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.tbcdn.cn/apps/tbskip/public/flashStorage.swf?t=20110224",
+         "id" : "r154",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3948.45500029624,
+            "id" : "download_152",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecpm.tanx.com/ex?i=mm_12852562_1778064_9118777&cb=jsonp_callback_84069&callback=&userid=&o=&f=&n=&re=2048x1152&r=&cah=1130&caw=1970&ccd=24&ctz=-7&chl=11&cja=1&cpl=6&cmm=93&cf=11.8&cg=a9392f6b0f9e2eb6a9d22067dc35ec03&pvid=a3046b6035185805abe5e22abbe2b89f&ac=1331&prp=61304119&cas=prp&cbh=3159&cbw=935&dx=1&u=http%3A%2F%2Fwww.taobao.com%2Findex_global.php&k=&tt=%E6%B7%98%E5%AE%9D%E7%BD%91%20-%20%E6%B7%98%EF%BC%81%E6%88%91%E5%96%9C%E6%AC%A2",
+         "id" : "r155",
+         "comps" : [
+            {
+               "s_time" : 5276.36400004849,
+               "time" : 2.11100000888018,
+               "type" : 2,
+               "id" : "comp_286",
+               "e_time" : 5278.47500005737
+            }
+         ],
+         "download" : {
+            "s_time" : 3977.25900029764,
+            "id" : "download_153",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecpm.tanx.com/ex?i=mm_12852562_1778064_9118778&cb=jsonp_callback_99710&callback=&userid=&o=&f=&n=&re=2048x1152&r=&cah=1130&caw=1970&ccd=24&ctz=-7&chl=11&cja=1&cpl=6&cmm=93&cf=11.8&cg=ab62a2d5d00ebd97d0b480d3a99eb870&pvid=a3046b6035185805abe5e22abbe2b89f&ac=1331&prm=61313197&cas=prm&cbh=3159&cbw=935&dx=1&u=http%3A%2F%2Fwww.taobao.com%2Findex_global.php&k=&tt=%E6%B7%98%E5%AE%9D%E7%BD%91%20-%20%E6%B7%98%EF%BC%81%E6%88%91%E5%96%9C%E6%AC%A2",
+         "id" : "r156",
+         "comps" : [
+            {
+               "s_time" : 5288.52399997413,
+               "time" : 1.14200031385008,
+               "type" : 2,
+               "id" : "comp_289",
+               "e_time" : 5289.66600028798
+            }
+         ],
+         "download" : {
+            "s_time" : 3981.71500023454,
+            "id" : "download_154",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecpm.tanx.com/ex?i=mm_12852562_1778064_9087844&cb=jsonp_callback_71825&callback=&userid=&o=&f=&n=&re=2048x1152&r=&cah=1130&caw=1970&ccd=24&ctz=-7&chl=11&cja=1&cpl=6&cmm=93&cf=11.8&cg=c8eb1995265fa7f9b948358c6ee65da1&pvid=a3046b6035185805abe5e22abbe2b89f&ac=1331&prl=61313605&cas=prl&cbh=3159&cbw=935&dx=1&u=http%3A%2F%2Fwww.taobao.com%2Findex_global.php&k=&tt=%E6%B7%98%E5%AE%9D%E7%BD%91%20-%20%E6%B7%98%EF%BC%81%E6%88%91%E5%96%9C%E6%AC%A2",
+         "id" : "r159",
+         "comps" : [
+            {
+               "s_time" : 5289.69800006598,
+               "time" : 0.50300033763051,
+               "type" : 2,
+               "id" : "comp_291",
+               "e_time" : 5290.20100040361
+            }
+         ],
+         "download" : {
+            "s_time" : 3997.90100008249,
+            "id" : "download_155",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://acookie.taobao.com/3.gif?pre=-1&topurl=http%3A%2F%2Fwww.taobao.com%2Findex_global.php",
+         "id" : "r160",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4004.76900022477,
+            "id" : "download_156",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecpm.tanx.com/ex?i=mm_12852562_1778064_9118779&cb=jsonp_callback_32911&callback=&userid=&o=&f=&n=&re=2048x1152&r=&cah=1130&caw=1970&ccd=24&ctz=-7&chl=11&cja=1&cpl=6&cmm=93&cf=11.8&cg=fbe29521289dbd844ef95cbdd7b587b4&pvid=a3046b6035185805abe5e22abbe2b89f&ac=1331&prj=61313401&cas=prj&cbh=3159&cbw=935&dx=1&u=http%3A%2F%2Fwww.taobao.com%2Findex_global.php&k=&tt=%E6%B7%98%E5%AE%9D%E7%BD%91%20-%20%E6%B7%98%EF%BC%81%E6%88%91%E5%96%9C%E6%AC%A2",
+         "id" : "r157",
+         "comps" : [
+            {
+               "s_time" : 5301.56900035217,
+               "time" : 0.61299977824001,
+               "type" : 2,
+               "id" : "comp_295",
+               "e_time" : 5302.18200013041
+            }
+         ],
+         "download" : {
+            "s_time" : 3988.22100041434,
+            "id" : "download_157",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ecpm.tanx.com/ex?i=mm_12852562_1778064_10263233&cb=jsonp_callback_36092&callback=&userid=&o=&f=&n=&re=2048x1152&r=&cah=1130&caw=1970&ccd=24&ctz=-7&chl=11&cja=1&cpl=6&cmm=93&cf=11.8&cg=bbb7caef2caf3ba1d22525e4874b45b5&pvid=a3046b6035185805abe5e22abbe2b89f&ac=1331&prp=61308050&cas=prp&cbh=3159&cbw=935&dx=1&u=http%3A%2F%2Fwww.taobao.com%2Findex_global.php&k=&tt=%E6%B7%98%E5%AE%9D%E7%BD%91%20-%20%E6%B7%98%EF%BC%81%E6%88%91%E5%96%9C%E6%AC%A2",
+         "id" : "r158",
+         "comps" : [
+            {
+               "s_time" : 5302.31400020421,
+               "time" : 2.49599991365994,
+               "type" : 2,
+               "id" : "comp_297",
+               "e_time" : 5304.81000011787
+            }
+         ],
+         "download" : {
+            "s_time" : 3992.24200006574,
+            "id" : "download_158",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.mmcdn.cn/simba/img/T1h3.iXlxfXXartXjX.gif?noq=y",
+         "id" : "r161",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5284.21700000763,
+            "id" : "download_159",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.mmcdn.cn/simba/img/T1lW88FadhXXb1upjX.jpg",
+         "id" : "r162",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5299.26700005308,
+            "id" : "download_160",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.mmcdn.cn/simba/img/T18y4yFdldXXb1upjX.jpg",
+         "id" : "r163",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5299.67900039628,
+            "id" : "download_161",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.mmcdn.cn/simba/img/T1UWKaFktfXXb1upjX.jpg",
+         "id" : "r164",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5308.32800036296,
+            "id" : "download_162",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i.mmcdn.cn/simba/img/T1dLypFnVbXXb1upjX.jpg",
+         "id" : "r165",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5309.03100036085,
+            "id" : "download_163",
+            "type" : "image/jpeg"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "comp_9",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_3"
+      },
+      {
+         "a2" : "comp_9",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "comp_12",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "download_161",
+         "time" : 3331.0860004276,
+         "id" : "dep7",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_160",
+         "time" : 3330.6740000844,
+         "id" : "dep8",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_159",
+         "time" : 3315.62400003895,
+         "id" : "dep9",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_158",
+         "time" : 2023.64900009706,
+         "id" : "dep10",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_157",
+         "time" : 2019.62800044566,
+         "id" : "dep11",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_156",
+         "time" : 2036.17600025609,
+         "id" : "dep12",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_155",
+         "time" : 2029.30800011381,
+         "id" : "dep13",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_154",
+         "time" : 2013.12200026586,
+         "id" : "dep14",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_153",
+         "time" : 2008.66600032896,
+         "id" : "dep15",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_152",
+         "time" : 1979.86200032756,
+         "id" : "dep16",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_151",
+         "time" : 1937.89500044659,
+         "id" : "dep17",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_150",
+         "time" : 1244.23400033265,
+         "id" : "dep18",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_149",
+         "time" : 1431.60000024363,
+         "id" : "dep19",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_148",
+         "time" : 1431.20500026271,
+         "id" : "dep20",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_147",
+         "time" : 1428.08300023898,
+         "id" : "dep21",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_146",
+         "time" : 1427.35200002789,
+         "id" : "dep22",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 1427.71900026127,
+         "id" : "dep23",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 1426.97999998927,
+         "id" : "dep24",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 1420.81100028008,
+         "id" : "dep25",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 1424.41300023347,
+         "id" : "dep26",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 1421.16999998688,
+         "id" : "dep27",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 1424.06600015238,
+         "id" : "dep28",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 1423.72300010174,
+         "id" : "dep29",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 1420.46400019899,
+         "id" : "dep30",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 1430.80900004133,
+         "id" : "dep31",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 1429.97600045055,
+         "id" : "dep32",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_135",
+         "time" : 1430.39600038901,
+         "id" : "dep33",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 1429.10400032997,
+         "id" : "dep34",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_133",
+         "time" : 1428.4320003353,
+         "id" : "dep35",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_132",
+         "time" : 1429.50400011614,
+         "id" : "dep36",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_131",
+         "time" : 1426.61900026724,
+         "id" : "dep37",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_130",
+         "time" : 1425.846000202,
+         "id" : "dep38",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_129",
+         "time" : 1425.49100005999,
+         "id" : "dep39",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_128",
+         "time" : 1426.21200019493,
+         "id" : "dep40",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_127",
+         "time" : 1425.11000018567,
+         "id" : "dep41",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_126",
+         "time" : 1423.38300030678,
+         "id" : "dep42",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_125",
+         "time" : 1424.76300010457,
+         "id" : "dep43",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_124",
+         "time" : 1423.04300004616,
+         "id" : "dep44",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_123",
+         "time" : 1419.77700032294,
+         "id" : "dep45",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 1422.59300034493,
+         "id" : "dep46",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_121",
+         "time" : 1421.89200036227,
+         "id" : "dep47",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 1422.23400017246,
+         "id" : "dep48",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 1418.92200009897,
+         "id" : "dep49",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_118",
+         "time" : 1419.41200010478,
+         "id" : "dep50",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 1418.36800007149,
+         "id" : "dep51",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 1420.12100014835,
+         "id" : "dep52",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 1421.54300026595,
+         "id" : "dep53",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 1417.96500002965,
+         "id" : "dep54",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 1407.63700008392,
+         "id" : "dep55",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 1399.87200032919,
+         "id" : "dep56",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 1326.6100003384,
+         "id" : "dep57",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 1324.25700034946,
+         "id" : "dep58",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 1319.46300016716,
+         "id" : "dep59",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 1317.52000004053,
+         "id" : "dep60",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 1232.41800023243,
+         "id" : "dep61",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 1184.63900033384,
+         "id" : "dep62",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_105",
+         "time" : -1,
+         "id" : "dep63",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 203.48700042814,
+         "id" : "dep64",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 198.837000411,
+         "id" : "dep65",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 258.43700021505,
+         "id" : "dep66",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 201.72100001946,
+         "id" : "dep67",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 290.82600027323,
+         "id" : "dep68",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 204.25300020724,
+         "id" : "dep69",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 257.96100031584,
+         "id" : "dep70",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 195.85700007155,
+         "id" : "dep71",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 194.70300013199,
+         "id" : "dep72",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 313.88600030914,
+         "id" : "dep73",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 305.44400028884,
+         "id" : "dep74",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 305.09000038728,
+         "id" : "dep75",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 192.50700017437,
+         "id" : "dep76",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 313.13300039619,
+         "id" : "dep77",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 313.48600005731,
+         "id" : "dep78",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 312.76100035757,
+         "id" : "dep79",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 312.40300042555,
+         "id" : "dep80",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 304.7280004248,
+         "id" : "dep81",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 290.4450003989,
+         "id" : "dep82",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 290.03400029614,
+         "id" : "dep83",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 289.64000009,
+         "id" : "dep84",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 297.55700007081,
+         "id" : "dep85",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 303.97100001573,
+         "id" : "dep86",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 304.34700008482,
+         "id" : "dep87",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 302.78900032863,
+         "id" : "dep88",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 303.15300030634,
+         "id" : "dep89",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 303.5160000436,
+         "id" : "dep90",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 312.04900005832,
+         "id" : "dep91",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 311.69500015676,
+         "id" : "dep92",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 297.18800028786,
+         "id" : "dep93",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 296.80700041353,
+         "id" : "dep94",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 311.33300019428,
+         "id" : "dep95",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 310.96400041133,
+         "id" : "dep96",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 310.60399999842,
+         "id" : "dep97",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 310.24900032207,
+         "id" : "dep98",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 296.41500022262,
+         "id" : "dep99",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 289.26900029182,
+         "id" : "dep100",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 288.89800002798,
+         "id" : "dep101",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 288.52900024503,
+         "id" : "dep102",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 288.14800037071,
+         "id" : "dep103",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 287.77700010687,
+         "id" : "dep104",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 287.40800032392,
+         "id" : "dep105",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 296.04500019923,
+         "id" : "dep106",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 295.68600002676,
+         "id" : "dep107",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 301.48000037297,
+         "id" : "dep108",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 302.40600043908,
+         "id" : "dep109",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 302.01099999249,
+         "id" : "dep110",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 309.88900037482,
+         "id" : "dep111",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 309.51100029051,
+         "id" : "dep112",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 295.31900025904,
+         "id" : "dep113",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 294.95800007134,
+         "id" : "dep114",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 301.05600040406,
+         "id" : "dep115",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 308.74300003052,
+         "id" : "dep116",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 300.67100003361,
+         "id" : "dep117",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 309.10600023344,
+         "id" : "dep118",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 294.59200007841,
+         "id" : "dep119",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 294.0360000357,
+         "id" : "dep120",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 300.29300041497,
+         "id" : "dep121",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 287.03400027007,
+         "id" : "dep122",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 286.67000029236,
+         "id" : "dep123",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 286.2590001896,
+         "id" : "dep124",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 285.87200026959,
+         "id" : "dep125",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 308.37900005281,
+         "id" : "dep126",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 293.63800026476,
+         "id" : "dep127",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 307.64600029215,
+         "id" : "dep128",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 307.28800036013,
+         "id" : "dep129",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 308.00100043416,
+         "id" : "dep130",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 299.56200020388,
+         "id" : "dep131",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 306.56200041994,
+         "id" : "dep132",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 306.92500015721,
+         "id" : "dep133",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 299.9250004068,
+         "id" : "dep134",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 299.2000002414,
+         "id" : "dep135",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 298.42200037092,
+         "id" : "dep136",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 298.81800012663,
+         "id" : "dep137",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 285.00500041991,
+         "id" : "dep138",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 293.2359999977,
+         "id" : "dep139",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 292.80500020832,
+         "id" : "dep140",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 292.37000038847,
+         "id" : "dep141",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 291.98900004849,
+         "id" : "dep142",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 291.60600015893,
+         "id" : "dep143",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 283.09000004083,
+         "id" : "dep144",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 282.74100041017,
+         "id" : "dep145",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 284.41300010308,
+         "id" : "dep146",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 282.38700004294,
+         "id" : "dep147",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 282.0320003666,
+         "id" : "dep148",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 305.83900026977,
+         "id" : "dep149",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 306.20100023225,
+         "id" : "dep150",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 297.91600024327,
+         "id" : "dep151",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 291.21700022369,
+         "id" : "dep152",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 281.62700030952,
+         "id" : "dep153",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 276.24000003561,
+         "id" : "dep154",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 274.82500020414,
+         "id" : "dep155",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 183.5110001266,
+         "id" : "dep156",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 181.95400014519,
+         "id" : "dep157",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 28.57500035316,
+         "id" : "dep158",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 26.5220003202501,
+         "id" : "dep159",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 3.95400030538008,
+         "id" : "dep160",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 3.52700008079,
+         "id" : "dep161",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_6",
+         "time" : -1,
+         "id" : "dep162",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 4.21000039205001,
+         "id" : "dep163",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 27.350000105798,
+         "id" : "dep164",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 27.350000105798,
+         "id" : "dep165",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 26.936000213027,
+         "id" : "dep166",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 25.452000088989,
+         "id" : "dep167",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 24.780999869108,
+         "id" : "dep168",
+         "a1" : "r1_c1"
+      }
+   ]
+}

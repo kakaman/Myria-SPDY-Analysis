@@ -1,0 +1,1402 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.samsung.com_us_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.samsung.com/us/",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 12.9179999998996,
+               "time" : 10.8359999999266,
+               "id" : "r2_c1",
+               "type" : "evalhtml",
+               "e_time" : 23.7539999998262
+            },
+            {
+               "s_time" : 95.9889999999177,
+               "time" : 110.096999999996,
+               "id" : "r2_c2",
+               "type" : "evalhtml",
+               "e_time" : 206.085999999914
+            },
+            {
+               "s_time" : 397.927999999865,
+               "time" : 271.825999999919,
+               "id" : "r2_c3",
+               "type" : "evalhtml",
+               "e_time" : 669.753999999784
+            },
+            {
+               "s_time" : 674.516999999923,
+               "time" : 0.446000000011054,
+               "id" : "r2_c4",
+               "type" : "evalhtml",
+               "e_time" : 674.962999999934
+            },
+            {
+               "s_time" : 685.717999999952,
+               "time" : 0.0860000000100172,
+               "id" : "r2_c5",
+               "type" : "evalhtml",
+               "e_time" : 685.803999999962
+            },
+            {
+               "s_time" : 686.408999999912,
+               "time" : 0.420000000077039,
+               "id" : "r2_c6",
+               "type" : "evalhtml",
+               "e_time" : 686.828999999989
+            },
+            {
+               "s_time" : 694.584999999961,
+               "time" : 1944.68499999994,
+               "type" : "evalhtml",
+               "id" : "r2_c7",
+               "e_time" : 2639.2699999999
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googleadservices.com/pagead/conversion.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 686.861999999792,
+               "time" : 7.72300000016901,
+               "type" : 1,
+               "id" : "comp_36",
+               "e_time" : 694.584999999961
+            }
+         ],
+         "download" : {
+            "s_time" : 23.7539999998262,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/css/screen.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 40.2859999999237,
+               "time" : 62.1349999998983,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 102.420999999822
+            }
+         ],
+         "download" : {
+            "s_time" : 16.4709999999104,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/head.load.min.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 68.1379999998626,
+               "time" : 27.8510000000551,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 95.9889999999177
+            }
+         ],
+         "download" : {
+            "s_time" : 16.9009999999616,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/rr.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 674.665000000005,
+               "time" : 11.052999999947,
+               "type" : 1,
+               "id" : "comp_29",
+               "e_time" : 685.717999999952
+            }
+         ],
+         "download" : {
+            "s_time" : 22.9269999999815,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/tracking.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 685.847999999851,
+               "time" : 0.561000000060972,
+               "type" : 1,
+               "id" : "comp_32",
+               "e_time" : 686.408999999912
+            }
+         ],
+         "download" : {
+            "s_time" : 23.3439999999518,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/framework-min.js?render=all",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 431.053999999904,
+               "time" : 243.463000000019,
+               "type" : 1,
+               "id" : "comp_26",
+               "e_time" : 674.516999999923
+            }
+         ],
+         "download" : {
+            "s_time" : 22.36199999993,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/jquery-1.7.2.min.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 132.5539999998,
+               "time" : 79.482000000098,
+               "type" : 2,
+               "id" : "comp_10",
+               "e_time" : 212.035999999898
+            }
+         ],
+         "download" : {
+            "s_time" : 99.4129999999132,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/ecommerce-dr-widgets.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 300.280999999814,
+               "time" : 1.92700000002299,
+               "type" : 2,
+               "id" : "comp_18",
+               "e_time" : 302.207999999837
+            }
+         ],
+         "download" : {
+            "s_time" : 100.667999999814,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/scripts/dfa.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 222.219999999879,
+               "time" : 77.970000000051,
+               "type" : 2,
+               "id" : "comp_13",
+               "e_time" : 300.18999999993
+            }
+         ],
+         "download" : {
+            "s_time" : 100.26599999992,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/loader.gif",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 105.602999999974,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/global/blue-samsung-logo.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 105.971999999838,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/icon/mobile-menu.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 106.351999999788,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.gstatic.com/images/icons/gplus-32.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 103.829999999789,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/images/icons/gplus-16.png",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 105.199999999968,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/global/facebookShare.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 107.258999999885,
+            "id" : "download_15",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/hero-loader.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 106.764999999996,
+            "id" : "download_16",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/common/ftr-icon-facebook.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 107.723999999962,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/common/ftr-icon-twitter-v2.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 108.618999999862,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/common/ftr-icon-youtube.png",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 109.443999999939,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/gnb/btn_gnb_search.gif",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 109.93899999994,
+            "id" : "download_20",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://assets.pinterest.com/images/PinExt.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 104.752999999846,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://media.richrelevance.com/rrserver/js/1.0/p13n.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 386.104999999816,
+               "time" : 11.823000000049,
+               "type" : 1,
+               "id" : "comp_21",
+               "e_time" : 397.927999999865
+            }
+         ],
+         "download" : {
+            "s_time" : 21.8599999998332,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon-sf25d593003.png",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 410.194999999931,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://platform.twitter.com/widgets.js",
+         "id" : "r28",
+         "comps" : [
+            {
+               "s_time" : 1183.27499999987,
+               "time" : 73.12700000011,
+               "type" : 2,
+               "id" : "comp_106",
+               "e_time" : 1256.40199999998
+            }
+         ],
+         "download" : {
+            "s_time" : 421.588999999813,
+            "id" : "download_24",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/javascripts/dummy.json",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 666.756999999961,
+            "id" : "download_25",
+            "type" : "text/plain"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.samsung.com/us/function/recentlyViewedYourDevices.do?987",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 669.753999999784,
+            "id" : "download_26",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon/twitter-hero.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 867.088999999851,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon/facebook-hero.png",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 867.549999999937,
+            "id" : "download_28",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon/google-hero.png",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 868.030999999974,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon/large-active-arrow.png",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 869.70899999983,
+            "id" : "download_30",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon/pinterest-hero.png",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 868.811999999934,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/shop/eppInfo.do?referralUrl=http%3A%2F%2Fsamsung.com%2F",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 756.827999999814,
+            "id" : "download_32",
+            "type" : "application/x-json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/fonts/samsungif_rg-webfont.ttf",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 876.182999999855,
+            "id" : "download_33",
+            "type" : "application/octet-stream"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/fonts/samsungif_bd-webfont.ttf",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 880.190999999968,
+            "id" : "download_34",
+            "type" : "application/octet-stream"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://platform.twitter.com/widgets.js?_=1378144751333",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 1419.7909999998,
+               "time" : 22.04800000005,
+               "type" : null,
+               "id" : "comp_169",
+               "e_time" : 1441.83899999985
+            }
+         ],
+         "download" : {
+            "s_time" : 933.299999999917,
+            "id" : "download_35",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://4240528.fls.doubleclick.net/activityi;src=4240528;type=samsu905;cat=samsu702;ord=3913560840301.216?",
+         "id" : "r38",
+         "comps" : [
+            {
+               "s_time" : 1330.43099999986,
+               "time" : 600.35800000014,
+               "id" : "r38_c1",
+               "type" : "evalhtml",
+               "e_time" : 1930.789
+            },
+            {
+               "s_time" : 1932.188,
+               "time" : 0.0349999997899886,
+               "type" : "evalhtml",
+               "id" : "r38_c2",
+               "e_time" : 1932.22299999979
+            }
+         ],
+         "download" : {
+            "s_time" : 864.675999999918,
+            "id" : "download_36",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://recs.richrelevance.com/rrserver/p13n_generated.js?a=f20dc17e1482cd47&ts=1378144751086&pt=%7Chome_page.rr1&channelId=web&cts=http%3A%2F%2Fwww.samsung.com&flv=11.8.800&pref=http%3A%2F%2Fsamsung.com%2F&l=1",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 1443.50199999985,
+               "time" : 0.893000000139864,
+               "type" : null,
+               "id" : "comp_172",
+               "e_time" : 1444.39499999999
+            }
+         ],
+         "download" : {
+            "s_time" : 874.583999999913,
+            "id" : "download_37",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/hero/clear.png",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1110.76899999989,
+            "id" : "download_38",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/nav/tv-video_2013-smart-tv.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1110.17399999992,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/tiles/solve.png",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1112.17299999998,
+            "id" : "download_40",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/tiles/apps-and-entertainment.png",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1111.72999999985,
+            "id" : "download_41",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/tiles/samsung_apps.png",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1111.26999999988,
+            "id" : "download_42",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.com/ads/user-lists/1004686515/?label=5BhgCO27xAYQs5mJ3wM&fmt=1&num=1&cv=7&frm=0&url=http%3A%2F%2Fwww.samsung.com%2Fus%2F&ref=http%3A%2F%2Fsamsung.com%2F&random=2429207588",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 1343.12999999997,
+               "time" : 0.327999999859912,
+               "type" : "evalhtml",
+               "id" : "r36_c1",
+               "e_time" : 1343.45799999983
+            }
+         ],
+         "download" : {
+            "s_time" : 1118.18599999992,
+            "id" : "download_43",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/tiles/school_bg.jpg",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1112.62899999997,
+            "id" : "download_44",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/social/samsung_nation_v2.jpg",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1113.12899999984,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/social/cnet_logo.png",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1113.56799999999,
+            "id" : "download_46",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/social/four_stars.jpg",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.00599999979,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/global/your-devices-logged-out.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.88799999984,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/social/pnf8500_review.jpg",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.44699999993,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://integrate.112.2o7.net/dfa_echo?var=s_2_Integrate_DFA_get_0&AQE=1&A2S=1/respcamphist;src=1511760;ec=nh;rch=2;lastimp=0;lastimptime=0;lis=0;lip=0;lic=0;lir=0;lirv=0;likv=0;lipn=;lastclk=0;lastclktime=0;lcs=0;lcp=0;lcc=0;lcr=0;lcrv=0;lckv=0;lcpn=;ord=1378144750",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 893.851999999924,
+            "id" : "download_50",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/icon/indepth-triangle.png",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1183.15899999993,
+            "id" : "download_51",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/footer/bg_bar_gray.gif",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1183.55199999996,
+            "id" : "download_52",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.samsung.com/us/images/homepage/hero/oled_bg2.png",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1182.70299999995,
+            "id" : "download_53",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://m.samsung.com/us/api/popular.json",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 674.962999999934,
+            "id" : "download_54",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://platform.twitter.com/js/tfw/hub/client.js",
+         "id" : "r61",
+         "comps" : [
+            {
+               "s_time" : 1592.94099999988,
+               "time" : 3.10699999999997,
+               "type" : null,
+               "id" : "comp_182",
+               "e_time" : 1596.04799999988
+            }
+         ],
+         "download" : {
+            "s_time" : 1443.87899999992,
+            "id" : "download_55",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://platform.twitter.com/widgets/hub.html",
+         "id" : "r62",
+         "comps" : [
+            {
+               "s_time" : 1656.4179999998,
+               "time" : 11.2169999999899,
+               "type" : "evalhtml",
+               "id" : "r62_c1",
+               "e_time" : 1667.63499999979
+            }
+         ],
+         "download" : {
+            "s_time" : 1607.2529999999,
+            "id" : "download_56",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://platform.twitter.com/widgets/hub.html",
+         "id" : "r63",
+         "comps" : [
+            {
+               "s_time" : 1713.00099999985,
+               "time" : 11.1600000000201,
+               "type" : "evalhtml",
+               "id" : "r63_c1",
+               "e_time" : 1724.16099999987
+            }
+         ],
+         "download" : {
+            "s_time" : 1612.18399999984,
+            "id" : "download_57",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.mathtag.com/event/js?01AD=3UbgRcBSlxy7y7ftBMX7VQfSwaITlssmyqDJyHbHWrpI47Qb5GD5UXg&01RI=0A3CE408A7B7B9A&01NA=na&mt_id=317387&mt_adid=114200&v1=&v2=&v3=&s1=&s2=&s3=&mm_bnc",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1871.37199999984,
+            "id" : "download_58",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.mathtag.com/event/js?01AD=3orbRNqSGth1LiZjIO14g_vCF3TkB8qFMGCd1d2LJv-z28sJKubNy2w&01RI=C632C1D11CF4399&01NA=na&mt_id=315426&mt_adid=114200&v1=&v2=&v3=&s1=&s2=&s3=&mm_bnc",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1871.87099999983,
+            "id" : "download_59",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shop.us.samsung.com/store/samsung/DisplayDRCartSummary/Version.2/output.json?callback=jQuery1720849746884778142_1378144750914&jsonp=callbackDRCartSummary&_=1378144751666",
+         "id" : "r57",
+         "comps" : [
+            {
+               "s_time" : 1952.87299999995,
+               "time" : 1.85899999996991,
+               "type" : null,
+               "id" : "comp_236",
+               "e_time" : 1954.73199999992
+            }
+         ],
+         "download" : {
+            "s_time" : 1266.52899999999,
+            "id" : "download_60",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=mediamath&google_cm&google_hm=TE9SJNHwTQCfyRkMLcoW5A",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1930.789,
+            "id" : "download_61",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.mathtag.com/misc/img?mt_id=315426&mt_adid=114200&mop_seq=0:34&mop_top=&mt_cb=106593",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1934.85399999986,
+            "id" : "download_62",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.mathtag.com/misc/img?mt_id=317387&mt_adid=114200&mop_seq=0:34&mop_top=&mt_cb=730929",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1935.33099999991,
+            "id" : "download_63",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://nmetrics.samsung.com/b/ss/sssamsungnewus/1/H.25.3/s51844062528107?AQB=1&pccr=true&vidn=291268F885010273-40001602400652E3&&vmr=true&&vmh=nmetrics.samsung.com&vmf=samsung.112.2o7.net&&ndh=1&t=2%2F8%2F2013%2010%3A59%3A11%201%20420&fid=38A215E0E446E835-332EAA6345F48CDF&ce=UTF-8&ns=samsung&pageName=http%3A%2F%2Fwww.samsung.com%2Fus&g=http%3A%2F%2Fwww.samsung.com%2Fus%2F&r=http%3A%2F%2Fsamsung.com%2F&cc=USD&ch=home&server=www.samsung.com&events=event16&c1=en&v1=en&c2=us&v2=us&c10=engager&c13=http%3A%2F%2Fwww.samsung.com%2Fus&c14=http%3A%2F%2Fwww.samsung.com%2Fus%2F&v17=http%3A%2F%2Fwww.samsung.com%2Fus&c22=homepage&c24=New&c39=2013%3A9%3A2%3A10&v41=2013%3A9%3A2%3A10&v49=5-tile%3Amedium&v52=homepage&c55=5-tile%3Amedium&c66=D%3Ds_vi&v71=D%3Dc63&h2=www.samsung.com%2Fus&s=2048x1152&c=24&j=1.6&v=Y&k=Y&bw=950&bh=1014&p=Remoting%20Viewer%3BNative%20Client%3BShockwave%20Flash%3BiPhotoPhotocast%3BJava%20Applet%20Plug-in%3BQuickTime%20Plug-in%207.6.6%3B&AQE=1",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2639.2699999999,
+            "id" : "download_64",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r2_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "r2_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_21"
+      },
+      {
+         "a2" : "r2_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "r2_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_29"
+      },
+      {
+         "a2" : "r2_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_32"
+      },
+      {
+         "a2" : "r2_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "comp_6",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_29",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "comp_32",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_29"
+      },
+      {
+         "a2" : "r38_c2",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_231"
+      },
+      {
+         "a2" : "download_64",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 1240.74599999995,
+         "id" : "dep12",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 1240.2689999999,
+         "id" : "dep13",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_61",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "r38_c1"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 1236.20400000004,
+         "id" : "dep15",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 571.944000000029,
+         "id" : "dep16",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 541.43999999997,
+         "id" : "dep17",
+         "a1" : "r38_c1"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 1177.28599999987,
+         "id" : "dep18",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 540.94099999998,
+         "id" : "dep19",
+         "a1" : "r38_c1"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 1176.78699999988,
+         "id" : "dep20",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 281.75299999998,
+         "id" : "dep21",
+         "a1" : "r38_c1"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 917.598999999879,
+         "id" : "dep22",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 912.667999999939,
+         "id" : "dep23",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 0.377000000069984,
+         "id" : "dep24",
+         "a1" : "comp_172"
+      },
+      {
+         "a2" : "download_54",
+         "time" : -1,
+         "id" : "dep25",
+         "a1" : "r2_c4"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 488.117999999989,
+         "id" : "dep26",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 488.966999999999,
+         "id" : "dep27",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 488.573999999969,
+         "id" : "dep28",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 199.266999999963,
+         "id" : "dep29",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 419.861999999969,
+         "id" : "dep30",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 420.302999999879,
+         "id" : "dep31",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 419.420999999829,
+         "id" : "dep32",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 418.983000000029,
+         "id" : "dep33",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 418.543999999879,
+         "id" : "dep34",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 418.044000000009,
+         "id" : "dep35",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 423.600999999959,
+         "id" : "dep36",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 416.684999999919,
+         "id" : "dep37",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 417.144999999889,
+         "id" : "dep38",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 417.588000000019,
+         "id" : "dep39",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 415.588999999959,
+         "id" : "dep40",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 416.183999999929,
+         "id" : "dep41",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 179.998999999952,
+         "id" : "dep42",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 170.090999999957,
+         "id" : "dep43",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 238.714999999956,
+         "id" : "dep44",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 185.606000000007,
+         "id" : "dep45",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 181.597999999894,
+         "id" : "dep46",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 62.2429999998529,
+         "id" : "dep47",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 174.226999999973,
+         "id" : "dep48",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 175.123999999869,
+         "id" : "dep49",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 173.446000000013,
+         "id" : "dep50",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 172.964999999976,
+         "id" : "dep51",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 172.50399999989,
+         "id" : "dep52",
+         "a1" : "r2_c7"
+      },
+      {
+         "a2" : "download_26",
+         "time" : -1,
+         "id" : "dep53",
+         "a1" : "r2_c3"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 268.829000000096,
+         "id" : "dep54",
+         "a1" : "r2_c3"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 23.660999999948,
+         "id" : "dep55",
+         "a1" : "r2_c3"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 12.267000000066,
+         "id" : "dep56",
+         "a1" : "r2_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : -1,
+         "id" : "dep57",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 8.7639999999283,
+         "id" : "dep58",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 13.9500000000223,
+         "id" : "dep59",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 13.4550000000213,
+         "id" : "dep60",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 12.6299999999443,
+         "id" : "dep61",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 11.7350000000443,
+         "id" : "dep62",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 10.7760000000783,
+         "id" : "dep63",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 11.2699999999673,
+         "id" : "dep64",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 9.2110000000503,
+         "id" : "dep65",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 7.8409999998713,
+         "id" : "dep66",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 10.3629999998703,
+         "id" : "dep67",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 9.98299999992031,
+         "id" : "dep68",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 9.61400000005631,
+         "id" : "dep69",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 4.2770000000023,
+         "id" : "dep70",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 4.67899999989631,
+         "id" : "dep71",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 3.4239999999955,
+         "id" : "dep72",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : -1,
+         "id" : "dep73",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : -1,
+         "id" : "dep74",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 10.0090000000819,
+         "id" : "dep75",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 3.983000000062,
+         "id" : "dep76",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 3.5530000000108,
+         "id" : "dep77",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : -1,
+         "id" : "dep78",
+         "a1" : "r2_c1"
+      }
+   ]
+}

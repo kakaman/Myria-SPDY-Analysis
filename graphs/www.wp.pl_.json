@@ -1,0 +1,2575 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.wp.pl_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.wp.pl/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 638.446999713778,
+               "time" : 1859.39900018275,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 2497.84599989653
+            },
+            {
+               "s_time" : 2500.35399990156,
+               "time" : 477.91399993003,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 2978.26799983159
+            },
+            {
+               "s_time" : 3587.50399993733,
+               "time" : 206.87700016424,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 3794.38100010157
+            },
+            {
+               "s_time" : 3802.43399972096,
+               "time" : 292.87800006569,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 4095.31199978665
+            },
+            {
+               "s_time" : 4303.61199984327,
+               "time" : 1.75300007686019,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 4305.36499992013
+            },
+            {
+               "s_time" : 4596.91300010309,
+               "time" : 0.0979998148904997,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 4597.01099991798
+            },
+            {
+               "s_time" : 4600.43400013819,
+               "time" : 392.902999650691,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 4993.33699978888
+            },
+            {
+               "s_time" : 5854.05500000343,
+               "time" : 5.00899972394018,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 5859.06399972737
+            },
+            {
+               "s_time" : 6052.51999991015,
+               "time" : 3.74299986288042,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 6056.26299977303
+            },
+            {
+               "s_time" : 6248.73599968851,
+               "time" : 2.57800007238984,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 6251.3139997609
+            },
+            {
+               "s_time" : 6252.00199987739,
+               "time" : 7.30299996212034,
+               "id" : "r1_c11",
+               "type" : "evalhtml",
+               "e_time" : 6259.30499983951
+            },
+            {
+               "s_time" : 6452.99999974668,
+               "time" : 3.01800016313973,
+               "id" : "r1_c12",
+               "type" : "evalhtml",
+               "e_time" : 6456.01799990982
+            },
+            {
+               "s_time" : 6456.44100010395,
+               "time" : 5.01199997962067,
+               "id" : "r1_c13",
+               "type" : "evalhtml",
+               "e_time" : 6461.45300008357
+            },
+            {
+               "s_time" : 6462.72499999031,
+               "time" : 927.393999882051,
+               "type" : "evalhtml",
+               "id" : "r1_c14",
+               "e_time" : 7390.11899987236
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wp.pl/s.css?v=78",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1219.32299993932,
+               "time" : 31.442000065,
+               "type" : 4,
+               "id" : "comp_4",
+               "e_time" : 1250.76500000432
+            }
+         ],
+         "download" : {
+            "s_time" : 645.130999851972,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/wpjslib_101.js?v=43",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 2401.72299975529,
+               "time" : 98.6310001462703,
+               "type" : 1,
+               "id" : "comp_7",
+               "e_time" : 2500.35399990156
+            }
+         ],
+         "download" : {
+            "s_time" : 645.887999795377,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/dynamiclib.js?v=75",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 3687.95199971646,
+               "time" : 114.4820000045,
+               "type" : 1,
+               "id" : "comp_20",
+               "e_time" : 3802.43399972096
+            }
+         ],
+         "download" : {
+            "s_time" : 815.783000085503,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/wp.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2564.871000126,
+            "id" : "download_4",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/tesco_henio.png",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2565.25699980557,
+            "id" : "download_5",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dot.wp.pl/r5941407622/dot.gif?SN=sg&Pos=top&pg=http%3A//www.wp.pl/&rf=&vid=8878886641&fba=1378096925.274&v=5",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2497.84599989653,
+            "id" : "download_6",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rek.www.wp.pl/rgr.html?PWAr=17255368898622692",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2504.43399976939,
+            "id" : "download_7",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://wp.hit.gemius.pl/__/_1378096927198/rexdot.gif?l=30&id=coWacc7R.xHk.xzhRC.LgpQJ38OGWzuyOAxvi8UATAr.s7&fr=1&fv=Shockwave%20Flash%2011.8%20r800&tz=420&href=http%3A//www.wp.pl/&ref=&screen=2048x1152&col=24",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2978.26799983159,
+            "id" : "download_8",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ker.www.wp.pl/?rekid=7757&rektype=1&phtml=www.wp.pl/&reksticket=1378096925&PWAsw=2048&PWAsh=1152&gchi=e963a&PWAbn=chrome&PWAhour=21&PWAminute=42&PWAr=17255368898622692",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 3585.07200004533,
+               "time" : 2.43199989200002,
+               "type" : 1,
+               "id" : "comp_16",
+               "e_time" : 3587.50399993733
+            }
+         ],
+         "download" : {
+            "s_time" : 2511.22799981385,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377928568_a.jpg",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2512.30200007558,
+            "id" : "download_10",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378040024_a.jpg",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2532.88399986923,
+            "id" : "download_11",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377773795_a.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2533.29199971631,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378017947_a.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2535.38599982858,
+            "id" : "download_13",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378041379_a.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2534.79599999264,
+            "id" : "download_14",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377942470_a.jpeg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2534.19099980965,
+            "id" : "download_15",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378032241_a.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2535.76499968767,
+            "id" : "download_16",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378018180_a.jpg",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2536.13299969584,
+            "id" : "download_17",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377861958_a.gif",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2536.53399972245,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/W/201308/1377938061_a.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2536.91300004721,
+            "id" : "download_19",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/W/201309/1378026258_a.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2537.29100013152,
+            "id" : "download_20",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/W/201308/1377864160_a.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2537.66899975017,
+            "id" : "download_21",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/icons-s.png?4",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3591.06699982658,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377934084_a.jpg",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2538.04699983448,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378038075_a.jpg",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2538.41800009832,
+            "id" : "download_24",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/T/201309/1378031776_a.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2538.78600010648,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377938951_a.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2539.15999969468,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377786794_a.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2539.52799970284,
+            "id" : "download_27",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377866360_a.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2539.91799987853,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.wp.pl/ajax.html",
+         "id" : "r99",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3794.38100010157,
+            "id" : "download_29",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://wp.hit.gemius.pl/_1378096928588/redot.gif?id=zao7Yu_33F51K_3lMWsRA8Q8rhbWNqckyNHmehz9an7.T7/fastid=kzafdwufjitjajceahboronthvkd/stparam=umkibjfgmg",
+         "id" : "r101",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3809.06999995932,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/layout-s.png?3",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3817.78099993244,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377158752_a.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2540.27300002053,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377693204_a.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2540.66699976102,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377933815_a.gif",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2541.01700009778,
+            "id" : "download_34",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377689692_a.gif",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2541.3699997589,
+            "id" : "download_35",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377783730_a.jpg",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2541.72099987045,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377595724_a.jpg",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2542.09299990907,
+            "id" : "download_37",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/tesco_school.jpg",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3818.17999994382,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/layout-s.png?2",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3818.58900003135,
+            "id" : "download_39",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/t-s.png",
+         "id" : "r98",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3819.37599973753,
+            "id" : "download_40",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/graj.png",
+         "id" : "r97",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3818.98400001228,
+            "id" : "download_41",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377855366_a.jpg",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2542.46699996293,
+            "id" : "download_42",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/201212pg6.png",
+         "id" : "r105",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4048.94399968907,
+            "id" : "download_43",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377697679_a.jpg",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2542.84700006247,
+            "id" : "download_44",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/C/201308/1377942786_a.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2543.21799986064,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/C/201308/1377876716_a.jpg",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2544.087999966,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/C/201308/1377519202_a.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2544.4950000383,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/C/201308/1377876588_a.jpg",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2544.88299973309,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dot.wp.pl/r1378096928/dot.gif?adtotal=128.208.4.212.8838:1378096927:172521292:v1",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4095.31199978665,
+            "id" : "download_49",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://wp.hit.gemius.pl/gdejs/inscreen_lib.js",
+         "id" : "r102",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4094.57999980077,
+            "id" : "download_50",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/widgets-s2.png",
+         "id" : "r106",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4049.37499994412,
+            "id" : "download_51",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/201212pg-s.png",
+         "id" : "r107",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4049.75799983367,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L-21/756481113/x03/OasDefault/ING57300WP_mtapeta/ING56116_WP_mtapeta1.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r100",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3808.50900011137,
+            "id" : "download_53",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2009-01/_wb/szablony/default.js",
+         "id" : "r103",
+         "comps" : [
+            {
+               "s_time" : 4595.76099971309,
+               "time" : 1.15200038999956,
+               "type" : 1,
+               "id" : "comp_109",
+               "e_time" : 4596.91300010309
+            }
+         ],
+         "download" : {
+            "s_time" : 3814.8749996908,
+            "id" : "download_54",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2009-03/_wb/xtr/swfbackground3d.js",
+         "id" : "r104",
+         "comps" : [
+            {
+               "s_time" : 4597.05600002781,
+               "time" : 3.37800011037962,
+               "type" : 1,
+               "id" : "comp_111",
+               "e_time" : 4600.43400013819
+            }
+         ],
+         "download" : {
+            "s_time" : 3816.15399988368,
+            "id" : "download_55",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/C/201308/1377862298_a.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2545.29399983585,
+            "id" : "download_56",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/W/201306/1371492486.jpeg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2545.67099967971,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201309/1378056030_a.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2546.04499973357,
+            "id" : "download_58",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/F/201309/1378056104.jpeg",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2546.42699984834,
+            "id" : "download_59",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/N/201306/1372253924.jpeg",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2546.80799972266,
+            "id" : "download_60",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/M/201308/1377784819_a.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2547.19500010833,
+            "id" : "download_61",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377600590_a.jpg",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2547.5809997879,
+            "id" : "download_62",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201304/1364890168.jpg",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2547.96799970791,
+            "id" : "download_63",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201205/1336570317.jpg",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2548.34300000221,
+            "id" : "download_64",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377253533_a.jpg",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2548.71799983084,
+            "id" : "download_65",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L-21/255911992/x15/OasDefault/SaleMore_57372WP_box015/test_box015_b1.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r108",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4603.70500013232,
+            "id" : "download_66",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201212/1354614011.jpg",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2549.20100001618,
+            "id" : "download_67",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1375700116_a.jpg",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2549.61499990895,
+            "id" : "download_68",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201211/1354264575.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2550.01100013033,
+            "id" : "download_69",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377164139_a.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2550.41399970651,
+            "id" : "download_70",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377164067_a.jpg",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2550.80100009218,
+            "id" : "download_71",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377096653_a.jpg",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2551.1769996956,
+            "id" : "download_72",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://imppl.tradedoubler.com/imp?type(js)pool(482675)a(1676688)258142591",
+         "id" : "r109",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4605.84300011396,
+            "id" : "download_73",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377163807_a.jpg",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2551.56899988651,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/S/201308/1377168428_a.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2551.95399979129,
+            "id" : "download_75",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377781664_a.jpg",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2552.34799999744,
+            "id" : "download_76",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377183709_a.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2552.73299990222,
+            "id" : "download_77",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377183466_a.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2553.11900004745,
+            "id" : "download_78",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201203/1330697703.jpg",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2553.4930001013,
+            "id" : "download_79",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201304/1366093874.gif",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2553.91700007021,
+            "id" : "download_80",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201206/1338879391.gif",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2554.2930001393,
+            "id" : "download_81",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/O/201308/1377010530_a.jpg",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2554.67299977317,
+            "id" : "download_82",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201210/1349343965.jpg",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2555.04400003701,
+            "id" : "download_83",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/O/201308/1377690189_a.jpg",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2555.42400013655,
+            "id" : "download_84",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201212/1355488284.jpg",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2555.79599970952,
+            "id" : "download_85",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377693266_a.gif",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2556.17500003427,
+            "id" : "download_86",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377692885_a.gif",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2556.58499989659,
+            "id" : "download_87",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201307/1373363658_a.jpg",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2556.94299982861,
+            "id" : "download_88",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377782440_a.jpg",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2557.30099976063,
+            "id" : "download_89",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377693630_a.gif",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2557.75599973276,
+            "id" : "download_90",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/Z/201308/1377508779_a.jpg",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2558.13300004229,
+            "id" : "download_91",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/P/201304/1366036880.jpg",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2558.54399967939,
+            "id" : "download_92",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/P/201301/1359036373.jpg",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2558.91799973324,
+            "id" : "download_93",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/M/201308/1377003424_a.gif",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2559.51899988577,
+            "id" : "download_94",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/M/201308/1377097165_a.gif",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2559.89499995485,
+            "id" : "download_95",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/M/201308/1377850127_a.jpg",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2560.27700006962,
+            "id" : "download_96",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/M/201308/1376896371_a.jpeg",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2560.65499968827,
+            "id" : "download_97",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377516465_a.jpg",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2561.02799996734,
+            "id" : "download_98",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201210/1349082308.jpg",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2561.40699982643,
+            "id" : "download_99",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/T/201304/1366629698_a.jpg",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2561.78099988028,
+            "id" : "download_100",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/T/201307/1373960652_a.jpg",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2562.1819999069,
+            "id" : "download_101",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1376470995_a.jpg",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2562.55499972031,
+            "id" : "download_102",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1375782669_a.jpg",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2562.95199971646,
+            "id" : "download_103",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vht.tradedoubler.com/file-1/20649/flash/flash_embed4.js",
+         "id" : "r110",
+         "comps" : [
+            {
+               "s_time" : 5852.15699998662,
+               "time" : 1.89800001681033,
+               "type" : 1,
+               "id" : "comp_174",
+               "e_time" : 5854.05500000343
+            }
+         ],
+         "download" : {
+            "s_time" : 4993.33699978888,
+            "id" : "download_104",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1376471451_a.jpg",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2563.33799986169,
+            "id" : "download_105",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1376471264_a.jpg",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2563.73099982738,
+            "id" : "download_106",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1376471375_a.jpg",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2564.11699997261,
+            "id" : "download_107",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/G/201308/1377862669_a.jpg",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2564.49900008738,
+            "id" : "download_108",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://y.wpimg.pl/i/ivar/A/201201/1326722790.gif",
+         "id" : "r96",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3817.33899982646,
+            "id" : "download_109",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2008-09/_wb/box2.js",
+         "id" : "r112",
+         "comps" : [
+            {
+               "s_time" : 6051.31800007075,
+               "time" : 1.20199983939983,
+               "type" : 1,
+               "id" : "comp_183",
+               "e_time" : 6052.51999991015
+            }
+         ],
+         "download" : {
+            "s_time" : 5859.06399972737,
+            "id" : "download_110",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L21/1839621367/x13/OasDefault/pokochasz57095_WP_midbox/29805WP_midbox.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r111",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5856.00399971008,
+            "id" : "download_111",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2009-03/_wb/szablony/boxsg.js",
+         "id" : "r115",
+         "comps" : [
+            {
+               "s_time" : 6247.46599979699,
+               "time" : 1.26999989151955,
+               "type" : 1,
+               "id" : "comp_189",
+               "e_time" : 6248.73599968851
+            },
+            {
+               "s_time" : 6251.39100011438,
+               "time" : 0.610999763009204,
+               "type" : 1,
+               "id" : "comp_195",
+               "e_time" : 6252.00199987739
+            }
+         ],
+         "download" : {
+            "s_time" : 6055.73899997398,
+            "id" : "download_112",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L-21/1095368777/x05/OasDefault/Chevrolet_57015WP_box05/Chevrolet_wpbox_test_b1.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r113",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6056.26299977303,
+            "id" : "download_113",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2012-02/_wb/win7ie9.js",
+         "id" : "r119",
+         "comps" : [
+            {
+               "s_time" : 6452.38599972799,
+               "time" : 0.614000018690604,
+               "type" : 1,
+               "id" : "comp_201",
+               "e_time" : 6452.99999974668
+            },
+            {
+               "s_time" : 6456.08699973673,
+               "time" : 0.354000367219669,
+               "type" : 1,
+               "id" : "comp_205",
+               "e_time" : 6456.44100010395
+            },
+            {
+               "s_time" : 6462.01599994674,
+               "time" : 0.709000043570086,
+               "type" : 1,
+               "id" : "comp_209",
+               "e_time" : 6462.72499999031
+            }
+         ],
+         "download" : {
+            "s_time" : 6257.81300012022,
+            "id" : "download_114",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_mc/57351/152x152c.jpg",
+         "id" : "r118",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6259.30499983951,
+            "id" : "download_115",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=7697851&PluID=0&ord=1095368777&rtu=-1",
+         "id" : "r114",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6054.79800002649,
+            "id" : "download_116",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L-21/76670594/x16/OasDefault/LIDL_57319_WP_boksSG/LIDL_55387_WP_boksSG_b2483366484028484570485162487409491293.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r116",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6258.37799999863,
+            "id" : "download_117",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L21/910121931/x11/OasDefault/retrobut57351_wp_boksecl-2/57351a492350.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r117",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6258.88200011104,
+            "id" : "download_118",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://x.wpimg.pl/i/ivar/layout/201201/cookie-info.js",
+         "id" : "r128",
+         "comps" : [
+            {
+               "s_time" : 7377.78799980879,
+               "time" : 4.60200011730012,
+               "type" : 2,
+               "id" : "comp_247",
+               "e_time" : 7382.38999992609
+            }
+         ],
+         "download" : {
+            "s_time" : 6889.60799993947,
+            "id" : "download_119",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_mc/57325/perhapsme_modne_nowosci4_316x111.jpg",
+         "id" : "r123",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6898.02399976179,
+            "id" : "download_120",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_mc/57325/perhapsme_modne_nowsci1_152x152.jpg",
+         "id" : "r121",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6897.29599980637,
+            "id" : "download_121",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_basska/rozne/box21/154x72_nowy_groupon_travel.jpg",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6898.72800000012,
+            "id" : "download_122",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L21/38912739/x12/OasDefault/perhapsme57325_wp_boksecp/56871a490904.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6894.00500012562,
+            "id" : "download_123",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L21/96123920/x18/OasDefault/perhapsme57325_wp_boksec/56871a490904.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6894.88099981099,
+            "id" : "download_124",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_basska/WP_TRAX13_PL_318x145_ago13_v2.swf",
+         "id" : "r132",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6940.00800000504,
+            "id" : "download_125",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L21/207548482/x21/OasDefault/Groupon_57262WP_box21/OfertySG_sg_BaxL_test491885.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r124",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6895.68699989468,
+            "id" : "download_126",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv.wp.pl/RM/ads/adstream_lx.ads/www.wp.pl/glowna.html/L21/829291907/x22/OasDefault/Edarling_57271WP_box22_2/OfertySG_sg_BaxL_test491622491624491625.html/674e41453146496b4678384144557a50?_RM_EMPTY_&pwastatid=88a95a0a44d57a2560d8a79752b709f2:c45d56:1378096924:v3,840;;",
+         "id" : "r126",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6896.54000010341,
+            "id" : "download_127",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_basska/rozne/lidl2/sztruksy_318x145_WP.swf",
+         "id" : "r134",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6940.47100003809,
+            "id" : "download_128",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/julia/6/646x130_pokochasz_2642012.swf",
+         "id" : "r136",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6940.89799979702,
+            "id" : "download_129",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vda.wp.pl/RM/Box/2013-08/_basska/rozne/box22/WP_154x72_0009.jpg",
+         "id" : "r127",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6899.18700000271,
+            "id" : "download_130",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ads2.open.pl/2013/08/masz_w/OF_maszWIadOmoscpoliczymy_646x145_13.swf",
+         "id" : "r130",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6939.49799984694,
+            "id" : "download_131",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.wpimg.pl/a/i/stg/500/stamp.png",
+         "id" : "r137",
+         "comps" : [],
+         "download" : {
+            "s_time" : 7390.11899987236,
+            "id" : "download_132",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_97"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_109"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_111"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_174"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_183"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_189"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_195"
+      },
+      {
+         "a2" : "r1_c12",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_201"
+      },
+      {
+         "a2" : "r1_c13",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_205"
+      },
+      {
+         "a2" : "r1_c14",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_209"
+      },
+      {
+         "a2" : "comp_111",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_109"
+      },
+      {
+         "a2" : "download_132",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_131",
+         "time" : 476.77299985663,
+         "id" : "dep16",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_130",
+         "time" : 436.4620000124,
+         "id" : "dep17",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_129",
+         "time" : 478.17299980671,
+         "id" : "dep18",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_128",
+         "time" : 477.74600004778,
+         "id" : "dep19",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_127",
+         "time" : 433.815000113101,
+         "id" : "dep20",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_126",
+         "time" : 432.961999904371,
+         "id" : "dep21",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_125",
+         "time" : 477.283000014731,
+         "id" : "dep22",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_124",
+         "time" : 432.15599982068,
+         "id" : "dep23",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_123",
+         "time" : 431.280000135311,
+         "id" : "dep24",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 436.00300000981,
+         "id" : "dep25",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_121",
+         "time" : 434.57099981606,
+         "id" : "dep26",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 435.29899977148,
+         "id" : "dep27",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 426.88299994916,
+         "id" : "dep28",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_118",
+         "time" : -1,
+         "id" : "dep29",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 6.37600012124039,
+         "id" : "dep30",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 2.27800011634008,
+         "id" : "dep31",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_115",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 5.81100024283023,
+         "id" : "dep33",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_113",
+         "time" : -1,
+         "id" : "dep34",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 3.21900006383021,
+         "id" : "dep35",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 3.21900006383021,
+         "id" : "dep36",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_111",
+         "time" : -1,
+         "id" : "dep37",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_110",
+         "time" : -1,
+         "id" : "dep38",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 14.9050001055002,
+         "id" : "dep39",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_108",
+         "time" : -1,
+         "id" : "dep40",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 63.7630000710496,
+         "id" : "dep41",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 63.3769999258197,
+         "id" : "dep42",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 62.9839999601299,
+         "id" : "dep43",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_104",
+         "time" : -1,
+         "id" : "dep44",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 392.902999650691,
+         "id" : "dep45",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 62.5979998148996,
+         "id" : "dep46",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 62.20099981875,
+         "id" : "dep47",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 61.8280000053396,
+         "id" : "dep48",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 61.4269999787198,
+         "id" : "dep49",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 61.0529999248697,
+         "id" : "dep50",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 60.6740000657796,
+         "id" : "dep51",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 60.3009997867098,
+         "id" : "dep52",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 59.9230001680598,
+         "id" : "dep53",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 59.5410000532897,
+         "id" : "dep54",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 59.1649999842098,
+         "id" : "dep55",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 58.5639998316797,
+         "id" : "dep56",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 58.1899997778296,
+         "id" : "dep57",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 57.7790001407297,
+         "id" : "dep58",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 57.4019998311996,
+         "id" : "dep59",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 56.9469998590698,
+         "id" : "dep60",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 56.5889999270498,
+         "id" : "dep61",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 56.2309999950298,
+         "id" : "dep62",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 55.8210001327097,
+         "id" : "dep63",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 55.4419998079597,
+         "id" : "dep64",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 55.0700002349899,
+         "id" : "dep65",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 54.6900001354497,
+         "id" : "dep66",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 54.3189998716098,
+         "id" : "dep67",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 53.9390002377399,
+         "id" : "dep68",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 53.56300016865,
+         "id" : "dep69",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 53.1390001997397,
+         "id" : "dep70",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 52.7650001458896,
+         "id" : "dep71",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 52.3790000006597,
+         "id" : "dep72",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 51.99400009588,
+         "id" : "dep73",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 51.5999998897296,
+         "id" : "dep74",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 51.2149999849498,
+         "id" : "dep75",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 5.40899997577071,
+         "id" : "dep76",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 5.40899997577071,
+         "id" : "dep77",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 50.8229997940398,
+         "id" : "dep78",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 50.4470001906197,
+         "id" : "dep79",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 50.0599998049497,
+         "id" : "dep80",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 49.6570002287699,
+         "id" : "dep81",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 49.2610000073896,
+         "id" : "dep82",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 48.8470001146197,
+         "id" : "dep83",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 3.27099999412985,
+         "id" : "dep84",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 48.36399992928,
+         "id" : "dep85",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 47.9890001006497,
+         "id" : "dep86",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 47.61399980635,
+         "id" : "dep87",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 47.2269998863399,
+         "id" : "dep88",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 46.8410002067699,
+         "id" : "dep89",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 46.4539998210998,
+         "id" : "dep90",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 46.0729999467799,
+         "id" : "dep91",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 45.6909998320098,
+         "id" : "dep92",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 45.3169997781497,
+         "id" : "dep93",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 44.93999993429,
+         "id" : "dep94",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 13.7200001627202,
+         "id" : "dep95",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 12.44099996984,
+         "id" : "dep96",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 6.07500039040997,
+         "id" : "dep97",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_52",
+         "time" : -1,
+         "id" : "dep98",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 246.94100022316,
+         "id" : "dep99",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_50",
+         "time" : -1,
+         "id" : "dep100",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_49",
+         "time" : -1,
+         "id" : "dep101",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 44.5289998315297,
+         "id" : "dep102",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 44.1410001367399,
+         "id" : "dep103",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 43.7340000644399,
+         "id" : "dep104",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 42.8639999590796,
+         "id" : "dep105",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 42.49300016091,
+         "id" : "dep106",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 246.50999996811,
+         "id" : "dep107",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 42.1130000613698,
+         "id" : "dep108",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 16.55000029132,
+         "id" : "dep109",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 16.9420000165701,
+         "id" : "dep110",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 16.1550003103903,
+         "id" : "dep111",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 15.7460002228599,
+         "id" : "dep112",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 41.7390000075097,
+         "id" : "dep113",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 41.36699996889,
+         "id" : "dep114",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 41.0159998573399,
+         "id" : "dep115",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 40.6630001962199,
+         "id" : "dep116",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 40.31299985946,
+         "id" : "dep117",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 39.91900011897,
+         "id" : "dep118",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 15.34700021148,
+         "id" : "dep119",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 6.63600023835988,
+         "id" : "dep120",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_29",
+         "time" : -1,
+         "id" : "dep121",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 39.5639999769696,
+         "id" : "dep122",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 39.1739998012799,
+         "id" : "dep123",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 38.80599979312,
+         "id" : "dep124",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 38.4320002049199,
+         "id" : "dep125",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 38.0640001967599,
+         "id" : "dep126",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 37.69299993292,
+         "id" : "dep127",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 3.56299988925002,
+         "id" : "dep128",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 37.3149998486097,
+         "id" : "dep129",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 36.9370002299597,
+         "id" : "dep130",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 36.5590001456499,
+         "id" : "dep131",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 36.1799998208899,
+         "id" : "dep132",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 35.77899979428,
+         "id" : "dep133",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 35.4109997861096,
+         "id" : "dep134",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 33.8369999080896,
+         "id" : "dep135",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 34.44200009108,
+         "id" : "dep136",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 35.03199992702,
+         "id" : "dep137",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 32.9379998147497,
+         "id" : "dep138",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 32.5299999676699,
+         "id" : "dep139",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 11.9480001740199,
+         "id" : "dep140",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 10.8739999122899,
+         "id" : "dep141",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : -1,
+         "id" : "dep142",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 4.07999986782988,
+         "id" : "dep143",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : -1,
+         "id" : "dep144",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 64.9029999040099,
+         "id" : "dep145",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 64.5170002244399,
+         "id" : "dep146",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 177.336000371725,
+         "id" : "dep147",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 7.44100008159899,
+         "id" : "dep148",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 6.68400013819394,
+         "id" : "dep149",
+         "a1" : "r1_c1"
+      }
+   ]
+}

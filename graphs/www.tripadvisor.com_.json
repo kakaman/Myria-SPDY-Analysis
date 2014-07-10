@@ -1,0 +1,285 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.tripadvisor.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.tripadvisor.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 348.166999872774,
+               "time" : 257.708000019193,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 605.874999891967
+            },
+            {
+               "s_time" : 963.690999895334,
+               "time" : 14.44899989292,
+               "type" : "evalhtml",
+               "id" : "r1_c2",
+               "e_time" : 978.139999788254
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/x.gif",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 370.237999595702,
+            "id" : "download_1",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/home/flights_arrow.gif",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 371.078999713063,
+            "id" : "download_2",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/tc/2013/TCH-Hotels-dropdown_L_REG.gif",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 370.687999762595,
+            "id" : "download_3",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/css2/home_2011_meta-v14170390997b.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 487.330999691039,
+               "time" : 114.415999967605,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 601.746999658644
+            }
+         ],
+         "download" : {
+            "s_time" : 352.980999741703,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/js3/ta-home-2011-c-v11115484999b.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 687.78399983421,
+               "time" : 275.907000061124,
+               "type" : 1,
+               "id" : "comp_24",
+               "e_time" : 963.690999895334
+            }
+         ],
+         "download" : {
+            "s_time" : 367.242999840528,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/home/featurepromos/saraha_homepage_hero_8.19.13_v3.jpg",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 371.482999995351,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/sprites/posFlags-V7.gif",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 479.419999755919,
+            "id" : "download_7",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/sprites/header_pack-va2b39ae7022bd07e81c3ee529fa7e759.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 602.572999894619,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/sprites/local_pack-v8f5faacaa14d31223e544751204a1b2e.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 603.00699993968,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/meta_sprites/meta_bg_wht.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 603.388999588788,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/sprites/global_pack-v5328416515230df45a150d5cb29b76a6.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 605.483999941498,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/img2/ui/radio_grn.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 605.081999674439,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c1.tacdn.com/sprites/meta_homepage-v608a76837320e22cf2cc5cd5ba491318.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 605.874999891967,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_24"
+      },
+      {
+         "a2" : "download_13",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 256.914999801665,
+         "id" : "dep3",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 257.317000068724,
+         "id" : "dep4",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 255.221999716014,
+         "id" : "dep5",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 254.840000066906,
+         "id" : "dep6",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 254.406000021845,
+         "id" : "dep7",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 131.252999883145,
+         "id" : "dep8",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 23.316000122577,
+         "id" : "dep9",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 19.075999967754,
+         "id" : "dep10",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 19.075999967754,
+         "id" : "dep11",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 4.81399986892899,
+         "id" : "dep12",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 22.520999889821,
+         "id" : "dep13",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 22.911999840289,
+         "id" : "dep14",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 22.070999722928,
+         "id" : "dep15",
+         "a1" : "r1_c1"
+      }
+   ]
+}

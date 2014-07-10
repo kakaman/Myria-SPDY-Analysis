@@ -1,0 +1,2935 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "xfinity.comcast.net_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://xfinity.comcast.net/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 537.547999992967,
+               "time" : 45.791999902576,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 583.339999895543
+            },
+            {
+               "s_time" : 1193.03900003433,
+               "time" : 50.58099981398,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1243.61999984831
+            },
+            {
+               "s_time" : 1244.42500015721,
+               "time" : 932.76300001889,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 2177.1880001761
+            },
+            {
+               "s_time" : 2287.53199987113,
+               "time" : 60.9550001099797,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 2348.48699998111
+            },
+            {
+               "s_time" : 2356.35200003162,
+               "time" : 40.9249998629102,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 2397.27699989453
+            },
+            {
+               "s_time" : 2704.88600013778,
+               "time" : 1.78499985486042,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 2706.67099999264
+            },
+            {
+               "s_time" : 2751.68600026518,
+               "time" : 281.62299981341,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 3033.30900007859
+            },
+            {
+               "s_time" : 3063.14700003713,
+               "time" : 0.103999860589738,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 3063.25099989772
+            },
+            {
+               "s_time" : 3065.33299991861,
+               "time" : 69.29100025445,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 3134.62400017306
+            },
+            {
+               "s_time" : 3142.22900010645,
+               "time" : 2527.53000007943,
+               "type" : "evalhtml",
+               "id" : "r1_c10",
+               "e_time" : 5669.75900018588
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://xfinity.comcast.net/ui/js/lib/browser.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1190.1610000059,
+               "time" : 2.87800002843005,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 1193.03900003433
+            }
+         ],
+         "download" : {
+            "s_time" : 566.473000217229,
+            "id" : "download_1",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/api/segments.json?a=p-9eJ8k4iSzux46&callback=qc_results&ttl=86400",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1243.65499988198,
+               "time" : 0.770000275229904,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 1244.42500015721
+            },
+            {
+               "s_time" : 2348.56900013983,
+               "time" : 7.78299989178959,
+               "type" : 1,
+               "id" : "comp_17",
+               "e_time" : 2356.35200003162
+            }
+         ],
+         "download" : {
+            "s_time" : 567.710000090301,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.gigya.com/JS/socialize.js?apiKey=3_T7suVo4QmKmk4dQRegiJSJ1ABJyZ5LXAYBPtE4Um9yNL_352cAd9pCiryG3VfitN",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 3066.17800006643,
+               "time" : 76.05100004002,
+               "type" : 1,
+               "id" : "comp_195",
+               "e_time" : 3142.22900010645
+            }
+         ],
+         "download" : {
+            "s_time" : 583.339999895543,
+            "id" : "download_3",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/layout/js/lib/onlineopinionv5/oo_engine.min.js?r=0-12345",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 3033.36100000888,
+               "time" : 29.7860000282499,
+               "type" : 1,
+               "id" : "comp_127",
+               "e_time" : 3063.14700003713
+            }
+         ],
+         "download" : {
+            "s_time" : 582.045000046492,
+            "id" : "download_4",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/layout/css/compressed/1376077903-1375194092/home_prime.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1157.05099981278,
+               "time" : 90.87500022724,
+               "type" : 2,
+               "id" : "comp_5",
+               "e_time" : 1247.92600004002
+            }
+         ],
+         "download" : {
+            "s_time" : 565.89400023222,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/foresee/foresee-trigger.js?r=0-12345",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 2706.84299990535,
+               "time" : 44.8430003598301,
+               "type" : 1,
+               "id" : "comp_30",
+               "e_time" : 2751.68600026518
+            }
+         ],
+         "download" : {
+            "s_time" : 581.627000123262,
+            "id" : "download_6",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/layout/js/lib/onlineopinionv5/oo_conf.js?r=0-12345",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 3063.30400006846,
+               "time" : 2.02899985014983,
+               "type" : 1,
+               "id" : "comp_192",
+               "e_time" : 3065.33299991861
+            }
+         ],
+         "download" : {
+            "s_time" : 582.456999924034,
+            "id" : "download_7",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/layout/js/compressed/1376077903-1375216345/home_prime.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 2397.31399994344,
+               "time" : 307.57200019434,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 2704.88600013778
+            }
+         ],
+         "download" : {
+            "s_time" : 580.998999997973,
+            "id" : "download_8",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/cimspire/images/rev/1372089813/components/xpbar/xpbar_3_dark.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1261.29799988121,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/layout/images/rev/1376077903/channels/home/sprites/standard/search_home.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1261.67700020596,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120712/espnu.png",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1251.71400001273,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120712/cnn.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1262.07200018689,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20130506/msnbc_50x30.png",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1262.45999988168,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120712/espn.png",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1263.58699984848,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20130506/cnbc_50x30.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1262.83700019121,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120712/hln.png",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1263.21300026029,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120712/espn2.png",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1263.96400015801,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120712/espn3.png",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1264.36700019985,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20130816/beIN_Sport_50x30.png",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1264.74899984896,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20130816/bein-sport-esp50x30.png",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1265.1340002194,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120821/dis_50x30.png",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1265.53900027648,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120821/disney_junior_50x30.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1265.92600019649,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-p-a.comcast.net/api/assets/cimed-20120821/disxd_50x30.png",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1266.30999986082,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201209/f05eb5893c6f29d0205701c93795912b.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1248.63900011405,
+            "id" : "download_24",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201304/1c21f703ad6165d086ba13ffab61184a.jpg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1266.69800002128,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/7800b7dbbb44f7cedf23e400c11fc716.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1267.08699995652,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201305/09fdfeb83783009282fdecbe1dd3cec1.jpg",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1267.47900014743,
+            "id" : "download_27",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201305/07deb441628ba38da7e416c57d837f87.jpg",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1268.28900026157,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/eea4c6bb7c1c98973dd14839f82d3651.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1267.8700000979,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201304/93d2d8136bfd5b7d7ecfe7cca10792fb.jpg",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1268.67800019681,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201305/c7702448dfc036603cb25cc68934a778.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1269.06700013205,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/3fc804b50cbbaa766b781d6ffc201339.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1269.45800008252,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201304/7657169d080ffab49d101634022c71e2.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1269.84500000253,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/6e295436c151f50ae16f413f6a237f68.jpg",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1270.23100014776,
+            "id" : "download_34",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://oascentral.comcast.net/RealMedia/ads/adstream_jx.ads/comcast.net/com-hp/cc00000001/11378094050824@Frame1?_RM_OAX_REDIR_&_OAS_GEO_OVERRIDE_=US:UNKNOWN&am=NONE&qsg=D",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2177.1880001761,
+            "id" : "download_35",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/xfinity3/images/rev/sprites/home/bit8-s5663536dfe.png",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2290.09599983692,
+            "id" : "download_36",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/57/123/1374756310883_BBS5B_Xfinity_AltPlat_1536x2048_002_Overlay_66_88.jpg",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1805.80299999565,
+            "id" : "download_37",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/49/813/1370868697303_under-the-dome-vertical-showcard_rovi_1050x1400_Overlay_66_88.jpg",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1804.37499983236,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/47/855/1369923981724_3x4_Overlay_66_88.jpg",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1853.10500022024,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i2.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/49/819/1370871638278_TB_S6_768x1024_Overlay_66_88.jpg",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1803.94800007343,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i2.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/45/942/1348851717791_Xfinity_Dexter_768x1024_Overlay_66_88.jpg",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1806.23300001025,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i2.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/40/180/1366293751343_3x4_Overlay_66_88.jpg",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1809.04500000179,
+            "id" : "download_42",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i2.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/58/34/1375456769373_Oblivion2013-PosterArt_1536x2048_Overlay_66_88.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1854.46299985051,
+            "id" : "download_43",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/42edba795726e56b0879853d17320712.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1270.88800026104,
+            "id" : "download_44",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/fba55fd4039181c47bc1b75c3bf1f9e1.jpg",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1272.26500026882,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/c3b7a7058fb462be8d560e564364dcda.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1271.75399987027,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/436bf8da3d815a3576ba44e76ac0c031.jpg",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1271.31400024518,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/47bd16bab5f45dff1edf8b13c7c99be6.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1273.27700005844,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/e596f46a1817670e69e31b8926fcd0ca.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1272.78700005263,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://imagec10.247realmedia.com/RealMedia/ads/Creatives/Comcast/Frame1_CustomDefault_dk_05112012/empty.gif/1336765999",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2289.63400004432,
+            "id" : "download_50",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://oascentral.comcast.net/RealMedia/ads/adstream_sx.ads/comcast.net/com-hp/cc00000001/113780943094712345@x32?_OAS_GEO_OVERRIDE_=US:UNKNOWN&am=NONE&qsg=D",
+         "id" : "r68",
+         "comps" : [
+            {
+               "s_time" : 2905.22299986333,
+               "time" : 1.15500017999966,
+               "type" : "evalhtml",
+               "id" : "r68_c1",
+               "e_time" : 2906.37800004333
+            }
+         ],
+         "download" : {
+            "s_time" : 2367.83399991691,
+            "id" : "download_51",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/0e3127fd68f67af6e173a37d453c83cf.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1273.71599990875,
+            "id" : "download_52",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/14d3098433541198dd9bdba0523570c7.jpg",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1274.19999986887,
+            "id" : "download_53",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/9794ea2bab62c39642a03479e2dd1ff0.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1275.17399983481,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/api/assets/bin-201205/394b961474d328668216d6f1a5418747.jpg",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1274.71899986267,
+            "id" : "download_55",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i4.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/49/354/1370616983540_240000-6432-Suits_S3_VOD_keyart_1536x2048_Overlay_66_88.jpg",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1806.67799990624,
+            "id" : "download_56",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i4.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/49/108/1370527693997_3x4_Overlay_66_88.jpg",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1851.56300012022,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i3.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/72/139/1354562605099_The-Big-Wedding-poster_rovi_768x1024_Overlay_66_88.jpg",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1855.19299982116,
+            "id" : "download_58",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i3.fc-img.com/fc03img/Comcast_CIM_Prod_Fancast_Image/12/1009/1363791634324_3x4_Overlay_66_88.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1848.3150000684,
+            "id" : "download_59",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.visualrevenue.com/vrs.js",
+         "id" : "r72",
+         "comps" : [
+            {
+               "s_time" : 3772.82699989155,
+               "time" : 14.4770001061302,
+               "type" : 2,
+               "id" : "comp_261",
+               "e_time" : 3787.30399999768
+            }
+         ],
+         "download" : {
+            "s_time" : 2789.64200010523,
+            "id" : "download_60",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/xfinity3/images/rev/sprites/home/bit24-s5e6b8f2912.png",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2790.84100015461,
+            "id" : "download_61",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/layout/images/rev/1376077903/site/adinformation/forward_i.png",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2791.59099981189,
+            "id" : "download_62",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/64f908fc398c809b51c6094c5c64183e.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2792.0770002529,
+            "id" : "download_63",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/4f8148f73a72fd314e2db43708e836d6.jpg",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2793.42300025746,
+            "id" : "download_64",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/180df4c2ad5a1e09f999e880433807a7.jpg",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2792.9890002124,
+            "id" : "download_65",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/6ed85318a75dc409ae2b97f2d0601fd5.jpg",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2793.89199987054,
+            "id" : "download_66",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/700b49871c678db2b8c03a9667979758.jpg",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2794.34299981222,
+            "id" : "download_67",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/02c523676a8368f57fc9c55ee7a7d23d.jpg",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2794.79600023478,
+            "id" : "download_68",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/66aa5ed70b99a468e51cd8a9d4ad0381.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2792.50400001183,
+            "id" : "download_69",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://edge.quantserve.com/quant.js",
+         "id" : "r71",
+         "comps" : [
+            {
+               "s_time" : 3787.33900003135,
+               "time" : 11.5140001289597,
+               "type" : 2,
+               "id" : "comp_265",
+               "e_time" : 3798.85300016031
+            }
+         ],
+         "download" : {
+            "s_time" : 2785.6230000034,
+            "id" : "download_70",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/cimspire/images/rev/1372089813/xtv3.0/sprites/xtv_base.png",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3351.32999997586,
+            "id" : "download_71",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ads.bluelithium.com/st?ad_type=iframe&ad_size=300x250&site=173188&section_code=2022363852&cb=1765447626",
+         "id" : "r73",
+         "comps" : [
+            {
+               "s_time" : 3576.61300012842,
+               "time" : 1336.70599991455,
+               "type" : "evalhtml",
+               "id" : "r73_c1",
+               "e_time" : 4913.31900004297
+            }
+         ],
+         "download" : {
+            "s_time" : 2908.93599996343,
+            "id" : "download_72",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-chr.cimcontent.net/xfinity3/images/rev/1376077903/sprites/trending/sprite.png",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3477.96799987555,
+            "id" : "download_73",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://cdns.gigya.com/gs/gigIDsProxy.htm?APIKey=3_T7suVo4QmKmk4dQRegiJSJ1ABJyZ5LXAYBPtE4Um9yNL_352cAd9pCiryG3VfitN&domain=http%3A%2F%2Fxfinity.comcast.net&apiDomain=us1.gigya.com",
+         "id" : "r75",
+         "comps" : [
+            {
+               "s_time" : 3660.22800002247,
+               "time" : 2.39899987355011,
+               "type" : "evalhtml",
+               "id" : "r75_c1",
+               "e_time" : 3662.62699989602
+            }
+         ],
+         "download" : {
+            "s_time" : 3134.62400017306,
+            "id" : "download_74",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.gigya.com/js/gigya.services.socialize.plugins.min.js",
+         "id" : "r79",
+         "comps" : [
+            {
+               "s_time" : 3798.89200022444,
+               "time" : 7.75799993426017,
+               "type" : 2,
+               "id" : "comp_269",
+               "e_time" : 3806.6500001587
+            }
+         ],
+         "download" : {
+            "s_time" : 3587.49900013208,
+            "id" : "download_75",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.gigya.com/js/gigya.services.socialize.plugins.followbar.min.js",
+         "id" : "r80",
+         "comps" : [
+            {
+               "s_time" : 3807.13899992406,
+               "time" : 8.34699999540999,
+               "type" : 2,
+               "id" : "comp_274",
+               "e_time" : 3815.48599991947
+            }
+         ],
+         "download" : {
+            "s_time" : 3589.29400006309,
+            "id" : "download_76",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://xfinity.comcast.net/home/x/ajax/sfvideo/",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3630.90000022203,
+            "id" : "download_77",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/pixel;r=591768892;a=p-9eJ8k4iSzux46;fpan=1;fpa=P0-1844664784-1378094310907;ns=0;ce=1;cm=;je=1;sr=2048x1152x24;enc=n;dst=1;et=1378094310905;tzo=420;ref=;url=http%3A%2F%2Fxfinity.comcast.net%2F;ogl=",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3799.86699996516,
+            "id" : "download_78",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://xfinity.comcast.net/home/ajax/weather_x3/19103/",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3772.11100002751,
+            "id" : "download_79",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.gigya.com/gs/i/followbar/facebook_22.png",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3873.2739998959,
+            "id" : "download_80",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/0757cbbaccce461d5f7e56d615d6f277.jpg",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3886.89200021327,
+            "id" : "download_81",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.gigya.com/gs/i/followbar/twitter_22.png",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3998.0640001595,
+            "id" : "download_82",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/r2?c2=6035083&d.c=gif&d.o=comcastnet&d.x=244413190&d.t=page&d.u=http%3A%2F%2Fxfinity.comcast.net%2F",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4001.4969999902,
+            "id" : "download_83",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/5aab419bab16441b27ebe94031d5f0cf.jpg",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3990.53600011393,
+            "id" : "download_84",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/50cdd071294863d973a2292cb34e0b55.jpg",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3990.9840002656,
+            "id" : "download_85",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/471f98cba9f877922491dbc8e205ef47.jpg",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3992.19299992546,
+            "id" : "download_86",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/06e9ad536ae13f12197cd1d3121df947.jpg",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3991.79100012407,
+            "id" : "download_87",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/93d7510637df61b8e35429be22b31fdd.jpg",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3992.57100000978,
+            "id" : "download_88",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/ea78b500ad60eef28a2d882d1016c8c5.jpg",
+         "id" : "r97",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3995.22399995476,
+            "id" : "download_89",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/1de22ef603953d512cd286bd4d0c5580.jpg",
+         "id" : "r96",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3994.77999983355,
+            "id" : "download_90",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/ca8bf56ea5cefc8ab0ecb29ef4e135e0.jpg",
+         "id" : "r98",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3995.63200026751,
+            "id" : "download_91",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/140856420b9e890f9b71fdf4c0c60fec.jpg",
+         "id" : "r100",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3996.45100021735,
+            "id" : "download_92",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/f346183e4eadd8c469a54a370478b7e1.jpg",
+         "id" : "r99",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3996.03699985892,
+            "id" : "download_93",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/d8cf9aebedf62526035c3dcce503ae7e.jpg",
+         "id" : "r101",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3996.85500003397,
+            "id" : "download_94",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/2b2592f273e301b50f83ec287d17e530.jpg",
+         "id" : "r102",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3997.25800007582,
+            "id" : "download_95",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201308/5b172148bd33dc74a889b96455b38dd7.jpg",
+         "id" : "r103",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3997.65999987721,
+            "id" : "download_96",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://por-img.cimcontent.net/cms/data/assets/bin-201309/3c8bc48f38c8448ab67379185b3d9c90.jpg",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3991.37900024652,
+            "id" : "download_97",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://xfinity.comcast.net/foresee/foresee-dhtml.css",
+         "id" : "r104",
+         "comps" : [
+            {
+               "s_time" : 4404.62099993601,
+               "time" : 44.0199999138804,
+               "type" : null,
+               "id" : "comp_297",
+               "e_time" : 4448.64099984989
+            }
+         ],
+         "download" : {
+            "s_time" : 4105.97199993208,
+            "id" : "download_98",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://calendar.comcast.net/calendar/module?continue=http%3A%2F%2Fxfinity.comcast.net%2F",
+         "id" : "r82",
+         "comps" : [
+            {
+               "s_time" : 4843.63600006327,
+               "time" : 608.77399984747,
+               "id" : "r82_c1",
+               "type" : "evalhtml",
+               "e_time" : 5452.40999991074
+            },
+            {
+               "s_time" : 5538.49400021136,
+               "time" : 0.101999845350292,
+               "id" : "r82_c2",
+               "type" : "evalhtml",
+               "e_time" : 5538.59600005671
+            },
+            {
+               "s_time" : 5558.08799993247,
+               "time" : 0.113000161940363,
+               "id" : "r82_c3",
+               "type" : "evalhtml",
+               "e_time" : 5558.20100009441
+            },
+            {
+               "s_time" : 5564.42299997434,
+               "time" : 0.105999875810085,
+               "id" : "r82_c4",
+               "type" : "evalhtml",
+               "e_time" : 5564.52899985015
+            },
+            {
+               "s_time" : 5567.68599990755,
+               "time" : 0.106000341480467,
+               "id" : "r82_c5",
+               "type" : "evalhtml",
+               "e_time" : 5567.79200024903
+            },
+            {
+               "s_time" : 5568.67199996486,
+               "time" : 81.2889998778701,
+               "type" : "evalhtml",
+               "id" : "r82_c6",
+               "e_time" : 5649.96099984273
+            }
+         ],
+         "download" : {
+            "s_time" : 3757.66099989414,
+            "id" : "download_99",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://t.visualrevenue.com/?idsite=48&url=http%3A%2F%2Fxfinity.comcast.net%2F&seen_url=http%3A%2F%2Fxfinity.comcast.net%2F&t=XFINITY%20by%20Comcast%20--%20Official%20Customer%20Site%20%7C%20Email%20%7C%20Watch%20TV%20Online&c=1378094310889yeJmf0Z4auKEEIbKHFtQAO0kGMhWDNd8&r=1378094310893&ypos=-1&debug=loadTime.5&v=07",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3782.91600011289,
+            "id" : "download_100",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.visualrevenue.com/?idsite=48&url=http%3A%2F%2Fxfinity.comcast.net%2F&seen_url=http%3A%2F%2Fxfinity.comcast.net%2F&t=XFINITY%20by%20Comcast%20--%20Official%20Customer%20Site%20%7C%20Email%20%7C%20Watch%20TV%20Online&c=1378094310889yeJmf0Z4auKEEIbKHFtQAO0kGMhWDNd8&r=1378094310893&ypos=-1&debug=loadTime.5&v=07",
+         "id" : "r85",
+         "comps" : [
+            {
+               "s_time" : 4938.74299991876,
+               "time" : 0.483999960119945,
+               "type" : null,
+               "id" : "comp_485",
+               "e_time" : 4939.22699987888
+            }
+         ],
+         "download" : {
+            "s_time" : 3787.55800006911,
+            "id" : "download_101",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.yieldmanager.com/imp?Z=300x250&cb=1765447626&S=2022363852&i=173188&T=3&_salt=2651348007&B=10&u=http%3A%2F%2Foascentral.comcast.net%2FRealMedia%2Fads%2Fadstream_sx.ads%2Fcomcast.net%2Fcom-hp%2Fcc00000001%2F113780943094712345%40x32%3F_OAS_GEO_OVERRIDE_%3DUS%3AUNKNOWN%26am%3DNONE%26qsg%3DD&r=0&SIG=10vmgkfar;x-cookie=8p3ypyu928377&o=3&f=h2",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4450.0939999707,
+            "id" : "download_102",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://calendar.comcast.net/calendar/min?g=css_module&v=2.22.0.82",
+         "id" : "r105",
+         "comps" : [
+            {
+               "s_time" : 4943.31000000238,
+               "time" : 2.19799997285008,
+               "type" : null,
+               "id" : "comp_492",
+               "e_time" : 4945.50799997523
+            }
+         ],
+         "download" : {
+            "s_time" : 4847.89700014517,
+            "id" : "download_103",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+         "id" : "r112",
+         "comps" : [
+            {
+               "s_time" : 5381.33900007233,
+               "time" : 70.9689999930597,
+               "type" : null,
+               "id" : "comp_501",
+               "e_time" : 5452.30800006539
+            }
+         ],
+         "download" : {
+            "s_time" : 4857.47800022364,
+            "id" : "download_104",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
+         "id" : "r113",
+         "comps" : [
+            {
+               "s_time" : 5452.4710001424,
+               "time" : 86.0230000689598,
+               "type" : 1,
+               "id" : "comp_504",
+               "e_time" : 5538.49400021136
+            }
+         ],
+         "download" : {
+            "s_time" : 4858.33200020716,
+            "id" : "download_105",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.yieldmanager.com/user-match?nid=606282&eid=5223FF6A6E6517864954390EF6A569EE&y=bbNBNr82HXr8IF8HRvYOgUt6BrqztJTripoXKw--&cfp",
+         "id" : "r119",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5175.78600021079,
+            "id" : "download_106",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.yieldmanager.com/user-match?nid=720252&y=bbNBNr82HXr8IF8HRvYOgUt6BrqztJTripoXKw--&eid=&status=no-user-id",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5206.43999986351,
+            "id" : "download_107",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?b=m/plxCore/css&f=ui-lightness/jquery-ui-1.8.16.custom.css&v=2.22.0.82&",
+         "id" : "r108",
+         "comps" : [
+            {
+               "s_time" : 5374.13399992511,
+               "time" : 3.58300004153989,
+               "type" : null,
+               "id" : "comp_499",
+               "e_time" : 5377.71699996665
+            }
+         ],
+         "download" : {
+            "s_time" : 4853.04199997336,
+            "id" : "download_108",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?b=m/plxCore/css&f=lightbox.css&v=2.22.0.82&",
+         "id" : "r107",
+         "comps" : [
+            {
+               "s_time" : 5370.19099993631,
+               "time" : 0.30800001696025,
+               "type" : null,
+               "id" : "comp_495",
+               "e_time" : 5370.49899995327
+            }
+         ],
+         "download" : {
+            "s_time" : 4851.97499999776,
+            "id" : "download_109",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?b=m/sz/css&f=cui.css&v=2.22.0.82&",
+         "id" : "r110",
+         "comps" : [
+            {
+               "s_time" : 5370.81999983639,
+               "time" : 0.353000126769984,
+               "type" : null,
+               "id" : "comp_496",
+               "e_time" : 5371.17299996316
+            }
+         ],
+         "download" : {
+            "s_time" : 4855.4090000689,
+            "id" : "download_110",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?b=m/plxCore/css&f=xfinity.css&v=2.22.0.82&",
+         "id" : "r106",
+         "comps" : [
+            {
+               "s_time" : 5371.49799987674,
+               "time" : 1.50800030677965,
+               "type" : null,
+               "id" : "comp_497",
+               "e_time" : 5373.00600018352
+            }
+         ],
+         "download" : {
+            "s_time" : 4848.91800023615,
+            "id" : "download_111",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?b=m/sz/css&f=cui/button.css&v=2.22.0.82&",
+         "id" : "r109",
+         "comps" : [
+            {
+               "s_time" : 5373.42400010675,
+               "time" : 0.38999971002977,
+               "type" : null,
+               "id" : "comp_498",
+               "e_time" : 5373.81399981678
+            }
+         ],
+         "download" : {
+            "s_time" : 4854.10099988803,
+            "id" : "download_112",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?b=m/sz/css&f=sz.css&v=2.22.0.82&",
+         "id" : "r111",
+         "comps" : [
+            {
+               "s_time" : 5378.15200025216,
+               "time" : 160.508999601,
+               "type" : null,
+               "id" : "comp_500",
+               "e_time" : 5538.66099985316
+            }
+         ],
+         "download" : {
+            "s_time" : 4856.36099986732,
+            "id" : "download_113",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?v=2.22.0.82&f=data-binding.js&b=m%2FplxCore%2Fjs",
+         "id" : "r115",
+         "comps" : [
+            {
+               "s_time" : 5558.25799982995,
+               "time" : 6.16500014439043,
+               "type" : 1,
+               "id" : "comp_514",
+               "e_time" : 5564.42299997434
+            }
+         ],
+         "download" : {
+            "s_time" : 4860.08100025356,
+            "id" : "download_114",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?v=2.22.0.82&f=respond%2Frespond.src.js&b=js",
+         "id" : "r116",
+         "comps" : [
+            {
+               "s_time" : 5564.58600005135,
+               "time" : 3.09999985619925,
+               "type" : 1,
+               "id" : "comp_516",
+               "e_time" : 5567.68599990755
+            }
+         ],
+         "download" : {
+            "s_time" : 4861.50699993595,
+            "id" : "download_115",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?v=2.22.0.82&f=datepicker_localization%2Fjquery.ui.datepicker-en.js&b=js",
+         "id" : "r117",
+         "comps" : [
+            {
+               "s_time" : 5567.84400017932,
+               "time" : 0.827999785540669,
+               "type" : 1,
+               "id" : "comp_518",
+               "e_time" : 5568.67199996486
+            }
+         ],
+         "download" : {
+            "s_time" : 4862.4430000782,
+            "id" : "download_116",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/min?g=js_module&v=2.22.0.82&lib=jquery",
+         "id" : "r114",
+         "comps" : [
+            {
+               "s_time" : 5547.60699998587,
+               "time" : 10.4809999465997,
+               "type" : 1,
+               "id" : "comp_512",
+               "e_time" : 5558.08799993247
+            }
+         ],
+         "download" : {
+            "s_time" : 4859.14399987087,
+            "id" : "download_117",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://y.cdn.adblade.com/impsc.php?cid=1482-3600548230&output=html&cachebuster=1378094311&tpUrl=http://ads.bluelithium.com/clk?3,eJytTltvgjAY.TW8MdP2Qy4he6gCZkbm3IzGvZCGdohCq1Dn5devjM1k7ztpT8857ZdTDCEnfgACUO65PgQYh9hBPOfEDYbERmEYkgD5rhsAeDbtMEHOjI5ZqdW3pS-pl557SYuOnn5yv-NRIp6v40UffRxxTP8F4.jw29OdpreIfDqsd28Q09H92WRVbZbT.XtU7WbL-DaPUp0ukyq94u08mu5n61W52b2W8.XK-Bg2i.vko21vtT5YQC2SmKVYmwupG1YNclXnrNUDKbS5aASrasFLZjTjbc.apHXWXgZ98nfCuIftoRM56oGNwRg8HwUOmO1hAs7QctAFiAVJZsqzQqhMfYqmKbnILIhOrfnbSe6lOkuLuKw2mVRSGH1sC2P4F70uivg=,",
+         "id" : "r121",
+         "comps" : [
+            {
+               "s_time" : 5585.18300019205,
+               "time" : 76.4449997805004,
+               "type" : "evalhtml",
+               "id" : "r121_c1",
+               "e_time" : 5661.62799997255
+            }
+         ],
+         "download" : {
+            "s_time" : 4918.46799990162,
+            "id" : "download_118",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/m/sz/img/xfinity/loader.gif",
+         "id" : "r123",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5576.73399988562,
+            "id" : "download_119",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://calendar.comcast.net/calendar/img/module/Spritev2.png",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5570.70600008592,
+            "id" : "download_120",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static-calendar.comcast.net/calendar/m/plxCore/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png",
+         "id" : "r129",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5664.34400016442,
+            "id" : "download_121",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.cdn.adblade.com/css/zones/zone261.css",
+         "id" : "r124",
+         "comps" : [
+            {
+               "s_time" : 5687.23199982196,
+               "time" : 6.31100032479026,
+               "type" : null,
+               "id" : "comp_559",
+               "e_time" : 5693.54300014675
+            }
+         ],
+         "download" : {
+            "s_time" : 5587.02400000766,
+            "id" : "download_122",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.cdn.adblade.com/img/smarterlifestyles-logo.gif",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5665.33999983221,
+            "id" : "download_123",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.cdn.adblade.com/banners/images/100x75/16374_521e1a080f10b.jpg",
+         "id" : "r128",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5666.83500027284,
+            "id" : "download_124",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.cdn.adblade.com/banners/images/100x75/6409_521e0f644ae06.jpg",
+         "id" : "r127",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5666.39900021255,
+            "id" : "download_125",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.cdn.adblade.com/banners/images/100x75/12949_51c8b3259994a.jpg",
+         "id" : "r126",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5665.9450000152,
+            "id" : "download_126",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ad.yieldmanager.com/user-match?nid=12345&eid=3887816869308933015&y=bbNBNr82HXr8IF8HRvYOgUt6BrqztJTripoXKw--",
+         "id" : "r118",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5669.75900018588,
+            "id" : "download_127",
+            "type" : "text/html"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_15"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_17"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_30"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_127"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_192"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_195"
+      },
+      {
+         "a2" : "comp_30",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "comp_192",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_127"
+      },
+      {
+         "a2" : "comp_195",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_192"
+      },
+      {
+         "a2" : "r82_c2",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_504"
+      },
+      {
+         "a2" : "r82_c3",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_512"
+      },
+      {
+         "a2" : "r82_c4",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_514"
+      },
+      {
+         "a2" : "r82_c5",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_516"
+      },
+      {
+         "a2" : "r82_c6",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_518"
+      },
+      {
+         "a2" : "comp_512",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_504"
+      },
+      {
+         "a2" : "comp_514",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_512"
+      },
+      {
+         "a2" : "comp_516",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_514"
+      },
+      {
+         "a2" : "comp_518",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_516"
+      },
+      {
+         "a2" : "download_127",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_126",
+         "time" : 2523.71599990875,
+         "id" : "dep23",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_125",
+         "time" : 2524.1700001061,
+         "id" : "dep24",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_124",
+         "time" : 2524.60600016639,
+         "id" : "dep25",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_123",
+         "time" : 2523.11099972576,
+         "id" : "dep26",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 1.8409998156103,
+         "id" : "dep27",
+         "a1" : "r121_c1"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 18.3520000427998,
+         "id" : "dep28",
+         "a1" : "r82_c6"
+      },
+      {
+         "a2" : "download_121",
+         "time" : 2522.11500005797,
+         "id" : "dep29",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 2.03400012105976,
+         "id" : "dep30",
+         "a1" : "r82_c6"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 8.06199992075926,
+         "id" : "dep31",
+         "a1" : "r82_c6"
+      },
+      {
+         "a2" : "download_118",
+         "time" : 74.8319998383495,
+         "id" : "dep32",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 15.5079998075998,
+         "id" : "dep33",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 1282.53099974245,
+         "id" : "dep34",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 18.8070000149301,
+         "id" : "dep35",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 1285.82999994978,
+         "id" : "dep36",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 17.8709998726799,
+         "id" : "dep37",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 1284.89399980753,
+         "id" : "dep38",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 16.4450001902896,
+         "id" : "dep39",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 1283.46800012514,
+         "id" : "dep40",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 12.7249998040497,
+         "id" : "dep41",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 1279.7479997389,
+         "id" : "dep42",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 10.4649998247596,
+         "id" : "dep43",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 1277.48799975961,
+         "id" : "dep44",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 5.28200017287963,
+         "id" : "dep45",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 1272.30500010773,
+         "id" : "dep46",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 11.7730000056299,
+         "id" : "dep47",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 1278.79599994048,
+         "id" : "dep48",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 8.33899993448995,
+         "id" : "dep49",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 1275.36199986934,
+         "id" : "dep50",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 9.40599991009003,
+         "id" : "dep51",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 1276.42899984494,
+         "id" : "dep52",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 362.80399980024,
+         "id" : "dep53",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 332.15000014752,
+         "id" : "dep54",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 14.6960001438893,
+         "id" : "dep55",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 1281.71900007874,
+         "id" : "dep56",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 13.8420001603699,
+         "id" : "dep57",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 1280.86500009522,
+         "id" : "dep58",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 4.26100008189951,
+         "id" : "dep59",
+         "a1" : "r82_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 1271.28400001675,
+         "id" : "dep60",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 1307.86499986425,
+         "id" : "dep61",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 210.94499994069,
+         "id" : "dep62",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 645.32899996266,
+         "id" : "dep63",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 206.30299998447,
+         "id" : "dep64",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 640.68700000644,
+         "id" : "dep65",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 181.04799976572,
+         "id" : "dep66",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 615.43199978769,
+         "id" : "dep67",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 529.35899980366,
+         "id" : "dep68",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 414.7660001181,
+         "id" : "dep69",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 849.15000014007,
+         "id" : "dep70",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 421.04699974879,
+         "id" : "dep71",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 855.43099977076,
+         "id" : "dep72",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 420.6449999474,
+         "id" : "dep73",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 855.02899996937,
+         "id" : "dep74",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 420.24199990555,
+         "id" : "dep75",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 854.62599992752,
+         "id" : "dep76",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 419.4239997305,
+         "id" : "dep77",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 853.80799975247,
+         "id" : "dep78",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 419.83800008893,
+         "id" : "dep79",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 854.2220001109,
+         "id" : "dep80",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 419.01900013909,
+         "id" : "dep81",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 853.40300016106,
+         "id" : "dep82",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 418.16699970513,
+         "id" : "dep83",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 852.5509997271,
+         "id" : "dep84",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 418.61099982634,
+         "id" : "dep85",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 852.99499984831,
+         "id" : "dep86",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 415.95799988136,
+         "id" : "dep87",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 850.34199990333,
+         "id" : "dep88",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 415.17799999565,
+         "id" : "dep89",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 849.56200001762,
+         "id" : "dep90",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 415.57999979704,
+         "id" : "dep91",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 849.96399981901,
+         "id" : "dep92",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 414.37100013718,
+         "id" : "dep93",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 848.75500015915,
+         "id" : "dep94",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 413.92299998551,
+         "id" : "dep95",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 848.30700000748,
+         "id" : "dep96",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 424.88399986178,
+         "id" : "dep97",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 859.26799988375,
+         "id" : "dep98",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 421.45100003108,
+         "id" : "dep99",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 855.83500005305,
+         "id" : "dep100",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 310.27900008485,
+         "id" : "dep101",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 744.66300010682,
+         "id" : "dep102",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 296.66099976748,
+         "id" : "dep103",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 731.04499978945,
+         "id" : "dep104",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 195.49799989909,
+         "id" : "dep105",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 629.88199992106,
+         "id" : "dep106",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 223.25399983674,
+         "id" : "dep107",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 657.63799985871,
+         "id" : "dep108",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 54.28700009361,
+         "id" : "dep109",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 488.67100011558,
+         "id" : "dep110",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 12.6809999346701,
+         "id" : "dep111",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 447.06499995664,
+         "id" : "dep112",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 10.8860000036598,
+         "id" : "dep113",
+         "a1" : "r73_c1"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 445.27000002563,
+         "id" : "dep114",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_74",
+         "time" : -1,
+         "id" : "dep115",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 335.7389997691,
+         "id" : "dep116",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 157.24999969825,
+         "id" : "dep117",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 209.10099986941,
+         "id" : "dep118",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 33.93699973822,
+         "id" : "dep119",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 40.81799974665,
+         "id" : "dep120",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 43.1099999695998,
+         "id" : "dep121",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 42.65699954704,
+         "id" : "dep122",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 42.2059996053599,
+         "id" : "dep123",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 41.3029999472196,
+         "id" : "dep124",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 41.7369999922798,
+         "id" : "dep125",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 40.3909999877196,
+         "id" : "dep126",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 39.9049995467099,
+         "id" : "dep127",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 39.1549998894297,
+         "id" : "dep128",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 37.95599984005,
+         "id" : "dep129",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_59",
+         "time" : -1,
+         "id" : "dep130",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_58",
+         "time" : -1,
+         "id" : "dep131",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 607.13799996301,
+         "id" : "dep132",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 562.25299974903,
+         "id" : "dep133",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 30.29399970546,
+         "id" : "dep134",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 30.7489996776001,
+         "id" : "dep135",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 29.77499971166,
+         "id" : "dep136",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 29.2909997515401,
+         "id" : "dep137",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 11.4819998852904,
+         "id" : "dep138",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 2.10200017318994,
+         "id" : "dep139",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 28.36199989542,
+         "id" : "dep140",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 28.8519999012301,
+         "id" : "dep141",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 26.8890000879701,
+         "id" : "dep142",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 27.3289997130601,
+         "id" : "dep143",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 27.8400001116099,
+         "id" : "dep144",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 26.4630001038299,
+         "id" : "dep145",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 610.0379996933,
+         "id" : "dep146",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 564.61999984458,
+         "id" : "dep147",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 561.80799985304,
+         "id" : "dep148",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 559.52299991622,
+         "id" : "dep149",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 608.68000006303,
+         "id" : "dep150",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 559.94999967515,
+         "id" : "dep151",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 561.37799983844,
+         "id" : "dep152",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 2.56399996578966,
+         "id" : "dep153",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_35",
+         "time" : -1,
+         "id" : "dep154",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 25.8059999905499,
+         "id" : "dep155",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 25.41999984532,
+         "id" : "dep156",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 25.0329999253099,
+         "id" : "dep157",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 24.64199997484,
+         "id" : "dep158",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 24.2530000396,
+         "id" : "dep159",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 23.44499994069,
+         "id" : "dep160",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 23.86400010436,
+         "id" : "dep161",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 23.0539999902201,
+         "id" : "dep162",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 22.66199979931,
+         "id" : "dep163",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 22.27299986407,
+         "id" : "dep164",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 4.2139999568401,
+         "id" : "dep165",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 21.88499970361,
+         "id" : "dep166",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 21.5010000392799,
+         "id" : "dep167",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 21.11400011927,
+         "id" : "dep168",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 20.7090000621899,
+         "id" : "dep169",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 20.32399969175,
+         "id" : "dep170",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 19.9420000426401,
+         "id" : "dep171",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 19.5390000008001,
+         "id" : "dep172",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 18.7880001030801,
+         "id" : "dep173",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 18.4120000340001,
+         "id" : "dep174",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 19.16199969127,
+         "id" : "dep175",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 18.03499972447,
+         "id" : "dep176",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 17.6470000296799,
+         "id" : "dep177",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 7.28899985551993,
+         "id" : "dep178",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 17.25200004875,
+         "id" : "dep179",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 16.872999724,
+         "id" : "dep180",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_8",
+         "time" : -1,
+         "id" : "dep181",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 43.451000005006,
+         "id" : "dep182",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : -1,
+         "id" : "dep183",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 44.079000130295,
+         "id" : "dep184",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 28.346000239253,
+         "id" : "dep185",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 44.497000053525,
+         "id" : "dep186",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : -1,
+         "id" : "dep187",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 30.162000097334,
+         "id" : "dep188",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 30.162000097334,
+         "id" : "dep189",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 28.925000224262,
+         "id" : "dep190",
+         "a1" : "r1_c1"
+      }
+   ]
+}

@@ -1,0 +1,1938 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.wikia.com_Wikia",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.wikia.com/Wikia",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 66.7240000329912,
+               "time" : 357.06300009042,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 423.787000123411
+            },
+            {
+               "s_time" : 502.154999878258,
+               "time" : 0.0630002468819839,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 502.21800012514
+            },
+            {
+               "s_time" : 503.210000228137,
+               "time" : 0.0479998998339966,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 503.258000127971
+            },
+            {
+               "s_time" : 507.769000250846,
+               "time" : 177.489999681711,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 685.258999932557
+            },
+            {
+               "s_time" : 745.223000179976,
+               "time" : 121.903999708593,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 867.126999888569
+            },
+            {
+               "s_time" : 1134.33300005272,
+               "time" : 175.7890000008,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 1310.12200005352
+            },
+            {
+               "s_time" : 1312.52899998799,
+               "time" : 197.95100018382,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 1510.48000017181
+            },
+            {
+               "s_time" : 1519.97000025585,
+               "time" : 0.0909999944299216,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 1520.06100025028
+            },
+            {
+               "s_time" : 1523.05800002068,
+               "time" : 0.121999997649937,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 1523.18000001833
+            },
+            {
+               "s_time" : 1525.03200015053,
+               "time" : 0.0879997387501135,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 1525.11999988928
+            },
+            {
+               "s_time" : 1525.58499993756,
+               "time" : 0.0480003655000019,
+               "id" : "r1_c11",
+               "type" : "evalhtml",
+               "e_time" : 1525.63300030306
+            },
+            {
+               "s_time" : 1526.18300030008,
+               "time" : 0.0629997812200145,
+               "id" : "r1_c12",
+               "type" : "evalhtml",
+               "e_time" : 1526.2460000813
+            },
+            {
+               "s_time" : 1526.78199997172,
+               "time" : 16.5260001085699,
+               "id" : "r1_c13",
+               "type" : "evalhtml",
+               "e_time" : 1543.30800008029
+            },
+            {
+               "s_time" : 1545.9259999916,
+               "time" : 991.06999998912,
+               "type" : "evalhtml",
+               "id" : "r1_c14",
+               "e_time" : 2536.99599998072
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__load/-/cb%3D62272%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/ext.wikihiero",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 113.048000261188,
+               "time" : 0.141999684274012,
+               "type" : 4,
+               "id" : "comp_2",
+               "e_time" : 113.189999945462
+            }
+         ],
+         "download" : {
+            "s_time" : 73.7870000302792,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__load/-/cb%3D62272%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 143.982999958098,
+               "time" : 4.05299989506599,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 148.035999853164
+            }
+         ],
+         "download" : {
+            "s_time" : 77.6639999821782,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__load/-/cb%3D62272%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.abtesting",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 502.257999964058,
+               "time" : 0.952000264079004,
+               "type" : 1,
+               "id" : "comp_19",
+               "e_time" : 503.210000228137
+            }
+         ],
+         "download" : {
+            "s_time" : 78.2639998942614,
+            "id" : "download_3",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__load/-/cb%3D62272%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/startup",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 79.9090000800788,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__load/-/cb%3D62272%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 1543.39500004426,
+               "time" : 2.53099994733998,
+               "type" : 1,
+               "id" : "comp_109",
+               "e_time" : 1545.9259999916
+            }
+         ],
+         "download" : {
+            "s_time" : 81.3580001704395,
+            "id" : "download_5",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images3.wikia.nocookie.net/__am/62272/sass/background-align%3Dcenter%26background-fixed%3Dtrue%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26background-tiled%3Dfalse%26color-body%3D%2523f6f6f6%26color-buttons%3D%2523006cb0%26color-header%3D%2523004c7f%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D3/skins/oasis/css/wikiagrid.scss",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 315.785999875516,
+               "time" : 0.179999973625002,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 315.965999849141
+            }
+         ],
+         "download" : {
+            "s_time" : 75.9200002066791,
+            "id" : "download_6",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images4.wikia.nocookie.net/__am/62272/sass/background-align%3Dcenter%26background-fixed%3Dtrue%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26background-tiled%3Dfalse%26color-body%3D%2523f6f6f6%26color-buttons%3D%2523006cb0%26color-header%3D%2523004c7f%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D3/resources/wikia/libraries/bootstrap/popover.scss",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 318.525000009686,
+               "time" : 0.47100009396604,
+               "type" : 4,
+               "id" : "comp_7",
+               "e_time" : 318.996000103652
+            }
+         ],
+         "download" : {
+            "s_time" : 75.3569998778403,
+            "id" : "download_7",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images2.wikia.nocookie.net/__am/62272/sass/background-align%3Dcenter%26background-fixed%3Dtrue%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26background-tiled%3Dfalse%26color-body%3D%2523f6f6f6%26color-buttons%3D%2523006cb0%26color-header%3D%2523004c7f%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D3/skins/oasis/css/oasis.scss",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 363.146000076085,
+               "time" : 60.089999809862,
+               "type" : 4,
+               "id" : "comp_11",
+               "e_time" : 423.235999885947
+            }
+         ],
+         "download" : {
+            "s_time" : 72.9559999890625,
+            "id" : "download_8",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images2.wikia.nocookie.net/__load/-/cb%3D62272%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd%7Cwikia.tracker.stub%7Cwikia.cookies,geo,window",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 503.291999921203,
+               "time" : 4.47700032964298,
+               "type" : 1,
+               "id" : "comp_20",
+               "e_time" : 507.769000250846
+            }
+         ],
+         "download" : {
+            "s_time" : 78.8389998488128,
+            "id" : "download_9",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images3.wikia.nocookie.net/__am/62272/sass/background-align%3Dcenter%26background-fixed%3Dtrue%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26background-tiled%3Dfalse%26color-body%3D%2523f6f6f6%26color-buttons%3D%2523006cb0%26color-header%3D%2523004c7f%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D3/skins/oasis/css/modules/WikiaMediaCarousel.scss",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 323.013000190258,
+               "time" : 0.660999678074973,
+               "type" : 4,
+               "id" : "comp_8",
+               "e_time" : 323.673999868333
+            }
+         ],
+         "download" : {
+            "s_time" : 76.4810000546277,
+            "id" : "download_10",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images4.wikia.nocookie.net/__am/62272/sass/background-align%3Dcenter%26background-fixed%3Dtrue%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26background-tiled%3Dfalse%26color-body%3D%2523f6f6f6%26color-buttons%3D%2523006cb0%26color-header%3D%2523004c7f%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D3/extensions/wikia/RelatedVideos/css/RelatedVideos.scss",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 334.842000156641,
+               "time" : 1.92099995911099,
+               "type" : 4,
+               "id" : "comp_9",
+               "e_time" : 336.763000115752
+            }
+         ],
+         "download" : {
+            "s_time" : 77.1820000372827,
+            "id" : "download_11",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images1.wikia.nocookie.net/__am/62272/sass/background-align%3Dcenter%26background-fixed%3Dtrue%26background-image%3D%26background-image-height%3D800%26background-image-width%3D2000%26background-tiled%3Dfalse%26color-body%3D%2523f6f6f6%26color-buttons%3D%2523006cb0%26color-header%3D%2523004c7f%26color-links%3D%2523006cb0%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D3/extensions/wikia/WikiaHomePage/css/WikiaHomePage.scss",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 338.078000117093,
+               "time" : 15.842000022531,
+               "type" : 4,
+               "id" : "comp_10",
+               "e_time" : 353.920000139624
+            }
+         ],
+         "download" : {
+            "s_time" : 74.5170000009239,
+            "id" : "download_12",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images.wikia.nocookie.net/__am/62272/groups/-/abtesting,oasis_blocking,analytics_gas_js",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 79.4120002537966,
+            "id" : "download_13",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.wikia-beacon.com/__track/view?c=80433&lc=en&lid=75&x=wikiaglobal&y=c2&u=0&ip=201.2.77.168&a=1461&s=oasis&n=0&r=&cb=1378093876802&beacon=ZiT88FpmyP",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 501.728999894112,
+               "time" : 0.425999984146017,
+               "type" : 1,
+               "id" : "comp_18",
+               "e_time" : 502.154999878258
+            }
+         ],
+         "download" : {
+            "s_time" : 423.787000123411,
+            "id" : "download_14",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 534.250000026077,
+               "time" : 208.20500003174,
+               "type" : 2,
+               "id" : "comp_22",
+               "e_time" : 742.455000057817
+            }
+         ],
+         "download" : {
+            "s_time" : 530.168000143021,
+            "id" : "download_15",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/wikia.php?controller=AbTesting&method=externalData&callback=Wikia.AbTest.loadExternalData&ids=SEARCHTOPMODULE_SRP.61.46",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 743.63199993968,
+               "time" : 1.59100024029601,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 745.223000179976
+            }
+         ],
+         "download" : {
+            "s_time" : 525.566000025719,
+            "id" : "download_16",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1565972044&utmhn=www.wikia.com&utme=8(DBname*ContentLanguage*Hub*Skin*LoginStatus*8!PageType*CityId*12!MedusaSlot*14!HasAds*40!DAR_GLOBALNAVIGATIONFIXED*SEARCHCATEGORYMODULE_SRP*47!SEARCHTOPMODULETITLE_SRP)9(wikiaglobal*en*Wikia*oasis*anon*8!home*80433*12!slot1*14!Yes*40!SHOW_WIKIA_BAR*NOCMCONTROL*47!CONTROL)&utmcs=UTF-8&utmsr=2048x1152&utmvp=950x1014&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Wiki%20communities%20for%20everyone!%20--%20Wikia.com&utmhid=1929931089&utmr=-&utmp=%2FWikia&utmht=1378093877061&utmac=UA-32132943-1&utmcc=__utma%3D251085184.648758689.1378093877.1378093877.1378093877.1%3B%2B__utmz%3D251085184.1378093877.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmmt=1&utmu=qRAgAAAI~",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 685.258999932557,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/beacon.js",
+         "id" : "r20",
+         "comps" : [
+            {
+               "s_time" : 1168.26400021091,
+               "time" : 4.28600003943006,
+               "type" : 2,
+               "id" : "comp_43",
+               "e_time" : 1172.55000025034
+            }
+         ],
+         "download" : {
+            "s_time" : 749.94400003925,
+            "id" : "download_18",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images.wikia.nocookie.net/__cb62267/common/skins/oasis/images/sprite.png",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 757.890000008047,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb21710/common/skins/oasis/images/themes/oasis.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 746.707000304013,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
+         "id" : "r34",
+         "comps" : [
+            {
+               "s_time" : 1006.79500028491,
+               "time" : 127.53799976781,
+               "type" : 1,
+               "id" : "comp_36",
+               "e_time" : 1134.33300005272
+            }
+         ],
+         "download" : {
+            "s_time" : 825.800999999046,
+            "id" : "download_27",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb20130822222930/corp/images/a/af/ExpertShowcase_ACIV_Hubslider_330x210.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 796.198999974877,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images3.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26version%3D62272-20130717T092218Z/mediawiki",
+         "id" : "r35",
+         "comps" : [
+            {
+               "s_time" : 1138.10000009835,
+               "time" : 12.2670000419,
+               "type" : 2,
+               "id" : "comp_38",
+               "e_time" : 1150.36700014025
+            }
+         ],
+         "download" : {
+            "s_time" : 827.061000280082,
+            "id" : "download_29",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images.wikia.nocookie.net/__cb62272/common/skins/oasis/images/icon_close.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 827.608000021428,
+            "id" : "download_30",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/corp/images/f/f3/ExpertShowcase_Riddick_Hubslider_330x210.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 809.594000224024,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images3.wikia.nocookie.net/__cb20130816231433/corp/images/3/3d/FFF_submit_300x600.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 810.066000092775,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images.wikia.nocookie.net/__cb62259/common/extensions/wikia/WikiaHomePage/images/community-sprite.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 828.025999944657,
+            "id" : "download_33",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://edge.quantserve.com/quant.js",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 1237.20100009814,
+               "time" : 7.01500009744996,
+               "type" : 2,
+               "id" : "comp_86",
+               "e_time" : 1244.21600019559
+            }
+         ],
+         "download" : {
+            "s_time" : 752.493999898434,
+            "id" : "download_34",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://aax-us-east.amazon-adsystem.com/e/dtb/bid?src=3006&u=http%3A%2F%2Fwww.wikia.com%2FWikia&cb=3662666",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 1244.24999998882,
+               "time" : 0.248000025749889,
+               "type" : 2,
+               "id" : "comp_88",
+               "e_time" : 1244.49800001457
+            }
+         ],
+         "download" : {
+            "s_time" : 867.126999888569,
+            "id" : "download_35",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images.wikia.nocookie.net/__load/-/debug%3Dfalse%26lang%3Den%26skin%3Doasis%26version%3D62272-20130828T091244Z/amd.shared%7Cjquery.checkboxShiftClick,client,cookie,makeCollapsible,messageBox,mw-jump,mwExtension%7Cmediawiki.legacy.ajax,wikibits%7Cmediawiki.page.ready,startup%7Cmediawiki.user,util%7Cwikia.ajax,cache,deferred,document,loader,localStorage,location,log,mw,nirvana,querystring,throbber,thumbnailer,tracker",
+         "id" : "r37",
+         "comps" : [
+            {
+               "s_time" : 1246.31700012833,
+               "time" : 66.21199985966,
+               "type" : 1,
+               "id" : "comp_90",
+               "e_time" : 1312.52899998799
+            }
+         ],
+         "download" : {
+            "s_time" : 1165.45099997893,
+            "id" : "download_36",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images3.wikia.nocookie.net/__am/62272/group/-/relatedvideos_js",
+         "id" : "r45",
+         "comps" : [
+            {
+               "s_time" : 1523.53399991989,
+               "time" : 1.49800023063995,
+               "type" : 1,
+               "id" : "comp_100",
+               "e_time" : 1525.03200015053
+            }
+         ],
+         "download" : {
+            "s_time" : 1315.91300014406,
+            "id" : "download_37",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images3.wikia.nocookie.net/__am/62272/group/-/wikiahomepage_js",
+         "id" : "r44",
+         "comps" : [
+            {
+               "s_time" : 1520.1150001958,
+               "time" : 2.94299982488019,
+               "type" : 1,
+               "id" : "comp_98",
+               "e_time" : 1523.05800002068
+            }
+         ],
+         "download" : {
+            "s_time" : 1315.48900017515,
+            "id" : "download_38",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images1.wikia.nocookie.net/__am/62272/one/minify%3D1/extensions/wikia/WikiaHomePage/js/CorporateFooterTracker.js",
+         "id" : "r48",
+         "comps" : [
+            {
+               "s_time" : 1526.27599984407,
+               "time" : 0.506000127650168,
+               "type" : 1,
+               "id" : "comp_106",
+               "e_time" : 1526.78199997172
+            }
+         ],
+         "download" : {
+            "s_time" : 1317.30200024322,
+            "id" : "download_39",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images.wikia.nocookie.net/__am/62272/groups/-/oasis_shared_core_js,adengine2_js,oasis_shared_js,oasis_anon_js",
+         "id" : "r43",
+         "comps" : [
+            {
+               "s_time" : 1415.2020001784,
+               "time" : 104.76800007745,
+               "type" : 1,
+               "id" : "comp_95",
+               "e_time" : 1519.97000025585
+            }
+         ],
+         "download" : {
+            "s_time" : 1315.03200018778,
+            "id" : "download_40",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/wikia.php?controller=JSMessages&method=getMessages&format=html&packages=ConfirmModal%2CImagePlaceholder%2COasis-generic%2CVideoEmbedTool%2CWikiaHomePage&uselang=en&cb=62272.0.62595",
+         "id" : "r46",
+         "comps" : [
+            {
+               "s_time" : 1525.16600023955,
+               "time" : 0.418999698010111,
+               "type" : 1,
+               "id" : "comp_102",
+               "e_time" : 1525.58499993756
+            }
+         ],
+         "download" : {
+            "s_time" : 1316.30600010976,
+            "id" : "download_41",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.wikia-beacon.com/__track/special/ab_treatment?c=80433&x=wikiaglobal&a=1461&lc=en&n=0&u=0&s=oasis&beacon=ZiT88FpmyP&cb=90647&experiment=SEARCHTOPMODULE_SRP&experimentId=14&time=Mon%2C%2002%20Sep%202013%2003%3A51%3A16%20GMT&treatmentGroup=NOTP&treatmentGroupId=46",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 1854.70000002533,
+               "time" : 0.353999901559973,
+               "type" : 2,
+               "id" : "comp_142",
+               "e_time" : 1855.05399992689
+            }
+         ],
+         "download" : {
+            "s_time" : 1308.50799987093,
+            "id" : "download_42",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.wikia-beacon.com/__track/special/ab_treatment?c=80433&x=wikiaglobal&a=1461&lc=en&n=0&u=0&s=oasis&beacon=ZiT88FpmyP&cb=56468&experiment=SEARCHCATEGORYMODULE_SRP&experimentId=15&time=Mon%2C%2002%20Sep%202013%2003%3A51%3A16%20GMT&treatmentGroup=NOCMCONTROL&treatmentGroupId=48",
+         "id" : "r41",
+         "comps" : [
+            {
+               "s_time" : 1855.29599990696,
+               "time" : 0.227000098669805,
+               "type" : 2,
+               "id" : "comp_145",
+               "e_time" : 1855.52300000563
+            }
+         ],
+         "download" : {
+            "s_time" : 1310.12200005352,
+            "id" : "download_43",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.wikia-beacon.com/__track/special/ab_treatment?c=80433&x=wikiaglobal&a=1461&lc=en&n=0&u=0&s=oasis&beacon=ZiT88FpmyP&cb=90825&experiment=DAR_GLOBALNAVIGATIONFIXED&experimentId=16&time=Mon%2C%2002%20Sep%202013%2003%3A51%3A16%20GMT&treatmentGroup=SHOW_WIKIA_BAR&treatmentGroupId=50",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 1855.61300022528,
+               "time" : 0.207999721169926,
+               "type" : 2,
+               "id" : "comp_148",
+               "e_time" : 1855.82099994645
+            }
+         ],
+         "download" : {
+            "s_time" : 1312.65300000086,
+            "id" : "download_44",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://slot1.images3.wikia.nocookie.net/__am/62272/one/minify%3D1/skins/oasis/js/GlobalHeader.js",
+         "id" : "r47",
+         "comps" : [
+            {
+               "s_time" : 1525.66400030628,
+               "time" : 0.51899999379998,
+               "type" : 1,
+               "id" : "comp_104",
+               "e_time" : 1526.18300030008
+            }
+         ],
+         "download" : {
+            "s_time" : 1316.83900021017,
+            "id" : "download_45",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__varnish_liftium/config?pubid=999&v=1.2&country=us",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1510.48000017181,
+            "id" : "download_47",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googletagservices.com/tag/js/gpt.js",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 2210.27499996126,
+               "time" : 33.0260000191597,
+               "type" : 2,
+               "id" : "comp_313",
+               "e_time" : 2243.30099998042
+            }
+         ],
+         "download" : {
+            "s_time" : 1535.69399984553,
+            "id" : "download_48",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/pixel;r=434405276;a=p-8bG6eLqkH6Avk;labels=wikia;fpan=1;fpa=P0-1555464903-1378093877621;ns=0;ce=1;cm=;je=1;sr=2048x1152x24;enc=n;dst=1;et=1378093877619;tzo=420;ref=;url=http%3A%2F%2Fwww.wikia.com%2FWikia;ogl=type.website%2Ctitle.Wikia%2Cimage.http%3A%2F%2Fimages%252Ewikia%252Enocookie%252Enet%2Fcommon%2F__cb62272%2Fskins%2Fcommon%2Fimages%2FWikia_blac%2Curl.http%3A%2F%2Fwww%252Ewikia%252Ecom%2FWikia",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1244.77600026876,
+            "id" : "download_49",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dev.wikia.com/index.php?title=Countdown/code.js&action=raw&ctype=text/javascript",
+         "id" : "r52",
+         "comps" : [
+            {
+               "s_time" : 2243.33800002933,
+               "time" : 3.32499993964984,
+               "type" : 2,
+               "id" : "comp_315",
+               "e_time" : 2246.66299996898
+            }
+         ],
+         "download" : {
+            "s_time" : 1547.43200028315,
+            "id" : "download_50",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.wikia.com/__spotlights/spc.php?zones=14|15|16|17|18|19|20|21|22&source=&r=56207566&loc=http%3A//www.wikia.com/Wikia&referer=&target=_top&cb=46127326&hub=wikia&skin_name=oasis&cont_lang=en&user_lang=en&dbname=wikiaglobal&tags=xbox_360%2Cwikia%2Cfrontline%2Cwidget%2Cwidget_frontline%2Cmeebo_off&block=1&charset=UTF-8",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1593.36399985477,
+            "id" : "download_51",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/f/f3/Wikia-Visualization-Main%2Cenanimanga.png/330px-0%2C580%2C24%2C393-Wikia-Visualization-Main%2Cenanimanga.png",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1679.12100022659,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/wka.wikia/_wikiaglobal/home;s0=wikia;s1=_wikiaglobal;s2=home;artid=1461;dmn=wikiacom;hostpre=www;wpage=wikia;lang=en;ab=14_46;ab=15_48;ab=16_50;hasp=no;src=driver;mtfIFPath=/extensions/wikia/AdEngine/;mtfInline=true;pos=WIKIA_BAR_BOXAD_1;loc=bottom;sz=320x50;tile=1;endtag=$;ord=14034787151?",
+         "id" : "r54",
+         "comps" : [
+            {
+               "s_time" : 2246.70500028878,
+               "time" : 0.913999974729904,
+               "type" : 2,
+               "id" : "comp_317",
+               "e_time" : 2247.61900026351
+            }
+         ],
+         "download" : {
+            "s_time" : 1672.01599990949,
+            "id" : "download_53",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/3/3a/Wikia-Visualization-Main%2Cturtledove.png/160px-9%2C522%2C0%2C320-Wikia-Visualization-Main%2Cturtledove.png",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1687.81400006264,
+            "id" : "download_54",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/6/63/Wikia-Visualization-Main%2Cgodofwar.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Cgodofwar.png",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1692.88200000301,
+            "id" : "download_55",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images3.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/d/df/Wikia-Visualization-Main%2Cmidnightclub.png/160px-0%2C621%2C46%2C434-Wikia-Visualization-Main%2Cmidnightclub.png",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1789.3449999392,
+            "id" : "download_56",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/d/d1/Wikia-Visualization-Main%2Cicarly.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Cicarly.png",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1853.42800011858,
+            "id" : "download_57",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/c/c4/Wikia-Visualization-Main%2Csplintercell.png/160px-0%2C644%2C41%2C444-Wikia-Visualization-Main%2Csplintercell.png",
+         "id" : "r105",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1865.56700011715,
+            "id" : "download_58",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/3/35/Wikia-Visualization-Main%2Cenfootball.png/160px-0%2C546%2C0%2C341-Wikia-Visualization-Main%2Cenfootball.png",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1858.30600000918,
+            "id" : "download_59",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images3.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/2/25/Wikia-Visualization-Main%2Cassassinscreed.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Cassassinscreed.png",
+         "id" : "r146",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1867.86899995059,
+            "id" : "download_60",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/2/2b/Wikia-Visualization-Main%2Ctrekinitiative59.png/330px-202%2C1081%2C0%2C851-Wikia-Visualization-Main%2Ctrekinitiative59.png",
+         "id" : "r135",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1853.89399994165,
+            "id" : "download_61",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/3/37/Wikia-Visualization-Main%2Cplanetside2.png/330px-255%2C2627%2C0%2C1509-Wikia-Visualization-Main%2Cplanetside2.png",
+         "id" : "r140",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1855.61400000006,
+            "id" : "download_62",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/7/7d/Wikia-Visualization-Main%2Croguegalaxy.png/160px-0%2C640%2C26%2C426-Wikia-Visualization-Main%2Croguegalaxy.png",
+         "id" : "r143",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1856.27199988812,
+            "id" : "download_63",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/1/17/Wikia-Visualization-Main%2Chackslashmine.png/160px-0%2C516%2C21%2C344-Wikia-Visualization-Main%2Chackslashmine.png",
+         "id" : "r150",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1856.76500014961,
+            "id" : "download_64",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/3/38/Wikia-Visualization-Main%2Clucius.png/160px-56%2C569%2C0%2C320-Wikia-Visualization-Main%2Clucius.png",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1858.78799995407,
+            "id" : "download_65",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/c/cc/Wikia-Visualization-Main%2Cflashpoint.png/160px-0%2C480%2C19%2C319-Wikia-Visualization-Main%2Cflashpoint.png",
+         "id" : "r151",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1857.31100011617,
+            "id" : "download_66",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/4/41/Wikia-Visualization-Main%2Cbatenkaitos.png/160px-0%2C800%2C38%2C538-Wikia-Visualization-Main%2Cbatenkaitos.png",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1859.32399984449,
+            "id" : "download_67",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/3/30/Wikia-Visualization-Main%2Cbroadchurch.png/160px-0%2C620%2C25%2C413-Wikia-Visualization-Main%2Cbroadchurch.png",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1860.4930001311,
+            "id" : "download_68",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/6/6f/Wikia-Visualization-Main%2Cportalinminecraft.png/160px-0%2C480%2C19%2C319-Wikia-Visualization-Main%2Cportalinminecraft.png",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1859.8710000515,
+            "id" : "download_69",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/0/0e/Wikia-Visualization-Main%2Chypotheticalhurricanes.png/160px-0%2C500%2C0%2C313-Wikia-Visualization-Main%2Chypotheticalhurricanes.png",
+         "id" : "r100",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1860.97300006077,
+            "id" : "download_70",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images3.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/f/fe/Wikia-Visualization-Main%2Cspace101.png/160px-0%2C500%2C30%2C343-Wikia-Visualization-Main%2Cspace101.png",
+         "id" : "r153",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1868.75799996778,
+            "id" : "download_71",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images1.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/3/35/Wikia-Visualization-Main%2Cdestructivegodofdarkness.png/330px-84%2C769%2C0%2C663-Wikia-Visualization-Main%2Cdestructivegodofdarkness.png",
+         "id" : "r155",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1857.78800025582,
+            "id" : "download_72",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/4/4a/Wikia-Visualization-Main%2Ctoriko.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Ctoriko.png",
+         "id" : "r110",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1861.5399999544,
+            "id" : "download_73",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/e/e5/Wikia-Visualization-Main%2Cdofus.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Cdofus.png",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1862.53899987787,
+            "id" : "download_74",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/8/89/Wikia-Visualization-Main%2Cmicroheroesdc.png/160px-0%2C856%2C40%2C575-Wikia-Visualization-Main%2Cmicroheroesdc.png",
+         "id" : "r115",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1862.0219998993,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/d/d6/Wikia-Visualization-Main%2Ceverquestnext.png/330px-404%2C1519%2C0%2C1080-Wikia-Visualization-Main%2Ceverquestnext.png",
+         "id" : "r130",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1862.99000028521,
+            "id" : "download_76",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/a/a7/Wikia-Visualization-Main%2Cpixelpeople.png/160px-0%2C480%2C19%2C319-Wikia-Visualization-Main%2Cpixelpeople.png",
+         "id" : "r149",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1866.97500012815,
+            "id" : "download_77",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/9/9d/Wikia-Visualization-Main%2Ceverafterhigh.png/330px-88%2C555%2C0%2C452-Wikia-Visualization-Main%2Ceverafterhigh.png",
+         "id" : "r156",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1867.43000010028,
+            "id" : "download_78",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/a/a7/Wikia-Visualization-Main%2Ctheboronia.png/160px-0%2C500%2C46%2C359-Wikia-Visualization-Main%2Ctheboronia.png",
+         "id" : "r141",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1863.41900005937,
+            "id" : "download_79",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/5/51/Wikia-Visualization-Main%2Cfwoan.png/160px-0%2C502%2C21%2C335-Wikia-Visualization-Main%2Cfwoan.png",
+         "id" : "r144",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1863.89400018379,
+            "id" : "download_80",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/7/77/Wikia-Visualization-Main%2Cworldoffoo.png/160px-0%2C480%2C19%2C319-Wikia-Visualization-Main%2Cworldoffoo.png",
+         "id" : "r145",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1864.31899992749,
+            "id" : "download_81",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/2/22/Wikia-Visualization-Main%2Cdrake.png/160px-0%2C1116%2C50%2C748-Wikia-Visualization-Main%2Cdrake.png",
+         "id" : "r152",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1864.73200004548,
+            "id" : "download_82",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images2.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/8/83/Wikia-Visualization-Main%2Cminecraftpocketedition.png/160px-0%2C480%2C19%2C319-Wikia-Visualization-Main%2Cminecraftpocketedition.png",
+         "id" : "r154",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1865.14700017869,
+            "id" : "download_83",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/6/60/Wikia-Visualization-Main%2Cwowwiki.png/160px-0%2C480%2C19%2C319-Wikia-Visualization-Main%2Cwowwiki.png",
+         "id" : "r147",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1866.50400003418,
+            "id" : "download_84",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images3.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/1/16/Wikia-Visualization-Main%2Clanoire.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Clanoire.png",
+         "id" : "r148",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1868.30900004134,
+            "id" : "download_85",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://images4.wikia.nocookie.net/__cb62274/wikiaglobal/images/thumb/b/b9/Wikia-Visualization-Main%2Csilent.png/160px-0%2C320%2C19%2C219-Wikia-Visualization-Main%2Csilent.png",
+         "id" : "r142",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1866.07500026003,
+            "id" : "download_86",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://partner.googleadservices.com/gpt/pubads_impl_25.js",
+         "id" : "r157",
+         "comps" : [
+            {
+               "s_time" : 2416.11299989745,
+               "time" : 105.62600009143,
+               "type" : 2,
+               "id" : "comp_373",
+               "e_time" : 2521.73899998888
+            }
+         ],
+         "download" : {
+            "s_time" : 2242.76900012046,
+            "id" : "download_87",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tags.crwdcntrl.net/c/206/cc_af.js",
+         "id" : "r163",
+         "comps" : [
+            {
+               "s_time" : 2748.77800000831,
+               "time" : 26.2919999659102,
+               "type" : null,
+               "id" : "comp_433",
+               "e_time" : 2775.06999997422
+            }
+         ],
+         "download" : {
+            "s_time" : 2536.99599998072,
+            "id" : "download_89",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=2474448885121024&output=json_html&callback=window.parent.googletag.impl.pubads.setAdContentsBySlotForAsync&impl=fifs&json_a=1&iu_parts=5441%2Cwka.wikia%2C_wikiaglobal%2Chome&enc_prev_ius=%2F0%2F1%2F2%2F%2F3%2C%2F0%2F1%2F2%2F%2F3&prev_iu_szs=728x90%7C1030x130%7C1030x65%7C1030x250%7C970x250%7C970x90%7C970x66%2C1x1&prev_scp=pos%3DCORP_TOP_LEADERBOARD%26loc%3Dtop%7Cpos%3DINVISIBLE_SKIN%26loc%3Dtop&cust_params=s0%3Dwikia%26s1%3D_wikiaglobal%26s2%3Dhome%26artid%3D1461%26dmn%3Dwikiacom%26hostpre%3Dwww%26wpage%3Dwikia%26lang%3Den%26ab%3D14_46%252C15_48%252C16_50%26hasp%3Dno%26src%3Dgpt&cookie_enabled=1&lmt=1377880720&dt=1378093878855&cc=100&biw=935&bih=999&oid=3&gut=v2&ifi=1&u_tz=-420&u_his=10&u_java=true&u_h=1152&u_w=2048&u_ah=1130&u_aw=1970&u_cd=24&u_nplug=6&u_nmime=93&u_sd=1&flash=11.8.800&url=http%3A%2F%2Fwww.wikia.com%2FWikia&adks=1210758339%2C450055926&vrg=25&vrp=25&ga_vid=648758689.1378093877&ga_sid=1378093877&ga_hid=477872727&ga_fc=true",
+         "id" : "r161",
+         "comps" : [
+            {
+               "s_time" : 2690.59000024572,
+               "time" : 3.46199981867994,
+               "type" : null,
+               "id" : "comp_424",
+               "e_time" : 2694.0520000644
+            }
+         ],
+         "download" : {
+            "s_time" : 2505.18900016323,
+            "id" : "download_90",
+            "type" : "text/javascript"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_90"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_95"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_98"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_100"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_102"
+      },
+      {
+         "a2" : "r1_c12",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_104"
+      },
+      {
+         "a2" : "r1_c13",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_106"
+      },
+      {
+         "a2" : "r1_c14",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_109"
+      },
+      {
+         "a2" : "comp_19",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "comp_20",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "comp_98",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_95"
+      },
+      {
+         "a2" : "comp_100",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_98"
+      },
+      {
+         "a2" : "comp_102",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_100"
+      },
+      {
+         "a2" : "comp_104",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_102"
+      },
+      {
+         "a2" : "comp_106",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_104"
+      },
+      {
+         "a2" : "download_89",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 696.84300012886,
+         "id" : "dep22",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 320.14900026843,
+         "id" : "dep23",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 322.38300004974,
+         "id" : "dep24",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 320.57800004258,
+         "id" : "dep25",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 319.22100018709,
+         "id" : "dep26",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 318.80600005388,
+         "id" : "dep27",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 318.39299993589,
+         "id" : "dep28",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 317.96800019219,
+         "id" : "dep29",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 317.49300006777,
+         "id" : "dep30",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 321.50400010868,
+         "id" : "dep31",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 321.04900013655,
+         "id" : "dep32",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 317.06400029361,
+         "id" : "dep33",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 316.0959999077,
+         "id" : "dep34",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 316.61299988627,
+         "id" : "dep35",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 315.6139999628,
+         "id" : "dep36",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 311.86200026422,
+         "id" : "dep37",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 322.83199997618,
+         "id" : "dep38",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 315.04700006917,
+         "id" : "dep39",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 313.9450000599,
+         "id" : "dep40",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 314.5670001395,
+         "id" : "dep41",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 313.39799985289,
+         "id" : "dep42",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 311.38500012457,
+         "id" : "dep43",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 312.86199996247,
+         "id" : "dep44",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 310.83900015801,
+         "id" : "dep45",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 310.34599989652,
+         "id" : "dep46",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 309.68800000846,
+         "id" : "dep47",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 307.96799995005,
+         "id" : "dep48",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 321.94299995899,
+         "id" : "dep49",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 312.38000001758,
+         "id" : "dep50",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 319.64100012555,
+         "id" : "dep51",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 307.50200012698,
+         "id" : "dep52",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 243.4189999476,
+         "id" : "dep53",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 146.95600001141,
+         "id" : "dep54",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 141.88800007104,
+         "id" : "dep55",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 126.08999991789,
+         "id" : "dep56",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 133.19500023499,
+         "id" : "dep57",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 47.43799986317,
+         "id" : "dep58",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 1.50600029154998,
+         "id" : "dep59",
+         "a1" : "r1_c14"
+      },
+      {
+         "a2" : "download_49",
+         "time" : -1,
+         "id" : "dep60",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 8.91199987380992,
+         "id" : "dep61",
+         "a1" : "r1_c13"
+      },
+      {
+         "a2" : "download_47",
+         "time" : -1,
+         "id" : "dep62",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 4.31000022218018,
+         "id" : "dep63",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 0.124000012870056,
+         "id" : "dep64",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_43",
+         "time" : -1,
+         "id" : "dep65",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 174.17499981821,
+         "id" : "dep66",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 3.77700012177002,
+         "id" : "dep67",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 2.50300019979022,
+         "id" : "dep68",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 2.50300019979022,
+         "id" : "dep69",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 4.77300025523004,
+         "id" : "dep70",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 2.96000018716018,
+         "id" : "dep71",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 3.38400015607021,
+         "id" : "dep72",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 31.1179999262099,
+         "id" : "dep73",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 31.1179999262099,
+         "id" : "dep74",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_35",
+         "time" : -1,
+         "id" : "dep75",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 7.27099971845803,
+         "id" : "dep76",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 82.802999764681,
+         "id" : "dep77",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 64.842999912799,
+         "id" : "dep78",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 64.3710000440479,
+         "id" : "dep79",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 82.384999841452,
+         "id" : "dep80",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 81.838000100106,
+         "id" : "dep81",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 50.975999794901,
+         "id" : "dep82",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 80.57799981907,
+         "id" : "dep83",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 1.48400012403704,
+         "id" : "dep84",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 12.666999828071,
+         "id" : "dep85",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 4.720999859274,
+         "id" : "dep86",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_17",
+         "time" : -1,
+         "id" : "dep87",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 17.796999774873,
+         "id" : "dep88",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 17.796999774873,
+         "id" : "dep89",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 22.398999892175,
+         "id" : "dep90",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_14",
+         "time" : -1,
+         "id" : "dep91",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 357.06300009042,
+         "id" : "dep92",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 12.6880002208054,
+         "id" : "dep93",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 7.7929999679327,
+         "id" : "dep94",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 10.4580000042915,
+         "id" : "dep95",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 9.7570000216365,
+         "id" : "dep96",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 12.1149998158216,
+         "id" : "dep97",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 6.23199995607131,
+         "id" : "dep98",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 8.6329998448491,
+         "id" : "dep99",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 9.19600017368791,
+         "id" : "dep100",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 14.6340001374483,
+         "id" : "dep101",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 14.6340001374483,
+         "id" : "dep102",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 13.1850000470876,
+         "id" : "dep103",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 11.5399998612702,
+         "id" : "dep104",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 10.939999949187,
+         "id" : "dep105",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 7.062999997288,
+         "id" : "dep106",
+         "a1" : "r1_c1"
+      }
+   ]
+}

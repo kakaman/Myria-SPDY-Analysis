@@ -1,0 +1,676 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.popads.net_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.popads.net/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 217.817000113428,
+               "time" : 133.874000050127,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 351.691000163555
+            },
+            {
+               "s_time" : 523.665999993682,
+               "time" : 0.097999814898003,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 523.76399980858
+            },
+            {
+               "s_time" : 524.7030002065,
+               "time" : 39.416999556125,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 564.119999762625
+            },
+            {
+               "s_time" : 566.943000070751,
+               "time" : 41.251999791711,
+               "type" : "evalhtml",
+               "id" : "r1_c4",
+               "e_time" : 608.194999862462
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/css/webp/front_set.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 344.32000014931,
+               "time" : 2.13999999687002,
+               "type" : 4,
+               "id" : "comp_4",
+               "e_time" : 346.46000014618
+            }
+         ],
+         "download" : {
+            "s_time" : 223.019999917597,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/js/various.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 523.816000204533,
+               "time" : 0.887000001966953,
+               "type" : 1,
+               "id" : "comp_10",
+               "e_time" : 524.7030002065
+            }
+         ],
+         "download" : {
+            "s_time" : 223.956999834627,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/js/jquery.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 433.288000058383,
+               "time" : 90.377999935299,
+               "type" : 1,
+               "id" : "comp_7",
+               "e_time" : 523.665999993682
+            }
+         ],
+         "download" : {
+            "s_time" : 223.582999780774,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/js/trustguard.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 559.018999803811,
+               "time" : 7.92400026694008,
+               "type" : 1,
+               "id" : "comp_14",
+               "e_time" : 566.943000070751
+            }
+         ],
+         "download" : {
+            "s_time" : 227.37199999392,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/nav/right.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 348.964000120759,
+            "id" : "download_5",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/nav/left.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 348.584999796003,
+            "id" : "download_6",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/input/members/left.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 349.353000055999,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/input/members/right.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 350.465000141412,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/btns/sign_in.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 350.920999888331,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/logo.png",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 348.189999815077,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/btns/sign_up.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 351.317000109702,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/icons/rss.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 351.691000163555,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r28",
+         "comps" : [
+            {
+               "s_time" : 660.953000187874,
+               "time" : 72.899999562651,
+               "type" : null,
+               "id" : "comp_86",
+               "e_time" : 733.852999750525
+            }
+         ],
+         "download" : {
+            "s_time" : 560.182000044733,
+            "id" : "download_13",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/container.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 597.893999889493,
+            "id" : "download_14",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/main/bg.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 598.296999931335,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/main/home.webp",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 598.977999761701,
+            "id" : "download_16",
+            "type" : "image/webp"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/main/bottom.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 598.63999998197,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/members/top.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 599.318999797106,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/members/bottom.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 599.653999786824,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/rounded/members/bg.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 600.010000169277,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/input/members/bg.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 600.345999933779,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/bg/dotted.png",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 600.676999893039,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/icons/core.png",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 602.359999902546,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/icons/scalable.png",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 602.727000135928,
+            "id" : "download_24",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/icons/on_time.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 604.927000124007,
+            "id" : "download_25",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/icons/financial.png",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 605.560999829322,
+            "id" : "download_26",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.popads.net/img/icons/blog.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 605.98099976778,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=688210115&utmhn=www.popads.net&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x1014&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=PopAds%20-%20Home&utmhid=106144414&utmr=-&utmp=%2F&utmht=1378095890405&utmac=UA-19696955-1&utmcc=__utma%3D89311364.2018919134.1378095890.1378095890.1378095890.1%3B%2B__utmz%3D89311364.1378095890.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qB~",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 729.150000028312,
+            "id" : "download_28",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://popads-trustguard.r.worldssl.net/security-5270-mini.gif",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 564.119999762625,
+            "id" : "download_29",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://popads-trustguard.r.worldssl.net/privacy-5270-mini.gif",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 606.374999973923,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://popads-trustguard.r.worldssl.net/certified-5270-mini.gif",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 608.194999862462,
+            "id" : "download_31",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://popads-trustguard.r.worldssl.net/business-5270-mini.gif",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 607.565999962389,
+            "id" : "download_32",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "comp_7",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "comp_10",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "download_32",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_31",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 39.4319999031719,
+         "id" : "dep8",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_29",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 68.196999840438,
+         "id" : "dep10",
+         "a1" : "comp_86"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 39.0379996970289,
+         "id" : "dep11",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 38.6179997585709,
+         "id" : "dep12",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 37.984000053256,
+         "id" : "dep13",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 35.784000065177,
+         "id" : "dep14",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 35.4169998317949,
+         "id" : "dep15",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 33.733999822288,
+         "id" : "dep16",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 33.402999863028,
+         "id" : "dep17",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 33.0670000985259,
+         "id" : "dep18",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 32.7109997160729,
+         "id" : "dep19",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 32.375999726355,
+         "id" : "dep20",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 31.696999911219,
+         "id" : "dep21",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 32.0349996909499,
+         "id" : "dep22",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 31.3539998605839,
+         "id" : "dep23",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 30.9509998187419,
+         "id" : "dep24",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 35.478999838233,
+         "id" : "dep25",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : -1,
+         "id" : "dep26",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 133.499999996274,
+         "id" : "dep27",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 130.372999701649,
+         "id" : "dep28",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 133.103999774903,
+         "id" : "dep29",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 132.648000027984,
+         "id" : "dep30",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 131.535999942571,
+         "id" : "dep31",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 130.767999682575,
+         "id" : "dep32",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 131.147000007331,
+         "id" : "dep33",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 9.55499988049201,
+         "id" : "dep34",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 9.55499988049201,
+         "id" : "dep35",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 5.76599966734599,
+         "id" : "dep36",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 6.13999972119899,
+         "id" : "dep37",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 6.13999972119899,
+         "id" : "dep38",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 5.202999804169,
+         "id" : "dep39",
+         "a1" : "r1_c1"
+      }
+   ]
+}

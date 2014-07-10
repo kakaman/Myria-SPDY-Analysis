@@ -1,0 +1,946 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.ameba.jp_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.ameba.jp/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 277.939999941736,
+               "time" : 17.328000161797,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 295.268000103533
+            },
+            {
+               "s_time" : 597.289999946952,
+               "time" : 0.064000021666061,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 597.353999968618
+            },
+            {
+               "s_time" : 930.331000126898,
+               "time" : 0.0530001707380734,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 930.384000297636
+            },
+            {
+               "s_time" : 931.303000077605,
+               "time" : 0.0330000184479786,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 931.336000096053
+            },
+            {
+               "s_time" : 932.06200003624,
+               "time" : 0.0390000641340293,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 932.101000100374
+            },
+            {
+               "s_time" : 933.116999920458,
+               "time" : 0.0470001250499763,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 933.164000045508
+            },
+            {
+               "s_time" : 934.390000067651,
+               "time" : 0.0399998389189022,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 934.42999990657
+            },
+            {
+               "s_time" : 934.805000200868,
+               "time" : 0.246999785303956,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 935.051999986172
+            },
+            {
+               "s_time" : 935.703000053763,
+               "time" : 0.0320002436639015,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 935.735000297427
+            },
+            {
+               "s_time" : 936.901000328362,
+               "time" : 0.0339997932310325,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 936.935000121593
+            },
+            {
+               "s_time" : 942.487000022084,
+               "time" : 44.5929998531931,
+               "id" : "r1_c11",
+               "type" : "evalhtml",
+               "e_time" : 987.079999875277
+            },
+            {
+               "s_time" : 994.458999950439,
+               "time" : 488.863999955351,
+               "type" : "evalhtml",
+               "id" : "r1_c12",
+               "e_time" : 1483.32299990579
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://spstatic.ameba.jp/js/a.js",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 936.962999869138,
+               "time" : 5.52400015294597,
+               "type" : 1,
+               "id" : "comp_25",
+               "e_time" : 942.487000022084
+            }
+         ],
+         "download" : {
+            "s_time" : 294.863000046462,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/css/user/login_130830.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 489.744000136852,
+               "time" : 0.930999871344,
+               "type" : 4,
+               "id" : "comp_4",
+               "e_time" : 490.675000008196
+            }
+         ],
+         "download" : {
+            "s_time" : 288.413000293076,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/css/common/common.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 571.96700014174,
+               "time" : 25.4409997724,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 597.40799991414
+            }
+         ],
+         "download" : {
+            "s_time" : 287.953000050038,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/swfobject.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 574.256000109017,
+               "time" : 23.033999837935,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 597.289999946952
+            }
+         ],
+         "download" : {
+            "s_time" : 288.786999881268,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/thickbox.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 930.434999987483,
+               "time" : 0.868000090121996,
+               "type" : 1,
+               "id" : "comp_10",
+               "e_time" : 931.303000077605
+            }
+         ],
+         "download" : {
+            "s_time" : 289.68199994415,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/tourOpen.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 931.364000309259,
+               "time" : 0.697999726980925,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 932.06200003624
+            }
+         ],
+         "download" : {
+            "s_time" : 290.13800015673,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/jquery.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 867.434999905527,
+               "time" : 62.896000221371,
+               "type" : 1,
+               "id" : "comp_8",
+               "e_time" : 930.331000126898
+            }
+         ],
+         "download" : {
+            "s_time" : 289.175000041723,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/login.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 932.132000103593,
+               "time" : 0.98499981686507,
+               "type" : 1,
+               "id" : "comp_14",
+               "e_time" : 933.116999920458
+            }
+         ],
+         "download" : {
+            "s_time" : 290.560000110418,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/md5.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 933.20000031963,
+               "time" : 1.18999974802102,
+               "type" : 1,
+               "id" : "comp_16",
+               "e_time" : 934.390000067651
+            }
+         ],
+         "download" : {
+            "s_time" : 291.025000158697,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/login/top/setchgcolor.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 934.460999909788,
+               "time" : 0.344000291079965,
+               "type" : 1,
+               "id" : "comp_18",
+               "e_time" : 934.805000200868
+            }
+         ],
+         "download" : {
+            "s_time" : 293.651999905705,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/ameba/common/clicklog.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 935.076999943703,
+               "time" : 0.62600011006009,
+               "type" : 1,
+               "id" : "comp_21",
+               "e_time" : 935.703000053763
+            }
+         ],
+         "download" : {
+            "s_time" : 294.07999990508,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/js/library/swfobject.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 935.763000044972,
+               "time" : 1.13800028338994,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 936.901000328362
+            }
+         ],
+         "download" : {
+            "s_time" : 294.455999974161,
+            "id" : "download_12",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ot.ca-mpr.jp/s/pc/10/?i4ot=4",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 987.11400013417,
+               "time" : 7.34499981626891,
+               "type" : 1,
+               "id" : "comp_28",
+               "e_time" : 994.458999950439
+            }
+         ],
+         "download" : {
+            "s_time" : 295.268000103533,
+            "id" : "download_13",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 1380.73599990457,
+               "time" : 92.8270001895801,
+               "type" : null,
+               "id" : "comp_45",
+               "e_time" : 1473.56300009415
+            }
+         ],
+         "download" : {
+            "s_time" : 947.025000117719,
+            "id" : "download_14",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://vc.ameba.jp/view?vci=1013",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 947.453999891877,
+            "id" : "download_15",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://spstatic.ameba.jp/js/swfobject.js",
+         "id" : "r32",
+         "comps" : [
+            {
+               "s_time" : 1473.60499994829,
+               "time" : 1.22500024735996,
+               "type" : null,
+               "id" : "comp_47",
+               "e_time" : 1474.83000019565
+            }
+         ],
+         "download" : {
+            "s_time" : 1215.0790002197,
+            "id" : "download_16",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/ameba/common/icons/ico_question.gif",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1215.91900009662,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/bg_loginbox_bottom.gif",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1217.44800033048,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/bg_loginbox.gif",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1216.702000238,
+            "id" : "download_19",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/common/logo_top.gif",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1215.547000058,
+            "id" : "download_20",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/common/icon/detail_link1.gif",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1216.31899988279,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/bg_loginbox_top.gif",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1217.0810000971,
+            "id" : "download_22",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/line_loginbox.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1217.81700011343,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/btn_loginbox_regist.gif",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1218.21100031957,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://d-track.send.microad.jp/bl_track.cgi?co_account_id=1909&group=&country_id=1&ver=&referrer=",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 996.931000147015,
+            "id" : "download_25",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/txt_loginbox_amebaid.gif",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1218.57600007206,
+            "id" : "download_26",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/home/img/top/txt_loginbox_pwd.gif",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1218.94300030544,
+            "id" : "download_27",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/common/icon/arrow12.gif",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1219.70500005409,
+            "id" : "download_28",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/home_common/top/btn_login.gif",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1219.33600027114,
+            "id" : "download_29",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=820815068&utmhn=www.ameba.jp&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Ameba%20(%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90)%EF%BD%9C%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%26%E3%82%B2%E3%83%BC%E3%83%A0%201%E4%B8%87%E4%BA%BA%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%8A%B8%E8%83%BD%E4%BA%BA%E3%83%96%E3%83%AD%E3%82%B0%E3%82%84%E5%AE%9A%E7%95%AA%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90%E3%83%94%E3%82%B0%E3%81%A7%E9%81%8A%E3%81%BC%E3%81%86%E2%99%AA&utmhid=1916379453&utmr=-&utmp=%2F&utmht=1378100814062&utmac=UA-7203563-6&utmcc=__utma%3D257183131.144515533.1378100814.1378100814.1378100814.1%3B%2B__utmz%3D257183131.1378100814.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1466.53300011531,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/ameba/common/ameba_sp_qrcode.gif",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1220.05800018087,
+            "id" : "download_31",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stat100.ameba.jp/common_style/img/ameba/common/logos/logo_cyber.gif",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1220.41100030765,
+            "id" : "download_32",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ameba.d.ad-cloud.jp/ad/jsonp/?sid=9ec4725ccb0eae1b3fa3f19e668b871e3a3b9db9f95138842a702d3357e7e74f&url=http%3A//www.ameba.jp/&ref=&cb=amebaAdCallBack&rnd=351",
+         "id" : "r34",
+         "comps" : [
+            {
+               "s_time" : 1999.85999986529,
+               "time" : 9.38600022345986,
+               "type" : null,
+               "id" : "comp_60",
+               "e_time" : 2009.24600008875
+            }
+         ],
+         "download" : {
+            "s_time" : 1479.78499997407,
+            "id" : "download_33",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ameba.d.ad-cloud.jp/ad/jsonp/?sid=9ec4725ccb0eae1b3fa3f19e668b871e42e35b8b9ae3ae8f2161322c30de52af&url=http%3A//www.ameba.jp/&ref=&cb=amebaAdCallBack&rnd=357",
+         "id" : "r35",
+         "comps" : [
+            {
+               "s_time" : 2015.76399989426,
+               "time" : 9.21700010076006,
+               "type" : null,
+               "id" : "comp_71",
+               "e_time" : 2024.98099999502
+            }
+         ],
+         "download" : {
+            "s_time" : 1483.32299990579,
+            "id" : "download_34",
+            "type" : "text/javascript"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_21"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_25"
+      },
+      {
+         "a2" : "r1_c12",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_28"
+      },
+      {
+         "a2" : "comp_6",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_6",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_10",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_12",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "comp_14",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "comp_16",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_14"
+      },
+      {
+         "a2" : "comp_18",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "comp_23",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_21"
+      },
+      {
+         "a2" : "comp_25",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "download_34",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 485.326000023631,
+         "id" : "dep23",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 225.952000357211,
+         "id" : "dep24",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 225.599000230431,
+         "id" : "dep25",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 85.79700021074,
+         "id" : "dep26",
+         "a1" : "comp_45"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 224.877000320701,
+         "id" : "dep27",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 225.246000103651,
+         "id" : "dep28",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 224.484000355001,
+         "id" : "dep29",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 224.117000121621,
+         "id" : "dep30",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 2.472000196576,
+         "id" : "dep31",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 223.752000369131,
+         "id" : "dep32",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 223.358000162991,
+         "id" : "dep33",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 222.622000146661,
+         "id" : "dep34",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 221.859999932351,
+         "id" : "dep35",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 221.088000107561,
+         "id" : "dep36",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 222.243000287561,
+         "id" : "dep37",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 222.989000380041,
+         "id" : "dep38",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 221.460000146181,
+         "id" : "dep39",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 220.620000269261,
+         "id" : "dep40",
+         "a1" : "r1_c12"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 4.96699986979297,
+         "id" : "dep41",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 4.53800009563497,
+         "id" : "dep42",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_13",
+         "time" : -1,
+         "id" : "dep43",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 16.516000032425,
+         "id" : "dep44",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 16.139999963344,
+         "id" : "dep45",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 15.711999963969,
+         "id" : "dep46",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 13.085000216961,
+         "id" : "dep47",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 12.620000168682,
+         "id" : "dep48",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 11.235000099987,
+         "id" : "dep49",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 12.198000214994,
+         "id" : "dep50",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 11.742000002414,
+         "id" : "dep51",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 10.846999939532,
+         "id" : "dep52",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 10.013000108302,
+         "id" : "dep53",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 10.47300035134,
+         "id" : "dep54",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 16.923000104726,
+         "id" : "dep55",
+         "a1" : "r1_c1"
+      }
+   ]
+}

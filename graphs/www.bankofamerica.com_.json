@@ -1,0 +1,398 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.bankofamerica.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "https://www.bankofamerica.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 3542.02200006694,
+               "time" : 11.50800008326,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 3553.5300001502
+            },
+            {
+               "s_time" : 3795.54900014773,
+               "time" : 31.3369999639699,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 3826.8860001117
+            },
+            {
+               "s_time" : 4098.7680000253,
+               "time" : 4676.10700009391,
+               "type" : "evalhtml",
+               "id" : "r1_c3",
+               "e_time" : 8774.87500011921
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/PBI-HOMEPAGE/1.9/style/pbi-homepagejawr.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 3727.81000006944,
+               "time" : 0.547999981790326,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 3728.35800005123
+            }
+         ],
+         "download" : {
+            "s_time" : 3548.68499981239,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/Global/1.0/script/tealeafbundle.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 3762.27500010282,
+               "time" : 33.2740000449103,
+               "type" : 1,
+               "id" : "comp_4",
+               "e_time" : 3795.54900014773
+            }
+         ],
+         "download" : {
+            "s_time" : 3548.22399979457,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/PBI-HOMEPAGE/1.9/script/pbi-homepagebottomjawr.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 3918.12699986622,
+               "time" : 180.64100015908,
+               "type" : 1,
+               "id" : "comp_26",
+               "e_time" : 4098.7680000253
+            }
+         ],
+         "download" : {
+            "s_time" : 3553.5300001502,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/pa/components/bundles/gzip-compressed/xengine/PBI-HOMEPAGE/1.9/script/pbi-homepagetaggingjawr.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 4271.60499989986,
+               "time" : 56.0910003259805,
+               "type" : 2,
+               "id" : "comp_55",
+               "e_time" : 4327.69600022584
+            }
+         ],
+         "download" : {
+            "s_time" : 4172.40000003949,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/pa/global-assets/1.0/graphic/homepage/hp-static-sprite-v2.png",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4251.35000003502,
+            "id" : "download_5",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://1359940.fls.doubleclick.net/activityi;src=1359940;type=front061;cat=2010b535;ord=1;num=1727416338399.0527",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 4421.56499996781,
+               "time" : 0.268000178039983,
+               "type" : "evalhtml",
+               "id" : "r7_c1",
+               "e_time" : 4421.83300014585
+            }
+         ],
+         "download" : {
+            "s_time" : 4273.69800023735,
+            "id" : "download_6",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/pa/global-assets/1.0/graphic/oo_icon.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4335.38099983707,
+            "id" : "download_7",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/mbox/ajax?mboxHost=www.bankofamerica.com&mboxSession=1378094004247-698362&mboxPage=1378094004393-43654&screenHeight=1152&screenWidth=2048&browserWidth=952&browserHeight=1014&browserTimeOffset=-420&colorDepth=24&mboxXDomain=enabled&mboxCount=1&mbox=BOA_MVT_TOP&mboxId=0&mboxTime=1378068804381&mboxURL=https%3A%2F%2Fwww.bankofamerica.com%2F&mboxReferrer=&mboxVersion=41",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 4452.95900013298,
+               "time" : 7.61199975385989,
+               "type" : null,
+               "id" : "comp_63",
+               "e_time" : 4460.57099988684
+            }
+         ],
+         "download" : {
+            "s_time" : 4241.65099998936,
+            "id" : "download_8",
+            "type" : "text/plain"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/mbox/ajax?mboxHost=www.bankofamerica.com&mboxSession=1378094004247-698362&mboxPage=1378094004395-640310&screenHeight=1152&screenWidth=2048&browserWidth=952&browserHeight=1014&browserTimeOffset=-420&colorDepth=24&mboxXDomain=enabled&mboxCount=2&profile.tc_lang=en_US&profile.BOA_HPR=null&profile.BA_0021=null&profile.state=null&profile.BOA_0020=999&mbox=BOA_HOME_SIGNON_HERO&mboxId=0&mboxTime=1378068804383&mboxURL=https%3A%2F%2Fwww.bankofamerica.com%2F&mboxReferrer=&mboxVersion=41&mboxXDomainCheck=true",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4453.74799985439,
+            "id" : "download_9",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/mbox/ajax?mboxHost=www.bankofamerica.com&mboxSession=1378094004247-698362&mboxPage=1378094004398-821653&screenHeight=1152&screenWidth=2048&browserWidth=952&browserHeight=1014&browserTimeOffset=-420&colorDepth=24&mboxXDomain=enabled&mboxCount=3&profile.tc_lang=en_US&profile.BOA_HPR=null&profile.BA_0021=null&profile.state=null&profile.BOA_0020=999&mbox=BOA_HOME_SIGNON_SERVICE_01&mboxId=0&mboxTime=1378068804384&mboxURL=https%3A%2F%2Fwww.bankofamerica.com%2F&mboxReferrer=&mboxVersion=41&mboxXDomainCheck=true",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4454.45099985227,
+            "id" : "download_10",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/mbox/ajax?mboxHost=www.bankofamerica.com&mboxSession=1378094004247-698362&mboxPage=1378094004402-248025&screenHeight=1152&screenWidth=2048&browserWidth=952&browserHeight=1014&browserTimeOffset=-420&colorDepth=24&mboxXDomain=enabled&mboxCount=5&profile.tc_lang=en_US&profile.BOA_HPR=null&profile.BA_0021=null&profile.state=null&profile.BOA_0020=999&mbox=BOA_HOME_SIGNON_SERVICE_03&mboxId=0&mboxTime=1378068804389&mboxURL=https%3A%2F%2Fwww.bankofamerica.com%2F&mboxReferrer=&mboxVersion=41&mboxXDomainCheck=true",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4463.46799982712,
+            "id" : "download_11",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/mbox/ajax?mboxHost=www.bankofamerica.com&mboxSession=1378094004247-698362&mboxPage=1378094004399-559487&screenHeight=1152&screenWidth=2048&browserWidth=952&browserHeight=1014&browserTimeOffset=-420&colorDepth=24&mboxXDomain=enabled&mboxCount=4&profile.tc_lang=en_US&profile.BOA_HPR=null&profile.BA_0021=null&profile.state=null&profile.BOA_0020=999&mbox=BOA_HOME_SIGNON_SERVICE_02&mboxId=0&mboxTime=1378068804385&mboxURL=https%3A%2F%2Fwww.bankofamerica.com%2F&mboxReferrer=&mboxVersion=41&mboxXDomainCheck=true",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4464.31900002062,
+            "id" : "download_12",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Marketing/Heroes/en_US/hm_cr-icon_arc00c23-s.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4517.53100007772,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Marketing/Highlights/en_US/sc_secureaccess_arfef8dc_s.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4520.01099986956,
+            "id" : "download_14",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Marketing/Highlights/en_US/sc_tyga_are78d21_s.gif",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4542.16299997643,
+            "id" : "download_15",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Marketing/Highlights/en_US/sc_payyour_ar935f4e_s.gif",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4543.42499980703,
+            "id" : "download_16",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://sofa.bankofamerica.com/cm?tid=2&ci=90010394&vn2=e4.0&st=1378094004442&vn1=4.2.7.1BOA&ec=utf-8&pi=homepage%3AContent%3APersonal%3Bhome_personal&cd=20130902%3A0%3AO%3Ac9badbcb-399f-4ef4-83635264596739c8&cg=homepage%3AContent%3APersonal&rg1=20130902%3A0%3AO%3Ac9badbcb-399f-4ef4-83635264596739c8&rg11=0&li=101&ps1=20130902%3A0%3AO%3Ac9badbcb-399f-4ef4-83635264596739c8&ps4=0&pc=N&rnd=1378096103967&ul=https%3A//www.bankofamerica.com/&cvdone=p&cck=",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 8774.87500011921,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_26"
+      },
+      {
+         "a2" : "download_17",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 444.65699978173,
+         "id" : "dep4",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 443.39499995113,
+         "id" : "dep5",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 421.242999844259,
+         "id" : "dep6",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 418.76300005242,
+         "id" : "dep7",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 365.550999995319,
+         "id" : "dep8",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 364.69999980182,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 1.49199971929011,
+         "id" : "dep10",
+         "a1" : "comp_63"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 0.788999721410619,
+         "id" : "dep11",
+         "a1" : "comp_63"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 142.882999964059,
+         "id" : "dep12",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 236.612999811769,
+         "id" : "dep13",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 174.93000021205,
+         "id" : "dep14",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 152.582000009719,
+         "id" : "dep15",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 73.6320000141895,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_3",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 11.50800008326,
+         "id" : "dep18",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 6.20199972762975,
+         "id" : "dep19",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 6.66299974544972,
+         "id" : "dep20",
+         "a1" : "r1_c1"
+      }
+   ]
+}

@@ -1,0 +1,428 @@
+{"page": "blogfa.com_"}
+{"DOMLoad": 2262638.857585}
+{"Resource": {"id": 1, "url": "http://blogfa.com/", "sentTime": -1.000000, "len": 11729, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 84, "connReused": 0, "cached": 0,                            "requestTime": 2262637.344247, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 33, "dnsEnd": 185, "connectStart": 33, "connectEnd": 257, "sendStart": 257, "sendEnd": 258, "receiveHeadersEnd": 332, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262637.690704, "len": 2207}}
+{"ReceivedChunk": {"receivedTime": 2262637.721247, "len": 4189}}
+{"ReceivedChunk": {"receivedTime": 2262637.878783, "len": 5333}}
+{"ObjectHash": {"code": "0x44fa30", "doc": "http://blogfa.com/", "row": 2, "column": 6, "tagName": "html", "time": 2262637.711558, "url": "", "pos": 25, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x44fff0", "doc": "http://blogfa.com/", "row": 3, "column": 7, "tagName": "head", "time": 2262637.711833, "url": "", "pos": 34, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4501a0", "doc": "http://blogfa.com/", "row": 4, "column": 9, "tagName": "title", "time": 2262637.711874, "url": "", "pos": 45, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d1e0", "doc": "http://blogfa.com/", "row": 4, "column": 70, "tagName": "title", "time": 2262637.715967, "url": "", "pos": 106, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d2e0", "doc": "http://blogfa.com/", "row": 5, "column": 70, "tagName": "meta", "time": 2262637.716000, "url": "", "pos": 178, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d650", "doc": "http://blogfa.com/", "row": 6, "column": 77, "tagName": "meta", "time": 2262637.716034, "url": "", "pos": 257, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d380", "doc": "http://blogfa.com/", "row": 7, "column": 112, "tagName": "meta", "time": 2262637.716062, "url": "", "pos": 371, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d7f0", "doc": "http://blogfa.com/", "row": 8, "column": 75, "tagName": "meta", "time": 2262637.716079, "url": "", "pos": 448, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45da70", "doc": "http://blogfa.com/", "row": 9, "column": 70, "tagName": "link", "time": 2262637.716096, "url": "http://blogfa.com/static/css/theme.css", "pos": 520, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45df20", "doc": "http://blogfa.com/", "row": 10, "column": 8, "tagName": "head", "time": 2262637.719516, "url": "", "pos": 530, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45eee0", "doc": "http://blogfa.com/", "row": 11, "column": 7, "tagName": "body", "time": 2262637.719528, "url": "", "pos": 539, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f030", "doc": "http://blogfa.com/", "row": 12, "column": 21, "tagName": "div", "time": 2262637.719574, "url": "", "pos": 562, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f100", "doc": "http://blogfa.com/", "row": 13, "column": 21, "tagName": "div", "time": 2262637.719611, "url": "", "pos": 585, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f1c0", "doc": "http://blogfa.com/", "row": 16, "column": 15, "tagName": "div", "time": 2262637.719625, "url": "", "pos": 607, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f270", "doc": "http://blogfa.com/", "row": 16, "column": 21, "tagName": "div", "time": 2262637.719634, "url": "", "pos": 613, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f310", "doc": "http://blogfa.com/", "row": 18, "column": 16, "tagName": "div", "time": 2262637.719650, "url": "", "pos": 634, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f400", "doc": "http://blogfa.com/", "row": 19, "column": 16, "tagName": "div", "time": 2262637.719662, "url": "", "pos": 652, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f4b0", "doc": "http://blogfa.com/", "row": 19, "column": 22, "tagName": "div", "time": 2262637.719671, "url": "", "pos": 658, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f5b0", "doc": "http://blogfa.com/", "row": 20, "column": 19, "tagName": "div", "time": 2262637.719682, "url": "", "pos": 690, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f640", "doc": "http://blogfa.com/", "row": 20, "column": 25, "tagName": "div", "time": 2262637.719690, "url": "", "pos": 696, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f6f0", "doc": "http://blogfa.com/", "row": 21, "column": 20, "tagName": "div", "time": 2262637.719697, "url": "", "pos": 718, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f770", "doc": "http://blogfa.com/", "row": 21, "column": 26, "tagName": "div", "time": 2262637.719705, "url": "", "pos": 724, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f810", "doc": "http://blogfa.com/", "row": 22, "column": 17, "tagName": "div", "time": 2262637.719712, "url": "", "pos": 743, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f8a0", "doc": "http://blogfa.com/", "row": 22, "column": 23, "tagName": "div", "time": 2262637.719721, "url": "", "pos": 749, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45f920", "doc": "http://blogfa.com/", "row": 23, "column": 18, "tagName": "div", "time": 2262637.719728, "url": "", "pos": 769, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45f9c0", "doc": "http://blogfa.com/", "row": 23, "column": 24, "tagName": "div", "time": 2262637.719736, "url": "", "pos": 775, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45faf0", "doc": "http://blogfa.com/", "row": 24, "column": 75, "tagName": "img", "time": 2262637.719750, "url": "", "pos": 852, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45fec0", "doc": "http://blogfa.com/", "row": 25, "column": 19, "tagName": "div", "time": 2262637.720123, "url": "", "pos": 875, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45fe00", "doc": "http://blogfa.com/", "row": 27, "column": 19, "tagName": "div", "time": 2262637.720138, "url": "", "pos": 899, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4601b0", "doc": "http://blogfa.com/", "row": 28, "column": 18, "tagName": "div", "time": 2262637.720151, "url": "", "pos": 919, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460310", "doc": "http://blogfa.com/", "row": 29, "column": 38, "tagName": "a", "time": 2262637.720165, "url": "", "pos": 959, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460450", "doc": "http://blogfa.com/", "row": 29, "column": 51, "tagName": "a", "time": 2262637.720217, "url": "", "pos": 972, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4605e0", "doc": "http://blogfa.com/", "row": 29, "column": 79, "tagName": "font", "time": 2262637.720240, "url": "", "pos": 1000, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460670", "doc": "http://blogfa.com/", "row": 29, "column": 87, "tagName": "font", "time": 2262637.720259, "url": "", "pos": 1008, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460770", "doc": "http://blogfa.com/", "row": 30, "column": 46, "tagName": "a", "time": 2262637.720271, "url": "", "pos": 1062, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460880", "doc": "http://blogfa.com/", "row": 30, "column": 62, "tagName": "a", "time": 2262637.720283, "url": "", "pos": 1078, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460b40", "doc": "http://blogfa.com/", "row": 30, "column": 90, "tagName": "font", "time": 2262637.720291, "url": "", "pos": 1106, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460be0", "doc": "http://blogfa.com/", "row": 30, "column": 98, "tagName": "font", "time": 2262637.720301, "url": "", "pos": 1114, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460ce0", "doc": "http://blogfa.com/", "row": 31, "column": 29, "tagName": "a", "time": 2262637.720311, "url": "", "pos": 1151, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460db0", "doc": "http://blogfa.com/", "row": 31, "column": 47, "tagName": "a", "time": 2262637.720321, "url": "", "pos": 1169, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460e60", "doc": "http://blogfa.com/", "row": 31, "column": 75, "tagName": "font", "time": 2262637.720329, "url": "", "pos": 1197, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x460f20", "doc": "http://blogfa.com/", "row": 31, "column": 83, "tagName": "font", "time": 2262637.720340, "url": "", "pos": 1205, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x460f80", "doc": "http://blogfa.com/", "row": 32, "column": 22, "tagName": "a", "time": 2262637.720359, "url": "", "pos": 1235, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4610b0", "doc": "http://blogfa.com/", "row": 32, "column": 32, "tagName": "a", "time": 2262637.720370, "url": "", "pos": 1245, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4611c0", "doc": "http://blogfa.com/", "row": 32, "column": 60, "tagName": "font", "time": 2262637.720379, "url": "", "pos": 1273, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461260", "doc": "http://blogfa.com/", "row": 32, "column": 68, "tagName": "font", "time": 2262637.720389, "url": "", "pos": 1281, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461390", "doc": "http://blogfa.com/", "row": 32, "column": 126, "tagName": "a", "time": 2262637.720400, "url": "", "pos": 1339, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4614c0", "doc": "http://blogfa.com/", "row": 33, "column": 20, "tagName": "a", "time": 2262637.720439, "url": "", "pos": 1361, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4615a0", "doc": "http://blogfa.com/", "row": 33, "column": 48, "tagName": "font", "time": 2262637.720448, "url": "", "pos": 1389, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461620", "doc": "http://blogfa.com/", "row": 33, "column": 56, "tagName": "font", "time": 2262637.720458, "url": "", "pos": 1397, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461700", "doc": "http://blogfa.com/", "row": 33, "column": 83, "tagName": "a", "time": 2262637.720467, "url": "", "pos": 1424, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4617e0", "doc": "http://blogfa.com/", "row": 34, "column": 17, "tagName": "a", "time": 2262637.720478, "url": "", "pos": 1449, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4618c0", "doc": "http://blogfa.com/", "row": 34, "column": 45, "tagName": "font", "time": 2262637.720486, "url": "", "pos": 1477, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461950", "doc": "http://blogfa.com/", "row": 34, "column": 53, "tagName": "font", "time": 2262637.720496, "url": "", "pos": 1485, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4619c0", "doc": "http://blogfa.com/", "row": 34, "column": 76, "tagName": "a", "time": 2262637.720505, "url": "", "pos": 1508, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461130", "doc": "http://blogfa.com/", "row": 34, "column": 105, "tagName": "a", "time": 2262637.720517, "url": "", "pos": 1537, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461c30", "doc": "http://blogfa.com/", "row": 34, "column": 133, "tagName": "font", "time": 2262637.720525, "url": "", "pos": 1565, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461cd0", "doc": "http://blogfa.com/", "row": 34, "column": 141, "tagName": "font", "time": 2262637.720534, "url": "", "pos": 1573, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461dd0", "doc": "http://blogfa.com/", "row": 35, "column": 41, "tagName": "a", "time": 2262637.720544, "url": "", "pos": 1616, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461eb0", "doc": "http://blogfa.com/", "row": 36, "column": 20, "tagName": "a", "time": 2262637.720555, "url": "", "pos": 1638, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x461f90", "doc": "http://blogfa.com/", "row": 36, "column": 48, "tagName": "font", "time": 2262637.720563, "url": "", "pos": 1666, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462020", "doc": "http://blogfa.com/", "row": 36, "column": 56, "tagName": "font", "time": 2262637.720582, "url": "", "pos": 1674, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x462100", "doc": "http://blogfa.com/", "row": 36, "column": 95, "tagName": "a", "time": 2262637.720593, "url": "", "pos": 1713, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4621f0", "doc": "http://blogfa.com/", "row": 37, "column": 20, "tagName": "a", "time": 2262637.720604, "url": "", "pos": 1735, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x462280", "doc": "http://blogfa.com/", "row": 38, "column": 10, "tagName": "div", "time": 2262637.720609, "url": "", "pos": 1750, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x462300", "doc": "http://blogfa.com/", "row": 39, "column": 10, "tagName": "div", "time": 2262637.720615, "url": "", "pos": 1762, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4623f0", "doc": "http://blogfa.com/", "row": 43, "column": 93, "tagName": "div", "time": 2262637.720631, "url": "", "pos": 1877, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4627d0", "doc": "http://blogfa.com/", "row": 45, "column": 22, "tagName": "div", "time": 2262637.720702, "url": "", "pos": 1903, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462870", "doc": "http://blogfa.com/", "row": 46, "column": 24, "tagName": "div", "time": 2262637.720716, "url": "", "pos": 1929, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x461a80", "doc": "http://blogfa.com/", "row": 47, "column": 24, "tagName": "div", "time": 2262637.720730, "url": "", "pos": 1955, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462b70", "doc": "http://blogfa.com/", "row": 47, "column": 41, "tagName": "div", "time": 2262637.720741, "url": "", "pos": 1972, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x462bf0", "doc": "http://blogfa.com/", "row": 48, "column": 10, "tagName": "div", "time": 2262637.720747, "url": "", "pos": 1984, "chunkLen": 2091, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x462c50", "doc": "http://blogfa.com/", "row": 49, "column": 25, "tagName": "div", "time": 2262637.720753, "url": "", "pos": 2011, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462de0", "doc": "http://blogfa.com/", "row": 50, "column": 64, "tagName": "form", "time": 2262637.720769, "url": "", "pos": 2077, "chunkLen": 2091, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45d260", "doc": "http://blogfa.com/", "row": 51, "column": 58, "tagName": "input", "time": 2262637.721350, "url": "", "pos": 2137, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463900", "doc": "http://blogfa.com/", "row": 52, "column": 53, "tagName": "table", "time": 2262637.721596, "url": "", "pos": 2192, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463a00", "doc": "http://blogfa.com/", "row": 53, "column": 11, "tagName": "tr", "time": 2262637.721627, "url": "", "pos": 2205, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463b30", "doc": "http://blogfa.com/", "row": 54, "column": 24, "tagName": "td", "time": 2262637.721655, "url": "", "pos": 2231, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463c80", "doc": "http://blogfa.com/", "row": 54, "column": 40, "tagName": "td", "time": 2262637.721668, "url": "", "pos": 2247, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x463d10", "doc": "http://blogfa.com/", "row": 55, "column": 24, "tagName": "td", "time": 2262637.721675, "url": "", "pos": 2273, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463ed0", "doc": "http://blogfa.com/", "row": 56, "column": 91, "tagName": "input", "time": 2262637.721695, "url": "", "pos": 2366, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x463df0", "doc": "http://blogfa.com/", "row": 56, "column": 96, "tagName": "td", "time": 2262637.721763, "url": "", "pos": 2371, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x464200", "doc": "http://blogfa.com/", "row": 57, "column": 12, "tagName": "tr", "time": 2262637.721767, "url": "", "pos": 2385, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4642d0", "doc": "http://blogfa.com/", "row": 58, "column": 11, "tagName": "tr", "time": 2262637.721774, "url": "", "pos": 2398, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464390", "doc": "http://blogfa.com/", "row": 59, "column": 24, "tagName": "td", "time": 2262637.721785, "url": "", "pos": 2424, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464470", "doc": "http://blogfa.com/", "row": 59, "column": 39, "tagName": "td", "time": 2262637.721797, "url": "", "pos": 2439, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4644e0", "doc": "http://blogfa.com/", "row": 60, "column": 24, "tagName": "td", "time": 2262637.721802, "url": "", "pos": 2465, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x462a60", "doc": "http://blogfa.com/", "row": 61, "column": 99, "tagName": "input", "time": 2262637.721821, "url": "", "pos": 2566, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4629e0", "doc": "http://blogfa.com/", "row": 61, "column": 104, "tagName": "td", "time": 2262637.721869, "url": "", "pos": 2571, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4649a0", "doc": "http://blogfa.com/", "row": 62, "column": 12, "tagName": "tr", "time": 2262637.721873, "url": "", "pos": 2585, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x464b40", "doc": "http://blogfa.com/", "row": 63, "column": 11, "tagName": "tr", "time": 2262637.721879, "url": "", "pos": 2598, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464c20", "doc": "http://blogfa.com/", "row": 64, "column": 36, "tagName": "td", "time": 2262637.721891, "url": "", "pos": 2636, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464cc0", "doc": "http://blogfa.com/", "row": 65, "column": 27, "tagName": "p", "time": 2262637.721906, "url": "", "pos": 2665, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464e90", "doc": "http://blogfa.com/", "row": 65, "column": 123, "tagName": "input", "time": 2262637.721931, "url": "", "pos": 2761, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464da0", "doc": "http://blogfa.com/", "row": 65, "column": 127, "tagName": "p", "time": 2262637.722001, "url": "", "pos": 2765, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465100", "doc": "http://blogfa.com/", "row": 66, "column": 13, "tagName": "td", "time": 2262637.722008, "url": "", "pos": 2780, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465200", "doc": "http://blogfa.com/", "row": 67, "column": 12, "tagName": "tr", "time": 2262637.722012, "url": "", "pos": 2794, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4652a0", "doc": "http://blogfa.com/", "row": 68, "column": 36, "tagName": "tr", "time": 2262637.722020, "url": "", "pos": 2832, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4653f0", "doc": "http://blogfa.com/", "row": 69, "column": 51, "tagName": "td", "time": 2262637.722046, "url": "", "pos": 2885, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465490", "doc": "http://blogfa.com/", "row": 70, "column": 50, "tagName": "a", "time": 2262637.722063, "url": "", "pos": 2937, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465630", "doc": "http://blogfa.com/", "row": 70, "column": 76, "tagName": "a", "time": 2262637.722076, "url": "", "pos": 2963, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465660", "doc": "http://blogfa.com/", "row": 70, "column": 80, "tagName": "br", "time": 2262637.722080, "url": "", "pos": 2967, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4656f0", "doc": "http://blogfa.com/", "row": 71, "column": 39, "tagName": "a", "time": 2262637.722093, "url": "", "pos": 3008, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465860", "doc": "http://blogfa.com/", "row": 71, "column": 67, "tagName": "a", "time": 2262637.722104, "url": "", "pos": 3036, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465890", "doc": "http://blogfa.com/", "row": 71, "column": 71, "tagName": "br", "time": 2262637.722107, "url": "", "pos": 3040, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465920", "doc": "http://blogfa.com/", "row": 72, "column": 62, "tagName": "a", "time": 2262637.722119, "url": "", "pos": 3104, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465b50", "doc": "http://blogfa.com/", "row": 72, "column": 99, "tagName": "a", "time": 2262637.722294, "url": "", "pos": 3141, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4659d0", "doc": "http://blogfa.com/", "row": 72, "column": 103, "tagName": "br", "time": 2262637.722322, "url": "", "pos": 3145, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465c40", "doc": "http://blogfa.com/", "row": 73, "column": 13, "tagName": "td", "time": 2262637.722333, "url": "", "pos": 3160, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x464550", "doc": "http://blogfa.com/", "row": 74, "column": 12, "tagName": "tr", "time": 2262637.722338, "url": "", "pos": 3174, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4645b0", "doc": "http://blogfa.com/", "row": 75, "column": 14, "tagName": "table", "time": 2262637.722344, "url": "", "pos": 3190, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x464610", "doc": "http://blogfa.com/", "row": 76, "column": 12, "tagName": "form", "time": 2262637.722353, "url": "", "pos": 3204, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x464670", "doc": "http://blogfa.com/", "row": 77, "column": 10, "tagName": "div", "time": 2262637.722360, "url": "", "pos": 3216, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465cd0", "doc": "http://blogfa.com/", "row": 78, "column": 9, "tagName": "div", "time": 2262637.722365, "url": "", "pos": 3227, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465dd0", "doc": "http://blogfa.com/", "row": 79, "column": 32, "tagName": "div", "time": 2262637.722376, "url": "", "pos": 3275, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465e40", "doc": "http://blogfa.com/", "row": 79, "column": 38, "tagName": "div", "time": 2262637.722399, "url": "", "pos": 3281, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x465ea0", "doc": "http://blogfa.com/", "row": 80, "column": 20, "tagName": "div", "time": 2262637.722406, "url": "", "pos": 3303, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x464730", "doc": "http://blogfa.com/", "row": 81, "column": 24, "tagName": "div", "time": 2262637.722434, "url": "", "pos": 3329, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x465f00", "doc": "http://blogfa.com/", "row": 82, "column": 24, "tagName": "div", "time": 2262637.722447, "url": "", "pos": 3355, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466150", "doc": "http://blogfa.com/", "row": 82, "column": 53, "tagName": "div", "time": 2262637.722458, "url": "", "pos": 3384, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4661d0", "doc": "http://blogfa.com/", "row": 83, "column": 10, "tagName": "div", "time": 2262637.722464, "url": "", "pos": 3396, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4662f0", "doc": "http://blogfa.com/", "row": 84, "column": 68, "tagName": "div", "time": 2262637.722473, "url": "", "pos": 3466, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4663d0", "doc": "http://blogfa.com/", "row": 85, "column": 21, "tagName": "span", "time": 2262637.722501, "url": "", "pos": 3489, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466490", "doc": "http://blogfa.com/", "row": 85, "column": 29, "tagName": "span", "time": 2262637.722525, "url": "", "pos": 3497, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466580", "doc": "http://blogfa.com/", "row": 85, "column": 84, "tagName": "a", "time": 2262637.722532, "url": "", "pos": 3552, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466660", "doc": "http://blogfa.com/", "row": 85, "column": 101, "tagName": "a", "time": 2262637.722554, "url": "", "pos": 3569, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466690", "doc": "http://blogfa.com/", "row": 85, "column": 106, "tagName": "br", "time": 2262637.722557, "url": "", "pos": 3574, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4666c0", "doc": "http://blogfa.com/", "row": 85, "column": 122, "tagName": "span", "time": 2262637.722564, "url": "", "pos": 3590, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4667f0", "doc": "http://blogfa.com/", "row": 85, "column": 130, "tagName": "span", "time": 2262637.722574, "url": "", "pos": 3598, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466870", "doc": "http://blogfa.com/", "row": 85, "column": 185, "tagName": "a", "time": 2262637.722581, "url": "", "pos": 3653, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466990", "doc": "http://blogfa.com/", "row": 85, "column": 219, "tagName": "a", "time": 2262637.722601, "url": "", "pos": 3687, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4669c0", "doc": "http://blogfa.com/", "row": 85, "column": 224, "tagName": "br", "time": 2262637.722604, "url": "", "pos": 3692, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466a40", "doc": "http://blogfa.com/", "row": 85, "column": 240, "tagName": "span", "time": 2262637.722610, "url": "", "pos": 3708, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466b20", "doc": "http://blogfa.com/", "row": 85, "column": 248, "tagName": "span", "time": 2262637.722620, "url": "", "pos": 3716, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466ba0", "doc": "http://blogfa.com/", "row": 85, "column": 301, "tagName": "a", "time": 2262637.722626, "url": "", "pos": 3769, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466cc0", "doc": "http://blogfa.com/", "row": 85, "column": 335, "tagName": "a", "time": 2262637.722645, "url": "", "pos": 3803, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466cf0", "doc": "http://blogfa.com/", "row": 85, "column": 340, "tagName": "br", "time": 2262637.722648, "url": "", "pos": 3808, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466d60", "doc": "http://blogfa.com/", "row": 85, "column": 356, "tagName": "span", "time": 2262637.722656, "url": "", "pos": 3824, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466e50", "doc": "http://blogfa.com/", "row": 85, "column": 364, "tagName": "span", "time": 2262637.722666, "url": "", "pos": 3832, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466ed0", "doc": "http://blogfa.com/", "row": 85, "column": 415, "tagName": "a", "time": 2262637.722672, "url": "", "pos": 3883, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466fd0", "doc": "http://blogfa.com/", "row": 85, "column": 428, "tagName": "a", "time": 2262637.723342, "url": "", "pos": 3896, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4670c0", "doc": "http://blogfa.com/", "row": 85, "column": 433, "tagName": "br", "time": 2262637.723348, "url": "", "pos": 3901, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467130", "doc": "http://blogfa.com/", "row": 85, "column": 449, "tagName": "span", "time": 2262637.723357, "url": "", "pos": 3917, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4671d0", "doc": "http://blogfa.com/", "row": 85, "column": 457, "tagName": "span", "time": 2262637.723370, "url": "", "pos": 3925, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4672c0", "doc": "http://blogfa.com/", "row": 85, "column": 518, "tagName": "a", "time": 2262637.723378, "url": "", "pos": 3986, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4673e0", "doc": "http://blogfa.com/", "row": 85, "column": 552, "tagName": "a", "time": 2262637.723404, "url": "", "pos": 4020, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467200", "doc": "http://blogfa.com/", "row": 85, "column": 557, "tagName": "br", "time": 2262637.723407, "url": "", "pos": 4025, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467450", "doc": "http://blogfa.com/", "row": 85, "column": 573, "tagName": "span", "time": 2262637.723414, "url": "", "pos": 4041, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467510", "doc": "http://blogfa.com/", "row": 85, "column": 581, "tagName": "span", "time": 2262637.723424, "url": "", "pos": 4049, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467600", "doc": "http://blogfa.com/", "row": 85, "column": 643, "tagName": "a", "time": 2262637.723431, "url": "", "pos": 4111, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467720", "doc": "http://blogfa.com/", "row": 85, "column": 677, "tagName": "a", "time": 2262637.723451, "url": "", "pos": 4145, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467540", "doc": "http://blogfa.com/", "row": 85, "column": 682, "tagName": "br", "time": 2262637.723454, "url": "", "pos": 4150, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467790", "doc": "http://blogfa.com/", "row": 85, "column": 698, "tagName": "span", "time": 2262637.723461, "url": "", "pos": 4166, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467850", "doc": "http://blogfa.com/", "row": 85, "column": 706, "tagName": "span", "time": 2262637.723471, "url": "", "pos": 4174, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4678e0", "doc": "http://blogfa.com/", "row": 85, "column": 765, "tagName": "a", "time": 2262637.723477, "url": "", "pos": 4233, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467a50", "doc": "http://blogfa.com/", "row": 85, "column": 799, "tagName": "a", "time": 2262637.723497, "url": "", "pos": 4267, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467a00", "doc": "http://blogfa.com/", "row": 85, "column": 804, "tagName": "br", "time": 2262637.723500, "url": "", "pos": 4272, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467ad0", "doc": "http://blogfa.com/", "row": 85, "column": 820, "tagName": "span", "time": 2262637.723507, "url": "", "pos": 4288, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x466080", "doc": "http://blogfa.com/", "row": 85, "column": 828, "tagName": "span", "time": 2262637.723518, "url": "", "pos": 4296, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x466100", "doc": "http://blogfa.com/", "row": 85, "column": 879, "tagName": "a", "time": 2262637.723524, "url": "", "pos": 4347, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467d60", "doc": "http://blogfa.com/", "row": 85, "column": 896, "tagName": "a", "time": 2262637.723542, "url": "", "pos": 4364, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467d90", "doc": "http://blogfa.com/", "row": 85, "column": 901, "tagName": "br", "time": 2262637.723545, "url": "", "pos": 4369, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467e10", "doc": "http://blogfa.com/", "row": 85, "column": 917, "tagName": "span", "time": 2262637.723552, "url": "", "pos": 4385, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467ef0", "doc": "http://blogfa.com/", "row": 85, "column": 925, "tagName": "span", "time": 2262637.723562, "url": "", "pos": 4393, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x467f70", "doc": "http://blogfa.com/", "row": 85, "column": 979, "tagName": "a", "time": 2262637.723568, "url": "", "pos": 4447, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468090", "doc": "http://blogfa.com/", "row": 85, "column": 1009, "tagName": "a", "time": 2262637.723597, "url": "", "pos": 4477, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4680c0", "doc": "http://blogfa.com/", "row": 85, "column": 1014, "tagName": "br", "time": 2262637.723600, "url": "", "pos": 4482, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468130", "doc": "http://blogfa.com/", "row": 85, "column": 1030, "tagName": "span", "time": 2262637.723607, "url": "", "pos": 4498, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468220", "doc": "http://blogfa.com/", "row": 85, "column": 1038, "tagName": "span", "time": 2262637.723617, "url": "", "pos": 4506, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4682a0", "doc": "http://blogfa.com/", "row": 85, "column": 1091, "tagName": "a", "time": 2262637.723624, "url": "", "pos": 4559, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4683c0", "doc": "http://blogfa.com/", "row": 85, "column": 1125, "tagName": "a", "time": 2262637.723642, "url": "", "pos": 4593, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4683f0", "doc": "http://blogfa.com/", "row": 85, "column": 1130, "tagName": "br", "time": 2262637.723645, "url": "", "pos": 4598, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468460", "doc": "http://blogfa.com/", "row": 85, "column": 1146, "tagName": "span", "time": 2262637.723653, "url": "", "pos": 4614, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468550", "doc": "http://blogfa.com/", "row": 85, "column": 1154, "tagName": "span", "time": 2262637.723663, "url": "", "pos": 4622, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4685d0", "doc": "http://blogfa.com/", "row": 85, "column": 1206, "tagName": "a", "time": 2262637.723670, "url": "", "pos": 4674, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4686f0", "doc": "http://blogfa.com/", "row": 85, "column": 1237, "tagName": "a", "time": 2262637.723688, "url": "", "pos": 4705, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468720", "doc": "http://blogfa.com/", "row": 85, "column": 1242, "tagName": "br", "time": 2262637.723691, "url": "", "pos": 4710, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468790", "doc": "http://blogfa.com/", "row": 85, "column": 1258, "tagName": "span", "time": 2262637.723698, "url": "", "pos": 4726, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468880", "doc": "http://blogfa.com/", "row": 85, "column": 1266, "tagName": "span", "time": 2262637.723708, "url": "", "pos": 4734, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4688f0", "doc": "http://blogfa.com/", "row": 85, "column": 1314, "tagName": "a", "time": 2262637.723714, "url": "", "pos": 4782, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4689f0", "doc": "http://blogfa.com/", "row": 85, "column": 1328, "tagName": "a", "time": 2262637.723731, "url": "", "pos": 4796, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468a20", "doc": "http://blogfa.com/", "row": 85, "column": 1333, "tagName": "br", "time": 2262637.723734, "url": "", "pos": 4801, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468aa0", "doc": "http://blogfa.com/", "row": 85, "column": 1349, "tagName": "span", "time": 2262637.723741, "url": "", "pos": 4817, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468b80", "doc": "http://blogfa.com/", "row": 85, "column": 1357, "tagName": "span", "time": 2262637.723750, "url": "", "pos": 4825, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468bf0", "doc": "http://blogfa.com/", "row": 85, "column": 1407, "tagName": "a", "time": 2262637.723757, "url": "", "pos": 4875, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468d00", "doc": "http://blogfa.com/", "row": 85, "column": 1428, "tagName": "a", "time": 2262637.723775, "url": "", "pos": 4896, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468d30", "doc": "http://blogfa.com/", "row": 85, "column": 1433, "tagName": "br", "time": 2262637.723778, "url": "", "pos": 4901, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468da0", "doc": "http://blogfa.com/", "row": 85, "column": 1449, "tagName": "span", "time": 2262637.723784, "url": "", "pos": 4917, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x468e90", "doc": "http://blogfa.com/", "row": 85, "column": 1457, "tagName": "span", "time": 2262637.723794, "url": "", "pos": 4925, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x468f10", "doc": "http://blogfa.com/", "row": 85, "column": 1510, "tagName": "a", "time": 2262637.723801, "url": "", "pos": 4978, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469030", "doc": "http://blogfa.com/", "row": 85, "column": 1537, "tagName": "a", "time": 2262637.723827, "url": "", "pos": 5005, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469060", "doc": "http://blogfa.com/", "row": 85, "column": 1542, "tagName": "br", "time": 2262637.723830, "url": "", "pos": 5010, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4690d0", "doc": "http://blogfa.com/", "row": 85, "column": 1558, "tagName": "span", "time": 2262637.723836, "url": "", "pos": 5026, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4691c0", "doc": "http://blogfa.com/", "row": 85, "column": 1566, "tagName": "span", "time": 2262637.723846, "url": "", "pos": 5034, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469240", "doc": "http://blogfa.com/", "row": 85, "column": 1622, "tagName": "a", "time": 2262637.723853, "url": "", "pos": 5090, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469340", "doc": "http://blogfa.com/", "row": 85, "column": 1639, "tagName": "a", "time": 2262637.723872, "url": "", "pos": 5107, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469370", "doc": "http://blogfa.com/", "row": 85, "column": 1644, "tagName": "br", "time": 2262637.723875, "url": "", "pos": 5112, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4694f0", "doc": "http://blogfa.com/", "row": 86, "column": 68, "tagName": "div", "time": 2262637.723888, "url": "", "pos": 5182, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469590", "doc": "http://blogfa.com/", "row": 87, "column": 37, "tagName": "a", "time": 2262637.723932, "url": "", "pos": 5221, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4696d0", "doc": "http://blogfa.com/", "row": 87, "column": 70, "tagName": "a", "time": 2262637.723945, "url": "", "pos": 5254, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469770", "doc": "http://blogfa.com/", "row": 88, "column": 11, "tagName": "div", "time": 2262637.723951, "url": "", "pos": 5267, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4697d0", "doc": "http://blogfa.com/", "row": 89, "column": 10, "tagName": "div", "time": 2262637.723956, "url": "", "pos": 5279, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469830", "doc": "http://blogfa.com/", "row": 90, "column": 9, "tagName": "div", "time": 2262637.723961, "url": "", "pos": 5290, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469920", "doc": "http://blogfa.com/", "row": 92, "column": 10, "tagName": "div", "time": 2262637.723969, "url": "", "pos": 5322, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469a60", "doc": "http://blogfa.com/", "row": 96, "column": 92, "tagName": "div", "time": 2262637.723984, "url": "", "pos": 5456, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469c80", "doc": "http://blogfa.com/", "row": 98, "column": 20, "tagName": "div", "time": 2262637.724018, "url": "", "pos": 5483, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469d00", "doc": "http://blogfa.com/", "row": 99, "column": 24, "tagName": "div", "time": 2262637.724031, "url": "", "pos": 5509, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469dc0", "doc": "http://blogfa.com/", "row": 100, "column": 24, "tagName": "div", "time": 2262637.724044, "url": "", "pos": 5535, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x469ec0", "doc": "http://blogfa.com/", "row": 100, "column": 37, "tagName": "div", "time": 2262637.724054, "url": "", "pos": 5548, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469f40", "doc": "http://blogfa.com/", "row": 101, "column": 10, "tagName": "div", "time": 2262637.724060, "url": "", "pos": 5560, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x469fa0", "doc": "http://blogfa.com/", "row": 102, "column": 25, "tagName": "div", "time": 2262637.724066, "url": "", "pos": 5587, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x467b90", "doc": "http://blogfa.com/", "row": 103, "column": 24, "tagName": "div", "time": 2262637.724080, "url": "", "pos": 5613, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x46a030", "doc": "http://blogfa.com/", "row": 104, "column": 133, "tagName": "iframe", "time": 2262637.724110, "url": "", "pos": 5748, "chunkLen": 5904, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x46a330", "doc": "http://blogfa.com/", "row": 104, "column": 142, "tagName": "iframe", "time": 2262637.726897, "url": "", "pos": 5757, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x46cd00", "doc": "http://blogfa.com/", "row": 105, "column": 10, "tagName": "div", "time": 2262637.726916, "url": "", "pos": 5769, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x46cf50", "doc": "http://blogfa.com/", "row": 106, "column": 10, "tagName": "div", "time": 2262637.726925, "url": "", "pos": 5781, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x46dc00", "doc": "http://blogfa.com/", "row": 107, "column": 9, "tagName": "div", "time": 2262637.726931, "url": "", "pos": 5792, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x46dd00", "doc": "http://blogfa.com/", "row": 110, "column": 10, "tagName": "div", "time": 2262637.726941, "url": "", "pos": 5830, "chunkLen": 5904, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x481980", "doc": "http://blogfa.com/", "row": 113, "column": 142, "tagName": "div", "time": 2262637.878948, "url": "", "pos": 6004, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x482830", "doc": "http://blogfa.com/", "row": 115, "column": 20, "tagName": "div", "time": 2262637.879078, "url": "", "pos": 6029, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x483af0", "doc": "http://blogfa.com/", "row": 116, "column": 24, "tagName": "div", "time": 2262637.879094, "url": "", "pos": 6055, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x482670", "doc": "http://blogfa.com/", "row": 117, "column": 24, "tagName": "div", "time": 2262637.879107, "url": "", "pos": 6081, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x47ff20", "doc": "http://blogfa.com/", "row": 117, "column": 35, "tagName": "div", "time": 2262637.879119, "url": "", "pos": 6092, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d4d0", "doc": "http://blogfa.com/", "row": 118, "column": 10, "tagName": "div", "time": 2262637.879127, "url": "", "pos": 6104, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45d530", "doc": "http://blogfa.com/", "row": 119, "column": 25, "tagName": "div", "time": 2262637.879134, "url": "", "pos": 6131, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x480480", "doc": "http://blogfa.com/", "row": 120, "column": 67, "tagName": "div", "time": 2262637.879150, "url": "", "pos": 6200, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x480570", "doc": "http://blogfa.com/", "row": 121, "column": 80, "tagName": "img", "time": 2262637.879191, "url": "", "pos": 6282, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x480730", "doc": "http://blogfa.com/", "row": 121, "column": 102, "tagName": "font", "time": 2262637.879410, "url": "", "pos": 6304, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x480900", "doc": "http://blogfa.com/", "row": 121, "column": 115, "tagName": "font", "time": 2262637.879425, "url": "", "pos": 6317, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x480840", "doc": "http://blogfa.com/", "row": 123, "column": 168, "tagName": "img", "time": 2262637.879447, "url": "", "pos": 6574, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4810e0", "doc": "http://blogfa.com/", "row": 124, "column": 11, "tagName": "div", "time": 2262637.879717, "url": "", "pos": 6587, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x480d60", "doc": "http://blogfa.com/", "row": 125, "column": 74, "tagName": "div", "time": 2262637.879778, "url": "", "pos": 6663, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x128250", "doc": "http://blogfa.com/", "row": 127, "column": 19, "tagName": "br", "time": 2262637.879979, "url": "", "pos": 6781, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x12af60", "doc": "http://blogfa.com/", "row": 128, "column": 23, "tagName": "span", "time": 2262637.879997, "url": "", "pos": 6806, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x136df0", "doc": "http://blogfa.com/", "row": 128, "column": 31, "tagName": "span", "time": 2262637.880011, "url": "", "pos": 6814, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1370f0", "doc": "http://blogfa.com/", "row": 129, "column": 40, "tagName": "br", "time": 2262637.880026, "url": "", "pos": 6886, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137140", "doc": "http://blogfa.com/", "row": 130, "column": 23, "tagName": "span", "time": 2262637.880037, "url": "", "pos": 6911, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x136f80", "doc": "http://blogfa.com/", "row": 130, "column": 31, "tagName": "span", "time": 2262637.880047, "url": "", "pos": 6919, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x119610", "doc": "http://blogfa.com/", "row": 130, "column": 75, "tagName": "br", "time": 2262637.880056, "url": "", "pos": 6963, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x119660", "doc": "http://blogfa.com/", "row": 131, "column": 23, "tagName": "span", "time": 2262637.880066, "url": "", "pos": 6988, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x119750", "doc": "http://blogfa.com/", "row": 131, "column": 31, "tagName": "span", "time": 2262637.880077, "url": "", "pos": 6996, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x137330", "doc": "http://blogfa.com/", "row": 132, "column": 19, "tagName": "br", "time": 2262637.880087, "url": "", "pos": 7073, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137380", "doc": "http://blogfa.com/", "row": 133, "column": 23, "tagName": "span", "time": 2262637.880097, "url": "", "pos": 7098, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137470", "doc": "http://blogfa.com/", "row": 133, "column": 31, "tagName": "span", "time": 2262637.880107, "url": "", "pos": 7106, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1375b0", "doc": "http://blogfa.com/", "row": 134, "column": 18, "tagName": "br", "time": 2262637.880116, "url": "", "pos": 7172, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137600", "doc": "http://blogfa.com/", "row": 135, "column": 23, "tagName": "span", "time": 2262637.880127, "url": "", "pos": 7197, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1376f0", "doc": "http://blogfa.com/", "row": 135, "column": 31, "tagName": "span", "time": 2262637.880137, "url": "", "pos": 7205, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x137840", "doc": "http://blogfa.com/", "row": 136, "column": 21, "tagName": "br", "time": 2262637.880146, "url": "", "pos": 7282, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137890", "doc": "http://blogfa.com/", "row": 137, "column": 23, "tagName": "span", "time": 2262637.880157, "url": "", "pos": 7307, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137980", "doc": "http://blogfa.com/", "row": 137, "column": 31, "tagName": "span", "time": 2262637.880167, "url": "", "pos": 7315, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x137ae0", "doc": "http://blogfa.com/", "row": 138, "column": 28, "tagName": "br", "time": 2262637.880176, "url": "", "pos": 7397, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137b30", "doc": "http://blogfa.com/", "row": 139, "column": 23, "tagName": "span", "time": 2262637.880186, "url": "", "pos": 7422, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137c20", "doc": "http://blogfa.com/", "row": 139, "column": 31, "tagName": "span", "time": 2262637.880196, "url": "", "pos": 7430, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x137d30", "doc": "http://blogfa.com/", "row": 139, "column": 78, "tagName": "br", "time": 2262637.880204, "url": "", "pos": 7477, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137d80", "doc": "http://blogfa.com/", "row": 140, "column": 23, "tagName": "span", "time": 2262637.880214, "url": "", "pos": 7502, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x137e70", "doc": "http://blogfa.com/", "row": 140, "column": 31, "tagName": "span", "time": 2262637.880230, "url": "", "pos": 7510, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x137fb0", "doc": "http://blogfa.com/", "row": 140, "column": 102, "tagName": "br", "time": 2262637.880240, "url": "", "pos": 7581, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138000", "doc": "http://blogfa.com/", "row": 141, "column": 23, "tagName": "span", "time": 2262637.880251, "url": "", "pos": 7606, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138110", "doc": "http://blogfa.com/", "row": 141, "column": 31, "tagName": "span", "time": 2262637.880262, "url": "", "pos": 7614, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x138260", "doc": "http://blogfa.com/", "row": 142, "column": 18, "tagName": "br", "time": 2262637.880271, "url": "", "pos": 7687, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138290", "doc": "http://blogfa.com/", "row": 143, "column": 23, "tagName": "span", "time": 2262637.880281, "url": "", "pos": 7712, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138380", "doc": "http://blogfa.com/", "row": 143, "column": 31, "tagName": "span", "time": 2262637.880291, "url": "", "pos": 7720, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1384a0", "doc": "http://blogfa.com/", "row": 143, "column": 82, "tagName": "br", "time": 2262637.880299, "url": "", "pos": 7771, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1384f0", "doc": "http://blogfa.com/", "row": 144, "column": 23, "tagName": "span", "time": 2262637.880309, "url": "", "pos": 7796, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1385e0", "doc": "http://blogfa.com/", "row": 144, "column": 31, "tagName": "span", "time": 2262637.880319, "url": "", "pos": 7804, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x138700", "doc": "http://blogfa.com/", "row": 144, "column": 84, "tagName": "br", "time": 2262637.880327, "url": "", "pos": 7857, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138750", "doc": "http://blogfa.com/", "row": 145, "column": 23, "tagName": "span", "time": 2262637.880337, "url": "", "pos": 7882, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138840", "doc": "http://blogfa.com/", "row": 145, "column": 31, "tagName": "span", "time": 2262637.880351, "url": "", "pos": 7890, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1388a0", "doc": "http://blogfa.com/", "row": 145, "column": 86, "tagName": "br", "time": 2262637.880360, "url": "", "pos": 7945, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138a20", "doc": "http://blogfa.com/", "row": 146, "column": 41, "tagName": "span", "time": 2262637.880374, "url": "", "pos": 7989, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138ae0", "doc": "http://blogfa.com/", "row": 146, "column": 49, "tagName": "span", "time": 2262637.880384, "url": "", "pos": 7997, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x138b40", "doc": "http://blogfa.com/", "row": 146, "column": 105, "tagName": "br", "time": 2262637.880393, "url": "", "pos": 8053, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138c50", "doc": "http://blogfa.com/", "row": 147, "column": 71, "tagName": "div", "time": 2262637.880407, "url": "", "pos": 8126, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138e10", "doc": "http://blogfa.com/", "row": 148, "column": 30, "tagName": "a", "time": 2262637.880439, "url": "", "pos": 8158, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138fa0", "doc": "http://blogfa.com/", "row": 148, "column": 127, "tagName": "img", "time": 2262637.880458, "url": "", "pos": 8255, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x138e60", "doc": "http://blogfa.com/", "row": 148, "column": 131, "tagName": "a", "time": 2262637.880661, "url": "", "pos": 8259, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139050", "doc": "http://blogfa.com/", "row": 149, "column": 12, "tagName": "div", "time": 2262637.880669, "url": "", "pos": 8273, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1390d0", "doc": "http://blogfa.com/", "row": 150, "column": 19, "tagName": "div", "time": 2262637.880675, "url": "", "pos": 8294, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139210", "doc": "http://blogfa.com/", "row": 151, "column": 10, "tagName": "div", "time": 2262637.880680, "url": "", "pos": 8306, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139270", "doc": "http://blogfa.com/", "row": 152, "column": 9, "tagName": "div", "time": 2262637.880685, "url": "", "pos": 8317, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1392d0", "doc": "http://blogfa.com/", "row": 153, "column": 32, "tagName": "div", "time": 2262637.880692, "url": "", "pos": 8351, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x139640", "doc": "http://blogfa.com/", "row": 153, "column": 38, "tagName": "div", "time": 2262637.880714, "url": "", "pos": 8357, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139780", "doc": "http://blogfa.com/", "row": 154, "column": 64, "tagName": "div", "time": 2262637.880724, "url": "", "pos": 8423, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x139860", "doc": "http://blogfa.com/", "row": 155, "column": 24, "tagName": "div", "time": 2262637.880752, "url": "", "pos": 8449, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1398e0", "doc": "http://blogfa.com/", "row": 156, "column": 24, "tagName": "div", "time": 2262637.880765, "url": "", "pos": 8475, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x139a70", "doc": "http://blogfa.com/", "row": 156, "column": 40, "tagName": "div", "time": 2262637.880776, "url": "", "pos": 8491, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139ad0", "doc": "http://blogfa.com/", "row": 157, "column": 10, "tagName": "div", "time": 2262637.880781, "url": "", "pos": 8503, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139b70", "doc": "http://blogfa.com/", "row": 158, "column": 51, "tagName": "div", "time": 2262637.880789, "url": "", "pos": 8556, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x139c50", "doc": "http://blogfa.com/", "row": 159, "column": 21, "tagName": "span", "time": 2262637.880815, "url": "", "pos": 8579, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x139d60", "doc": "http://blogfa.com/", "row": 159, "column": 29, "tagName": "span", "time": 2262637.880827, "url": "", "pos": 8587, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13a010", "doc": "http://blogfa.com/", "row": 159, "column": 240, "tagName": "a", "time": 2262637.880862, "url": "", "pos": 8798, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x139df0", "doc": "http://blogfa.com/", "row": 159, "column": 276, "tagName": "a", "time": 2262637.880897, "url": "", "pos": 8834, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x139e20", "doc": "http://blogfa.com/", "row": 159, "column": 280, "tagName": "br", "time": 2262637.880901, "url": "", "pos": 8838, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13a130", "doc": "http://blogfa.com/", "row": 159, "column": 296, "tagName": "span", "time": 2262637.880909, "url": "", "pos": 8854, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13a1f0", "doc": "http://blogfa.com/", "row": 159, "column": 304, "tagName": "span", "time": 2262637.880919, "url": "", "pos": 8862, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13a2f0", "doc": "http://blogfa.com/", "row": 159, "column": 516, "tagName": "a", "time": 2262637.880939, "url": "", "pos": 9074, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13a280", "doc": "http://blogfa.com/", "row": 159, "column": 558, "tagName": "a", "time": 2262637.880965, "url": "", "pos": 9116, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13a2b0", "doc": "http://blogfa.com/", "row": 159, "column": 562, "tagName": "br", "time": 2262637.880968, "url": "", "pos": 9120, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13a610", "doc": "http://blogfa.com/", "row": 159, "column": 578, "tagName": "span", "time": 2262637.880975, "url": "", "pos": 9136, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13a6d0", "doc": "http://blogfa.com/", "row": 159, "column": 586, "tagName": "span", "time": 2262637.880986, "url": "", "pos": 9144, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13ab50", "doc": "http://blogfa.com/", "row": 159, "column": 692, "tagName": "a", "time": 2262637.880997, "url": "", "pos": 9250, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13ab80", "doc": "http://blogfa.com/", "row": 159, "column": 708, "tagName": "a", "time": 2262637.881017, "url": "", "pos": 9266, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13a700", "doc": "http://blogfa.com/", "row": 159, "column": 712, "tagName": "br", "time": 2262637.881021, "url": "", "pos": 9270, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13a790", "doc": "http://blogfa.com/", "row": 159, "column": 728, "tagName": "span", "time": 2262637.881028, "url": "", "pos": 9286, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13ac40", "doc": "http://blogfa.com/", "row": 159, "column": 736, "tagName": "span", "time": 2262637.881038, "url": "", "pos": 9294, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13af30", "doc": "http://blogfa.com/", "row": 159, "column": 985, "tagName": "a", "time": 2262637.881064, "url": "", "pos": 9543, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13afb0", "doc": "http://blogfa.com/", "row": 159, "column": 1029, "tagName": "a", "time": 2262637.881089, "url": "", "pos": 9587, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13afe0", "doc": "http://blogfa.com/", "row": 159, "column": 1033, "tagName": "br", "time": 2262637.881092, "url": "", "pos": 9591, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b050", "doc": "http://blogfa.com/", "row": 159, "column": 1049, "tagName": "span", "time": 2262637.881100, "url": "", "pos": 9607, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b120", "doc": "http://blogfa.com/", "row": 159, "column": 1057, "tagName": "span", "time": 2262637.881110, "url": "", "pos": 9615, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13b220", "doc": "http://blogfa.com/", "row": 159, "column": 1309, "tagName": "a", "time": 2262637.881128, "url": "", "pos": 9867, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b2a0", "doc": "http://blogfa.com/", "row": 159, "column": 1356, "tagName": "a", "time": 2262637.881156, "url": "", "pos": 9914, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13b2d0", "doc": "http://blogfa.com/", "row": 159, "column": 1360, "tagName": "br", "time": 2262637.881159, "url": "", "pos": 9918, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b390", "doc": "http://blogfa.com/", "row": 160, "column": 10, "tagName": "div", "time": 2262637.881169, "url": "", "pos": 9930, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13b3f0", "doc": "http://blogfa.com/", "row": 161, "column": 9, "tagName": "div", "time": 2262637.881174, "url": "", "pos": 9941, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13b450", "doc": "http://blogfa.com/", "row": 163, "column": 7, "tagName": "div", "time": 2262637.881179, "url": "", "pos": 9954, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13b540", "doc": "http://blogfa.com/", "row": 165, "column": 19, "tagName": "div", "time": 2262637.881192, "url": "", "pos": 10004, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b600", "doc": "http://blogfa.com/", "row": 165, "column": 25, "tagName": "div", "time": 2262637.881203, "url": "", "pos": 10010, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13b6d0", "doc": "http://blogfa.com/", "row": 167, "column": 47, "tagName": "div", "time": 2262637.881213, "url": "", "pos": 10061, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b810", "doc": "http://blogfa.com/", "row": 168, "column": 53, "tagName": "a", "time": 2262637.881239, "url": "", "pos": 10116, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b9c0", "doc": "http://blogfa.com/", "row": 168, "column": 156, "tagName": "img", "time": 2262637.881269, "url": "", "pos": 10219, "chunkLen": 10355, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x13b930", "doc": "http://blogfa.com/", "row": 168, "column": 160, "tagName": "a", "time": 2262637.881429, "url": "", "pos": 10223, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13bdb0", "doc": "http://blogfa.com/", "row": 169, "column": 8, "tagName": "div", "time": 2262637.881437, "url": "", "pos": 10233, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13bb10", "doc": "http://blogfa.com/", "row": 173, "column": 6, "tagName": "div", "time": 2262637.881444, "url": "", "pos": 10248, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13bca0", "doc": "http://blogfa.com/", "row": 174, "column": 6, "tagName": "div", "time": 2262637.881452, "url": "", "pos": 10272, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13c050", "doc": "http://blogfa.com/", "row": 175, "column": 6, "tagName": "div", "time": 2262637.881460, "url": "", "pos": 10292, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13c110", "doc": "http://blogfa.com/", "row": 176, "column": 6, "tagName": "div", "time": 2262637.881467, "url": "", "pos": 10318, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13c220", "doc": "http://blogfa.com/", "row": 177, "column": 7, "tagName": "body", "time": 2262637.881477, "url": "", "pos": 10342, "chunkLen": 10355, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x13c270", "doc": "http://blogfa.com/", "row": 179, "column": 7, "tagName": "html", "time": 2262637.881482, "url": "", "pos": 10354, "chunkLen": 10355, "isStartTag": 0}}
+{"Resource": {"id": 4, "url": "http://blogfa.com/ads/left.htm?37502934", "sentTime": -1.000000, "len": 2030, "from": "0x46a030",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2262637.726056, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 41, "sendStart": 41, "sendEnd": 41, "receiveHeadersEnd": 114, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262637.883006, "len": 2030}}
+{"ObjectHash": {"code": "0x1403c0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 1, "column": 6, "tagName": "html", "time": 2262637.897912, "url": "", "pos": 70, "chunkLen": 2012, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x140e70", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 2, "column": 7, "tagName": "head", "time": 2262637.898241, "url": "", "pos": 79, "chunkLen": 2012, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x140ef0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 3, "column": 69, "tagName": "meta", "time": 2262637.898290, "url": "", "pos": 150, "chunkLen": 2012, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x141080", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 4, "column": 9, "tagName": "title", "time": 2262637.898308, "url": "", "pos": 161, "chunkLen": 2012, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1412d0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 4, "column": 45, "tagName": "title", "time": 2262637.898347, "url": "", "pos": 197, "chunkLen": 2012, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x141490", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 5, "column": 8, "tagName": "head", "time": 2262637.898354, "url": "", "pos": 207, "chunkLen": 2012, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x141670", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 7, "column": 46, "tagName": "body", "time": 2262637.898377, "url": "", "pos": 357, "chunkLen": 2012, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x141550", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 9, "column": 8, "tagName": "script", "time": 2262637.898484, "url": "", "pos": 369, "chunkLen": 2012, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x141440", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 9, "tagName": "script", "time": 2262637.898710, "url": "", "pos": 1977, "chunkLen": 2012, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x142730", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 82, "tagName": "a", "time": 2262638.093296, "url": "", "pos": 73, "chunkLen": 173, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x142bb0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 178, "tagName": "img", "time": 2262638.093424, "url": "", "pos": 169, "chunkLen": 173, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x143d90", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 182, "tagName": "a", "time": 2262638.093925, "url": "", "pos": 173, "chunkLen": 173, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x142810", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 211, "tagName": "div", "time": 2262638.093948, "url": "", "pos": 202, "chunkLen": 208, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x142900", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 217, "tagName": "div", "time": 2262638.094016, "url": "", "pos": 208, "chunkLen": 208, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1447e0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 290, "tagName": "a", "time": 2262638.094090, "url": "", "pos": 281, "chunkLen": 381, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1448b0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 386, "tagName": "img", "time": 2262638.094138, "url": "", "pos": 377, "chunkLen": 381, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x144b20", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 45, "column": 390, "tagName": "a", "time": 2262638.094392, "url": "", "pos": 381, "chunkLen": 381, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x144ca0", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 53, "column": 8, "tagName": "body", "time": 2262638.094443, "url": "", "pos": 2382, "chunkLen": 2393, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x140330", "doc": "http://blogfa.com/ads/left.htm?37502934", "row": 54, "column": 7, "tagName": "html", "time": 2262638.094459, "url": "", "pos": 2391, "chunkLen": 2393, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://blogfa.com/static/css/theme.css", "sentTime": -1.000000, "len": 3685, "from": "0x45da70",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 95, "connReused": 0, "cached": 0,                            "requestTime": 2262637.722517, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 3, "connectStart": 3, "connectEnd": 74, "sendStart": 74, "sendEnd": 75, "receiveHeadersEnd": 146, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.095482, "len": 3685}}
+{"Resource": {"id": 3, "url": "http://blogfa.com/images/blogfa.gif", "sentTime": -1.000000, "len": 848, "from": "0x45faf0",                            "mimeType": "image/gif", "contentLength": 848, "httpStatus": 200, "connId": 103, "connReused": 0, "cached": 0,                            "requestTime": 2262637.727838, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 0, "dnsEnd": 0, "connectStart": 2, "connectEnd": 71, "sendStart": 72, "sendEnd": 72, "receiveHeadersEnd": 144, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.203479, "len": 848}}
+{"Resource": {"id": 6, "url": "http://blogfa.com/static/home/kclose.gif", "sentTime": -1.000000, "len": 241, "from": "0x480840",                            "mimeType": "image/gif", "contentLength": 241, "httpStatus": 200, "connId": 95, "connReused": 1, "cached": 0,                            "requestTime": 2262637.883047, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 85, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.410570, "len": 241}}
+{"Resource": {"id": 8, "url": "http://blogfa.com/static/home/host-ouriran.gif", "sentTime": -1.000000, "len": 732, "from": "0x13b9c0",                            "mimeType": "image/gif", "contentLength": 732, "httpStatus": 200, "connId": 111, "connReused": 0, "cached": 0,                            "requestTime": 2262637.884034, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 84, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.411000, "len": 732}}
+{"Resource": {"id": 5, "url": "http://blogfa.com/static/home/kopen.gif", "sentTime": -1.000000, "len": 236, "from": "0x480570",                            "mimeType": "image/gif", "contentLength": 236, "httpStatus": 200, "connId": 103, "connReused": 1, "cached": 0,                            "requestTime": 2262637.882637, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 3, "receiveHeadersEnd": 86, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.411355, "len": 236}}
+{"Resource": {"id": 7, "url": "http://blogfa.com/static/home/new-blog.png", "sentTime": -1.000000, "len": 1796, "from": "0x138fa0",                            "mimeType": "image/png", "contentLength": 1796, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2262637.883695, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 3, "receiveHeadersEnd": 85, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.411675, "len": 1796}}
+{"Resource": {"id": 13, "url": "http://blogfa.com/static/theme/leftM.jpg", "sentTime": -1.000000, "len": 1068, "from": "0x140330",                            "mimeType": "image/jpeg", "contentLength": 1068, "httpStatus": 200, "connId": 111, "connReused": 1, "cached": 0,                            "requestTime": 2262638.174149, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 5, "sendStart": 6, "sendEnd": 6, "receiveHeadersEnd": 78, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.430979, "len": 1068}}
+{"Resource": {"id": 11, "url": "http://blogfa.com/static/theme/bg.jpg", "sentTime": -1.000000, "len": 3218, "from": "0x140330",                            "mimeType": "image/jpeg", "contentLength": 3218, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2262638.173173, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 6, "sendStart": 7, "sendEnd": 7, "receiveHeadersEnd": 81, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.431984, "len": 3218}}
+{"Resource": {"id": 14, "url": "http://blogfa.com/static/theme/tlC.gif", "sentTime": -1.000000, "len": 298, "from": "0x140330",                            "mimeType": "image/gif", "contentLength": 298, "httpStatus": 200, "connId": 95, "connReused": 1, "cached": 0,                            "requestTime": 2262638.174460, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 5, "sendStart": 6, "sendEnd": 6, "receiveHeadersEnd": 80, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.432446, "len": 298}}
+{"Resource": {"id": 12, "url": "http://blogfa.com/static/theme/topM.jpg", "sentTime": -1.000000, "len": 3103, "from": "0x140330",                            "mimeType": "image/jpeg", "contentLength": 3103, "httpStatus": 200, "connId": 103, "connReused": 1, "cached": 0,                            "requestTime": 2262638.173821, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 6, "connectEnd": 6, "sendStart": 6, "sendEnd": 7, "receiveHeadersEnd": 81, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.432873, "len": 3103}}
+{"Resource": {"id": 15, "url": "http://blogfa.com/static/theme/trC.gif", "sentTime": -1.000000, "len": 320, "from": "0x140330",                            "mimeType": "image/gif", "contentLength": 320, "httpStatus": 200, "connId": 227, "connReused": 0, "cached": 0,                            "requestTime": 2262638.174786, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 5, "dnsEnd": 5, "connectStart": 5, "connectEnd": 77, "sendStart": 77, "sendEnd": 77, "receiveHeadersEnd": 149, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.433690, "len": 320}}
+{"Resource": {"id": 16, "url": "http://blogfa.com/static/theme/rightM.jpg", "sentTime": -1.000000, "len": 980, "from": "0x140330",                            "mimeType": "image/jpeg", "contentLength": 980, "httpStatus": 200, "connId": 232, "connReused": 0, "cached": 0,                            "requestTime": 2262638.175104, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 5, "dnsEnd": 5, "connectStart": 5, "connectEnd": 77, "sendStart": 77, "sendEnd": 77, "receiveHeadersEnd": 156, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.434921, "len": 980}}
+{"Resource": {"id": 19, "url": "http://blogfa.com/static/theme/hbox.gif", "sentTime": -1.000000, "len": 187, "from": "0x140330",                            "mimeType": "image/gif", "contentLength": 187, "httpStatus": 200, "connId": 95, "connReused": 1, "cached": 0,                            "requestTime": 2262638.180596, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 20, "connectEnd": 78, "sendStart": 80, "sendEnd": 80, "receiveHeadersEnd": 151, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.435931, "len": 187}}
+{"Resource": {"id": 17, "url": "http://blogfa.com/static/theme/trGradient.png", "sentTime": -1.000000, "len": 2272, "from": "0x140330",                            "mimeType": "image/png", "contentLength": 2272, "httpStatus": 200, "connId": 111, "connReused": 1, "cached": 0,                            "requestTime": 2262638.175421, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 82, "sendStart": 84, "sendEnd": 84, "receiveHeadersEnd": 157, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.439076, "len": 2272}}
+{"Resource": {"id": 18, "url": "http://blogfa.com/static/theme/menubg.gif", "sentTime": -1.000000, "len": 132, "from": "0x140330",                            "mimeType": "image/gif", "contentLength": 132, "httpStatus": 200, "connId": 84, "connReused": 1, "cached": 0,                            "requestTime": 2262638.175739, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 83, "sendStart": 84, "sendEnd": 84, "receiveHeadersEnd": 157, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.439573, "len": 132}}
+{"Resource": {"id": 9, "url": "http://www.blogfa.com/ads/banner2/4842739506760.gif", "sentTime": -1.000000, "len": 5785, "from": "0x142bb0",                            "mimeType": "image/gif", "contentLength": 5785, "httpStatus": 200, "connId": 247, "connReused": 0, "cached": 0,                            "requestTime": 2262638.094221, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 82, "dnsEnd": 419, "connectStart": 1, "connectEnd": 523, "sendStart": 535, "sendEnd": 535, "receiveHeadersEnd": 610, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.786670, "len": 2649}}
+{"ReceivedChunk": {"receivedTime": 2262638.787398, "len": 3136}}
+{"Resource": {"id": 10, "url": "http://www.blogfa.com/ads/banner2/5129110425468.gif", "sentTime": -1.000000, "len": 15399, "from": "0x1448b0",                            "mimeType": "image/gif", "contentLength": 15399, "httpStatus": 200, "connId": 246, "connReused": 0, "cached": 0,                            "requestTime": 2262638.151134, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -54, "dnsEnd": 362, "connectStart": 25, "connectEnd": 467, "sendStart": 478, "sendEnd": 478, "receiveHeadersEnd": 555, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2262638.787037, "len": 2647}}
+{"ReceivedChunk": {"receivedTime": 2262638.788930, "len": 5792}}
+{"ReceivedChunk": {"receivedTime": 2262638.852259, "len": 1448}}
+{"ReceivedChunk": {"receivedTime": 2262638.857118, "len": 5512}}
+{"HOL": {"type": 4, "docUrl": "http://blogfa.com/", "code": "0x45da70", "row": 9, "column": 70, "url": "http://blogfa.com/static/css/theme.css"}}
+{"HOL": {"type": 1, "docUrl": "http://blogfa.com/ads/left.htm?37502934", "code": "0x141550", "row": 9, "column": 8, "url": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x46a030", "docUrl": "http://blogfa.com/", "startTime": 2262637.724570, "endTime": 2262637.724572, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x46a030", "docUrl": "http://blogfa.com/", "startTime": 2262637.724574, "endTime": 2262637.724576, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x46dd00", "docUrl": "http://blogfa.com/", "startTime": 2262637.732385, "endTime": 2262637.733470, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x46dd00", "docUrl": "http://blogfa.com/", "startTime": 2262637.733406, "endTime": 2262637.733457, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x46dd00", "docUrl": "http://blogfa.com/", "startTime": 2262637.775361, "endTime": 2262637.873434, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x46dd00", "docUrl": "http://blogfa.com/", "startTime": 2262637.871145, "endTime": 2262637.873405, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x46dd00", "docUrl": "http://blogfa.com/", "startTime": 2262637.873332, "endTime": 2262637.873378, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x46dd00", "docUrl": "http://blogfa.com/", "startTime": 2262637.873385, "endTime": 2262637.873403, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x13c270", "docUrl": "http://blogfa.com/", "startTime": 2262637.881775, "endTime": 2262637.881777, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x13c270", "docUrl": "http://blogfa.com/", "startTime": 2262637.881779, "endTime": 2262637.881780, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "execScript", "code": "0x141440", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262637.898725, "endTime": 2262638.094425, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.094811, "endTime": 2262638.094813, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.094815, "endTime": 2262638.094817, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "recalcStyle", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.095700, "endTime": 2262638.149093, "urlRecalcStyle": "http://blogfa.com/static/css/theme.css"}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.204633, "endTime": 2262638.328029, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.327890, "endTime": 2262638.327993, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.328003, "endTime": 2262638.328023, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.328188, "endTime": 2262638.328189, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.328201, "endTime": 2262638.328202, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.439942, "endTime": 2262638.439944, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.439951, "endTime": 2262638.439952, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.439957, "endTime": 2262638.439958, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.439964, "endTime": 2262638.439965, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.498831, "endTime": 2262638.499052, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.499028, "endTime": 2262638.499044, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.499137, "endTime": 2262638.499185, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.675256, "endTime": 2262638.750474, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.789311, "endTime": 2262638.789313, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.857454, "endTime": 2262638.857455, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.857485, "endTime": 2262638.857486, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x140330", "docUrl": "http://blogfa.com/ads/left.htm?37502934", "startTime": 2262638.857493, "endTime": 2262638.857494, "urlRecalcStyle": "load"}}
+{"Complete": "blogfa.com_"}

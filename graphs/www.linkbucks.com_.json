@@ -1,0 +1,665 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.linkbucks.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.linkbucks.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 181.651999999985,
+               "time" : 398.183000000018,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 579.835000000003
+            },
+            {
+               "s_time" : 711.399999999912,
+               "time" : 0.0680000000560312,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 711.467999999968
+            },
+            {
+               "s_time" : 713.428999999905,
+               "time" : 85.5719999999569,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 799.000999999862
+            },
+            {
+               "s_time" : 976.282999999967,
+               "time" : 85.1219999999529,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 1061.40499999992
+            },
+            {
+               "s_time" : 1063.06500000005,
+               "time" : 32.7449999999799,
+               "type" : "evalhtml",
+               "id" : "r1_c5",
+               "e_time" : 1095.81000000003
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://edge.quantserve.com/quant.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1061.45300000003,
+               "time" : 1.61200000002009,
+               "type" : 1,
+               "id" : "comp_20",
+               "e_time" : 1063.06500000005
+            }
+         ],
+         "download" : {
+            "s_time" : 218.366999999944,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/css/default.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 561.369999999897,
+               "time" : 11.324000000059,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 572.693999999956
+            }
+         ],
+         "download" : {
+            "s_time" : 187.292999999954,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/scripts/jquery-1.7.2.min.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 595.393999999942,
+               "time" : 116.00599999997,
+               "type" : 1,
+               "id" : "comp_9",
+               "e_time" : 711.399999999912
+            }
+         ],
+         "download" : {
+            "s_time" : 194.240000000036,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/scripts/default.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 711.524000000054,
+               "time" : 1.90499999985104,
+               "type" : 1,
+               "id" : "comp_11",
+               "e_time" : 713.428999999905
+            }
+         ],
+         "download" : {
+            "s_time" : 199.104999999918,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/css/style.css",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 578.592999999955,
+               "time" : 0.682000000096991,
+               "type" : 2,
+               "id" : "comp_7",
+               "e_time" : 579.275000000052
+            }
+         ],
+         "download" : {
+            "s_time" : 566.710000000057,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/css/reset.css",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 592.613999999912,
+               "time" : 195.82400000013,
+               "type" : 2,
+               "id" : "comp_8",
+               "e_time" : 788.438000000042
+            }
+         ],
+         "download" : {
+            "s_time" : 579.835000000003,
+            "id" : "download_6",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r29",
+         "comps" : [
+            {
+               "s_time" : 925.305999999864,
+               "time" : 50.9770000001031,
+               "type" : 1,
+               "id" : "comp_17",
+               "e_time" : 976.282999999967
+            }
+         ],
+         "download" : {
+            "s_time" : 788.778999999977,
+            "id" : "download_7",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/bg_body.gif",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 796.074999999973,
+            "id" : "download_8",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/logo.gif",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 797.039000000041,
+            "id" : "download_9",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/bg_head.gif",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 796.538999999939,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/icon_help.gif",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 797.405000000026,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/bottom.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 797.74099999986,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/main.jpg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 798.080999999911,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.linkbucks.com/tmpl/mint/img/circle.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 799.000999999862,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=2090043842&utmhn=www.linkbucks.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=934x673&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Linkbucks.com%20-%20Make%20money%20when%20people%20leave%20your%20website!&utmhid=22734954&utmr=-&utmp=%2F&utmht=1378144687824&utmac=UA-968655-13&utmcc=__utma%3D32283811.580786232.1378144688.1378144688.1378144688.1%3B%2B__utmz%3D32283811.1378144688.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=H~",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1095.81000000003,
+            "id" : "download_15",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.quantserve.com/pixel;r=420807597;a=p-97twQYc7ecLKE;fpan=1;fpa=P0-1743837046-1378144687846;ns=0;ce=1;cm=;je=1;sr=2048x1152x24;enc=n;dst=1;et=1378144687844;tzo=420;ref=;url=http%3A%2F%2Fwww.linkbucks.com%2F;ogl=",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1076.66100000006,
+            "id" : "download_16",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/button_login.gif",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 766.4299999999,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/signUp.gif",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 789.776000000074,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/card_logos4.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 790.165999999999,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/moreInfo.gif",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 790.553000000045,
+            "id" : "download_20",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/advertise.gif",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 790.903999999955,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/getHelp3.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 791.269000000057,
+            "id" : "download_22",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/computer26.gif",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 791.729000000032,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/penpaper26.gif",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 792.079000000058,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/comparrowout26.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 792.426999999861,
+            "id" : "download_25",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/blackphone26.gif",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 792.854999999918,
+            "id" : "download_26",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/arrows26.gif",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 794.76899999986,
+            "id" : "download_27",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/guytalking26.gif",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 793.230999999878,
+            "id" : "download_28",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/redpen26.gif",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 795.239000000038,
+            "id" : "download_29",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.linkbucks.com/tmpl/mint/img/icons/cellphone26.gif",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 795.652000000018,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_11"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_17"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_20"
+      },
+      {
+         "a2" : "comp_9",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_11",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "download_30",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 81.810000000133,
+         "id" : "dep8",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 79.801999999973,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 81.3399999999549,
+         "id" : "dep10",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 79.426000000013,
+         "id" : "dep11",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 78.9979999999559,
+         "id" : "dep12",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 78.650000000153,
+         "id" : "dep13",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 78.3000000001269,
+         "id" : "dep14",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 77.8400000001519,
+         "id" : "dep15",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 77.4750000000499,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 77.12400000014,
+         "id" : "dep17",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 76.737000000094,
+         "id" : "dep18",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 76.3470000001689,
+         "id" : "dep19",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 53.000999999995,
+         "id" : "dep20",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 13.59600000001,
+         "id" : "dep21",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_15",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_14",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 84.652000000006,
+         "id" : "dep24",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 84.311999999955,
+         "id" : "dep25",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 83.976000000121,
+         "id" : "dep26",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 83.110000000034,
+         "id" : "dep27",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 83.610000000136,
+         "id" : "dep28",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 82.6460000000679,
+         "id" : "dep29",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 75.350000000072,
+         "id" : "dep30",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 75.350000000072,
+         "id" : "dep31",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_6",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 385.058000000072,
+         "id" : "dep33",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 17.452999999933,
+         "id" : "dep34",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 12.588000000051,
+         "id" : "dep35",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 5.64099999996898,
+         "id" : "dep36",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 36.714999999959,
+         "id" : "dep37",
+         "a1" : "r1_c1"
+      }
+   ]
+}

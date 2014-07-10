@@ -1,0 +1,3899 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.nytimes.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.nytimes.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 80.5480000562966,
+               "time" : 601.133999880403,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 681.6819999367
+            },
+            {
+               "s_time" : 712.418000213802,
+               "time" : 51.293999888003,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 763.712000101805
+            },
+            {
+               "s_time" : 764.080999884754,
+               "time" : 98.221000283957,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 862.302000168711
+            },
+            {
+               "s_time" : 874.873999971896,
+               "time" : 0.0880002044150388,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 874.962000176311
+            },
+            {
+               "s_time" : 877.359999809414,
+               "time" : 1129.66100033373,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 2007.02100014314
+            },
+            {
+               "s_time" : 2217.66699990258,
+               "time" : 748.14900010824,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 2965.81600001082
+            },
+            {
+               "s_time" : 2966.00800007582,
+               "time" : 8.23399983346008,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 2974.24199990928
+            },
+            {
+               "s_time" : 2975.16100015491,
+               "time" : 691.30899989978,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 3666.47000005469
+            },
+            {
+               "s_time" : 3718.55300012976,
+               "time" : 9.71899973228983,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 3728.27199986205
+            },
+            {
+               "s_time" : 3754.45100013167,
+               "time" : 11.3160000182702,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 3765.76700014994
+            },
+            {
+               "s_time" : 3772.3550000228,
+               "time" : 4524.90600012243,
+               "type" : "evalhtml",
+               "id" : "r1_c11",
+               "e_time" : 8297.26100014523
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.moatads.com/nyt952824751/moatad.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 2217.88900019601,
+               "time" : 73.4339999035001,
+               "type" : 2,
+               "id" : "comp_106",
+               "e_time" : 2291.32300009951
+            },
+            {
+               "s_time" : 2659.2060001567,
+               "time" : 172.09800006822,
+               "type" : 2,
+               "id" : "comp_116",
+               "e_time" : 2831.30400022492
+            }
+         ],
+         "download" : {
+            "s_time" : 100.980999879539,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/show_ads.js",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 117.64599988237,
+            "id" : "download_2",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/js/app/lib/NYTD/0.0.1/tabset.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 2974.2870000191,
+               "time" : 0.874000135810093,
+               "type" : 1,
+               "id" : "comp_128",
+               "e_time" : 2975.16100015491
+            }
+         ],
+         "download" : {
+            "s_time" : 115.958000067621,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 3755.17999986187,
+               "time" : 17.1750001609303,
+               "type" : 1,
+               "id" : "comp_249",
+               "e_time" : 3772.3550000228
+            }
+         ],
+         "download" : {
+            "s_time" : 129.697000142187,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.adsafeprotected.com/rjss/st/19504/1292203/skeleton.js",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 100.57199979201,
+            "id" : "download_5",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/video/2.0/videofactory.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 862.335999961942,
+               "time" : 12.538000009954,
+               "type" : 1,
+               "id" : "comp_30",
+               "e_time" : 874.873999971896
+            }
+         ],
+         "download" : {
+            "s_time" : 99.2060001008213,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/homepage/top.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 741.863999981433,
+               "time" : 22.2169999033209,
+               "type" : 1,
+               "id" : "comp_17",
+               "e_time" : 764.080999884754
+            }
+         ],
+         "download" : {
+            "s_time" : 94.1159999929368,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/video/players/extended/1.0/app.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 875.014999881387,
+               "time" : 2.34499992802705,
+               "type" : 1,
+               "id" : "comp_32",
+               "e_time" : 877.359999809414
+            }
+         ],
+         "download" : {
+            "s_time" : 99.6179999783635,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/build/homepage/styles.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 476.234999950975,
+               "time" : 16.373000107706,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 492.608000058681
+            }
+         ],
+         "download" : {
+            "s_time" : 87.0770001783967,
+            "id" : "download_9",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/homepage/bottom.js",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 3728.30400010571,
+               "time" : 26.1470000259596,
+               "type" : 1,
+               "id" : "comp_245",
+               "e_time" : 3754.45100013167
+            }
+         ],
+         "download" : {
+            "s_time" : 129.246999975294,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js/app/recommendations/recommendationsModule.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 2897.80100015923,
+               "time" : 68.2069999165897,
+               "type" : 1,
+               "id" : "comp_124",
+               "e_time" : 2966.00800007582
+            }
+         ],
+         "download" : {
+            "s_time" : 115.410000085831,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/sitewide/sitewide.js",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 91.3149998523295,
+            "id" : "download_12",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/print/styles.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 682.822000235319,
+               "time" : 2.03299988061201,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 684.855000115931
+            }
+         ],
+         "download" : {
+            "s_time" : 494.202999863774,
+            "id" : "download_13",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://view.atdmt.com/NYC/jview/427208315/direct;wi.300;hi.250/01/2013.09.02.03.56.13?click=",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 101.416000165045,
+            "id" : "download_14",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js/mtr.js",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 705.781999975443,
+               "time" : 6.63600023835897,
+               "type" : 1,
+               "id" : "comp_10",
+               "e_time" : 712.418000213802
+            }
+         ],
+         "download" : {
+            "s_time" : 593.60000025481,
+            "id" : "download_15",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/common/modal/nytModal.css",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 704.30100010708,
+               "time" : 8.24399990960899,
+               "type" : 2,
+               "id" : "comp_9",
+               "e_time" : 712.545000016689
+            }
+         ],
+         "download" : {
+            "s_time" : 677.182000130415,
+            "id" : "download_16",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/timespeople/build.js",
+         "id" : "r18",
+         "comps" : [
+            {
+               "s_time" : 721.977999899536,
+               "time" : 19.763000309468,
+               "type" : 2,
+               "id" : "comp_14",
+               "e_time" : 741.741000209004
+            }
+         ],
+         "download" : {
+            "s_time" : 681.6819999367,
+            "id" : "download_17",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/app/facebook/newsletterPrefs.css",
+         "id" : "r20",
+         "comps" : [
+            {
+               "s_time" : 770.872000139207,
+               "time" : 0.330999959259998,
+               "type" : 2,
+               "id" : "comp_20",
+               "e_time" : 771.203000098467
+            }
+         ],
+         "download" : {
+            "s_time" : 758.549000136554,
+            "id" : "download_18",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/app/facebook/homepage.css",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 774.842999875546,
+               "time" : 0.545999966560998,
+               "type" : 2,
+               "id" : "comp_22",
+               "e_time" : 775.388999842107
+            }
+         ],
+         "download" : {
+            "s_time" : 762.269000057131,
+            "id" : "download_19",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/app/facebook/base.css",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 782.389000058174,
+               "time" : 0.405999831854956,
+               "type" : 2,
+               "id" : "comp_23",
+               "e_time" : 782.794999890029
+            }
+         ],
+         "download" : {
+            "s_time" : 776.252999901772,
+            "id" : "download_20",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/common/util/tooltip.css",
+         "id" : "r24",
+         "comps" : [
+            {
+               "s_time" : 790.180000010878,
+               "time" : 285.676000174132,
+               "type" : 2,
+               "id" : "comp_24",
+               "e_time" : 1075.85600018501
+            }
+         ],
+         "download" : {
+            "s_time" : 783.352999947965,
+            "id" : "download_21",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/62/ad.346286/MensFallAcc_NYT_LEFT.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 799.837000202388,
+            "id" : "download_22",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/misc/nytlogo379x64.gif",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 801.101999823004,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.krxd.net/controltag?confid=HrUwtkcl",
+         "id" : "r25",
+         "comps" : [
+            {
+               "s_time" : 1220.93599988148,
+               "time" : 140.11000003665,
+               "type" : 2,
+               "id" : "comp_47",
+               "e_time" : 1361.04599991813
+            }
+         ],
+         "download" : {
+            "s_time" : 796.235000248998,
+            "id" : "download_24",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/layout/vertical_rule.gif",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1091.43600007519,
+            "id" : "download_25",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/02/sports/tennis/02day-1/02day-1-hpMedium-v2.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1087.24100003019,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/misc/bullet4x4.gif",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1091.79199999198,
+            "id" : "download_27",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/62/ad.346287/MensFallAcc_NYT_RIGHT.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1093.67199987173,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/57/ad.345759/13-1298_LaborDaySale_970x44_Alt1_DM.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1094.06400006264,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://typeface.nytimes.com/miq8eej.js",
+         "id" : "r22",
+         "comps" : [
+            {
+               "s_time" : 1500.13600010425,
+               "time" : 28.2310000620801,
+               "type" : 2,
+               "id" : "comp_66",
+               "e_time" : 1528.36700016633
+            }
+         ],
+         "download" : {
+            "s_time" : 763.712000101805,
+            "id" : "download_30",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/02/world/0902GERMANYsub/0902GERMANYsub-thumbStandard.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1087.68900018185,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/02/business/boxofficejump3/boxofficejump3-thumbStandard.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1088.08400016278,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/02/arts/ELECTRICZOO1/ELECTRICZOO1-thumbStandard.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1088.45699997619,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/global/buttons/moth_forward.gif",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1089.1849999316,
+            "id" : "download_34",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/global/buttons/moth_reverse.gif",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1088.81400013342,
+            "id" : "download_35",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/multimedia/icons/document_icon.gif",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1092.15399995446,
+            "id" : "download_36",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/global/borders/doubleRule.gif",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1092.51300012693,
+            "id" : "download_37",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.nytimes.com/adx/bin/clientside/add31eecQ2F222Q2BQ23TavUTQ51iQ60Q2BTlN)OQ5BiQ51TXgQ5BKQ23Q7BQ7BQ2BQ23Q5DQ2BQ5DQ2BBQ7BQ27XQ2AKQ2A_",
+         "id" : "r97",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1085.95599979162,
+            "id" : "download_38",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/global/global_search/search_button40x19.gif",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1094.45500001311,
+            "id" : "download_39",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/video/filmstrip-right-boundry-31x129-shadow.png",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1092.87500008941,
+            "id" : "download_40",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/ads/circulation/MemorialDay_tag5.jpeg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1094.83700012788,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/article/functions/facebook.gif",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1095.25500005111,
+            "id" : "download_42",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/article/functions/twitter.gif",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1095.87399987504,
+            "id" : "download_43",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/promos/sports/usopen/usopen_336.gif",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1096.53300000355,
+            "id" : "download_44",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/01/travel/01MOTH_36HOURS/01MOTH_36HOURS-moth.png",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1089.55400018021,
+            "id" : "download_45",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/business/carrjump1/carrjump1-thumbStandard-v2.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1097.00000006706,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/01/movies/01MOTH_RUSH/01MOTH_RUSH-moth.jpg",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1089.92499997839,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/01/nyregion/01MOTH_SUBCHARACTER/01MOTH_SUBCHARACTER-moth.jpg",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1090.294000227,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/01/sunday-review/01MOTH_Strip/01MOTH_Strip-moth.jpg",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1090.6640002504,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/2013/09/01/arts/design/01MOTH_FUDONG/01MOTH_FUDONG-moth.jpg",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1091.04100009426,
+            "id" : "download_50",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://api.brightcove.com/services/library?&callback=jQuery17108810101840645075_1378094173985&command=find_playlist_by_reference_id&reference_id=1194811622188&token=cE97ArV7TzqBzkmeRVVhJ8O6GWME2iG_bRvjBTlNb4o.&video_fields=name%2CshortDescription%2ClongDescription%2CvideoStillURL%2CthumbnailURL%2CreferenceId%2Ctags&custom_fields=videourl&media_delivery=http",
+         "id" : "r45",
+         "comps" : [
+            {
+               "s_time" : 3317.75399995968,
+               "time" : 8.02000006661001,
+               "type" : 2,
+               "id" : "comp_217",
+               "e_time" : 3325.77400002629
+            }
+         ],
+         "download" : {
+            "s_time" : 883.981000166386,
+            "id" : "download_51",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/opinion/homepage/opinionPagesHpC337.png",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1097.62800019234,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/global/buttons/go.gif",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1098.17600017413,
+            "id" : "download_53",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/57/ad.345786/amexHPmarketssep.gif",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1098.72800018638,
+            "id" : "download_54",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/31/arts/31THEAWAKE/31THEAWAKE-thumbStandard.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1099.18100014329,
+            "id" : "download_55",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/61/ad.346140/Columbia_SCE_163x90-A.gif",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1099.62200000882,
+            "id" : "download_56",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/realestate/01COVER_SPAN/01COVER_SPAN-thumbStandard-v4.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1100.08300002664,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/icons/multimedia/comment_icon.gif",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1100.53399996832,
+            "id" : "download_58",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/55/ad.345508/M_Mansion_33960_image_173x98.jpg",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1101.116000209,
+            "id" : "download_59",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/55/ad.345508/33960_oncierge_logo_78x20.gif",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1101.62799991667,
+            "id" : "download_60",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://markets.on.nytimes.com/research/modules/home/home.asp?0.12888789945282042",
+         "id" : "r48",
+         "comps" : [
+            {
+               "s_time" : 1998.02300008014,
+               "time" : 9.05899982898995,
+               "type" : 2,
+               "id" : "comp_99",
+               "e_time" : 2007.08199990913
+            }
+         ],
+         "download" : {
+            "s_time" : 891.294000204653,
+            "id" : "download_61",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/automobiles/Handlebars/Handlebars-thumbStandard-v2.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1102.0459998399,
+            "id" : "download_62",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/section/jobs/200703/cobrandHeader_315x20.gif",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1103.09300012887,
+            "id" : "download_63",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/business/01CORNER/01CORNER-thumbStandard.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1103.51799987257,
+            "id" : "download_64",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/38/ad.343823/OMM-ad-1.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1103.92600018531,
+            "id" : "download_65",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/38/ad.343823/OMM-stacked-logo-tiny.jpg",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1104.35000015423,
+            "id" : "download_66",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/world/0902SYRIAjp/0902SYRIAjp-thumbStandard.jpg",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1104.74700015038,
+            "id" : "download_67",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/business/boxofficejump3/boxofficejump3-thumbStandard.jpg",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1105.13499984518,
+            "id" : "download_68",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/opinion/0902OPEDvairo/0902OPEDvairo-thumbStandard.jpg",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1105.53399985656,
+            "id" : "download_69",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-thumbStandard.jpg",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1106.08500009403,
+            "id" : "download_70",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/31/business/02disrupt-span/02disrupt-span-thumbStandard.jpg",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1106.51100007817,
+            "id" : "download_71",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://up.nytimes.com/?d=0/1/&t=1&s=0&ui=&r=&u=www%2enytimes%2ecom%2f%3f",
+         "id" : "r98",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1086.59700024873,
+            "id" : "download_72",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/31/world/31obama_337/31obama_337-thumbStandard.jpg",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1107.57300024852,
+            "id" : "download_73",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/sports/tennis/02day-1/02day-1-thumbStandard-v2.jpg",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1108.0470001325,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/nyregion/Y-QUINN1/Y-QUINN1-thumbStandard-v2.jpg",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1108.51099994034,
+            "id" : "download_75",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/obituaries/01frost_2/01frost_2-thumbStandard-v2.jpg",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1109.17600011453,
+            "id" : "download_76",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/arts/01MACHINE1_SPAN/01MACHINE1-thumbStandard.jpg",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1109.61899999529,
+            "id" : "download_77",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/us/NASA/NASA-thumbStandard.jpg",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1110.05399981514,
+            "id" : "download_78",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/travel/01FRUGAL_SPAN-sf/01FRUGAL_SPAN-thumbStandard-v2.jpg",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1110.50599999726,
+            "id" : "download_79",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/arts/DANCE1/DANCE1-thumbStandard.jpg",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1111.00299982354,
+            "id" : "download_80",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/magazine/01lives/01lives-thumbStandard.jpg",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1111.43400007859,
+            "id" : "download_81",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/30/dining/video-clark-eggplantdip/video-clark-eggplantdip-thumbStandard.jpg",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1111.88900005072,
+            "id" : "download_82",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/31/nyregion/STUYVESANT2/STUYVESANT2-thumbStandard.jpg",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1112.75500012562,
+            "id" : "download_83",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/02/arts/jpBOOKGREIMER2/jpBOOKGREIMER2-thumbStandard.jpg",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1112.32100008056,
+            "id" : "download_84",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/29/garden/29LOCATION_SPAN/29LOCATION6-thumbStandard.jpg",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1113.18500014022,
+            "id" : "download_85",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/fashion/01CALVIN_SPAN/01CALVIN_SPAN-thumbStandard-v2.jpg",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1113.59000019729,
+            "id" : "download_86",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/magazine/01lindhout4/01lindhout4-thumbStandard-v2.jpg",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.01899997145,
+            "id" : "download_87",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/automobiles/autoreviews/01wheel-slides-slide-URZW/01wheel-slides-slide-URZW-thumbStandard.jpg",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1114.44499995559,
+            "id" : "download_88",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/30/t-magazine/30chic/30chic-thumbStandard.jpg",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1115.06599979475,
+            "id" : "download_89",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/58/ad.345874/12-0999-Footer_Icon.jpg",
+         "id" : "r94",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1115.93399988487,
+            "id" : "download_90",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/57/ad.345771/13-1298_LaborDaySale_300x250_Alt1_DM.jpg",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1115.51500018686,
+            "id" : "download_91",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/59/ad.345954/13-1298_LaborDaySale_120x90_leftEar_Alt1_DM.jpg",
+         "id" : "r95",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1116.35799985379,
+            "id" : "download_92",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/58/ad.345819/13-1298_LaborDaySale_120x90_Alt1_DM.jpg",
+         "id" : "r96",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1116.76499992609,
+            "id" : "download_93",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.adsafeprotected.com/dt?asId=9c54987f-1383-11e3-af66-0025904ea18c&tv={c:mZISnr,pingTime:-2,time:308,type:a,fc:0,rt:1,cb:0,np:1,em:false,fr:true,slTimes:{i:308,o:0,n:0,pp:0,pm:0,gpp:0,gpm:0,gi:308,go:0,gn:0,fi:0,fo:0,fn:308},slEvents:[{sl:i,fsl:fn,gsl:gi,t:46,wc:0.0.954.1014,ac:799.446.163.11,am:a,cc:799.446.163.109,piv:95,obst:0,th:0,reas:}],slEventCount:1,uf:0,tt:jss,fm:ogfAIfi+1*.19504-1292203,sinceFw:142,readyFired:false}&br=c&adsafePrivacyPolicy=http://integr.al/privacy-policy",
+         "id" : "r100",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1378.29700019211,
+            "id" : "download_94",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://connect.facebook.net/en_US/all.js",
+         "id" : "r99",
+         "comps" : [
+            {
+               "s_time" : 3420.05399987102,
+               "time" : 131.49900035932,
+               "type" : 2,
+               "id" : "comp_224",
+               "e_time" : 3551.55300023034
+            }
+         ],
+         "download" : {
+            "s_time" : 1117.16199992225,
+            "id" : "download_95",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://typeface.nytimes.com/k/miq8eej-d.css?3bb2a6e53c9684ffdc9a9ef6195b2a62629238bd18c5441a0a7e695279fc8dcc9a3ac48ed26016662d979705c6de658ed19cc862f2bef627bf43f2fe3b7833032309e4a2772618ec26400ee35475cce84ddb3764555d2b4bd3da8032097f4c9437b9bd232e806a659ab3119d45c91b25358af1bebfbdda451d5611e72b4c965612e52897a2c3437e6b7a7bef7aac5959678d87b245f3699e22c33943bd9ef4915c7259ebb2cfd60d742f44829fa3505f80f373271411b6b4bddfa984392aa72be79e2e3745ddcf36c74d923764e12192f3e6a6064cdf5dcf906269aaba84cb1043f801fac01249f917a886892ba213c1d96e39c324a91be4e89f1df0bbce1c886831ecbfabc78f8a849799507abac9ae08932f9ee67e369a6637f6b509ebdaf1a89b7e5e0c09a5e3e4c51bab40baf5b4a47c6d1384f138b36bd935977efd08c5f9869067334e36eeb21c730dfbbcc6424ce137873cb0a2e52a3eb2f1b116f46aea04bc0cdc070796cf74b6446ea1f628def5f43a1e8de6e7d892064743d19bd44fad22ebfa8f888449336ff378ed8e573458f6",
+         "id" : "r101",
+         "comps" : [
+            {
+               "s_time" : 2181.43300013617,
+               "time" : 114.82199979946,
+               "type" : 2,
+               "id" : "comp_103",
+               "e_time" : 2296.25499993563
+            }
+         ],
+         "download" : {
+            "s_time" : 1546.32000019774,
+            "id" : "download_96",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.adsafeprotected.com/skeleton.js",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1428.29600023106,
+            "id" : "download_97",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/viewad/2179194/4-1x1.gif",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1452.10900017992,
+            "id" : "download_98",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/viewad/807725/360+ny+times+logo_final_25+Bonus_88x31.gif",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1218.62100018188,
+            "id" : "download_99",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.typekit.net/p.gif?a=82618&f=387.389.391.5478.5479.5480.5481&h=www.nytimes.com&ht=sh&k=miq8eej&s=1&_=1378094175348",
+         "id" : "r102",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2000.2950001508,
+            "id" : "download_100",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.adsafeprotected.com/skeleton.gif",
+         "id" : "r103",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2218.14600005746,
+            "id" : "download_101",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.voicefive.com/c2/6036255/rs.js",
+         "id" : "r105",
+         "comps" : [
+            {
+               "s_time" : 2639.66500014067,
+               "time" : 19.25999997183,
+               "type" : 2,
+               "id" : "comp_114",
+               "e_time" : 2658.9250001125
+            }
+         ],
+         "download" : {
+            "s_time" : 2296.40100011602,
+            "id" : "download_102",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://admin.brightcove.com/js/BrightcoveExperiences_all.js",
+         "id" : "r107",
+         "comps" : [
+            {
+               "s_time" : 3551.59700009972,
+               "time" : 20.4819999635201,
+               "type" : 2,
+               "id" : "comp_226",
+               "e_time" : 3572.07900006324
+            }
+         ],
+         "download" : {
+            "s_time" : 2297.56700014696,
+            "id" : "download_103",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=17&i=NYTIMES2&bq=0&f=0&j=&o=3&t=1378094175609&de=45288794&m=0&ar=e892c25-clean&q=0&cb=0&cu=1378094175593&em=0&en=0&d=Financial%3AAmerican_Express%3AAmericanExpress-AugSep-1887899-nyt1%3AAmex-163x90-HPModule-Sept&bd=homepage&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r104",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2261.13400002941,
+            "id" : "download_104",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure-us.imrworldwide.com/cgi-bin/m?ci=citibank-ca&at=view&rt=banner&st=image&ca=Citi-2013&cr=326201622&pc=427208315&pr=iag.sid,2500013034&pr=iag.tfid,4641&pr=iag.pageid,427208315&pr=iag.brn,CIT&pr=iag.cte,326201622&r=358208985",
+         "id" : "r106",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2297.13500011712,
+            "id" : "download_105",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/rs/bsl_lf.js",
+         "id" : "r110",
+         "comps" : [
+            {
+               "s_time" : 3572.24000012502,
+               "time" : 1.85199966654,
+               "type" : 2,
+               "id" : "comp_229",
+               "e_time" : 3574.09199979156
+            }
+         ],
+         "download" : {
+            "s_time" : 2658.10899995267,
+            "id" : "download_106",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/rs/vce_st.js",
+         "id" : "r111",
+         "comps" : [
+            {
+               "s_time" : 3574.12899984047,
+               "time" : 49.0640001371498,
+               "type" : 2,
+               "id" : "comp_231",
+               "e_time" : 3623.19299997762
+            }
+         ],
+         "download" : {
+            "s_time" : 2662.20699995756,
+            "id" : "download_107",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.scorecardresearch.com/rpc.flow?uid=uid1378094176001&ns_mod_ns=mvce&ns__p=1378094175999&ns__t=1378094175999&ns_c=UTF-8&c1=3&c3=CITI-CIT-145-40-NYC&c4=326201622&c5=427208315&c6=&c10=1&c11=&c12=p187114101&c13=&c16=atls&c2=6036255&ax_iframe=0&ns_ce_sv=3.1304.18&ns_ce_mod=bsl_lf,vce_st&ns_ad_event=load&c8=The%20New%20York%20Times%20-%20Breaking%20News%2C%20World%20News%20%26%20Multimedia&c7=http%3A%2F%2Fwww.nytimes.com%2F&c9=",
+         "id" : "r109",
+         "comps" : [
+            {
+               "s_time" : 3623.27500013635,
+               "time" : 0.579999759789644,
+               "type" : 2,
+               "id" : "comp_239",
+               "e_time" : 3623.85499989614
+            }
+         ],
+         "download" : {
+            "s_time" : 2653.4910001792,
+            "id" : "download_108",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/layout/hpWellRulers.gif",
+         "id" : "r112",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2862.87700012326,
+            "id" : "download_109",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/global/borders/aColumnHorizontalBorder.gif",
+         "id" : "r113",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2948.13199993223,
+            "id" : "download_110",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.nytimes.com/packages/html/recommendations/ad.html",
+         "id" : "r118",
+         "comps" : [
+            {
+               "s_time" : 3170.4529998824,
+               "time" : 3.47999995573991,
+               "type" : "evalhtml",
+               "id" : "r118_c1",
+               "e_time" : 3173.93299983814
+            }
+         ],
+         "download" : {
+            "s_time" : 2958.54000002146,
+            "id" : "download_111",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20130206/show_ads_impl.js",
+         "id" : "r120",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3007.38999992609,
+            "id" : "download_112",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/loaders/loading-grey-lines-circle-18.gif",
+         "id" : "r114",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3018.72699987143,
+            "id" : "download_113",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/recommendations/recommendedLogin.png",
+         "id" : "r115",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3019.14100022987,
+            "id" : "download_114",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/recommendations/recommendedRegister.png",
+         "id" : "r116",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3019.50799999759,
+            "id" : "download_115",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/recommendations/recommendedFacebook.png",
+         "id" : "r117",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3019.87100020051,
+            "id" : "download_116",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.moatads.com/swf/p3.swf",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3020.37000004202,
+            "id" : "download_117",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.nytimes.com/recommendations/svc/personalized.json?hp=1",
+         "id" : "r119",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2965.81600001082,
+            "id" : "download_118",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/p2?ns__t=1378094175999&ns_c=UTF-8&c1=3&c3=CITI-CIT-145-40-NYC&c4=326201622&c5=427208315&c6=&c10=1&c11=&c12=p187114101&c13=&c16=atls&c2=6036255&ax_iframe=0&ns_ce_sv=3.1304.18&ns_ce_mod=bsl_lf,vce_st&ns_ad_event=load&c8=The%20New%20York%20Times%20-%20Breaking%20News%2C%20World%20News%20%26%20Multimedia&c7=http%3A%2F%2Fwww.nytimes.com%2F&c9=",
+         "id" : "r108",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3151.00499987602,
+            "id" : "download_119",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://i1.nyt.com/images/recommendations/plainTab160Tall.gif",
+         "id" : "r123",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3151.50099992752,
+            "id" : "download_120",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.atdmt.com/ds/AANYCCITICIT/2013_NYStripAd/145_THY_NON_NAT_Transform_300x250_NYT.swf?ver=1&clickTag1=http://clk.atdmt.com/go/427208315/direct;wi.300;hi.250;ai.326201622;ct.1/01&clickTag=http://clk.atdmt.com/go/427208315/direct;wi.300;hi.250;ai.326201622;ct.1/01",
+         "id" : "r125",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3151.99600020424,
+            "id" : "download_121",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/adx/images/ADS/34/27/ad.342759/2014_JEEP_GCH_168x28_LCD_NewYorkTimes.jpg",
+         "id" : "r126",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3175.27299979702,
+            "id" : "download_122",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.nytimes.com/adx/bin/clientside/c3d7ec7Q2F888(ZLnQ510LBQ20iQ5ELWJNQ3AQ2AQ20BL!Q3EQ2AUZ((Q5EZsZQ22Q5E.((ZQ2BUQ2BQ60",
+         "id" : "r129",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3248.91400011256,
+            "id" : "download_123",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.moatads.com/swf/p3.swf",
+         "id" : "r133",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3270.76200023293,
+            "id" : "download_124",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.nytimes.com/svc/most-popular/getdata.json?type=mostemailed&hp=1",
+         "id" : "r131",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3268.38100003079,
+            "id" : "download_125",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://core.insightexpressai.com/adServer/adServerESI.aspx?bannerID=226564&script=false&redir=http://core.insightexpressai.com/adserver/1pixel.gif",
+         "id" : "r128",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3176.2569998391,
+            "id" : "download_126",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=0&q=0&ak=http%3A%2F%2Fgraphics8.nytimes.com%2Fadx%2Fimages%2FADS%2F34%2F57%2Fad.345786%2FamexHPmarketssep.gif&i=NYTIMES2&bq=0&g=0&h=90&f=0&j=&o=3&t=1378094175609&de=45288794&cu=1378094175593&m=31&ar=e892c25-clean&w=163&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=0&ag=1&an=0&aj=1&cc=0&bw=1&bx=0&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=0&cd=0&ah=0&am=0&cl=0&au=-1&av=-1&by=-1&at=0&d=Financial%3AAmerican_Express%3AAmericanExpress-AugSep-1887899-nyt1%3AAmex-163x90-HPModule-Sept&bd=homepage&ab=1&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r134",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3276.36800007895,
+            "id" : "download_134",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://meter-svc.nytimes.com/meter.js?url=http%3A%2F%2Fwww.nytimes.com%2F&referer=&callback=e1378094174060",
+         "id" : "r135",
+         "comps" : [
+            {
+               "s_time" : 5140.92699997127,
+               "time" : 3.94700001925048,
+               "type" : 2,
+               "id" : "comp_469",
+               "e_time" : 5144.87399999052
+            }
+         ],
+         "download" : {
+            "s_time" : 3278.30700017512,
+            "id" : "download_135",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/video/arrow-left-inactive-15x14-C0C0C0.png",
+         "id" : "r148",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3402.60000014678,
+            "id" : "download_136",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js/app/lib/underscore/underscore.js",
+         "id" : "r150",
+         "comps" : [
+            {
+               "s_time" : 5144.91100003943,
+               "time" : 11.0490000806694,
+               "type" : 2,
+               "id" : "comp_472",
+               "e_time" : 5155.9600001201
+            }
+         ],
+         "download" : {
+            "s_time" : 3417.72999987006,
+            "id" : "download_137",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js/common/sharetools/2.0/shareTools.js",
+         "id" : "r151",
+         "comps" : [
+            {
+               "s_time" : 5157.82799990848,
+               "time" : 40.8769999630704,
+               "type" : 2,
+               "id" : "comp_476",
+               "e_time" : 5198.70499987155
+            }
+         ],
+         "download" : {
+            "s_time" : 3420.28500000015,
+            "id" : "download_138",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/ads?client=ca-nytimes_homepage_js&output=js&lmt=1378119376&num_ads=3&channel=pg_url_test&region=default&ea=0&flash=11.8.800&hints=business%20news%20online%2Cus%20news%20online%2Conline%20us%20news%2Ctop%20online%20news%2Cbusiness%20international%20news%2Conline%20latest%20news&url=http%3A%2F%2Fwww.nytimes.com%2F&adsafe=high&targeting=content&dt=1378094176345&bdt=2949&shv=r20130822&cbv=r20130206&saldr=sb&correlator=1378094176578&frm=20&adk=3273153165&ga_vid=2005733726.1378094177&ga_sid=1378094177&ga_hid=1576613744&ga_fc=0&u_tz=-420&u_his=2&u_java=1&u_h=1152&u_w=2048&u_ah=1130&u_aw=1978&u_cd=24&u_nplug=6&u_nmime=93&dff=georgia&dfs=10&biw=939&bih=999&oid=3&vis=1&fu=0&ifi=1&dtd=250",
+         "id" : "r130",
+         "comps" : [
+            {
+               "s_time" : 3715.21400008351,
+               "time" : 3.33900004625002,
+               "type" : 1,
+               "id" : "comp_243",
+               "e_time" : 3718.55300012976
+            }
+         ],
+         "download" : {
+            "s_time" : 3248.13600024208,
+            "id" : "download_139",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/p?ns__t=1378094176940&ns_c=UTF-8&ns__p=1378094175999&c1=3&c3=_e0_CITI-CIT-145-40-NYC&c4=326201622&c5=427208315&c6=&c10=1&c11=&c12=p187114101&c13=&c16=atls&c2=6036255&ax_iframe=0&ns_ce_sv=3.1304.18&ns_ce_mod=bsl_lf,vce_st&ns_ad_event=boot&ns_ad_boot=932&c8=The%20New%20York%20Times%20-%20Breaking%20News%2C%20World%20News%20%26%20Multimedia&c7=http%3A%2F%2Fwww.nytimes.com%2F&c9=",
+         "id" : "r152",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3643.6129999347,
+            "id" : "download_140",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/p?ns__t=1378094176973&ns_c=UTF-8&uid=idSWFCIT6529951798425&c1=3&c3=_e0_CITI-CIT-145-40-NYC&c4=326201622&c5=427208315&c6=&c10=1&c11=&c12=p187114101&c13=&c16=atls&c2=6036255&ax_iframe=0&ns_ce_mod=bsl_lf,vce_st&ns__p=1378094175999&ax_cid=6036255&ns_ad_event=found&ns_ad_id=idSWFCIT6529951798425&ns_ad_sz=300x250&ns_ad_po=643x618&ns_ad_vsd=1978x1130&ns_ad_sd=2048x1152&ns_ad_vsp=70x22&ns_ad_vvd=939x999&ns_ad_vvp=95x118&ns_ad_vad=300x250&ns_ad_vap=738x736&ns_ad_vi=99&ns_type=hidden&ns_ad_pid=1378094176937&ax_mid=9706587394176937&ns_ad_vw=939x999&ns_ad_sc=0x0&ns_ad_sv=3.1304.18&ns_ad_tn=EMBED&ns_ad_ec=1&ns_ad_tb=74&ns_ad_src=http%3A%2F%2Fcdn.atdmt.com%2Fds%2FAANYCCITICIT%2F2013_NYStripAd%2F145_THY_NON_NAT_Transform_300x250_NYT.swf%3Fver%3D1%26clickTag1%3Dhttp%3A%2F%2Fclk.a&c8=The%20New%20York%20Times%20-%20Breaking%20News%2C%20World%20News%20%26%20Multimedia&c7=http%3A%2F%2Fwww.nytimes.com%2F&c9=",
+         "id" : "r153",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3644.20199999586,
+            "id" : "download_141",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/video/arrow-right-15x14-232020.png",
+         "id" : "r149",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3643.09100015089,
+            "id" : "download_142",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/09/01/world/bull-brazil/bull-brazil-videoSmall-v2.jpg",
+         "id" : "r143",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3644.66300001368,
+            "id" : "download_143",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/31/world/video-war-explainer/video-war-explainer-videoSmall.jpg",
+         "id" : "r144",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3645.11900022626,
+            "id" : "download_144",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/30/fashion/weddings/video-vows-ostrow-aliment/video-vows-ostrow-aliment-videoSmall.jpg",
+         "id" : "r145",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3645.56600013748,
+            "id" : "download_145",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/2013/08/30/dining/video-clark-eggplantdip/video-clark-eggplantdip-videoSmall.jpg",
+         "id" : "r146",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3646.00900001824,
+            "id" : "download_146",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/video/video-default-thumb-96x54-000000.png",
+         "id" : "r147",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3646.42499992624,
+            "id" : "download_147",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure-us.imrworldwide.com/cgi-bin/m?ci=mccann-ca&at=view&rt=banner&st=flash&ca=7772532&cr=100300871_273959071_51920010&pc=917396&ce=DART&rnd=1159990",
+         "id" : "r127",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3666.47000005469,
+            "id" : "download_148",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/c2/3005403/cs.js",
+         "id" : "r155",
+         "comps" : [
+            {
+               "s_time" : 5199.17399995029,
+               "time" : 12.2750001028198,
+               "type" : 2,
+               "id" : "comp_480",
+               "e_time" : 5211.44900005311
+            }
+         ],
+         "download" : {
+            "s_time" : 3765.76700014994,
+            "id" : "download_149",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/bi/js/tagx/tagx.js",
+         "id" : "r158",
+         "comps" : [
+            {
+               "s_time" : 5212.73399982601,
+               "time" : 29.9639999866495,
+               "type" : 2,
+               "id" : "comp_484",
+               "e_time" : 5242.69799981266
+            }
+         ],
+         "download" : {
+            "s_time" : 3775.32800007612,
+            "id" : "download_150",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/common/modal/regiModal.css",
+         "id" : "r160",
+         "comps" : [
+            {
+               "s_time" : 4489.51200023293,
+               "time" : 0.448999926449687,
+               "type" : 2,
+               "id" : "comp_423",
+               "e_time" : 4489.96100015938
+            }
+         ],
+         "download" : {
+            "s_time" : 3859.81599986553,
+            "id" : "download_151",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/common/modal/loginModal.css",
+         "id" : "r161",
+         "comps" : [
+            {
+               "s_time" : 4490.75399991125,
+               "time" : 0.191000290210468,
+               "type" : 2,
+               "id" : "comp_424",
+               "e_time" : 4490.94500020146
+            }
+         ],
+         "download" : {
+            "s_time" : 3865.98300002515,
+            "id" : "download_152",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/wtid.js",
+         "id" : "r154",
+         "comps" : [
+            {
+               "s_time" : 5242.73400008678,
+               "time" : 0.295000150799751,
+               "type" : 2,
+               "id" : "comp_488",
+               "e_time" : 5243.02900023758
+            }
+         ],
+         "download" : {
+            "s_time" : 3762.01800024137,
+            "id" : "download_153",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/icons/multimedia/comment_icon.gif",
+         "id" : "r159",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4350.27999989688,
+            "id" : "download_154",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/toggles/toggle_down_icon_9x5.gif",
+         "id" : "r162",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4350.63100000843,
+            "id" : "download_155",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.adsafeprotected.com/dt?asId=9c54987f-1383-11e3-af66-0025904ea18c&tv={c:mZISnr,pingTime:1,time:3359,type:p,fc:0,rt:1,cb:0,np:1,em:false,fr:true,slTimes:{i:3359,o:0,n:0,pp:0,pm:0,gpp:0,gpm:0,gi:3359,go:0,gn:0,fi:0,fo:0,fn:3359},slEvents:[{sl:i,fsl:fn,gsl:gi,t:46,wc:0.0.954.1014,ac:799.446.163.11,am:a,cc:799.446.163.109,piv:95,obst:0,th:0,reas:}],slEventCount:1,uf:0,tt:jss,fm:ogfAIfi+1*.19504-1292203}&br=c&adsafePrivacyPolicy=http://integr.al/privacy-policy",
+         "id" : "r163",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4269.80999996886,
+            "id" : "download_156",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-nytimes&cg=0&cc=1&si=http%3A//www.nytimes.com/&rp=&ts=compact&rnd=1378094177116",
+         "id" : "r156",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4349.84300006181,
+            "id" : "download_157",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://et.nytimes.com/?subject=page&url=http%3A%2F%2Fwww.nytimes.com%2F&referrer=&sourceApp=nyt4&totalTime=0&callback=NYTD.EventTracker.cb0",
+         "id" : "r157",
+         "comps" : [
+            {
+               "s_time" : 5243.0460001342,
+               "time" : 3.42800002545027,
+               "type" : 2,
+               "id" : "comp_491",
+               "e_time" : 5246.47400015965
+            }
+         ],
+         "download" : {
+            "s_time" : 3774.8380000703,
+            "id" : "download_158",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/common/forms.css",
+         "id" : "r165",
+         "comps" : [
+            {
+               "s_time" : 4690.29100006446,
+               "time" : 1.62900006399013,
+               "type" : 2,
+               "id" : "comp_425",
+               "e_time" : 4691.92000012845
+            }
+         ],
+         "download" : {
+            "s_time" : 4492.54400003701,
+            "id" : "download_159",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/css/0.1/screen/common/modal/modalForms.css",
+         "id" : "r166",
+         "comps" : [
+            {
+               "s_time" : 4692.44300015271,
+               "time" : 42.0289998874005,
+               "type" : 2,
+               "id" : "comp_426",
+               "e_time" : 4734.47200004011
+            }
+         ],
+         "download" : {
+            "s_time" : 4493.1899998337,
+            "id" : "download_160",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/osd.js",
+         "id" : "r169",
+         "comps" : [
+            {
+               "s_time" : 5246.50799995288,
+               "time" : 17.3090002499503,
+               "type" : 2,
+               "id" : "comp_495",
+               "e_time" : 5263.81700020283
+            }
+         ],
+         "download" : {
+            "s_time" : 4500.21700002253,
+            "id" : "download_161",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=17&i=NYTIMES2&bq=0&f=0&j=&o=3&t=1378094176056&de=72855876&m=0&ar=e892c25-clean&q=1&cb=0&cu=1378094176039&em=0&en=0&d=Finance%3ACiti%3ACiti_SundayProgram2013-1851992-nyt1%3ASundayProgram2013.HP.atlas300x250&bd=homepage&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r164",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4461.12099988386,
+            "id" : "download_162",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.adsafeprotected.com/detector2.pix",
+         "id" : "r168",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4493.80100006238,
+            "id" : "download_163",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/p?ns__t=1378094178487&ns_c=UTF-8&c1=3&c3=_e1_CITI-CIT-145-40-NYC&c4=326201622&c5=427208315&c6=&c10=1&c11=&c12=p187114101&c13=&c16=atls&c2=6036255&ax_iframe=0&ns_ce_mod=bsl_lf,vce_st&ns__p=1378094175999&ax_cid=6036255&ax_bl=0&ax_blt=976&ns_ad_id=idSWFCIT6529951798425&ns_ad_sz=300x250&ns_ad_po=643x618&ns_ad_vsd=1978x1130&ns_ad_sd=2048x1152&ns_ad_vsp=70x22&ns_ad_vvd=939x999&ns_ad_vvp=95x118&ns_ad_vad=300x250&ns_ad_vap=738x736&ns_ad_vi=99&ns_ad_event=qp1&ns_type=hidden&ns_ad_pid=1378094176937&ax_mid=9706587394176937&ns_ad_vw=939x999&ns_ad_sc=0x0&ns_ad_sv=3.1304.18&ns_ad_tn=EMBED&ns_ad_ec=2&ns_ad_tb=74&ax_vt=1512&ns_ad_src=http%3A%2F%2Fcdn.atdmt.com%2Fds%2FAANYCCITICIT%2F2013_NYStripAd%2F145_THY_NON_NAT_Transform_300x250_NYT.swf%3Fver%3D1%26clickTag1%3Dhttp%3A%2F%2Fclk.a&c8=The%20New%20York%20Times%20-%20Breaking%20News%2C%20World%20News%20%26%20Multimedia&c7=http%3A%2F%2Fwww.nytimes.com%2F&c9=",
+         "id" : "r174",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5137.95100012794,
+            "id" : "download_164",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=0&q=0&ak=http%3A%2F%2Fcdn.atdmt.com%2Fds%2FAANYCCITICIT%2F2013_NYStripAd%2F145_THY_NON_NAT_Transform_300x250_NYT.swf&dc=2&i=NYTIMES2&bq=0&g=0&h=250&f=0&j=&o=3&t=1378094176056&de=72855876&cu=1378094176039&m=114&ar=e892c25-clean&w=300&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=0&ag=4&an=0&aj=1&cc=0&bw=5&bx=0&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=0&cd=0&ah=0&am=0&cl=0&au=-1&av=-1&by=-1&at=0&d=Finance%3ACiti%3ACiti_SundayProgram2013-1851992-nyt1%3ASundayProgram2013.HP.atlas300x250&bd=homepage&ab=0&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r171",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5087.47600018978,
+            "id" : "download_165",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js/app/lib/backbone/backbone.js",
+         "id" : "r175",
+         "comps" : [
+            {
+               "s_time" : 5362.82300017774,
+               "time" : 8.40099994092998,
+               "type" : 3,
+               "id" : "comp_503",
+               "e_time" : 5371.22400011867
+            }
+         ],
+         "download" : {
+            "s_time" : 5167.61799994856,
+            "id" : "download_166",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/video/share-all-static.gif",
+         "id" : "r176",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5191.17899984121,
+            "id" : "download_167",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/icons/sharetools/classic/email.gif",
+         "id" : "r177",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5275.14299983159,
+            "id" : "download_168",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/icons/sharetools/classic/twitter.gif",
+         "id" : "r178",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5275.82600014284,
+            "id" : "download_169",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://css.nyt.com/images/icons/sharetools/classic/facebook.gif",
+         "id" : "r179",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5276.37499989942,
+            "id" : "download_170",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/js2/build/video/2.0/videomanager.2.0.js",
+         "id" : "r185",
+         "comps" : [
+            {
+               "s_time" : 5394.04499996454,
+               "time" : 40.02499999478,
+               "type" : 2,
+               "id" : "comp_507",
+               "e_time" : 5434.06999995932
+            }
+         ],
+         "download" : {
+            "s_time" : 5373.68200020865,
+            "id" : "download_171",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=9&q=0&ak=http%3A%2F%2Fgraphics8.nytimes.com%2Fadx%2Fimages%2FADS%2F34%2F57%2Fad.345786%2FamexHPmarketssep.gif&i=NYTIMES2&bq=0&g=1&h=90&f=0&j=&o=3&t=1378094175609&de=45288794&cu=1378094175593&m=2349&ar=e892c25-clean&w=163&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=0&ag=993&an=1&aj=1&cc=0&bw=993&bx=1&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=1995&cd=0&ah=1995&am=0&cl=0&au=-1&av=-1&by=-1&at=0&d=Financial%3AAmerican_Express%3AAmericanExpress-AugSep-1887899-nyt1%3AAmex-163x90-HPModule-Sept&bd=homepage&ab=1&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r184",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5361.83900013566,
+            "id" : "download_172",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/beacon.js",
+         "id" : "r186",
+         "comps" : [
+            {
+               "s_time" : 5937.37199995667,
+               "time" : 1.06099992989948,
+               "type" : null,
+               "id" : "comp_550",
+               "e_time" : 5938.43299988657
+            }
+         ],
+         "download" : {
+            "s_time" : 5446.97599997744,
+            "id" : "download_173",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/css/0.1/screen/common/modules/video/poster.css",
+         "id" : "r187",
+         "comps" : [
+            {
+               "s_time" : 5583.50499998778,
+               "time" : 0.465999823059974,
+               "type" : 2,
+               "id" : "comp_515",
+               "e_time" : 5583.97099981084
+            }
+         ],
+         "download" : {
+            "s_time" : 5457.21600018442,
+            "id" : "download_174",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/video/spinner-dark.gif",
+         "id" : "r188",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5464.61699996144,
+            "id" : "download_175",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ar.voicefive.com/bmx3/broker.pli?c1=3&c3=CITI-CIT-145-40-NYC&c4=326201622&c5=427208315&c6=&c10=1&c11=&c12=p187114101&c13=&c16=atls&c2=6036255&ax_iframe=0&ns_ce_mod=bsl_lf,vce_st&ns__p=1378094175999&",
+         "id" : "r173",
+         "comps" : [
+            {
+               "s_time" : 5938.49499989301,
+               "time" : 17.7279999479606,
+               "type" : null,
+               "id" : "comp_553",
+               "e_time" : 5956.22299984097
+            }
+         ],
+         "download" : {
+            "s_time" : 5121.48000020534,
+            "id" : "download_176",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.nyt.com/css/0.1/screen/common/modules/video/adCountdown.css",
+         "id" : "r191",
+         "comps" : [
+            {
+               "s_time" : 5788.40199997649,
+               "time" : 35.3220002725702,
+               "type" : 4,
+               "id" : "comp_521",
+               "e_time" : 5823.72400024906
+            }
+         ],
+         "download" : {
+            "s_time" : 5531.65999986231,
+            "id" : "download_177",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/images/video/playbutton_arrow.png",
+         "id" : "r189",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5536.63899982348,
+            "id" : "download_178",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://et.nytimes.com/?subject=video-nytv&url=http%3A%2F%2Fwww.nytimes.com%2F&referrer=&tech=flash&playerType=homepage&device=desktop&event=poster-load&parentDatumId=502632e16ef6f250&instant=1&callback=NYTD.EventTracker.cb1",
+         "id" : "r190",
+         "comps" : [
+            {
+               "s_time" : 5956.27800002694,
+               "time" : 0.363999977709682,
+               "type" : null,
+               "id" : "comp_557",
+               "e_time" : 5956.64200000465
+            }
+         ],
+         "download" : {
+            "s_time" : 5526.30699984729,
+            "id" : "download_179",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=5&q=0&ak=http%3A%2F%2Fgraphics8.nytimes.com%2Fadx%2Fimages%2FADS%2F34%2F57%2Fad.345786%2FamexHPmarketssep.gif&i=NYTIMES2&bq=0&g=2&h=90&f=0&j=&o=3&t=1378094175609&de=45288794&cu=1378094175593&m=2801&ar=e892c25-clean&w=163&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=1&ag=1993&an=993&ck=1993&aj=1&cc=1&bw=1993&bx=993&ci=1993&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=2495&cd=1995&ah=2495&am=1995&cl=0&au=-1&av=-1&by=-1&at=0&d=Financial%3AAmerican_Express%3AAmericanExpress-AugSep-1887899-nyt1%3AAmex-163x90-HPModule-Sept&bd=homepage&ab=1&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r192",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5593.6699998565,
+            "id" : "download_180",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=26#channel=f1971ba32c&channel_path=%2Fpackages%2Fhtml%2Ffacebook%2Ffbchannel.html%3Ffb_xd_fragment%23xd_sig%3Df2fc4641e8%26&origin=http%3A%2F%2Fwww.nytimes.com",
+         "id" : "r183",
+         "comps" : [
+            {
+               "s_time" : 5869.29500009865,
+               "time" : 25.7230000570398,
+               "type" : "evalhtml",
+               "id" : "r183_c1",
+               "e_time" : 5895.01800015569
+            }
+         ],
+         "download" : {
+            "s_time" : 5280.12999985367,
+            "id" : "download_181",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://static.ak.facebook.com/connect/xd_arbiter.php?version=26#channel=f1971ba32c&channel_path=%2Fpackages%2Fhtml%2Ffacebook%2Ffbchannel.html%3Ffb_xd_fragment%23xd_sig%3Df2fc4641e8%26&origin=http%3A%2F%2Fwww.nytimes.com",
+         "id" : "r182",
+         "comps" : [
+            {
+               "s_time" : 5904.38500000164,
+               "time" : 22.5289999507404,
+               "type" : "evalhtml",
+               "id" : "r182_c1",
+               "e_time" : 5926.91399995238
+            }
+         ],
+         "download" : {
+            "s_time" : 5279.62800022215,
+            "id" : "download_182",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://tagx.nytimes.com/?url=http%3A%2F%2Fwww.nytimes.com%2F&referrer=",
+         "id" : "r181",
+         "comps" : [
+            {
+               "s_time" : 6011.50499982759,
+               "time" : 6.40300009400016,
+               "type" : null,
+               "id" : "comp_561",
+               "e_time" : 6017.90799992159
+            }
+         ],
+         "download" : {
+            "s_time" : 5243.01900016144,
+            "id" : "download_183",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=5&q=0&ak=http%3A%2F%2Fcdn.atdmt.com%2Fds%2FAANYCCITICIT%2F2013_NYStripAd%2F145_THY_NON_NAT_Transform_300x250_NYT.swf&dc=2&i=NYTIMES2&bq=0&g=1&h=250&f=0&j=&o=3&t=1378094176056&de=72855876&cu=1378094176039&m=2365&ar=e892c25-clean&w=300&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=1&ag=1487&an=4&ck=1487&aj=1&cc=1&bw=1487&bx=5&ci=1487&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=1490&cd=0&ah=1490&am=0&cl=0&au=-1&av=-1&by=-1&at=0&d=Finance%3ACiti%3ACiti_SundayProgram2013-1851992-nyt1%3ASundayProgram2013.HP.atlas300x250&bd=homepage&ab=0&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r193",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5897.10200019181,
+            "id" : "download_184",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/bi/js/analytics/nyt4/controller.js",
+         "id" : "r196",
+         "comps" : [
+            {
+               "s_time" : 6037.38000011072,
+               "time" : 164.14200002327,
+               "type" : null,
+               "id" : "comp_566",
+               "e_time" : 6201.52200013399
+            }
+         ],
+         "download" : {
+            "s_time" : 6014.35700012371,
+            "id" : "download_185",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/bi/js/analytics/nyt4/wtinit.js",
+         "id" : "r197",
+         "comps" : [
+            {
+               "s_time" : 6398.98800011724,
+               "time" : 1.39199988917062,
+               "type" : 2,
+               "id" : "comp_572",
+               "e_time" : 6400.38000000641
+            }
+         ],
+         "download" : {
+            "s_time" : 6199.40500007942,
+            "id" : "download_186",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://graphics8.nytimes.com/bi/js/analytics/nyt4/wtbase.js",
+         "id" : "r198",
+         "comps" : [
+            {
+               "s_time" : 6400.42100008577,
+               "time" : 21.8509999103899,
+               "type" : 2,
+               "id" : "comp_575",
+               "e_time" : 6422.27199999616
+            }
+         ],
+         "download" : {
+            "s_time" : 6203.34200002253,
+            "id" : "download_187",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=9&q=1&ak=http%3A%2F%2Fgraphics8.nytimes.com%2Fadx%2Fimages%2FADS%2F34%2F57%2Fad.345786%2FamexHPmarketssep.gif&i=NYTIMES2&bq=0&g=3&h=90&f=0&j=&o=3&t=1378094175609&de=45288794&cu=1378094175593&m=4047&ar=e892c25-clean&w=163&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=1&ag=2864&an=1993&ck=1993&aj=1&cc=1&bw=2864&bx=1993&ci=1993&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=3741&cd=2495&ah=3741&am=2495&cl=0&au=-1&av=-1&by=-1&at=0&d=Financial%3AAmerican_Express%3AAmericanExpress-AugSep-1887899-nyt1%3AAmex-163x90-HPModule-Sept&bd=homepage&ab=1&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r200",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6308.43700002879,
+            "id" : "download_188",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pixel.adsafeprotected.com/dt?asId=9c54987f-1383-11e3-af66-0025904ea18c&tv={c:mZISnr,pingTime:5,time:5487,type:p,fc:0,rt:1,cb:0,np:1,em:false,fr:true,slTimes:{i:5487,o:0,n:0,pp:0,pm:0,gpp:0,gpm:0,gi:5487,go:0,gn:0,fi:0,fo:0,fn:5487},slEvents:[{sl:i,fsl:fn,gsl:gi,t:46,wc:0.0.954.1014,ac:799.446.163.11,am:a,cc:799.446.163.109,piv:95,obst:0,th:0,reas:}],slEventCount:1,uf:0,tt:jss,fm:ogfAIfi+1*.19504-1292203}&br=c&adsafePrivacyPolicy=http://integr.al/privacy-policy",
+         "id" : "r201",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6400.51699988544,
+            "id" : "download_189",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=9&q=0&ak=http%3A%2F%2Fcdn.atdmt.com%2Fds%2FAANYCCITICIT%2F2013_NYStripAd%2F145_THY_NON_NAT_Transform_300x250_NYT.swf&dc=2&i=NYTIMES2&bq=0&g=2&h=250&f=0&j=&o=3&t=1378094176056&de=72855876&cu=1378094176039&m=3647&ar=e892c25-clean&w=300&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=0&as=1&ag=2355&an=1487&ck=1487&aj=1&cc=1&bw=2355&bx=1487&ci=1487&dj=1&cg=0&ce=0&cf=0&dk=0&em=0&en=0&bu=2741&cd=1490&ah=2741&am=1490&cl=0&au=-1&av=-1&by=-1&at=0&d=Finance%3ACiti%3ACiti_SundayProgram2013-1851992-nyt1%3ASundayProgram2013.HP.atlas300x250&bd=homepage&ab=0&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r203",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6450.23899991065,
+            "id" : "download_190",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.revsci.net/gateway/gw.js?csid=H07707&auto=t",
+         "id" : "r199",
+         "comps" : [
+            {
+               "s_time" : 7202.87099992856,
+               "time" : 36.3139999099094,
+               "type" : 2,
+               "id" : "comp_582",
+               "e_time" : 7239.18499983847
+            }
+         ],
+         "download" : {
+            "s_time" : 6232.29700000957,
+            "id" : "download_191",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://wt.o.nytimes.com/dcsa5pgfq10000c9zuysqk0lm_6i8y/dcs.gif?dcsredirect=126&dcstlh=0&dcstlv=0&dcsdat=1378094179757&dcssip=www.nytimes.com&dcsuri=/&WT.co_f=636a331c-af34-405c-a040-5a233a8d4599&WT.vt_sid=636a331c-af34-405c-a040-5a233a8d4599.1378094179767&WT.vt_f_tlv=0&WT.tz=-7&WT.bh=20&WT.ul=en-US&WT.cd=24&WT.sr=2048x1152&WT.jo=Yes&WT.ti=The%20New%20York%20Times%20-%20Breaking%20News,%20World%20News%20%26%20Multimedia&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=954x1014&WT.fi=Yes&WT.fv=11.8&WT.tv=1.0.7&WT.dl=0&WT.es=www.nytimes.com/&WT.z_fbc=&WT.cg_n=Homepage&WT.z_rcgn=Homepage&WT.z_gpt=Homepage&WT.z_nyts=&WT.z_nytd=&WT.z_rmid=007f010009e552240c5d00ac&WT.rv=0&WT.mc_ev=&WT.vt_f_tlh=0&WT.vt_f_d=1&WT.vt_f_s=1&WT.vt_f_a=1&WT.vt_f=1",
+         "id" : "r202",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6561.46100023761,
+            "id" : "download_192",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ads.revsci.net/adserver/ako?activate&csid=H07707",
+         "id" : "r204",
+         "comps" : [
+            {
+               "s_time" : 7951.76099985838,
+               "time" : 6.83600036427015,
+               "type" : 2,
+               "id" : "comp_599",
+               "e_time" : 7958.59700022265
+            }
+         ],
+         "download" : {
+            "s_time" : 7208.82399985567,
+            "id" : "download_193",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pix04.revsci.net/H07707/b3/0/3/120814/4456598.js?D=DM_LOC%3Dhttp%253A%252F%252Fwww.nytimes.com%252F%253F_rsiL%253D0%26DM_EOM%3D1&C=H07707",
+         "id" : "r205",
+         "comps" : [
+            {
+               "s_time" : 7958.63300003111,
+               "time" : 0.858000013980018,
+               "type" : 2,
+               "id" : "comp_603",
+               "e_time" : 7959.49100004509
+            }
+         ],
+         "download" : {
+            "s_time" : 7240.48000015318,
+            "id" : "download_194",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://apiservices.krxd.net/user_data/segments/3?pubid=79816aa8-435a-471a-be83-4b3e0946daf2&technographics=1&callback=Krux.ns._default.kxjsonp_userData",
+         "id" : "r211",
+         "comps" : [
+            {
+               "s_time" : 8187.08800012246,
+               "time" : 48.0559999123197,
+               "type" : null,
+               "id" : "comp_609",
+               "e_time" : 8235.14400003478
+            }
+         ],
+         "download" : {
+            "s_time" : 8109.21199992299,
+            "id" : "download_195",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://v3.moatads.com/pixel.gif?e=5&q=1&ak=http%3A%2F%2Fcdn.atdmt.com%2Fds%2FAANYCCITICIT%2F2013_NYStripAd%2F145_THY_NON_NAT_Transform_300x250_NYT.swf&dc=2&i=NYTIMES2&bq=0&g=3&h=250&f=0&j=&o=3&t=1378094176056&de=72855876&cu=1378094176039&m=5579&ar=e892c25-clean&w=300&cb=0&r=11.8&dl=0&dm=1000&dn=72&ch=1&ct=67586f1-clean&as=1&ag=4681&an=2355&ck=1487&aj=1&cc=1&bw=4682&bx=2355&ci=1487&dj=1&cg=1&ce=1007&cf=0&cj=1007&dk=0&em=0&en=0&bu=4702&cd=2741&ah=4702&am=2741&cl=0&au=-1&av=-1&by=-1&at=0&d=Finance%3ACiti%3ACiti_SundayProgram2013-1851992-nyt1%3ASundayProgram2013.HP.atlas300x250&bd=homepage&ab=0&ac=1&zMoatSite=homepage.nytimes.com%2Findex.html&zMoatAT=Standard&cs=0",
+         "id" : "r213",
+         "comps" : [],
+         "download" : {
+            "s_time" : 8297.26100014523,
+            "id" : "download_196",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_17"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_30"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_32"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_104"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_124"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_128"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_243"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_245"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_249"
+      },
+      {
+         "a2" : "comp_17",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_10"
+      },
+      {
+         "a2" : "comp_32",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_30"
+      },
+      {
+         "a2" : "comp_128",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_124"
+      },
+      {
+         "a2" : "download_196",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_195",
+         "time" : 4336.85699990019,
+         "id" : "dep15",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_194",
+         "time" : 3468.12500013038,
+         "id" : "dep16",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_193",
+         "time" : 3436.46899983287,
+         "id" : "dep17",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_192",
+         "time" : 2789.10600021481,
+         "id" : "dep18",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_191",
+         "time" : 2459.94199998677,
+         "id" : "dep19",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_190",
+         "time" : 2677.88399988785,
+         "id" : "dep20",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_189",
+         "time" : 2628.16199986264,
+         "id" : "dep21",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_188",
+         "time" : 2536.08200000599,
+         "id" : "dep22",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_187",
+         "time" : 2430.98699999973,
+         "id" : "dep23",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_186",
+         "time" : 162.024999968699,
+         "id" : "dep24",
+         "a1" : "comp_566"
+      },
+      {
+         "a2" : "download_185",
+         "time" : 2.85200029612042,
+         "id" : "dep25",
+         "a1" : "comp_561"
+      },
+      {
+         "a2" : "download_184",
+         "time" : 2124.74700016901,
+         "id" : "dep26",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_183",
+         "time" : 1470.66400013864,
+         "id" : "dep27",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_182",
+         "time" : 1507.27300019935,
+         "id" : "dep28",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_181",
+         "time" : 1507.77499983087,
+         "id" : "dep29",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_180",
+         "time" : 1821.3149998337,
+         "id" : "dep30",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_179",
+         "time" : 1753.95199982449,
+         "id" : "dep31",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_178",
+         "time" : 1764.28399980068,
+         "id" : "dep32",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_177",
+         "time" : 1759.30499983951,
+         "id" : "dep33",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_176",
+         "time" : 1349.12500018254,
+         "id" : "dep34",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_175",
+         "time" : 1692.26199993864,
+         "id" : "dep35",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_174",
+         "time" : 1684.86100016162,
+         "id" : "dep36",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_173",
+         "time" : 1674.62099995464,
+         "id" : "dep37",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_172",
+         "time" : 1589.48400011286,
+         "id" : "dep38",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_171",
+         "time" : 1601.32700018585,
+         "id" : "dep39",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_170",
+         "time" : 1504.01999987662,
+         "id" : "dep40",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_169",
+         "time" : 1503.47100012004,
+         "id" : "dep41",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_168",
+         "time" : 1502.78799980879,
+         "id" : "dep42",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_167",
+         "time" : 1418.82399981841,
+         "id" : "dep43",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_166",
+         "time" : 1395.26299992576,
+         "id" : "dep44",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_165",
+         "time" : 1315.12100016698,
+         "id" : "dep45",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_164",
+         "time" : 1365.59600010514,
+         "id" : "dep46",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_163",
+         "time" : 721.44600003958,
+         "id" : "dep47",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_162",
+         "time" : 688.76599986106,
+         "id" : "dep48",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_161",
+         "time" : 727.86199999973,
+         "id" : "dep49",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_160",
+         "time" : 720.8349998109,
+         "id" : "dep50",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_159",
+         "time" : 720.18900001421,
+         "id" : "dep51",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_158",
+         "time" : 2.4830000474999,
+         "id" : "dep52",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_157",
+         "time" : 577.48800003901,
+         "id" : "dep53",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_156",
+         "time" : 497.45499994606,
+         "id" : "dep54",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_155",
+         "time" : 578.27599998563,
+         "id" : "dep55",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_154",
+         "time" : 577.92499987408,
+         "id" : "dep56",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_153",
+         "time" : -1,
+         "id" : "dep57",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_152",
+         "time" : 93.6280000023498,
+         "id" : "dep58",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_151",
+         "time" : 87.46099984273,
+         "id" : "dep59",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_150",
+         "time" : 2.97300005331999,
+         "id" : "dep60",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_149",
+         "time" : -1,
+         "id" : "dep61",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_148",
+         "time" : -1,
+         "id" : "dep62",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_147",
+         "time" : 671.26399977133,
+         "id" : "dep63",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_146",
+         "time" : 670.84799986333,
+         "id" : "dep64",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_145",
+         "time" : 670.40499998257,
+         "id" : "dep65",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_144",
+         "time" : 669.95800007135,
+         "id" : "dep66",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_143",
+         "time" : 669.50199985877,
+         "id" : "dep67",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_142",
+         "time" : 667.92999999598,
+         "id" : "dep68",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_141",
+         "time" : 669.04099984095,
+         "id" : "dep69",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_140",
+         "time" : 668.45199977979,
+         "id" : "dep70",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_139",
+         "time" : 272.97500008717,
+         "id" : "dep71",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_138",
+         "time" : 445.12399984524,
+         "id" : "dep72",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_137",
+         "time" : 442.56899971515,
+         "id" : "dep73",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_136",
+         "time" : 427.43899999187,
+         "id" : "dep74",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_135",
+         "time" : 303.14600002021,
+         "id" : "dep75",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_134",
+         "time" : 301.20699992404,
+         "id" : "dep76",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_126",
+         "time" : 201.09599968419,
+         "id" : "dep77",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_125",
+         "time" : 293.21999987588,
+         "id" : "dep78",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_124",
+         "time" : 295.60100007802,
+         "id" : "dep79",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_123",
+         "time" : 273.75299995765,
+         "id" : "dep80",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_122",
+         "time" : 200.11199964211,
+         "id" : "dep81",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_121",
+         "time" : 176.83500004933,
+         "id" : "dep82",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 176.33999977261,
+         "id" : "dep83",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 175.84399972111,
+         "id" : "dep84",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_118",
+         "time" : -1,
+         "id" : "dep85",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 45.2089998871097,
+         "id" : "dep86",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 44.7100000455998,
+         "id" : "dep87",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 44.3469998426799,
+         "id" : "dep88",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 43.9800000749597,
+         "id" : "dep89",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 43.5659997165199,
+         "id" : "dep90",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 32.2289997711796,
+         "id" : "dep91",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 740.87300011888,
+         "id" : "dep92",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 730.46500002965,
+         "id" : "dep93",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 645.21000022068,
+         "id" : "dep94",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 435.82400027662,
+         "id" : "dep95",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 444.54000005498,
+         "id" : "dep96",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 440.44200005009,
+         "id" : "dep97",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 79.4680002145401,
+         "id" : "dep98",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_104",
+         "time" : 43.46700012683,
+         "id" : "dep99",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 79.90000024438,
+         "id" : "dep100",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 78.7340002134401,
+         "id" : "dep101",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 0.479000154879941,
+         "id" : "dep102",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 1122.93500034139,
+         "id" : "dep103",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 341.261000372466,
+         "id" : "dep104",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 574.749000370506,
+         "id" : "dep105",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 550.936000421646,
+         "id" : "dep106",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 668.960000388326,
+         "id" : "dep107",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 239.802000112836,
+         "id" : "dep108",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 500.937000382696,
+         "id" : "dep109",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 239.405000116676,
+         "id" : "dep110",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 238.998000044376,
+         "id" : "dep111",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 238.155000377446,
+         "id" : "dep112",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 238.574000075456,
+         "id" : "dep113",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 237.705999985336,
+         "id" : "dep114",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 237.085000146176,
+         "id" : "dep115",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 236.659000162036,
+         "id" : "dep116",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 236.230000387876,
+         "id" : "dep117",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 235.825000330806,
+         "id" : "dep118",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 234.961000271146,
+         "id" : "dep119",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 235.395000316206,
+         "id" : "dep120",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 234.529000241306,
+         "id" : "dep121",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 234.074000269176,
+         "id" : "dep122",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 233.643000014126,
+         "id" : "dep123",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 233.146000187846,
+         "id" : "dep124",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 232.694000005726,
+         "id" : "dep125",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 232.259000185876,
+         "id" : "dep126",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 231.816000305116,
+         "id" : "dep127",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 231.151000130926,
+         "id" : "dep128",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 230.687000323086,
+         "id" : "dep129",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 230.213000439106,
+         "id" : "dep130",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 209.237000439316,
+         "id" : "dep131",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 229.151000268756,
+         "id" : "dep132",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 228.725000284616,
+         "id" : "dep133",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 228.174000047146,
+         "id" : "dep134",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 227.775000035766,
+         "id" : "dep135",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 227.387000340966,
+         "id" : "dep136",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 226.990000344816,
+         "id" : "dep137",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 226.566000375896,
+         "id" : "dep138",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 226.158000063156,
+         "id" : "dep139",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 225.733000319456,
+         "id" : "dep140",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 224.686000030486,
+         "id" : "dep141",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 13.934000395239,
+         "id" : "dep142",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 224.268000107256,
+         "id" : "dep143",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 223.756000399586,
+         "id" : "dep144",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 223.174000158906,
+         "id" : "dep145",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 222.723000217226,
+         "id" : "dep146",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 222.262000199406,
+         "id" : "dep147",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 221.821000333876,
+         "id" : "dep148",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 221.368000376966,
+         "id" : "dep149",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 220.816000364716,
+         "id" : "dep150",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 220.268000382926,
+         "id" : "dep151",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 6.62100035697199,
+         "id" : "dep152",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 213.681000284846,
+         "id" : "dep153",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 213.304000440986,
+         "id" : "dep154",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 212.934000417586,
+         "id" : "dep155",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 212.565000168976,
+         "id" : "dep156",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 219.640000257646,
+         "id" : "dep157",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 212.194000370796,
+         "id" : "dep158",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 219.173000194136,
+         "id" : "dep159",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 218.514000065626,
+         "id" : "dep160",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 217.895000241696,
+         "id" : "dep161",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 217.477000318466,
+         "id" : "dep162",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 215.515000279996,
+         "id" : "dep163",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 217.095000203696,
+         "id" : "dep164",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 208.595999982206,
+         "id" : "dep165",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 215.153000317516,
+         "id" : "dep166",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 214.794000145046,
+         "id" : "dep167",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 211.454000324006,
+         "id" : "dep168",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 211.825000122186,
+         "id" : "dep169",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 211.097000166776,
+         "id" : "dep170",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 210.724000353366,
+         "id" : "dep171",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 210.329000372436,
+         "id" : "dep172",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_30",
+         "time" : -1,
+         "id" : "dep173",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 216.704000253226,
+         "id" : "dep174",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 216.312000062316,
+         "id" : "dep175",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 214.432000182566,
+         "id" : "dep176",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 209.881000220776,
+         "id" : "dep177",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 214.076000265776,
+         "id" : "dep178",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 32.154000364244,
+         "id" : "dep179",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 37.02099993825,
+         "id" : "dep180",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 35.7560003176341,
+         "id" : "dep181",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 19.2720000632111,
+         "id" : "dep182",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 12.172000017018,
+         "id" : "dep183",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 49.8509998433291,
+         "id" : "dep184",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 46.130999922752,
+         "id" : "dep185",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_17",
+         "time" : -1,
+         "id" : "dep186",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 596.634000074118,
+         "id" : "dep187",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 513.052000198513,
+         "id" : "dep188",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 513.052000198513,
+         "id" : "dep189",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 20.8680001087484,
+         "id" : "dep190",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 20.8680001087484,
+         "id" : "dep191",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 413.654999807477,
+         "id" : "dep192",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 10.7669997960329,
+         "id" : "dep193",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 34.8620000295344,
+         "id" : "dep194",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 48.6989999189974,
+         "id" : "dep195",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 6.5290001221001,
+         "id" : "dep196",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 19.0699999220669,
+         "id" : "dep197",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 19.0699999220669,
+         "id" : "dep198",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 13.5679999366402,
+         "id" : "dep199",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 18.6580000445247,
+         "id" : "dep200",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 20.0239997357134,
+         "id" : "dep201",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 20.0239997357134,
+         "id" : "dep202",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 49.1490000858904,
+         "id" : "dep203",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 35.4100000113244,
+         "id" : "dep204",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 35.4100000113244,
+         "id" : "dep205",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 37.0979998260734,
+         "id" : "dep206",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 20.4329998232424,
+         "id" : "dep207",
+         "a1" : "r1_c1"
+      }
+   ]
+}

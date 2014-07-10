@@ -1,0 +1,888 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "allegro.pl_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://allegro.pl/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 775.253999978304,
+               "time" : 338.258000090716,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1113.51200006902
+            },
+            {
+               "s_time" : 2313.27599985525,
+               "time" : 236.56600015238,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 2549.84200000763
+            },
+            {
+               "s_time" : 2666.95899982005,
+               "time" : 1347.40500012413,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 4014.36399994418
+            },
+            {
+               "s_time" : 4179.89199981093,
+               "time" : 0.534000340849161,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 4180.42600015178
+            },
+            {
+               "s_time" : 4183.40899981558,
+               "time" : 1.79899996147014,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 4185.20799977705
+            },
+            {
+               "s_time" : 4194.46499971673,
+               "time" : 41.8530004099002,
+               "type" : "evalhtml",
+               "id" : "r1_c6",
+               "e_time" : 4236.31800012663
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/scripts/vendor/f71aa93f.modernizr.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 2273.3879997395,
+               "time" : 39.8880001157499,
+               "type" : 1,
+               "id" : "comp_4",
+               "e_time" : 2313.27599985525
+            }
+         ],
+         "download" : {
+            "s_time" : 787.306999787688,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/styles/466c9e5b.vela.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 2235.85500009358,
+               "time" : 307.10499966517,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 2542.95999975875
+            }
+         ],
+         "download" : {
+            "s_time" : 786.861000116915,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/scripts/velalayout/f402fce1.main.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 2545.09299993515,
+               "time" : 121.8659998849,
+               "type" : 1,
+               "id" : "comp_18",
+               "e_time" : 2666.95899982005
+            }
+         ],
+         "download" : {
+            "s_time" : 1112.41299984977,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/scripts/vendor/6558972b.xgemius.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 4180.45999994501,
+               "time" : 2.94899987056942,
+               "type" : 1,
+               "id" : "comp_111",
+               "e_time" : 4183.40899981558
+            }
+         ],
+         "download" : {
+            "s_time" : 1113.11799986288,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gg.adocean.pl/files/js/ado.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 4183.52099973708,
+               "time" : 10.9439999796496,
+               "type" : 1,
+               "id" : "comp_114",
+               "e_time" : 4194.46499971673
+            }
+         ],
+         "download" : {
+            "s_time" : 1113.51200006902,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.optimizely.com/js/70910669.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 3153.68099976331,
+               "time" : 111.41500016674,
+               "type" : 2,
+               "id" : "comp_27",
+               "e_time" : 3265.09599993005
+            }
+         ],
+         "download" : {
+            "s_time" : 2317.44100013748,
+            "id" : "download_6",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stats.g.doubleclick.net/dc.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 3265.13599976897,
+               "time" : 51.35500011966,
+               "type" : 2,
+               "id" : "comp_36",
+               "e_time" : 3316.49099988863
+            }
+         ],
+         "download" : {
+            "s_time" : 2318.44499986619,
+            "id" : "download_7",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googletagmanager.com/gtm.js?id=GTM-FXVJ",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 3316.54200004414,
+               "time" : 11.1469998955699,
+               "type" : 2,
+               "id" : "comp_40",
+               "e_time" : 3327.68899993971
+            }
+         ],
+         "download" : {
+            "s_time" : 2319.09300014377,
+            "id" : "download_8",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/2754b0b6.sprite-base.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2544.80599984527,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/logotypes/434de666.allegro-pl.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2544.09299977124,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/be1cede9.ajax-loader.gif",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2545.76699994504,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/16a9a096.border-layer.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2545.34299997613,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/0eb45645.main-bars-bg.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2546.15900013596,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/32547260.blank.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2546.53699975461,
+            "id" : "download_14",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/socialmedia/323c5c51.sprite-stay-connected.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2546.93399975076,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/images/velalayout/logotypes/a4b7e144.allegro-pl-small.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2547.32499970123,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46611",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2523.90199992806,
+            "id" : "download_17",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_45072",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2549.41400000826,
+            "id" : "download_18",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_45075",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2549.84200000763,
+            "id" : "download_19",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://c.allegrostatic.pl/scripts/mainpage/02491222.main.js",
+         "id" : "r23",
+         "comps" : [
+            {
+               "s_time" : 3389.632999897,
+               "time" : 1.80000020190982,
+               "type" : 2,
+               "id" : "comp_65",
+               "e_time" : 3391.43300009891
+            }
+         ],
+         "download" : {
+            "s_time" : 2914.6170001477,
+            "id" : "download_20",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ngastatic.com/s4c/collect.js",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 3631.94599980488,
+               "time" : 31.88899997622,
+               "type" : 2,
+               "id" : "comp_77",
+               "e_time" : 3663.8349997811
+            }
+         ],
+         "download" : {
+            "s_time" : 2669.34200003743,
+            "id" : "download_21",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gg.adocean.pl/*/_1378095878295/ad.js?id=Kheq2bP6AvvIlMNRru31q.GWov1HVpJ6_c8WhSL6uKv.j7/x=2048/y=1152",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3104.95699988678,
+            "id" : "download_22",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46638",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3101.29099991173,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googleadservices.com/pagead/conversion_async.js",
+         "id" : "r38",
+         "comps" : [
+            {
+               "s_time" : 3484.91499992087,
+               "time" : 15.1189998723603,
+               "type" : 2,
+               "id" : "comp_69",
+               "e_time" : 3500.03399979323
+            }
+         ],
+         "download" : {
+            "s_time" : 3387.7489999868,
+            "id" : "download_24",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46637",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3101.69399995357,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46610",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3102.08600014448,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics.allegrostatic.pl/public/uploaded/1/razemwszkole3.jpg",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3039.45000004023,
+            "id" : "download_27",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_45887",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3102.47900011018,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46615",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3102.86600003019,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.com/ads/conversion/1066801593/?random=1812107594&cv=7&fst=1378095879127&num=1&fmt=3&label=LLGCM_uwAIQubPY_AM&guid=ON&u_h=1152&u_w=2048&u_ah=1130&u_aw=1970&u_cd=24&u_his=7&u_tz=-420&u_java=true&u_nplug=6&u_nmime=93&url=http%3A//allegro.pl/&frm=0&async=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&random=3424669699",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4014.36399994418,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46558",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3103.4399997443,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://staticpics2.allegrostatic.pl/showcase/sh_46616",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3103.81399979815,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://thumbnails02.okazje.allegro.pl/753A0B9A/52208b7f030917ae700000001377864575.jpg/170x135",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3032.35499979928,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://thumbnails02.okazje.allegro.pl/5586346B/521f4e9f426ae13b0a0000001377783456.jpg/170x135",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3100.73800012469,
+            "id" : "download_34",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://thumbnails04.okazje.allegro.pl/71F4221A/52171664426ae155400000001377244772.jpg/170x135",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3031.80200001225,
+            "id" : "download_35",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://thumbnails01.okazje.allegro.pl/EF5B0E04/5203afc8426ae16d450000021375973320.jpg/170x135",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3032.95599995181,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://70910669.log.optimizely.com/event?a=70910669&d=70910669&y=true&s172133508=none&s172249494=gc&s172281244=false&s172299246=direct&n=http%3A%2F%2Fallegro.pl%2F&u=oeu1378095878857r0.6493444736115634&wxhr=true&t=1378095878871&f=305133510",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3249.69899980351,
+            "id" : "download_37",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://gg.hit.gemius.pl/__/_1378095879005/redot.js/id=Apubu68m7F5OuJ6BakxBr6P8PzLGH4cMgPR2yNsWbtn.17/stparam=ronhcmngzv/fastid=mvavhzxjfhwaaklcgzoumtqgxumy/sarg=5224130623C5439F%7C_cdata%3A356711_0%2C332330_0%2C332331_0%2C373380_0%2C373381_0%2C373383_0%2C373396_0%2C373402_0%2C373403_0%2C373404_0%2C402726_0%2C413982_0%2C469244_0%2C469430_0%2C494707_0%2C502882_0",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3994.83999982476,
+            "id" : "download_38",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ngacm.com/c5t/pv?h=allegro.pl&pth=%2F&qs=&ref=&res=2048x1152&b=Chrome%2022&ce=1&os=Mac%20OS%20X%2010.6.8&dev=&tz=-7&p=http&_=1378095879287&uid=&ses=&acc=CM.991213.tz_pl",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 4366.81499984115,
+               "time" : 0.783999916169705,
+               "type" : null,
+               "id" : "comp_146",
+               "e_time" : 4367.59899975732
+            }
+         ],
+         "download" : {
+            "s_time" : 3664.05700007454,
+            "id" : "download_39",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://allegro.hit.gemius.pl/_1378095879809/rexdot.gif?l=30&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&fr=1&fv=Shockwave%20Flash%2011.8%20r800&tz=420&href=http%3A//allegro.pl/&ref=&screen=2048x1152&col=24",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4185.20799977705,
+            "id" : "download_40",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_107"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_111"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_114"
+      },
+      {
+         "a2" : "comp_4",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_3"
+      },
+      {
+         "a2" : "comp_114",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_111"
+      },
+      {
+         "a2" : "download_40",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_39",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_38",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 582.73999998346,
+         "id" : "dep11",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 365.99700013176,
+         "id" : "dep12",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 364.8430001922,
+         "id" : "dep13",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 433.77900030464,
+         "id" : "dep14",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 365.39599997923,
+         "id" : "dep15",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 436.8549999781,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 436.48099992425,
+         "id" : "dep17",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_30",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 435.90700021014,
+         "id" : "dep19",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 435.52000029013,
+         "id" : "dep20",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 372.49100022018,
+         "id" : "dep21",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 435.12700032443,
+         "id" : "dep22",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 434.73500013352,
+         "id" : "dep23",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 720.79000016675,
+         "id" : "dep24",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 434.33200009168,
+         "id" : "dep25",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 437.99800006673,
+         "id" : "dep26",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 2.38300021737996,
+         "id" : "dep27",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 247.65800032765,
+         "id" : "dep28",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_19",
+         "time" : -1,
+         "id" : "dep29",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 236.13800015301,
+         "id" : "dep30",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 210.62600007281,
+         "id" : "dep31",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 234.04899984598,
+         "id" : "dep32",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 233.65799989551,
+         "id" : "dep33",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 233.26099989936,
+         "id" : "dep34",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 232.88300028071,
+         "id" : "dep35",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 232.06700012088,
+         "id" : "dep36",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 232.49100008979,
+         "id" : "dep37",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 230.81699991599,
+         "id" : "dep38",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 231.52999999002,
+         "id" : "dep39",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 5.81700028851992,
+         "id" : "dep40",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 5.16900001093973,
+         "id" : "dep41",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 4.16500028222981,
+         "id" : "dep42",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_5",
+         "time" : -1,
+         "id" : "dep43",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 337.863999884576,
+         "id" : "dep44",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 337.158999871466,
+         "id" : "dep45",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 337.158999871466,
+         "id" : "dep46",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 11.6070001386109,
+         "id" : "dep47",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 12.052999809384,
+         "id" : "dep48",
+         "a1" : "r1_c1"
+      }
+   ]
+}

@@ -1,0 +1,574 @@
+{"page": "www.webcrawler.com_"}
+{"DOMLoad": 971.084629}
+{"Resource": {"id": 1, "url": "http://www.webcrawler.com/", "sentTime": -1.000000, "len": 19188, "from": "0x0",                            "mimeType": "text/html", "contentLength": 19188, "httpStatus": 200, "connId": 114, "connReused": 0, "cached": 0,                            "requestTime": 969.407961, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 512, "connectStart": 1, "connectEnd": 534, "sendStart": 534, "sendEnd": 534, "receiveHeadersEnd": 601, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.020731, "len": 3095}}
+{"ReceivedChunk": {"receivedTime": 970.045226, "len": 8960}}
+{"ReceivedChunk": {"receivedTime": 970.047533, "len": 7133}}
+{"ObjectHash": {"code": "0x405fe70", "doc": "http://www.webcrawler.com/", "row": 2, "column": 6, "tagName": "html", "time": 970.040050, "url": "", "pos": 25, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40601c0", "doc": "http://www.webcrawler.com/", "row": 3, "column": 10, "tagName": "head", "time": 970.040204, "url": "", "pos": 37, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405f870", "doc": "http://www.webcrawler.com/", "row": 4, "column": 15, "tagName": "title", "time": 970.040241, "url": "", "pos": 54, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406cb60", "doc": "http://www.webcrawler.com/", "row": 4, "column": 44, "tagName": "title", "time": 970.043700, "url": "", "pos": 83, "chunkLen": 3095, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406cc10", "doc": "http://www.webcrawler.com/", "row": 6, "column": 40, "tagName": "meta", "time": 970.043738, "url": "", "pos": 147, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406d020", "doc": "http://www.webcrawler.com/", "row": 7, "column": 163, "tagName": "meta", "time": 970.043793, "url": "", "pos": 312, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406cd90", "doc": "http://www.webcrawler.com/", "row": 8, "column": 258, "tagName": "meta", "time": 970.043832, "url": "", "pos": 572, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406d420", "doc": "http://www.webcrawler.com/", "row": 15, "column": 133, "tagName": "link", "time": 970.043860, "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/css/site.min.css?av=115", "pos": 799, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406daa0", "doc": "http://www.webcrawler.com/", "row": 21, "column": 121, "tagName": "script", "time": 970.044297, "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/scripts/siteinit.min.js?av=115", "pos": 1097, "chunkLen": 3095, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406d320", "doc": "http://www.webcrawler.com/", "row": 21, "column": 130, "tagName": "script", "time": 970.044330, "url": "", "pos": 1106, "chunkLen": 3095, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406e8c0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 10, "tagName": "link", "time": 970.577770, "url": "", "pos": 10, "chunkLen": 107, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406e920", "doc": "http://www.webcrawler.com/", "row": 0, "column": 17, "tagName": "table", "time": 970.577796, "url": "", "pos": 17, "chunkLen": 107, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40938d0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 25, "tagName": "table", "time": 970.577815, "url": "", "pos": 25, "chunkLen": 107, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4093960", "doc": "http://www.webcrawler.com/", "row": 0, "column": 78, "tagName": "a", "time": 970.577831, "url": "", "pos": 78, "chunkLen": 107, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4093c50", "doc": "http://www.webcrawler.com/", "row": 0, "column": 83, "tagName": "a", "time": 970.577918, "url": "", "pos": 83, "chunkLen": 107, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4093c80", "doc": "http://www.webcrawler.com/", "row": 0, "column": 107, "tagName": "input", "time": 970.577926, "url": "", "pos": 107, "chunkLen": 107, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4096400", "doc": "http://www.webcrawler.com/", "row": 0, "column": 31, "tagName": "a", "time": 970.591315, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4094830", "doc": "http://www.webcrawler.com/", "row": 0, "column": 12, "tagName": "a", "time": 970.591745, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4096db0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 16, "tagName": "a", "time": 970.591757, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4096cb0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 16, "tagName": "p", "time": 970.591997, "url": "", "pos": 16, "chunkLen": 20, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4096f50", "doc": "http://www.webcrawler.com/", "row": 0, "column": 20, "tagName": "p", "time": 970.592024, "url": "", "pos": 20, "chunkLen": 20, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40974b0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 20, "tagName": "div", "time": 970.592784, "url": "", "pos": 20, "chunkLen": 50, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40975e0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 26, "tagName": "div", "time": 970.592795, "url": "", "pos": 26, "chunkLen": 50, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4097610", "doc": "http://www.webcrawler.com/", "row": 0, "column": 44, "tagName": "div", "time": 970.592800, "url": "", "pos": 44, "chunkLen": 50, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40976f0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 50, "tagName": "div", "time": 970.592807, "url": "", "pos": 50, "chunkLen": 50, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406dfe0", "doc": "http://www.webcrawler.com/", "row": 24, "column": 124, "tagName": "link", "time": 970.598914, "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/favicon.ico?av=115", "pos": 1236, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4098210", "doc": "http://www.webcrawler.com/", "row": 28, "column": 31, "tagName": "script", "time": 970.599047, "url": "", "pos": 1275, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406cb30", "doc": "http://www.webcrawler.com/", "row": 52, "column": 9, "tagName": "script", "time": 970.599108, "url": "", "pos": 2341, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4099650", "doc": "http://www.webcrawler.com/", "row": 53, "column": 10, "tagName": "noscript", "time": 970.608888, "url": "", "pos": 2353, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4097ec0", "doc": "http://www.webcrawler.com/", "row": 55, "column": 11, "tagName": "noscript", "time": 970.608923, "url": "", "pos": 2623, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4097df0", "doc": "http://www.webcrawler.com/", "row": 58, "column": 11, "tagName": "head", "time": 970.608932, "url": "", "pos": 2668, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4098430", "doc": "http://www.webcrawler.com/", "row": 59, "column": 34, "tagName": "body", "time": 970.608947, "url": "", "pos": 2704, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409a000", "doc": "http://www.webcrawler.com/", "row": 60, "column": 23, "tagName": "div", "time": 970.609100, "url": "", "pos": 2729, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409a300", "doc": "http://www.webcrawler.com/", "row": 61, "column": 29, "tagName": "div", "time": 970.609156, "url": "", "pos": 2760, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409a3d0", "doc": "http://www.webcrawler.com/", "row": 66, "column": 47, "tagName": "div", "time": 970.609211, "url": "", "pos": 2901, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409a990", "doc": "http://www.webcrawler.com/", "row": 68, "column": 24, "tagName": "div", "time": 970.609266, "url": "", "pos": 2933, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409ad20", "doc": "http://www.webcrawler.com/", "row": 69, "column": 27, "tagName": "div", "time": 970.609318, "url": "", "pos": 2962, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409b070", "doc": "http://www.webcrawler.com/", "row": 70, "column": 30, "tagName": "div", "time": 970.609375, "url": "", "pos": 2994, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409b680", "doc": "http://www.webcrawler.com/", "row": 72, "column": 131, "tagName": "a", "time": 970.609428, "url": "", "pos": 3137, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409b3f0", "doc": "http://www.webcrawler.com/", "row": 73, "column": 169, "tagName": "img", "time": 970.609585, "url": "", "pos": 3308, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409c6d0", "doc": "http://www.webcrawler.com/", "row": 74, "column": 4, "tagName": "a", "time": 970.609916, "url": "", "pos": 3314, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409ccf0", "doc": "http://www.webcrawler.com/", "row": 75, "column": 10, "tagName": "div", "time": 970.609929, "url": "", "pos": 3326, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409b9b0", "doc": "http://www.webcrawler.com/", "row": 76, "column": 40, "tagName": "div", "time": 970.609939, "url": "", "pos": 3368, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409ce20", "doc": "http://www.webcrawler.com/", "row": 77, "column": 40, "tagName": "div", "time": 970.609991, "url": "", "pos": 3410, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409d320", "doc": "http://www.webcrawler.com/", "row": 79, "column": 33, "tagName": "div", "time": 970.610046, "url": "", "pos": 3459, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409d5d0", "doc": "http://www.webcrawler.com/", "row": 80, "column": 27, "tagName": "ul", "time": 970.610120, "url": "", "pos": 3488, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409d960", "doc": "http://www.webcrawler.com/", "row": 81, "column": 36, "tagName": "li", "time": 970.610195, "url": "", "pos": 3526, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409dda0", "doc": "http://www.webcrawler.com/", "row": 81, "column": 42, "tagName": "span", "time": 970.610256, "url": "", "pos": 3532, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409e040", "doc": "http://www.webcrawler.com/", "row": 82, "column": 164, "tagName": "a", "time": 970.610329, "url": "", "pos": 3698, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409e620", "doc": "http://www.webcrawler.com/", "row": 82, "column": 171, "tagName": "a", "time": 970.610416, "url": "", "pos": 3705, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e1f0", "doc": "http://www.webcrawler.com/", "row": 82, "column": 190, "tagName": "span", "time": 970.610428, "url": "", "pos": 3724, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e0f0", "doc": "http://www.webcrawler.com/", "row": 82, "column": 195, "tagName": "li", "time": 970.610433, "url": "", "pos": 3729, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e190", "doc": "http://www.webcrawler.com/", "row": 83, "column": 38, "tagName": "li", "time": 970.610443, "url": "", "pos": 3769, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409e930", "doc": "http://www.webcrawler.com/", "row": 83, "column": 44, "tagName": "span", "time": 970.610490, "url": "", "pos": 3775, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409eb10", "doc": "http://www.webcrawler.com/", "row": 83, "column": 52, "tagName": "span", "time": 970.610501, "url": "", "pos": 3783, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409cf70", "doc": "http://www.webcrawler.com/", "row": 83, "column": 57, "tagName": "li", "time": 970.610505, "url": "", "pos": 3788, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409cfa0", "doc": "http://www.webcrawler.com/", "row": 84, "column": 39, "tagName": "li", "time": 970.610515, "url": "", "pos": 3829, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f010", "doc": "http://www.webcrawler.com/", "row": 84, "column": 45, "tagName": "span", "time": 970.610566, "url": "", "pos": 3835, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f2a0", "doc": "http://www.webcrawler.com/", "row": 85, "column": 140, "tagName": "a", "time": 970.610613, "url": "", "pos": 3977, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f620", "doc": "http://www.webcrawler.com/", "row": 85, "column": 150, "tagName": "a", "time": 970.610684, "url": "", "pos": 3987, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e7d0", "doc": "http://www.webcrawler.com/", "row": 85, "column": 169, "tagName": "span", "time": 970.610695, "url": "", "pos": 4006, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e830", "doc": "http://www.webcrawler.com/", "row": 85, "column": 174, "tagName": "li", "time": 970.610699, "url": "", "pos": 4011, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409f7b0", "doc": "http://www.webcrawler.com/", "row": 86, "column": 38, "tagName": "li", "time": 970.610708, "url": "", "pos": 4051, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f7e0", "doc": "http://www.webcrawler.com/", "row": 86, "column": 44, "tagName": "span", "time": 970.610732, "url": "", "pos": 4057, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f8a0", "doc": "http://www.webcrawler.com/", "row": 86, "column": 52, "tagName": "span", "time": 970.610743, "url": "", "pos": 4065, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409f9d0", "doc": "http://www.webcrawler.com/", "row": 86, "column": 57, "tagName": "li", "time": 970.610746, "url": "", "pos": 4070, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409fa00", "doc": "http://www.webcrawler.com/", "row": 87, "column": 38, "tagName": "li", "time": 970.610755, "url": "", "pos": 4110, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409fcc0", "doc": "http://www.webcrawler.com/", "row": 87, "column": 44, "tagName": "span", "time": 970.610797, "url": "", "pos": 4116, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409ffb0", "doc": "http://www.webcrawler.com/", "row": 88, "column": 139, "tagName": "a", "time": 970.610843, "url": "", "pos": 4257, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a03c0", "doc": "http://www.webcrawler.com/", "row": 88, "column": 148, "tagName": "a", "time": 970.610912, "url": "", "pos": 4266, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409fab0", "doc": "http://www.webcrawler.com/", "row": 88, "column": 167, "tagName": "span", "time": 970.610924, "url": "", "pos": 4285, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409fb10", "doc": "http://www.webcrawler.com/", "row": 88, "column": 172, "tagName": "li", "time": 970.610928, "url": "", "pos": 4290, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a0550", "doc": "http://www.webcrawler.com/", "row": 89, "column": 38, "tagName": "li", "time": 970.610937, "url": "", "pos": 4330, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a0580", "doc": "http://www.webcrawler.com/", "row": 89, "column": 44, "tagName": "span", "time": 970.610961, "url": "", "pos": 4336, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a0620", "doc": "http://www.webcrawler.com/", "row": 89, "column": 52, "tagName": "span", "time": 970.610971, "url": "", "pos": 4344, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a0750", "doc": "http://www.webcrawler.com/", "row": 89, "column": 57, "tagName": "li", "time": 970.610975, "url": "", "pos": 4349, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a0780", "doc": "http://www.webcrawler.com/", "row": 90, "column": 37, "tagName": "li", "time": 970.610984, "url": "", "pos": 4388, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409fec0", "doc": "http://www.webcrawler.com/", "row": 90, "column": 43, "tagName": "span", "time": 970.611025, "url": "", "pos": 4394, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a0cc0", "doc": "http://www.webcrawler.com/", "row": 91, "column": 138, "tagName": "a", "time": 970.611062, "url": "", "pos": 4534, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a1050", "doc": "http://www.webcrawler.com/", "row": 91, "column": 146, "tagName": "a", "time": 970.611138, "url": "", "pos": 4542, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a06c0", "doc": "http://www.webcrawler.com/", "row": 91, "column": 165, "tagName": "span", "time": 970.611150, "url": "", "pos": 4561, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a0720", "doc": "http://www.webcrawler.com/", "row": 91, "column": 170, "tagName": "li", "time": 970.611153, "url": "", "pos": 4566, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a11a0", "doc": "http://www.webcrawler.com/", "row": 92, "column": 9, "tagName": "ul", "time": 970.611161, "url": "", "pos": 4577, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a1300", "doc": "http://www.webcrawler.com/", "row": 93, "column": 6, "tagName": "div", "time": 970.611167, "url": "", "pos": 4585, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a0b30", "doc": "http://www.webcrawler.com/", "row": 96, "column": 31, "tagName": "script", "time": 970.611176, "url": "", "pos": 4622, "chunkLen": 19175, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4098b50", "doc": "http://www.webcrawler.com/", "row": 126, "column": 9, "tagName": "script", "time": 970.611266, "url": "", "pos": 6266, "chunkLen": 19175, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4099ba0", "doc": "http://www.webcrawler.com/", "row": 128, "column": 39, "tagName": "div", "time": 970.611812, "url": "", "pos": 3214, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a0150", "doc": "http://www.webcrawler.com/", "row": 129, "column": 36, "tagName": "div", "time": 970.611873, "url": "", "pos": 3252, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a1200", "doc": "http://www.webcrawler.com/", "row": 131, "column": 28, "tagName": "div", "time": 970.611913, "url": "", "pos": 3292, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a1d50", "doc": "http://www.webcrawler.com/", "row": 132, "column": 100, "tagName": "form", "time": 970.611980, "url": "", "pos": 3394, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f180", "doc": "http://www.webcrawler.com/", "row": 132, "column": 148, "tagName": "input", "time": 970.612049, "url": "", "pos": 3442, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451ea50", "doc": "http://www.webcrawler.com/", "row": 132, "column": 198, "tagName": "input", "time": 970.616896, "url": "", "pos": 3492, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451ec40", "doc": "http://www.webcrawler.com/", "row": 132, "column": 244, "tagName": "input", "time": 970.617200, "url": "", "pos": 3538, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451ea10", "doc": "http://www.webcrawler.com/", "row": 132, "column": 323, "tagName": "input", "time": 970.617414, "url": "", "pos": 3617, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451edb0", "doc": "http://www.webcrawler.com/", "row": 132, "column": 368, "tagName": "input", "time": 970.617487, "url": "", "pos": 3662, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451f4a0", "doc": "http://www.webcrawler.com/", "row": 132, "column": 407, "tagName": "div", "time": 970.617558, "url": "", "pos": 3701, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451f860", "doc": "http://www.webcrawler.com/", "row": 133, "column": 112, "tagName": "input", "time": 970.617623, "url": "", "pos": 3815, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45237a0", "doc": "http://www.webcrawler.com/", "row": 134, "column": 178, "tagName": "input", "time": 970.639806, "url": "", "pos": 3995, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4523180", "doc": "http://www.webcrawler.com/", "row": 135, "column": 59, "tagName": "input", "time": 970.640033, "url": "", "pos": 4056, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4524eb0", "doc": "http://www.webcrawler.com/", "row": 139, "column": 10, "tagName": "div", "time": 970.640121, "url": "", "pos": 4098, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45247c0", "doc": "http://www.webcrawler.com/", "row": 140, "column": 40, "tagName": "div", "time": 970.640134, "url": "", "pos": 4140, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x451e0b0", "doc": "http://www.webcrawler.com/", "row": 142, "column": 33, "tagName": "div", "time": 970.640246, "url": "", "pos": 4185, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4525740", "doc": "http://www.webcrawler.com/", "row": 143, "column": 235, "tagName": "input", "time": 970.640302, "url": "", "pos": 4422, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4526b80", "doc": "http://www.webcrawler.com/", "row": 144, "column": 6, "tagName": "div", "time": 970.640726, "url": "", "pos": 4430, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4525640", "doc": "http://www.webcrawler.com/", "row": 145, "column": 10, "tagName": "div", "time": 970.640735, "url": "", "pos": 4442, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45256a0", "doc": "http://www.webcrawler.com/", "row": 146, "column": 7, "tagName": "form", "time": 970.640741, "url": "", "pos": 4451, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45256d0", "doc": "http://www.webcrawler.com/", "row": 146, "column": 13, "tagName": "div", "time": 970.640746, "url": "", "pos": 4457, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4526f60", "doc": "http://www.webcrawler.com/", "row": 149, "column": 28, "tagName": "div", "time": 970.640756, "url": "", "pos": 4499, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45272e0", "doc": "http://www.webcrawler.com/", "row": 150, "column": 40, "tagName": "div", "time": 970.640813, "url": "", "pos": 4541, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4527560", "doc": "http://www.webcrawler.com/", "row": 150, "column": 47, "tagName": "div", "time": 970.640852, "url": "", "pos": 4548, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4527590", "doc": "http://www.webcrawler.com/", "row": 151, "column": 37, "tagName": "div", "time": 970.640862, "url": "", "pos": 4587, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4526f10", "doc": "http://www.webcrawler.com/", "row": 151, "column": 171, "tagName": "a", "time": 970.640903, "url": "", "pos": 4721, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4527730", "doc": "http://www.webcrawler.com/", "row": 151, "column": 186, "tagName": "a", "time": 970.640977, "url": "", "pos": 4736, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4527890", "doc": "http://www.webcrawler.com/", "row": 151, "column": 192, "tagName": "div", "time": 970.640982, "url": "", "pos": 4742, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45278c0", "doc": "http://www.webcrawler.com/", "row": 152, "column": 40, "tagName": "div", "time": 970.640991, "url": "", "pos": 4784, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45277e0", "doc": "http://www.webcrawler.com/", "row": 152, "column": 47, "tagName": "div", "time": 970.641026, "url": "", "pos": 4791, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4527c90", "doc": "http://www.webcrawler.com/", "row": 153, "column": 30, "tagName": "div", "time": 970.641036, "url": "", "pos": 4823, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4527aa0", "doc": "http://www.webcrawler.com/", "row": 154, "column": 99, "tagName": "a", "time": 970.641074, "url": "", "pos": 4924, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4527ef0", "doc": "http://www.webcrawler.com/", "row": 154, "column": 107, "tagName": "a", "time": 970.641127, "url": "", "pos": 4932, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4527cc0", "doc": "http://www.webcrawler.com/", "row": 155, "column": 14, "tagName": "div", "time": 970.641147, "url": "", "pos": 4948, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4527d20", "doc": "http://www.webcrawler.com/", "row": 156, "column": 44, "tagName": "div", "time": 970.641158, "url": "", "pos": 4994, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4528250", "doc": "http://www.webcrawler.com/", "row": 157, "column": 157, "tagName": "a", "time": 970.641209, "url": "", "pos": 5153, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4528480", "doc": "http://www.webcrawler.com/", "row": 157, "column": 169, "tagName": "a", "time": 970.641224, "url": "", "pos": 5165, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45285e0", "doc": "http://www.webcrawler.com/", "row": 158, "column": 10, "tagName": "div", "time": 970.641231, "url": "", "pos": 5177, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4528340", "doc": "http://www.webcrawler.com/", "row": 159, "column": 6, "tagName": "div", "time": 970.641237, "url": "", "pos": 5185, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45284b0", "doc": "http://www.webcrawler.com/", "row": 161, "column": 10, "tagName": "div", "time": 970.641244, "url": "", "pos": 5199, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4528510", "doc": "http://www.webcrawler.com/", "row": 162, "column": 6, "tagName": "div", "time": 970.641250, "url": "", "pos": 5207, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4528540", "doc": "http://www.webcrawler.com/", "row": 163, "column": 14, "tagName": "div", "time": 970.641256, "url": "", "pos": 5223, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4527b00", "doc": "http://www.webcrawler.com/", "row": 165, "column": 31, "tagName": "div", "time": 970.641265, "url": "", "pos": 5266, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4528840", "doc": "http://www.webcrawler.com/", "row": 167, "column": 51, "tagName": "div", "time": 970.641323, "url": "", "pos": 5321, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4528740", "doc": "http://www.webcrawler.com/", "row": 168, "column": 30, "tagName": "div", "time": 970.641369, "url": "", "pos": 5353, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4528d40", "doc": "http://www.webcrawler.com/", "row": 170, "column": 14, "tagName": "div", "time": 970.641413, "url": "", "pos": 5401, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4528d00", "doc": "http://www.webcrawler.com/", "row": 171, "column": 26, "tagName": "div", "time": 970.641423, "url": "", "pos": 5429, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45293c0", "doc": "http://www.webcrawler.com/", "row": 173, "column": 135, "tagName": "img", "time": 970.641468, "url": "", "pos": 5580, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4529380", "doc": "http://www.webcrawler.com/", "row": 174, "column": 135, "tagName": "img", "time": 970.641671, "url": "", "pos": 5717, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452a1a0", "doc": "http://www.webcrawler.com/", "row": 175, "column": 14, "tagName": "div", "time": 970.641823, "url": "", "pos": 5733, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4529490", "doc": "http://www.webcrawler.com/", "row": 177, "column": 10, "tagName": "div", "time": 970.641834, "url": "", "pos": 5747, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45294c0", "doc": "http://www.webcrawler.com/", "row": 178, "column": 6, "tagName": "div", "time": 970.641842, "url": "", "pos": 5755, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45296a0", "doc": "http://www.webcrawler.com/", "row": 179, "column": 10, "tagName": "div", "time": 970.641849, "url": "", "pos": 5767, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4529700", "doc": "http://www.webcrawler.com/", "row": 180, "column": 6, "tagName": "div", "time": 970.641855, "url": "", "pos": 5775, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4529730", "doc": "http://www.webcrawler.com/", "row": 180, "column": 12, "tagName": "div", "time": 970.641858, "url": "", "pos": 5781, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4529ba0", "doc": "http://www.webcrawler.com/", "row": 182, "column": 6, "tagName": "div", "time": 970.641863, "url": "", "pos": 5792, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4529f20", "doc": "http://www.webcrawler.com/", "row": 184, "column": 46, "tagName": "div", "time": 970.641873, "url": "", "pos": 5842, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452a790", "doc": "http://www.webcrawler.com/", "row": 185, "column": 32, "tagName": "div", "time": 970.641926, "url": "", "pos": 5876, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4529b60", "doc": "http://www.webcrawler.com/", "row": 186, "column": 99, "tagName": "form", "time": 970.641947, "url": "", "pos": 5977, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4529af0", "doc": "http://www.webcrawler.com/", "row": 186, "column": 147, "tagName": "input", "time": 970.641966, "url": "", "pos": 6025, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452a420", "doc": "http://www.webcrawler.com/", "row": 186, "column": 191, "tagName": "input", "time": 970.642014, "url": "", "pos": 6069, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452a530", "doc": "http://www.webcrawler.com/", "row": 186, "column": 237, "tagName": "input", "time": 970.642044, "url": "", "pos": 6115, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452a9f0", "doc": "http://www.webcrawler.com/", "row": 186, "column": 316, "tagName": "input", "time": 970.642078, "url": "", "pos": 6194, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452ad10", "doc": "http://www.webcrawler.com/", "row": 186, "column": 361, "tagName": "input", "time": 970.642122, "url": "", "pos": 6239, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b230", "doc": "http://www.webcrawler.com/", "row": 187, "column": 37, "tagName": "div", "time": 970.642155, "url": "", "pos": 6278, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b440", "doc": "http://www.webcrawler.com/", "row": 188, "column": 30, "tagName": "div", "time": 970.642171, "url": "", "pos": 6310, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b4f0", "doc": "http://www.webcrawler.com/", "row": 189, "column": 33, "tagName": "div", "time": 970.642185, "url": "", "pos": 6345, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b350", "doc": "http://www.webcrawler.com/", "row": 190, "column": 19, "tagName": "label", "time": 970.642198, "url": "", "pos": 6366, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b590", "doc": "http://www.webcrawler.com/", "row": 190, "column": 46, "tagName": "label", "time": 970.642209, "url": "", "pos": 6393, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452b650", "doc": "http://www.webcrawler.com/", "row": 191, "column": 102, "tagName": "input", "time": 970.642223, "url": "", "pos": 6497, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b5c0", "doc": "http://www.webcrawler.com/", "row": 192, "column": 14, "tagName": "div", "time": 970.642265, "url": "", "pos": 6513, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452bcf0", "doc": "http://www.webcrawler.com/", "row": 193, "column": 33, "tagName": "div", "time": 970.642274, "url": "", "pos": 6548, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452bc80", "doc": "http://www.webcrawler.com/", "row": 194, "column": 19, "tagName": "label", "time": 970.642287, "url": "", "pos": 6569, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452be30", "doc": "http://www.webcrawler.com/", "row": 194, "column": 44, "tagName": "label", "time": 970.642297, "url": "", "pos": 6594, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452b7f0", "doc": "http://www.webcrawler.com/", "row": 195, "column": 106, "tagName": "input", "time": 970.642311, "url": "", "pos": 6702, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452b790", "doc": "http://www.webcrawler.com/", "row": 196, "column": 14, "tagName": "div", "time": 970.642362, "url": "", "pos": 6718, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452c320", "doc": "http://www.webcrawler.com/", "row": 197, "column": 33, "tagName": "div", "time": 970.642371, "url": "", "pos": 6753, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452c2b0", "doc": "http://www.webcrawler.com/", "row": 198, "column": 19, "tagName": "label", "time": 970.642389, "url": "", "pos": 6774, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452c460", "doc": "http://www.webcrawler.com/", "row": 198, "column": 46, "tagName": "label", "time": 970.642399, "url": "", "pos": 6801, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452bfc0", "doc": "http://www.webcrawler.com/", "row": 199, "column": 102, "tagName": "input", "time": 970.642412, "url": "", "pos": 6905, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452bf60", "doc": "http://www.webcrawler.com/", "row": 200, "column": 14, "tagName": "div", "time": 970.642449, "url": "", "pos": 6921, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452c950", "doc": "http://www.webcrawler.com/", "row": 201, "column": 34, "tagName": "div", "time": 970.642458, "url": "", "pos": 6957, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452c8e0", "doc": "http://www.webcrawler.com/", "row": 202, "column": 19, "tagName": "label", "time": 970.642471, "url": "", "pos": 6978, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452ca90", "doc": "http://www.webcrawler.com/", "row": 202, "column": 47, "tagName": "label", "time": 970.642481, "url": "", "pos": 7006, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452c5f0", "doc": "http://www.webcrawler.com/", "row": 203, "column": 82, "tagName": "input", "time": 970.642493, "url": "", "pos": 7090, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452c590", "doc": "http://www.webcrawler.com/", "row": 204, "column": 14, "tagName": "div", "time": 970.642528, "url": "", "pos": 7106, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452ce80", "doc": "http://www.webcrawler.com/", "row": 205, "column": 10, "tagName": "div", "time": 970.642536, "url": "", "pos": 7118, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452cf30", "doc": "http://www.webcrawler.com/", "row": 206, "column": 47, "tagName": "div", "time": 970.642554, "url": "", "pos": 7167, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d0b0", "doc": "http://www.webcrawler.com/", "row": 209, "column": 49, "tagName": "div", "time": 970.642573, "url": "", "pos": 7230, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d320", "doc": "http://www.webcrawler.com/", "row": 210, "column": 28, "tagName": "div", "time": 970.642608, "url": "", "pos": 7260, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d260", "doc": "http://www.webcrawler.com/", "row": 211, "column": 15, "tagName": "label", "time": 970.642621, "url": "", "pos": 7277, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452a9a0", "doc": "http://www.webcrawler.com/", "row": 211, "column": 35, "tagName": "label", "time": 970.642632, "url": "", "pos": 7297, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452d390", "doc": "http://www.webcrawler.com/", "row": 212, "column": 40, "tagName": "select", "time": 970.642642, "url": "", "pos": 7339, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d3f0", "doc": "http://www.webcrawler.com/", "row": 212, "column": 80, "tagName": "option", "time": 970.642660, "url": "", "pos": 7379, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d550", "doc": "http://www.webcrawler.com/", "row": 212, "column": 99, "tagName": "option", "time": 970.642689, "url": "", "pos": 7398, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452d5d0", "doc": "http://www.webcrawler.com/", "row": 213, "column": 22, "tagName": "option", "time": 970.642698, "url": "", "pos": 7422, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d6c0", "doc": "http://www.webcrawler.com/", "row": 213, "column": 36, "tagName": "option", "time": 970.642710, "url": "", "pos": 7436, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452d6f0", "doc": "http://www.webcrawler.com/", "row": 214, "column": 19, "tagName": "option", "time": 970.642717, "url": "", "pos": 7457, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d490", "doc": "http://www.webcrawler.com/", "row": 214, "column": 45, "tagName": "option", "time": 970.642732, "url": "", "pos": 7483, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452d4f0", "doc": "http://www.webcrawler.com/", "row": 215, "column": 9, "tagName": "select", "time": 970.642738, "url": "", "pos": 7494, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452d850", "doc": "http://www.webcrawler.com/", "row": 216, "column": 10, "tagName": "div", "time": 970.642746, "url": "", "pos": 7506, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452d9b0", "doc": "http://www.webcrawler.com/", "row": 217, "column": 27, "tagName": "div", "time": 970.642754, "url": "", "pos": 7535, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452d8b0", "doc": "http://www.webcrawler.com/", "row": 218, "column": 15, "tagName": "label", "time": 970.642767, "url": "", "pos": 7552, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452db80", "doc": "http://www.webcrawler.com/", "row": 218, "column": 34, "tagName": "label", "time": 970.642777, "url": "", "pos": 7571, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452dbb0", "doc": "http://www.webcrawler.com/", "row": 219, "column": 40, "tagName": "select", "time": 970.642786, "url": "", "pos": 7613, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452daf0", "doc": "http://www.webcrawler.com/", "row": 219, "column": 80, "tagName": "option", "time": 970.642800, "url": "", "pos": 7653, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452de50", "doc": "http://www.webcrawler.com/", "row": 219, "column": 104, "tagName": "option", "time": 970.642814, "url": "", "pos": 7677, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452ded0", "doc": "http://www.webcrawler.com/", "row": 220, "column": 22, "tagName": "option", "time": 970.642837, "url": "", "pos": 7701, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452dfc0", "doc": "http://www.webcrawler.com/", "row": 220, "column": 36, "tagName": "option", "time": 970.642851, "url": "", "pos": 7715, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452dff0", "doc": "http://www.webcrawler.com/", "row": 221, "column": 23, "tagName": "option", "time": 970.642859, "url": "", "pos": 7740, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e150", "doc": "http://www.webcrawler.com/", "row": 221, "column": 38, "tagName": "option", "time": 970.642870, "url": "", "pos": 7755, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452e1d0", "doc": "http://www.webcrawler.com/", "row": 222, "column": 22, "tagName": "option", "time": 970.642878, "url": "", "pos": 7779, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e2c0", "doc": "http://www.webcrawler.com/", "row": 222, "column": 36, "tagName": "option", "time": 970.642889, "url": "", "pos": 7793, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452e2f0", "doc": "http://www.webcrawler.com/", "row": 223, "column": 9, "tagName": "select", "time": 970.642894, "url": "", "pos": 7804, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452e370", "doc": "http://www.webcrawler.com/", "row": 224, "column": 10, "tagName": "div", "time": 970.642901, "url": "", "pos": 7816, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452e3d0", "doc": "http://www.webcrawler.com/", "row": 225, "column": 6, "tagName": "div", "time": 970.642907, "url": "", "pos": 7824, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452dd80", "doc": "http://www.webcrawler.com/", "row": 226, "column": 10, "tagName": "div", "time": 970.642913, "url": "", "pos": 7836, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452e440", "doc": "http://www.webcrawler.com/", "row": 227, "column": 44, "tagName": "div", "time": 970.642921, "url": "", "pos": 7882, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e4e0", "doc": "http://www.webcrawler.com/", "row": 230, "column": 33, "tagName": "div", "time": 970.642938, "url": "", "pos": 7929, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e700", "doc": "http://www.webcrawler.com/", "row": 231, "column": 32, "tagName": "div", "time": 970.642959, "url": "", "pos": 7963, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e7c0", "doc": "http://www.webcrawler.com/", "row": 232, "column": 15, "tagName": "label", "time": 970.642972, "url": "", "pos": 7980, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e8e0", "doc": "http://www.webcrawler.com/", "row": 232, "column": 32, "tagName": "label", "time": 970.642982, "url": "", "pos": 7997, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452ea10", "doc": "http://www.webcrawler.com/", "row": 233, "column": 40, "tagName": "select", "time": 970.642992, "url": "", "pos": 8039, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452e920", "doc": "http://www.webcrawler.com/", "row": 233, "column": 77, "tagName": "option", "time": 970.643006, "url": "", "pos": 8076, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452ebf0", "doc": "http://www.webcrawler.com/", "row": 233, "column": 98, "tagName": "option", "time": 970.643020, "url": "", "pos": 8097, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452ec20", "doc": "http://www.webcrawler.com/", "row": 234, "column": 19, "tagName": "option", "time": 970.643028, "url": "", "pos": 8118, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452ed50", "doc": "http://www.webcrawler.com/", "row": 234, "column": 34, "tagName": "option", "time": 970.643039, "url": "", "pos": 8133, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452edd0", "doc": "http://www.webcrawler.com/", "row": 235, "column": 19, "tagName": "option", "time": 970.643047, "url": "", "pos": 8154, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452eed0", "doc": "http://www.webcrawler.com/", "row": 235, "column": 33, "tagName": "option", "time": 970.643065, "url": "", "pos": 8168, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452ef00", "doc": "http://www.webcrawler.com/", "row": 236, "column": 19, "tagName": "option", "time": 970.643076, "url": "", "pos": 8189, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452eb20", "doc": "http://www.webcrawler.com/", "row": 236, "column": 35, "tagName": "option", "time": 970.643088, "url": "", "pos": 8205, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452eb80", "doc": "http://www.webcrawler.com/", "row": 237, "column": 19, "tagName": "option", "time": 970.643095, "url": "", "pos": 8226, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f1f0", "doc": "http://www.webcrawler.com/", "row": 237, "column": 34, "tagName": "option", "time": 970.643106, "url": "", "pos": 8241, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452f120", "doc": "http://www.webcrawler.com/", "row": 238, "column": 19, "tagName": "option", "time": 970.643114, "url": "", "pos": 8262, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f380", "doc": "http://www.webcrawler.com/", "row": 238, "column": 34, "tagName": "option", "time": 970.643125, "url": "", "pos": 8277, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452f4e0", "doc": "http://www.webcrawler.com/", "row": 239, "column": 19, "tagName": "option", "time": 970.643132, "url": "", "pos": 8298, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f2d0", "doc": "http://www.webcrawler.com/", "row": 239, "column": 35, "tagName": "option", "time": 970.643143, "url": "", "pos": 8314, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452f410", "doc": "http://www.webcrawler.com/", "row": 240, "column": 19, "tagName": "option", "time": 970.643150, "url": "", "pos": 8335, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f690", "doc": "http://www.webcrawler.com/", "row": 240, "column": 37, "tagName": "option", "time": 970.643162, "url": "", "pos": 8353, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452f810", "doc": "http://www.webcrawler.com/", "row": 241, "column": 19, "tagName": "option", "time": 970.643169, "url": "", "pos": 8374, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f5f0", "doc": "http://www.webcrawler.com/", "row": 241, "column": 38, "tagName": "option", "time": 970.643180, "url": "", "pos": 8393, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452f760", "doc": "http://www.webcrawler.com/", "row": 242, "column": 19, "tagName": "option", "time": 970.643187, "url": "", "pos": 8414, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452f9b0", "doc": "http://www.webcrawler.com/", "row": 242, "column": 35, "tagName": "option", "time": 970.643198, "url": "", "pos": 8430, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452f850", "doc": "http://www.webcrawler.com/", "row": 243, "column": 19, "tagName": "option", "time": 970.643206, "url": "", "pos": 8451, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452fb50", "doc": "http://www.webcrawler.com/", "row": 243, "column": 35, "tagName": "option", "time": 970.643217, "url": "", "pos": 8467, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452fbb0", "doc": "http://www.webcrawler.com/", "row": 244, "column": 9, "tagName": "select", "time": 970.643223, "url": "", "pos": 8478, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452fd10", "doc": "http://www.webcrawler.com/", "row": 245, "column": 10, "tagName": "div", "time": 970.643230, "url": "", "pos": 8490, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452fa60", "doc": "http://www.webcrawler.com/", "row": 246, "column": 30, "tagName": "div", "time": 970.643238, "url": "", "pos": 8522, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452fe20", "doc": "http://www.webcrawler.com/", "row": 247, "column": 104, "tagName": "input", "time": 970.643260, "url": "", "pos": 8628, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x452fb00", "doc": "http://www.webcrawler.com/", "row": 248, "column": 15, "tagName": "label", "time": 970.643328, "url": "", "pos": 8645, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45300f0", "doc": "http://www.webcrawler.com/", "row": 248, "column": 37, "tagName": "label", "time": 970.643338, "url": "", "pos": 8667, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x452fef0", "doc": "http://www.webcrawler.com/", "row": 249, "column": 86, "tagName": "input", "time": 970.643351, "url": "", "pos": 8755, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4530370", "doc": "http://www.webcrawler.com/", "row": 250, "column": 15, "tagName": "label", "time": 970.643386, "url": "", "pos": 8772, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4530650", "doc": "http://www.webcrawler.com/", "row": 250, "column": 37, "tagName": "label", "time": 970.643396, "url": "", "pos": 8794, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4530410", "doc": "http://www.webcrawler.com/", "row": 251, "column": 10, "tagName": "div", "time": 970.643402, "url": "", "pos": 8806, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4530470", "doc": "http://www.webcrawler.com/", "row": 252, "column": 35, "tagName": "div", "time": 970.643411, "url": "", "pos": 8843, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45307b0", "doc": "http://www.webcrawler.com/", "row": 253, "column": 82, "tagName": "input", "time": 970.643430, "url": "", "pos": 8927, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4530c50", "doc": "http://www.webcrawler.com/", "row": 254, "column": 10, "tagName": "div", "time": 970.643466, "url": "", "pos": 8939, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4530c80", "doc": "http://www.webcrawler.com/", "row": 255, "column": 6, "tagName": "div", "time": 970.643472, "url": "", "pos": 8947, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4530ce0", "doc": "http://www.webcrawler.com/", "row": 256, "column": 10, "tagName": "div", "time": 970.643478, "url": "", "pos": 8959, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4530d40", "doc": "http://www.webcrawler.com/", "row": 257, "column": 6, "tagName": "div", "time": 970.643485, "url": "", "pos": 8967, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4530820", "doc": "http://www.webcrawler.com/", "row": 258, "column": 55, "tagName": "div", "time": 970.643495, "url": "", "pos": 9024, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4530f40", "doc": "http://www.webcrawler.com/", "row": 259, "column": 120, "tagName": "input", "time": 970.643516, "url": "", "pos": 9146, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4530e70", "doc": "http://www.webcrawler.com/", "row": 260, "column": 18, "tagName": "div", "time": 970.643556, "url": "", "pos": 9166, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4531270", "doc": "http://www.webcrawler.com/", "row": 261, "column": 7, "tagName": "form", "time": 970.643563, "url": "", "pos": 9175, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45312d0", "doc": "http://www.webcrawler.com/", "row": 261, "column": 17, "tagName": "div", "time": 970.643570, "url": "", "pos": 9185, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4531430", "doc": "http://www.webcrawler.com/", "row": 262, "column": 6, "tagName": "div", "time": 970.643575, "url": "", "pos": 9193, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4531030", "doc": "http://www.webcrawler.com/", "row": 265, "column": 18, "tagName": "div", "time": 970.643585, "url": "", "pos": 9237, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4531060", "doc": "http://www.webcrawler.com/", "row": 266, "column": 27, "tagName": "div", "time": 970.643594, "url": "", "pos": 9266, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4531780", "doc": "http://www.webcrawler.com/", "row": 271, "column": 19, "tagName": "div", "time": 970.643652, "url": "", "pos": 9311, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45319b0", "doc": "http://www.webcrawler.com/", "row": 272, "column": 31, "tagName": "div", "time": 970.643684, "url": "", "pos": 9344, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4531ce0", "doc": "http://www.webcrawler.com/", "row": 273, "column": 42, "tagName": "div", "time": 970.643736, "url": "", "pos": 9388, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4531da0", "doc": "http://www.webcrawler.com/", "row": 273, "column": 48, "tagName": "div", "time": 970.644017, "url": "", "pos": 9394, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4532950", "doc": "http://www.webcrawler.com/", "row": 274, "column": 43, "tagName": "div", "time": 970.644030, "url": "", "pos": 9439, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45314c0", "doc": "http://www.webcrawler.com/", "row": 274, "column": 49, "tagName": "div", "time": 970.644208, "url": "", "pos": 9445, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4533620", "doc": "http://www.webcrawler.com/", "row": 275, "column": 42, "tagName": "div", "time": 970.644220, "url": "", "pos": 9489, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4531fd0", "doc": "http://www.webcrawler.com/", "row": 276, "column": 46, "tagName": "div", "time": 970.644275, "url": "", "pos": 9537, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45339d0", "doc": "http://www.webcrawler.com/", "row": 277, "column": 20, "tagName": "h2", "time": 970.644311, "url": "", "pos": 9559, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4532f10", "doc": "http://www.webcrawler.com/", "row": 277, "column": 42, "tagName": "h2", "time": 970.644367, "url": "", "pos": 9581, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4532f40", "doc": "http://www.webcrawler.com/", "row": 279, "column": 32, "tagName": "div", "time": 970.644380, "url": "", "pos": 9633, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4534340", "doc": "http://www.webcrawler.com/", "row": 280, "column": 27, "tagName": "h3", "time": 970.644429, "url": "", "pos": 9662, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45346f0", "doc": "http://www.webcrawler.com/", "row": 280, "column": 48, "tagName": "h3", "time": 970.644463, "url": "", "pos": 9683, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4534150", "doc": "http://www.webcrawler.com/", "row": 281, "column": 41, "tagName": "ul", "time": 970.644475, "url": "", "pos": 9726, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4534ab0", "doc": "http://www.webcrawler.com/", "row": 282, "column": 16, "tagName": "li", "time": 970.644533, "url": "", "pos": 9744, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4534860", "doc": "http://www.webcrawler.com/", "row": 282, "column": 22, "tagName": "span", "time": 970.644571, "url": "", "pos": 9750, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535240", "doc": "http://www.webcrawler.com/", "row": 282, "column": 30, "tagName": "span", "time": 970.644623, "url": "", "pos": 9758, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45352c0", "doc": "http://www.webcrawler.com/", "row": 285, "column": 83, "tagName": "a", "time": 970.644642, "url": "", "pos": 9847, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535650", "doc": "http://www.webcrawler.com/", "row": 285, "column": 105, "tagName": "a", "time": 970.644719, "url": "", "pos": 9869, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535680", "doc": "http://www.webcrawler.com/", "row": 285, "column": 110, "tagName": "li", "time": 970.644723, "url": "", "pos": 9874, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45356b0", "doc": "http://www.webcrawler.com/", "row": 286, "column": 16, "tagName": "li", "time": 970.644731, "url": "", "pos": 9892, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535710", "doc": "http://www.webcrawler.com/", "row": 286, "column": 22, "tagName": "span", "time": 970.644747, "url": "", "pos": 9898, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535850", "doc": "http://www.webcrawler.com/", "row": 286, "column": 30, "tagName": "span", "time": 970.644770, "url": "", "pos": 9906, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535910", "doc": "http://www.webcrawler.com/", "row": 289, "column": 90, "tagName": "a", "time": 970.644787, "url": "", "pos": 10002, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535a00", "doc": "http://www.webcrawler.com/", "row": 289, "column": 117, "tagName": "a", "time": 970.644823, "url": "", "pos": 10029, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4534fd0", "doc": "http://www.webcrawler.com/", "row": 289, "column": 122, "tagName": "li", "time": 970.644827, "url": "", "pos": 10034, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535000", "doc": "http://www.webcrawler.com/", "row": 290, "column": 16, "tagName": "li", "time": 970.644835, "url": "", "pos": 10052, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45350a0", "doc": "http://www.webcrawler.com/", "row": 290, "column": 22, "tagName": "span", "time": 970.644850, "url": "", "pos": 10058, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535be0", "doc": "http://www.webcrawler.com/", "row": 290, "column": 30, "tagName": "span", "time": 970.644872, "url": "", "pos": 10066, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535b60", "doc": "http://www.webcrawler.com/", "row": 293, "column": 85, "tagName": "a", "time": 970.644888, "url": "", "pos": 10157, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535ca0", "doc": "http://www.webcrawler.com/", "row": 293, "column": 107, "tagName": "a", "time": 970.644914, "url": "", "pos": 10179, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535cd0", "doc": "http://www.webcrawler.com/", "row": 293, "column": 112, "tagName": "li", "time": 970.644917, "url": "", "pos": 10184, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535d00", "doc": "http://www.webcrawler.com/", "row": 294, "column": 16, "tagName": "li", "time": 970.644925, "url": "", "pos": 10202, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535ee0", "doc": "http://www.webcrawler.com/", "row": 294, "column": 22, "tagName": "span", "time": 970.644947, "url": "", "pos": 10208, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535fc0", "doc": "http://www.webcrawler.com/", "row": 294, "column": 30, "tagName": "span", "time": 970.644971, "url": "", "pos": 10216, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536040", "doc": "http://www.webcrawler.com/", "row": 297, "column": 84, "tagName": "a", "time": 970.644986, "url": "", "pos": 10306, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4535d90", "doc": "http://www.webcrawler.com/", "row": 297, "column": 105, "tagName": "a", "time": 970.645020, "url": "", "pos": 10327, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535dc0", "doc": "http://www.webcrawler.com/", "row": 297, "column": 110, "tagName": "li", "time": 970.645024, "url": "", "pos": 10332, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4535df0", "doc": "http://www.webcrawler.com/", "row": 298, "column": 16, "tagName": "li", "time": 970.645031, "url": "", "pos": 10350, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45362b0", "doc": "http://www.webcrawler.com/", "row": 298, "column": 22, "tagName": "span", "time": 970.645046, "url": "", "pos": 10356, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536390", "doc": "http://www.webcrawler.com/", "row": 298, "column": 30, "tagName": "span", "time": 970.645068, "url": "", "pos": 10364, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536170", "doc": "http://www.webcrawler.com/", "row": 301, "column": 78, "tagName": "a", "time": 970.645083, "url": "", "pos": 10448, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536570", "doc": "http://www.webcrawler.com/", "row": 301, "column": 95, "tagName": "a", "time": 970.645115, "url": "", "pos": 10465, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45365a0", "doc": "http://www.webcrawler.com/", "row": 301, "column": 100, "tagName": "li", "time": 970.645119, "url": "", "pos": 10470, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45365d0", "doc": "http://www.webcrawler.com/", "row": 302, "column": 16, "tagName": "li", "time": 970.645126, "url": "", "pos": 10488, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536630", "doc": "http://www.webcrawler.com/", "row": 302, "column": 22, "tagName": "span", "time": 970.645141, "url": "", "pos": 10494, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536770", "doc": "http://www.webcrawler.com/", "row": 302, "column": 30, "tagName": "span", "time": 970.645163, "url": "", "pos": 10502, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536820", "doc": "http://www.webcrawler.com/", "row": 305, "column": 85, "tagName": "a", "time": 970.645179, "url": "", "pos": 10593, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536900", "doc": "http://www.webcrawler.com/", "row": 305, "column": 107, "tagName": "a", "time": 970.645205, "url": "", "pos": 10615, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536a30", "doc": "http://www.webcrawler.com/", "row": 305, "column": 112, "tagName": "li", "time": 970.645209, "url": "", "pos": 10620, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536960", "doc": "http://www.webcrawler.com/", "row": 306, "column": 9, "tagName": "ul", "time": 970.645216, "url": "", "pos": 10631, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45369c0", "doc": "http://www.webcrawler.com/", "row": 307, "column": 6, "tagName": "div", "time": 970.645222, "url": "", "pos": 10639, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45369f0", "doc": "http://www.webcrawler.com/", "row": 308, "column": 18, "tagName": "div", "time": 970.645229, "url": "", "pos": 10659, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536a90", "doc": "http://www.webcrawler.com/", "row": 309, "column": 43, "tagName": "div", "time": 970.645238, "url": "", "pos": 10704, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536cb0", "doc": "http://www.webcrawler.com/", "row": 310, "column": 20, "tagName": "h2", "time": 970.645270, "url": "", "pos": 10726, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536d90", "doc": "http://www.webcrawler.com/", "row": 310, "column": 40, "tagName": "h2", "time": 970.645296, "url": "", "pos": 10746, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536e30", "doc": "http://www.webcrawler.com/", "row": 311, "column": 38, "tagName": "ul", "time": 970.645306, "url": "", "pos": 10786, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4537120", "doc": "http://www.webcrawler.com/", "row": 312, "column": 20, "tagName": "li", "time": 970.645352, "url": "", "pos": 10808, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536af0", "doc": "http://www.webcrawler.com/", "row": 312, "column": 26, "tagName": "span", "time": 970.645397, "url": "", "pos": 10814, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4536b50", "doc": "http://www.webcrawler.com/", "row": 312, "column": 34, "tagName": "span", "time": 970.645424, "url": "", "pos": 10822, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4536b80", "doc": "http://www.webcrawler.com/", "row": 312, "column": 132, "tagName": "a", "time": 970.645442, "url": "", "pos": 10920, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45379f0", "doc": "http://www.webcrawler.com/", "row": 312, "column": 163, "tagName": "a", "time": 970.645496, "url": "", "pos": 10951, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537730", "doc": "http://www.webcrawler.com/", "row": 312, "column": 168, "tagName": "li", "time": 970.645500, "url": "", "pos": 10956, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537b20", "doc": "http://www.webcrawler.com/", "row": 313, "column": 21, "tagName": "ul", "time": 970.645508, "url": "", "pos": 10979, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537760", "doc": "http://www.webcrawler.com/", "row": 314, "column": 18, "tagName": "div", "time": 970.645514, "url": "", "pos": 10999, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537b80", "doc": "http://www.webcrawler.com/", "row": 315, "column": 14, "tagName": "div", "time": 970.645520, "url": "", "pos": 11015, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537a80", "doc": "http://www.webcrawler.com/", "row": 316, "column": 10, "tagName": "div", "time": 970.645527, "url": "", "pos": 11032, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537ae0", "doc": "http://www.webcrawler.com/", "row": 317, "column": 6, "tagName": "div", "time": 970.645533, "url": "", "pos": 11040, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537be0", "doc": "http://www.webcrawler.com/", "row": 319, "column": 18, "tagName": "div", "time": 970.645539, "url": "", "pos": 11062, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4537c40", "doc": "http://www.webcrawler.com/", "row": 320, "column": 29, "tagName": "div", "time": 970.645548, "url": "", "pos": 11093, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45375e0", "doc": "http://www.webcrawler.com/", "row": 324, "column": 24, "tagName": "div", "time": 970.646000, "url": "", "pos": 11209, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4538350", "doc": "http://www.webcrawler.com/", "row": 326, "column": 25, "tagName": "div", "time": 970.646056, "url": "", "pos": 11242, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45386e0", "doc": "http://www.webcrawler.com/", "row": 327, "column": 38, "tagName": "ul", "time": 970.646094, "url": "", "pos": 11282, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45389e0", "doc": "http://www.webcrawler.com/", "row": 328, "column": 12, "tagName": "li", "time": 970.646132, "url": "", "pos": 11296, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4537fa0", "doc": "http://www.webcrawler.com/", "row": 328, "column": 102, "tagName": "a", "time": 970.646267, "url": "", "pos": 11386, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45273a0", "doc": "http://www.webcrawler.com/", "row": 328, "column": 122, "tagName": "a", "time": 970.646328, "url": "", "pos": 11406, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4538880", "doc": "http://www.webcrawler.com/", "row": 328, "column": 127, "tagName": "li", "time": 970.646332, "url": "", "pos": 11411, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4534fa0", "doc": "http://www.webcrawler.com/", "row": 329, "column": 30, "tagName": "li", "time": 970.646345, "url": "", "pos": 11443, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45282e0", "doc": "http://www.webcrawler.com/", "row": 329, "column": 36, "tagName": "li", "time": 970.646393, "url": "", "pos": 11449, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4534bb0", "doc": "http://www.webcrawler.com/", "row": 330, "column": 12, "tagName": "li", "time": 970.646404, "url": "", "pos": 11463, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409ab00", "doc": "http://www.webcrawler.com/", "row": 330, "column": 102, "tagName": "a", "time": 970.646913, "url": "", "pos": 11553, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409de60", "doc": "http://www.webcrawler.com/", "row": 330, "column": 114, "tagName": "a", "time": 970.646988, "url": "", "pos": 11565, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409d2b0", "doc": "http://www.webcrawler.com/", "row": 330, "column": 119, "tagName": "li", "time": 970.646996, "url": "", "pos": 11570, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409da60", "doc": "http://www.webcrawler.com/", "row": 331, "column": 30, "tagName": "li", "time": 970.647010, "url": "", "pos": 11602, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a0b00", "doc": "http://www.webcrawler.com/", "row": 331, "column": 36, "tagName": "li", "time": 970.647038, "url": "", "pos": 11608, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a00a0", "doc": "http://www.webcrawler.com/", "row": 332, "column": 12, "tagName": "li", "time": 970.647049, "url": "", "pos": 11622, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4098780", "doc": "http://www.webcrawler.com/", "row": 332, "column": 99, "tagName": "a", "time": 970.647073, "url": "", "pos": 11709, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40986f0", "doc": "http://www.webcrawler.com/", "row": 332, "column": 107, "tagName": "a", "time": 970.647110, "url": "", "pos": 11717, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4098720", "doc": "http://www.webcrawler.com/", "row": 332, "column": 112, "tagName": "li", "time": 970.647114, "url": "", "pos": 11722, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4098750", "doc": "http://www.webcrawler.com/", "row": 333, "column": 30, "tagName": "li", "time": 970.647125, "url": "", "pos": 11754, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a1570", "doc": "http://www.webcrawler.com/", "row": 333, "column": 36, "tagName": "li", "time": 970.647147, "url": "", "pos": 11760, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a15a0", "doc": "http://www.webcrawler.com/", "row": 334, "column": 12, "tagName": "li", "time": 970.647157, "url": "", "pos": 11774, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a1470", "doc": "http://www.webcrawler.com/", "row": 334, "column": 108, "tagName": "a", "time": 970.647182, "url": "", "pos": 11870, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a9810", "doc": "http://www.webcrawler.com/", "row": 334, "column": 126, "tagName": "a", "time": 970.647219, "url": "", "pos": 11888, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9940", "doc": "http://www.webcrawler.com/", "row": 334, "column": 131, "tagName": "li", "time": 970.647223, "url": "", "pos": 11893, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9840", "doc": "http://www.webcrawler.com/", "row": 335, "column": 30, "tagName": "li", "time": 970.647234, "url": "", "pos": 11925, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a9910", "doc": "http://www.webcrawler.com/", "row": 335, "column": 36, "tagName": "li", "time": 970.647255, "url": "", "pos": 11931, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9a70", "doc": "http://www.webcrawler.com/", "row": 336, "column": 12, "tagName": "li", "time": 970.647265, "url": "", "pos": 11945, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a9b10", "doc": "http://www.webcrawler.com/", "row": 336, "column": 105, "tagName": "a", "time": 970.647421, "url": "", "pos": 12038, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a9cf0", "doc": "http://www.webcrawler.com/", "row": 336, "column": 121, "tagName": "a", "time": 970.647469, "url": "", "pos": 12054, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9e20", "doc": "http://www.webcrawler.com/", "row": 336, "column": 126, "tagName": "li", "time": 970.647473, "url": "", "pos": 12059, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9e50", "doc": "http://www.webcrawler.com/", "row": 337, "column": 30, "tagName": "li", "time": 970.647485, "url": "", "pos": 12091, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a99e0", "doc": "http://www.webcrawler.com/", "row": 337, "column": 36, "tagName": "li", "time": 970.647509, "url": "", "pos": 12097, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9a10", "doc": "http://www.webcrawler.com/", "row": 338, "column": 12, "tagName": "li", "time": 970.647519, "url": "", "pos": 12111, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409a730", "doc": "http://www.webcrawler.com/", "row": 338, "column": 104, "tagName": "a", "time": 970.647543, "url": "", "pos": 12203, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a9d80", "doc": "http://www.webcrawler.com/", "row": 338, "column": 118, "tagName": "a", "time": 970.647615, "url": "", "pos": 12217, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a9db0", "doc": "http://www.webcrawler.com/", "row": 338, "column": 123, "tagName": "li", "time": 970.647620, "url": "", "pos": 12222, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409a760", "doc": "http://www.webcrawler.com/", "row": 339, "column": 9, "tagName": "ul", "time": 970.647630, "url": "", "pos": 12233, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409a7c0", "doc": "http://www.webcrawler.com/", "row": 340, "column": 6, "tagName": "div", "time": 970.647637, "url": "", "pos": 12241, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40aa150", "doc": "http://www.webcrawler.com/", "row": 341, "column": 28, "tagName": "div", "time": 970.647646, "url": "", "pos": 12271, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40aa4c0", "doc": "http://www.webcrawler.com/", "row": 342, "column": 38, "tagName": "ul", "time": 970.647695, "url": "", "pos": 12311, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40aa610", "doc": "http://www.webcrawler.com/", "row": 343, "column": 12, "tagName": "li", "time": 970.647727, "url": "", "pos": 12325, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40aa0a0", "doc": "http://www.webcrawler.com/", "row": 343, "column": 67, "tagName": "a", "time": 970.647758, "url": "", "pos": 12380, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40aaac0", "doc": "http://www.webcrawler.com/", "row": 343, "column": 194, "tagName": "img", "time": 970.647842, "url": "", "pos": 12507, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40ab280", "doc": "http://www.webcrawler.com/", "row": 343, "column": 198, "tagName": "a", "time": 970.648086, "url": "", "pos": 12511, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40ab2b0", "doc": "http://www.webcrawler.com/", "row": 343, "column": 203, "tagName": "li", "time": 970.648091, "url": "", "pos": 12516, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40aacf0", "doc": "http://www.webcrawler.com/", "row": 344, "column": 12, "tagName": "li", "time": 970.648103, "url": "", "pos": 12530, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40ab950", "doc": "http://www.webcrawler.com/", "row": 344, "column": 67, "tagName": "a", "time": 970.648124, "url": "", "pos": 12585, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40aa9c0", "doc": "http://www.webcrawler.com/", "row": 344, "column": 76, "tagName": "a", "time": 970.648184, "url": "", "pos": 12594, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40aa9f0", "doc": "http://www.webcrawler.com/", "row": 344, "column": 81, "tagName": "li", "time": 970.648188, "url": "", "pos": 12599, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40aaa20", "doc": "http://www.webcrawler.com/", "row": 345, "column": 30, "tagName": "li", "time": 970.648200, "url": "", "pos": 12631, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40ab420", "doc": "http://www.webcrawler.com/", "row": 345, "column": 36, "tagName": "li", "time": 970.648237, "url": "", "pos": 12637, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45250c0", "doc": "http://www.webcrawler.com/", "row": 346, "column": 12, "tagName": "li", "time": 970.648273, "url": "", "pos": 12651, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4525190", "doc": "http://www.webcrawler.com/", "row": 346, "column": 70, "tagName": "a", "time": 970.648300, "url": "", "pos": 12709, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4539720", "doc": "http://www.webcrawler.com/", "row": 346, "column": 81, "tagName": "a", "time": 970.648375, "url": "", "pos": 12720, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4539750", "doc": "http://www.webcrawler.com/", "row": 346, "column": 86, "tagName": "li", "time": 970.648380, "url": "", "pos": 12725, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4539780", "doc": "http://www.webcrawler.com/", "row": 347, "column": 30, "tagName": "li", "time": 970.648392, "url": "", "pos": 12757, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4539b60", "doc": "http://www.webcrawler.com/", "row": 347, "column": 36, "tagName": "li", "time": 970.648416, "url": "", "pos": 12763, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4539b90", "doc": "http://www.webcrawler.com/", "row": 348, "column": 12, "tagName": "li", "time": 970.648426, "url": "", "pos": 12777, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4539b30", "doc": "http://www.webcrawler.com/", "row": 348, "column": 87, "tagName": "a", "time": 970.648446, "url": "", "pos": 12852, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4539de0", "doc": "http://www.webcrawler.com/", "row": 348, "column": 98, "tagName": "a", "time": 970.648512, "url": "", "pos": 12863, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4539bc0", "doc": "http://www.webcrawler.com/", "row": 348, "column": 103, "tagName": "li", "time": 970.648516, "url": "", "pos": 12868, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4539bf0", "doc": "http://www.webcrawler.com/", "row": 349, "column": 30, "tagName": "li", "time": 970.648527, "url": "", "pos": 12900, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4539fb0", "doc": "http://www.webcrawler.com/", "row": 349, "column": 36, "tagName": "li", "time": 970.648563, "url": "", "pos": 12906, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4539fe0", "doc": "http://www.webcrawler.com/", "row": 350, "column": 12, "tagName": "li", "time": 970.648574, "url": "", "pos": 12920, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4539f20", "doc": "http://www.webcrawler.com/", "row": 350, "column": 117, "tagName": "a", "time": 970.648601, "url": "", "pos": 13025, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453a2a0", "doc": "http://www.webcrawler.com/", "row": 350, "column": 131, "tagName": "a", "time": 970.648668, "url": "", "pos": 13039, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a110", "doc": "http://www.webcrawler.com/", "row": 350, "column": 136, "tagName": "li", "time": 970.648672, "url": "", "pos": 13044, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a140", "doc": "http://www.webcrawler.com/", "row": 351, "column": 30, "tagName": "li", "time": 970.648684, "url": "", "pos": 13076, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45399a0", "doc": "http://www.webcrawler.com/", "row": 351, "column": 36, "tagName": "li", "time": 970.648706, "url": "", "pos": 13082, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45399d0", "doc": "http://www.webcrawler.com/", "row": 352, "column": 12, "tagName": "li", "time": 970.648716, "url": "", "pos": 13096, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453a310", "doc": "http://www.webcrawler.com/", "row": 352, "column": 117, "tagName": "a", "time": 970.648739, "url": "", "pos": 13201, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453a580", "doc": "http://www.webcrawler.com/", "row": 352, "column": 139, "tagName": "a", "time": 970.648798, "url": "", "pos": 13223, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a5b0", "doc": "http://www.webcrawler.com/", "row": 352, "column": 144, "tagName": "li", "time": 970.648802, "url": "", "pos": 13228, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a610", "doc": "http://www.webcrawler.com/", "row": 353, "column": 9, "tagName": "ul", "time": 970.648811, "url": "", "pos": 13239, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a480", "doc": "http://www.webcrawler.com/", "row": 354, "column": 6, "tagName": "div", "time": 970.648818, "url": "", "pos": 13247, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a4e0", "doc": "http://www.webcrawler.com/", "row": 355, "column": 24, "tagName": "div", "time": 970.648827, "url": "", "pos": 13273, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453a890", "doc": "http://www.webcrawler.com/", "row": 357, "column": 10, "tagName": "div", "time": 970.648875, "url": "", "pos": 13346, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a770", "doc": "http://www.webcrawler.com/", "row": 358, "column": 6, "tagName": "div", "time": 970.648882, "url": "", "pos": 13354, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453a8f0", "doc": "http://www.webcrawler.com/", "row": 360, "column": 31, "tagName": "script", "time": 970.648892, "url": "", "pos": 13389, "chunkLen": 16080, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453ab70", "doc": "http://www.webcrawler.com/", "row": 387, "column": 9, "tagName": "script", "time": 970.648954, "url": "", "pos": 14371, "chunkLen": 16080, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453ac30", "doc": "http://www.webcrawler.com/", "row": 389, "column": 117, "tagName": "script", "time": 970.649521, "url": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/scripts/site.min.js?av=115", "pos": 5532, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453ac00", "doc": "http://www.webcrawler.com/", "row": 389, "column": 126, "tagName": "script", "time": 970.649550, "url": "", "pos": 5541, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453b000", "doc": "http://www.webcrawler.com/", "row": 389, "column": 213, "tagName": "iframe", "time": 970.663334, "url": "", "pos": 87, "chunkLen": 128, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453aa40", "doc": "http://www.webcrawler.com/", "row": 389, "column": 254, "tagName": "iframe", "time": 970.669797, "url": "", "pos": 128, "chunkLen": 128, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453bb90", "doc": "http://www.webcrawler.com/", "row": 389, "column": 277, "tagName": "style", "time": 970.669838, "url": "", "pos": 151, "chunkLen": 151, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453b750", "doc": "http://www.webcrawler.com/", "row": 389, "column": 436, "tagName": "style", "time": 970.669922, "url": "", "pos": 310, "chunkLen": 310, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453af40", "doc": "http://www.webcrawler.com/", "row": 393, "column": 31, "tagName": "script", "time": 970.671966, "url": "", "pos": 5891, "chunkLen": 7431, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453da40", "doc": "http://www.webcrawler.com/", "row": 407, "column": 9, "tagName": "script", "time": 970.672039, "url": "http://www.google-analytics.com/ga.js", "pos": 6845, "chunkLen": 7431, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45436d0", "doc": "http://www.webcrawler.com/", "row": 410, "column": 18, "tagName": "div", "time": 970.673193, "url": "", "pos": 6602, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45434f0", "doc": "http://www.webcrawler.com/", "row": 411, "column": 14, "tagName": "div", "time": 970.673205, "url": "", "pos": 6618, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45432a0", "doc": "http://www.webcrawler.com/", "row": 412, "column": 49, "tagName": "div", "time": 970.673218, "url": "", "pos": 6669, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45434a0", "doc": "http://www.webcrawler.com/", "row": 413, "column": 33, "tagName": "div", "time": 970.673291, "url": "", "pos": 6704, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x453aea0", "doc": "http://www.webcrawler.com/", "row": 413, "column": 39, "tagName": "div", "time": 970.673302, "url": "", "pos": 6710, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x453aed0", "doc": "http://www.webcrawler.com/", "row": 414, "column": 34, "tagName": "div", "time": 970.673311, "url": "", "pos": 6746, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4543910", "doc": "http://www.webcrawler.com/", "row": 415, "column": 138, "tagName": "img", "time": 970.673335, "url": "", "pos": 6886, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4544090", "doc": "http://www.webcrawler.com/", "row": 416, "column": 19, "tagName": "br", "time": 970.673511, "url": "", "pos": 6907, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45440d0", "doc": "http://www.webcrawler.com/", "row": 417, "column": 36, "tagName": "span", "time": 970.673529, "url": "", "pos": 6945, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4543b50", "doc": "http://www.webcrawler.com/", "row": 417, "column": 43, "tagName": "span", "time": 970.673540, "url": "", "pos": 6952, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4543b80", "doc": "http://www.webcrawler.com/", "row": 418, "column": 15, "tagName": "div", "time": 970.673548, "url": "", "pos": 6969, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45438c0", "doc": "http://www.webcrawler.com/", "row": 419, "column": 11, "tagName": "div", "time": 970.673554, "url": "", "pos": 6982, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4543d10", "doc": "http://www.webcrawler.com/", "row": 420, "column": 48, "tagName": "div", "time": 970.673565, "url": "", "pos": 7032, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4543dd0", "doc": "http://www.webcrawler.com/", "row": 420, "column": 54, "tagName": "div", "time": 970.673594, "url": "", "pos": 7038, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4543e00", "doc": "http://www.webcrawler.com/", "row": 421, "column": 51, "tagName": "div", "time": 970.673606, "url": "", "pos": 7091, "chunkLen": 7120, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x45437f0", "doc": "http://www.webcrawler.com/", "row": 421, "column": 57, "tagName": "div", "time": 970.673631, "url": "", "pos": 7097, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4544190", "doc": "http://www.webcrawler.com/", "row": 422, "column": 11, "tagName": "body", "time": 970.673640, "url": "", "pos": 7110, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45441c0", "doc": "http://www.webcrawler.com/", "row": 423, "column": 7, "tagName": "html", "time": 970.673646, "url": "", "pos": 7119, "chunkLen": 7120, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x45448a0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 7, "tagName": "table", "time": 970.674813, "url": "", "pos": 7, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4544920", "doc": "http://www.webcrawler.com/", "row": 0, "column": 11, "tagName": "tr", "time": 970.674826, "url": "", "pos": 11, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4544c00", "doc": "http://www.webcrawler.com/", "row": 0, "column": 55, "tagName": "td", "time": 970.674849, "url": "", "pos": 55, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4544f40", "doc": "http://www.webcrawler.com/", "row": 0, "column": 60, "tagName": "td", "time": 970.674893, "url": "", "pos": 60, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4544f70", "doc": "http://www.webcrawler.com/", "row": 0, "column": 64, "tagName": "td", "time": 970.674897, "url": "", "pos": 64, "chunkLen": 83, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4545030", "doc": "http://www.webcrawler.com/", "row": 0, "column": 70, "tagName": "td", "time": 970.674904, "url": "", "pos": 70, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4544ca0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 75, "tagName": "tr", "time": 970.674906, "url": "", "pos": 75, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4544cd0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 83, "tagName": "table", "time": 970.674908, "url": "", "pos": 83, "chunkLen": 83, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b0930", "doc": "http://www.webcrawler.com/", "row": 0, "column": 24, "tagName": "div", "time": 970.713800, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40b0f60", "doc": "http://www.webcrawler.com/", "row": 0, "column": 30, "tagName": "div", "time": 970.713843, "url": "", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b0b70", "doc": "http://www.webcrawler.com/", "row": 0, "column": 107, "tagName": "div", "time": 970.714219, "url": "", "pos": 107, "chunkLen": 291, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40b0f90", "doc": "http://www.webcrawler.com/", "row": 0, "column": 112, "tagName": "div", "time": 970.714262, "url": "", "pos": 112, "chunkLen": 291, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40b1020", "doc": "http://www.webcrawler.com/", "row": 0, "column": 118, "tagName": "div", "time": 970.714270, "url": "", "pos": 118, "chunkLen": 291, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b0e00", "doc": "http://www.webcrawler.com/", "row": 0, "column": 124, "tagName": "div", "time": 970.714273, "url": "", "pos": 124, "chunkLen": 291, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b0e30", "doc": "http://www.webcrawler.com/", "row": 0, "column": 265, "tagName": "table", "time": 970.714285, "url": "", "pos": 265, "chunkLen": 291, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40b1600", "doc": "http://www.webcrawler.com/", "row": 0, "column": 269, "tagName": "tr", "time": 970.714327, "url": "", "pos": 269, "chunkLen": 291, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40b13d0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 273, "tagName": "td", "time": 970.714335, "url": "", "pos": 273, "chunkLen": 291, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40b16b0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 278, "tagName": "td", "time": 970.714340, "url": "", "pos": 278, "chunkLen": 291, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b16e0", "doc": "http://www.webcrawler.com/", "row": 0, "column": 283, "tagName": "tr", "time": 970.714343, "url": "", "pos": 283, "chunkLen": 291, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b1710", "doc": "http://www.webcrawler.com/", "row": 0, "column": 291, "tagName": "table", "time": 970.714345, "url": "", "pos": 291, "chunkLen": 291, "isStartTag": 0}}
+{"Resource": {"id": 4, "url": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/scripts/site.min.js?av=115", "sentTime": -1.000000, "len": 36794, "from": "0x0",                            "mimeType": "application/x-javascript", "contentLength": 36794, "httpStatus": 200, "connId": 139, "connReused": 0, "cached": 0,                            "requestTime": 970.049407, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 422, "connectStart": 2, "connectEnd": 424, "sendStart": 424, "sendEnd": 424, "receiveHeadersEnd": 427, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.477717, "len": 2359}}
+{"ReceivedChunk": {"receivedTime": 970.479029, "len": 11584}}
+{"ReceivedChunk": {"receivedTime": 970.486866, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 970.489034, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 970.489692, "len": 2579}}
+{"Resource": {"id": 3, "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/scripts/siteinit.min.js?av=115", "sentTime": -1.000000, "len": 104819, "from": "0x406daa0",                            "mimeType": "application/x-javascript", "contentLength": 104819, "httpStatus": 200, "connId": 140, "connReused": 0, "cached": 0,                            "requestTime": 970.045308, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 427, "connectStart": 2, "connectEnd": 429, "sendStart": 429, "sendEnd": 429, "receiveHeadersEnd": 433, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.483397, "len": 3559}}
+{"ReceivedChunk": {"receivedTime": 970.488427, "len": 17624}}
+{"ReceivedChunk": {"receivedTime": 970.489498, "len": 18824}}
+{"ReceivedChunk": {"receivedTime": 970.493781, "len": 18824}}
+{"ReceivedChunk": {"receivedTime": 970.494815, "len": 31856}}
+{"ReceivedChunk": {"receivedTime": 970.507445, "len": 14132}}
+{"Resource": {"id": 2, "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/css/site.min.css?av=115", "sentTime": -1.000000, "len": 58910, "from": "0x406d420",                            "mimeType": "text/css", "contentLength": 58910, "httpStatus": 200, "connId": 141, "connReused": 0, "cached": 0,                            "requestTime": 970.044671, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 3, "dnsEnd": 427, "connectStart": 3, "connectEnd": 429, "sendStart": 430, "sendEnd": 430, "receiveHeadersEnd": 434, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.487167, "len": 3575}}
+{"ReceivedChunk": {"receivedTime": 970.489296, "len": 19072}}
+{"ReceivedChunk": {"receivedTime": 970.489994, "len": 10136}}
+{"ReceivedChunk": {"receivedTime": 970.494052, "len": 13032}}
+{"ReceivedChunk": {"receivedTime": 970.496169, "len": 13095}}
+{"Resource": {"id": 13, "url": "about:blank", "sentTime": -1.000000, "len": 0, "from": "0x453b000",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 6, "url": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/content/img/layout/toplogo_sm.png?av=115", "sentTime": -1.000000, "len": 4163, "from": "0x409b3f0",                            "mimeType": "image/png", "contentLength": 4163, "httpStatus": 200, "connId": 139, "connReused": 1, "cached": 0,                            "requestTime": 970.611103, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 3, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 6, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.763176, "len": 927}}
+{"ReceivedChunk": {"receivedTime": 970.766829, "len": 3236}}
+{"Resource": {"id": 5, "url": "http://www.webcrawler.com/__kl.gif?type=pageview&aid=733632038.1626261701799.1378144440.1&ac=1&s=webcrawler&c=info.wbcrwl&pid=27&lh=www.webcrawler.com&pri=db19ec3d39fe4ef49c7881b4fa0d2988&rnd=0.5756530875805765&qsh=904118666", "sentTime": -1.000000, "len": 35, "from": "0x406cb30",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 114, "connReused": 1, "cached": 0,                            "requestTime": 970.609568, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 3, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 34, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.767969, "len": 35}}
+{"Resource": {"id": 10, "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/img/main_popular_bg_left.gif", "sentTime": -1.000000, "len": 2041, "from": "0x4531ce0",                            "mimeType": "image/gif", "contentLength": 2041, "httpStatus": 200, "connId": 141, "connReused": 1, "cached": 0,                            "requestTime": 970.644723, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 3, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 7, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.769390, "len": 927}}
+{"ReceivedChunk": {"receivedTime": 970.769702, "len": 1114}}
+{"Resource": {"id": 7, "url": "http://csearchcdn4.inspcloud.com/webcrawler/1.1.1.15/content/img/layout/searchbutton.png?av=115", "sentTime": -1.000000, "len": 1779, "from": "0x4525740",                            "mimeType": "image/png", "contentLength": 1779, "httpStatus": 200, "connId": 186, "connReused": 0, "cached": 0,                            "requestTime": 970.641477, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 39, "connectStart": 1, "connectEnd": 41, "sendStart": 41, "sendEnd": 41, "receiveHeadersEnd": 44, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.770645, "len": 927}}
+{"ReceivedChunk": {"receivedTime": 970.770928, "len": 852}}
+{"Resource": {"id": 8, "url": "http://csearchcdn4.inspcloud.com/webcrawler/1.1.1.15/content/img/google.png?av=115", "sentTime": -1.000000, "len": 563, "from": "0x45293c0",                            "mimeType": "image/png", "contentLength": 563, "httpStatus": 200, "connId": 186, "connReused": 1, "cached": 0,                            "requestTime": 970.752829, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 11, "sendStart": 12, "sendEnd": 12, "receiveHeadersEnd": 19, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.783056, "len": 563}}
+{"Resource": {"id": 11, "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/img/main_popular_bg_right.gif", "sentTime": -1.000000, "len": 2079, "from": "0x4532950",                            "mimeType": "image/gif", "contentLength": 2079, "httpStatus": 200, "connId": 141, "connReused": 1, "cached": 0,                            "requestTime": 970.753733, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 11, "sendStart": 11, "sendEnd": 11, "receiveHeadersEnd": 18, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.785562, "len": 2079}}
+{"Resource": {"id": 9, "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/content/img/yahoo.png?av=115", "sentTime": -1.000000, "len": 943, "from": "0x4529380",                            "mimeType": "image/png", "contentLength": 943, "httpStatus": 200, "connId": 140, "connReused": 1, "cached": 0,                            "requestTime": 970.754569, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 11, "connectEnd": 11, "sendStart": 11, "sendEnd": 11, "receiveHeadersEnd": 18, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.785887, "len": 943}}
+{"Resource": {"id": 15, "url": "http://csearchcdn4.inspcloud.com/webcrawler/1.1.1.15/content/img/overlayloading.gif?av=115", "sentTime": -1.000000, "len": 3208, "from": "0x4543910",                            "mimeType": "image/gif", "contentLength": 3208, "httpStatus": 200, "connId": 208, "connReused": 0, "cached": 0,                            "requestTime": 970.753287, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 11, "connectStart": 11, "connectEnd": 13, "sendStart": 13, "sendEnd": 13, "receiveHeadersEnd": 19, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.786226, "len": 3208}}
+{"Resource": {"id": 12, "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/img/inspinc_logo.gif?av=115", "sentTime": -1.000000, "len": 1086, "from": "0x40aaac0",                            "mimeType": "image/gif", "contentLength": 1086, "httpStatus": 200, "connId": 215, "connReused": 0, "cached": 0,                            "requestTime": 970.754153, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 10, "dnsEnd": 10, "connectStart": 10, "connectEnd": 12, "sendStart": 13, "sendEnd": 13, "receiveHeadersEnd": 19, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 970.786778, "len": 1086}}
+{"Resource": {"id": 14, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 39867, "from": "0x453da40",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 224, "connReused": 0, "cached": 0,                            "requestTime": 970.673824, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 370, "connectStart": 2, "connectEnd": 371, "sendStart": 371, "sendEnd": 371, "receiveHeadersEnd": 373, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 971.048286, "len": 1508}}
+{"ReceivedChunk": {"receivedTime": 971.048792, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 971.049645, "len": 5591}}
+{"HOL": {"type": 4, "docUrl": "http://www.webcrawler.com/", "code": "0x406d420", "row": 15, "column": 133, "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/css/site.min.css?av=115"}}
+{"HOL": {"type": 1, "docUrl": "http://www.webcrawler.com/", "code": "0x406daa0", "row": 21, "column": 121, "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/scripts/siteinit.min.js?av=115"}}
+{"HOL": {"type": 1, "docUrl": "http://www.webcrawler.com/", "code": "0x4098210", "row": 28, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.webcrawler.com/", "code": "0x40a0b30", "row": 96, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.webcrawler.com/", "code": "0x453a8f0", "row": 360, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.webcrawler.com/", "code": "0x453ac30", "row": 389, "column": 117, "url": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/scripts/site.min.js?av=115"}}
+{"HOL": {"type": 4, "docUrl": "http://www.webcrawler.com/", "code": "0x453bb90", "row": 389, "column": 277, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.webcrawler.com/", "code": "0x453af40", "row": 393, "column": 31, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.044546, "endTime": -1.000000, "urlRecalcStyle": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/scripts/siteinit.min.js?av=115"}}
+{"Computation": {"type": "layout", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.046193, "endTime": 970.047123, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.047075, "endTime": 970.047113, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.066284, "endTime": 970.066358, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.336463, "endTime": 970.336542, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.496664, "endTime": 970.507238, "urlRecalcStyle": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/css/site.min.css?av=115"}}
+{"Computation": {"type": "execScript", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.507231, "endTime": -1.000000, "urlRecalcStyle": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/scripts/siteinit.min.js?av=115"}}
+{"Computation": {"type": "execScript", "code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "startTime": 970.507680, "endTime": 970.598880, "urlRecalcStyle": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/scripts/siteinit.min.js?av=115"}}
+{"Computation": {"type": "layout", "code": "0x4093c80", "docUrl": "http://www.webcrawler.com/", "startTime": 970.580893, "endTime": 970.580961, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40976f0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.598872, "endTime": 970.598873, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x406cb30", "docUrl": "http://www.webcrawler.com/", "startTime": 970.599127, "endTime": 970.608860, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4098b50", "docUrl": "http://www.webcrawler.com/", "startTime": 970.611281, "endTime": 970.611792, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x453ab70", "docUrl": "http://www.webcrawler.com/", "startTime": 970.648969, "endTime": 970.649494, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x453ac00", "docUrl": "http://www.webcrawler.com/", "startTime": 970.649587, "endTime": 970.671950, "urlRecalcStyle": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/scripts/site.min.js?av=115"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.663839, "endTime": 970.663840, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.663842, "endTime": 970.663844, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.669478, "endTime": 970.669479, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.669481, "endTime": 970.669483, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.669571, "endTime": 970.669573, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.669586, "endTime": 970.669587, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b000", "docUrl": "http://www.webcrawler.com/", "startTime": 970.669592, "endTime": 970.669592, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x453b750", "docUrl": "http://www.webcrawler.com/", "startTime": 970.671943, "endTime": 970.671944, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x453da40", "docUrl": "http://www.webcrawler.com/", "startTime": 970.672054, "endTime": 970.673171, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x45441c0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.673674, "endTime": 970.673676, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x45441c0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.673678, "endTime": 970.737328, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x4544cd0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.675549, "endTime": 970.712509, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4544cd0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.712341, "endTime": 970.712445, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4544cd0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.712895, "endTime": 970.713014, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4544cd0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.713284, "endTime": 970.713375, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x4544cd0", "docUrl": "http://www.webcrawler.com/", "startTime": 970.713572, "endTime": 970.713685, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b0f60", "docUrl": "http://www.webcrawler.com/", "startTime": 970.713965, "endTime": 970.714059, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.715312, "endTime": 970.715470, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.715673, "endTime": 970.715730, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.715942, "endTime": 970.716011, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.726963, "endTime": 970.727057, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.737331, "endTime": 970.737333, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.738588, "endTime": 970.738589, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.771621, "endTime": 970.771622, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.771624, "endTime": 970.771625, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.771630, "endTime": 970.771734, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.771744, "endTime": 970.771746, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.771748, "endTime": 970.771749, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.771756, "endTime": 970.772183, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.783294, "endTime": 970.783484, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.785320, "endTime": 970.785322, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.786412, "endTime": 970.786556, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.786572, "endTime": 970.786574, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.787084, "endTime": 970.787334, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.787402, "endTime": 970.787403, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.787410, "endTime": 970.787411, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.871777, "endTime": 970.873291, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 970.915382, "endTime": 970.915513, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 971.052537, "endTime": 971.079015, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x40b1710", "docUrl": "http://www.webcrawler.com/", "startTime": 971.079034, "endTime": 971.079035, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/favicon.ico?av=115", "time": 970.044572}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/content/img/layout/toplogo_sm.png?av=115", "time": 970.045285}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn4.inspcloud.com/webcrawler/1.1.1.15/content/img/layout/searchbutton.png?av=115", "time": 970.045522}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn4.inspcloud.com/webcrawler/1.1.1.15/content/img/google.png?av=115", "time": 970.045593}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn3.inspcloud.com/webcrawler/1.1.1.15/content/img/yahoo.png?av=115", "time": 970.045608}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn2.inspcloud.com/webcrawler/1.1.1.15/content/img/inspinc_logo.gif?av=115", "time": 970.047779}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn1.inspcloud.com/webcrawler/1.1.1.15/scripts/site.min.js?av=115", "time": 970.047901}}
+{"Preload": {"code": "0x406d320", "docUrl": "http://www.webcrawler.com/", "url": "http://csearchcdn4.inspcloud.com/webcrawler/1.1.1.15/content/img/overlayloading.gif?av=115", "time": 970.048204}}
+{"Complete": "www.webcrawler.com_"}

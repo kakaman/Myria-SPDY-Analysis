@@ -1,0 +1,44 @@
+1. Convert the original log directly output from WProf-instrumented browser or mobile browser
+
+We store the logs from all the page loads in a big file or a big DB. We need to split it to small log files, each represents a page load. Note that it might ask you to install some perl packages such as JSON.
+
+For desktop browser (in text format),
+
+$ perl slice.pl DIRECTORY_NAME_THAT_CONTAINS_LOG_FILES
+
+For mobile browser (in sqlite3 db format),
+
+$ perl slicemobile.pl DIRECTORY_NAME_THAT_CONTAINS_LOG_FILES
+
+The sliced files will be stored in the same subdirectory as the original directory with suffix _pro.
+
+-----------------------------
+2. Prepare sliced files
+
+Add the folder that contains the sliced log files to data/
+
+Configure the path of the added folder in ProcessMain.pm, search for "test" and see where configuration should be done.
+
+
+-----------------------------
+3. Run the analysis
+
+$ perl analysis.pl
+
+
+-----------------------------
+4. Understand the results
+
+./temp_files/* generates a file per log file that contains the analyzed info for a certain page load. Here, we only consider the page load with minimum page load time for a given page.
+
+./results/* combines all results from ./temp_files/* and generates files for CDF plots.
+
+
+-----------------------------
+5. Plot
+
+Configure plot.pl accordingly the files to plot.
+
+$ cd plot/
+$ perl plot.pl
+

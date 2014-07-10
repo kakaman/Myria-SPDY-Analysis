@@ -1,0 +1,569 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.olx.in_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.olx.in/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 850.446000000147,
+               "time" : 36.0739999998719,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 886.520000000019
+            },
+            {
+               "s_time" : 1831.00200000013,
+               "time" : 56.5440000000299,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1887.54600000016
+            },
+            {
+               "s_time" : 2056.49300000005,
+               "time" : 0.112000000170156,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 2056.60500000022
+            },
+            {
+               "s_time" : 2058.83500000004,
+               "time" : 36.4250000000097,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 2095.26000000005
+            },
+            {
+               "s_time" : 2095.74500000008,
+               "time" : 318.92500000003,
+               "type" : "evalhtml",
+               "id" : "r1_c5",
+               "e_time" : 2414.67000000011
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static02.olx-st.com/js/ipaddialog-186.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 2095.31100000004,
+               "time" : 0.434000000039759,
+               "type" : 1,
+               "id" : "comp_45",
+               "e_time" : 2095.74500000008
+            }
+         ],
+         "download" : {
+            "s_time" : 886.520000000019,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static02.olx-st.com/js/home-186.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 2056.65200000021,
+               "time" : 2.18299999982992,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 2058.83500000004
+            }
+         ],
+         "download" : {
+            "s_time" : 886.018000000149,
+            "id" : "download_2",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static04.olx-st.com/js/cookies-186.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1829.59500000015,
+               "time" : 1.40699999997992,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 1831.00200000013
+            }
+         ],
+         "download" : {
+            "s_time" : 880.58500000011,
+            "id" : "download_3",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static01.olx-st.com/js/common-186.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1885.941,
+               "time" : 170.55200000005,
+               "type" : 1,
+               "id" : "comp_16",
+               "e_time" : 2056.49300000005
+            }
+         ],
+         "download" : {
+            "s_time" : 885.481000000027,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static01.olx-st.com/frontEnd/in/assets/css/base-186.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1799.20000000016,
+               "time" : 84.78599999989,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 1883.98600000005
+            }
+         ],
+         "download" : {
+            "s_time" : 880.015000000185,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 2182.66600000015,
+               "time" : 69.9729999998904,
+               "type" : 2,
+               "id" : "comp_79",
+               "e_time" : 2252.63900000004
+            }
+         ],
+         "download" : {
+            "s_time" : 1836.0590000002,
+            "id" : "download_6",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static04.olx-st.com/images/logos/olx-logo-in.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1840.09800000013,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static01.olx-st.com/frontEnd/in/assets/images/v5/ico_search.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1885.45900000008,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static01.olx-st.com/frontEnd/in/assets/images/v5/sprite_footer_icons.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1885.91500000007,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static04.olx-st.com/frontEnd/in/assets/images/v5/like.gif",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1887.13100000018,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static03.olx-st.com/images/iphoneapp/olxmobile.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1886.71900000008,
+            "id" : "download_11",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static03.olx-st.com/images/tvad/tvadbanner_india.jpg",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1863.69200000013,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static03.olx-st.com/frontEnd/in/assets/images/v5/Share-Icons.gif",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1886.32400000006,
+            "id" : "download_13",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/beacon.js",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 2252.69400000002,
+               "time" : 2.84099999998989,
+               "type" : 2,
+               "id" : "comp_81",
+               "e_time" : 2255.53500000001
+            }
+         ],
+         "download" : {
+            "s_time" : 2064.39300000011,
+            "id" : "download_14",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://tracking.olx.com/iframetracker.php?tid=10&refererSite=https%3A%2F%2Fwww.google.co.in%2F&typeProcess=0&invite=&inviteOLX=olx-in_organic&cid=99&catid=&iid=0&bid=0&sid=0&invCobranded=&metacodeCountry=IN&uid=0&image=0&languageId=1&conv=0&rnd=20",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 2180.9360000002,
+               "time" : 68.7530000000202,
+               "id" : "r15_c1",
+               "type" : "evalhtml",
+               "e_time" : 2249.68900000022
+            },
+            {
+               "s_time" : 2277.96500000022,
+               "time" : 0.132999999780168,
+               "type" : "evalhtml",
+               "id" : "r15_c2",
+               "e_time" : 2278.098
+            }
+         ],
+         "download" : {
+            "s_time" : 1887.54600000016,
+            "id" : "download_15",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googleadservices.com/pagead/conversion.js",
+         "id" : "r22",
+         "comps" : [
+            {
+               "s_time" : 2268.72000000003,
+               "time" : 9.24500000018998,
+               "type" : 1,
+               "id" : "comp_84",
+               "e_time" : 2277.96500000022
+            }
+         ],
+         "download" : {
+            "s_time" : 2191.57600000017,
+            "id" : "download_16",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.olx.in/localstorageiframe.php",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 2290.50900000016,
+               "time" : 14.9179999998501,
+               "type" : "evalhtml",
+               "id" : "r21_c1",
+               "e_time" : 2305.42700000001
+            }
+         ],
+         "download" : {
+            "s_time" : 2177.99400000013,
+            "id" : "download_17",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=249369175&utmhn=www.olx.in&utme=8(2!keep_referral)9(2!emptyReferrer)11(2!2)&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Free%20classifieds%20in%20India%2C%20Classified%20ads%20in%20India%2C%20Online%20Classified%20Advertising&utmhid=1200108002&utmr=-&utmp=%2Fhome%2F&utmht=1378144760705&utmac=UA-137146-4&utmcc=__utma%3D83416905.976274664.1378144761.1378144761.1378144761.1%3B%2B__utmz%3D83416905.1378144761.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=uzGgAAAAI~",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2249.68900000022,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.olx.in/home_utils.php?country_id=99&lang_id=1&ver=186",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2075.67600000016,
+            "id" : "download_19",
+            "type" : "application/json"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://tracking.olx-st.com/h/it?ivd=olx-in_organic&tid=10&cou=IN&host=www.olx.in&lang=EN&cookies=language_id%3D1&title=Free%20classifieds%20in%20India%2C%20Classified%20ads%20in%20India%2C%20Online%20Classified%20Advertising&pageName=%2Fhome%2F&t=1378144760519",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 2426.90000000016,
+               "time" : 0.29199999993989,
+               "type" : "evalhtml",
+               "id" : "r16_c1",
+               "e_time" : 2427.1920000001
+            }
+         ],
+         "download" : {
+            "s_time" : 2063.33600000016,
+            "id" : "download_20",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.com/ads/user-lists/1066815633/?label=yEyECOfN8wEQkaHZ_AM&fmt=3&bg=666666&num=1&ct_cookie_present=false&cv=7&frm=2&url=http%3A%2F%2Ftracking.olx.com%2Fiframetracker.php%3Ftid%3D10%26refererSite%3Dhttps%3A%2F%2Fwww.google.co.in%2F%26typeProcess%3D0%26invite%3D%26inviteOLX%3Dolx-in_organic%26cid%3D99%26catid%3D%26iid%3D0%26bid%3D0%26sid%3D0%26invCobranded%3D%26metacodeCountry%3DIN%26uid%3D0%26image%3D0%26languageId%3D1%26conv%3D0%26rnd%3D20&ref=http%3A%2F%2Fwww.olx.in%2F&random=2148380413",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2414.67000000011,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_45"
+      },
+      {
+         "a2" : "comp_6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_23",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "r15_c2",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_84"
+      },
+      {
+         "a2" : "download_21",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 4.5010000001198,
+         "id" : "dep9",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 16.8410000001199,
+         "id" : "dep10",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_18",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "r15_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 82.2490000000503,
+         "id" : "dep12",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 10.6399999999703,
+         "id" : "dep13",
+         "a1" : "r15_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 5.55800000007002,
+         "id" : "dep15",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 55.3219999999301,
+         "id" : "dep16",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 32.6900000000001,
+         "id" : "dep17",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 55.7169999999501,
+         "id" : "dep18",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 56.1290000000499,
+         "id" : "dep19",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 54.91299999994,
+         "id" : "dep20",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 54.4569999999501,
+         "id" : "dep21",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 9.096,
+         "id" : "dep22",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 5.05700000007005,
+         "id" : "dep23",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_5",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : -1,
+         "id" : "dep25",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 35.03499999988,
+         "id" : "dep26",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 30.1389999999629,
+         "id" : "dep27",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : -1,
+         "id" : "dep28",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 35.5720000000019,
+         "id" : "dep29",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : -1,
+         "id" : "dep30",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 36.0739999998719,
+         "id" : "dep31",
+         "a1" : "r1_c1"
+      }
+   ]
+}

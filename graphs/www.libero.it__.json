@@ -1,0 +1,1445 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.libero.it_?",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.libero.it/?",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 725.624000000153,
+               "time" : 693.651999999927,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1419.27600000008
+            },
+            {
+               "s_time" : 1956.57600000004,
+               "time" : 30.0979999999499,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1986.67399999999
+            },
+            {
+               "s_time" : 1987.06300000003,
+               "time" : 0.0600000000802083,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1987.12300000011
+            },
+            {
+               "s_time" : 1993.20899999998,
+               "time" : 162.4760000002,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 2155.68500000018
+            },
+            {
+               "s_time" : 2158.77300000011,
+               "time" : 18.1469999999999,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 2176.92000000011
+            },
+            {
+               "s_time" : 2324.3080000002,
+               "time" : 20.8040000000001,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 2345.1120000002
+            },
+            {
+               "s_time" : 2463.55000000017,
+               "time" : 829.76199999984,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 3293.31200000001
+            },
+            {
+               "s_time" : 3471.97400000005,
+               "time" : 400.50300000007,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 3872.47700000012
+            },
+            {
+               "s_time" : 3873.16200000009,
+               "time" : 121.99299999998,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 3995.15500000007
+            },
+            {
+               "s_time" : 3997.5730000001,
+               "time" : 2.98300000009021,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 4000.55600000019
+            },
+            {
+               "s_time" : 4071.48900000016,
+               "time" : 1553.89100000002,
+               "type" : "evalhtml",
+               "id" : "r1_c11",
+               "e_time" : 5625.38000000018
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/c2/13259779/cs.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 3995.19099999998,
+               "time" : 2.38200000012012,
+               "type" : 1,
+               "id" : "comp_420",
+               "e_time" : 3997.5730000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1419.27600000008,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/s/2012/gmz/uem1.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1931.37400000001,
+               "time" : 25.20200000003,
+               "type" : 1,
+               "id" : "comp_4",
+               "e_time" : 1956.57600000004
+            }
+         ],
+         "download" : {
+            "s_time" : 750.504999999976,
+            "id" : "download_2",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv-banner.libero.it/s/js/banners/js/rta.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1983.60500000013,
+               "time" : 3.45799999989981,
+               "type" : 1,
+               "id" : "comp_7",
+               "e_time" : 1987.06300000003
+            }
+         ],
+         "download" : {
+            "s_time" : 1234.55300000001,
+            "id" : "download_3",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adv-banner.libero.it/banners/js/adv_library2.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1987.18300000019,
+               "time" : 6.02599999978997,
+               "type" : 1,
+               "id" : "comp_8",
+               "e_time" : 1993.20899999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1234.99600000014,
+            "id" : "download_4",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure-it.imrworldwide.com/v60.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 2155.72300000008,
+               "time" : 3.0500000000302,
+               "type" : 1,
+               "id" : "comp_39",
+               "e_time" : 2158.77300000011
+            }
+         ],
+         "download" : {
+            "s_time" : 1418.83300000018,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://b.scorecardresearch.com/beacon.js",
+         "id" : "r37",
+         "comps" : [
+            {
+               "s_time" : 2323.09600000008,
+               "time" : 1.21200000012004,
+               "type" : 1,
+               "id" : "comp_50",
+               "e_time" : 2324.3080000002
+            }
+         ],
+         "download" : {
+            "s_time" : 2167.00200000014,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://rta.criteo.com/dis/rtt.js?networkId=1280&cookieName=cto_rta&rnd=570608279&varName=crtg_content",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 2386.98599999998,
+               "time" : 0.826000000190106,
+               "type" : 2,
+               "id" : "comp_55",
+               "e_time" : 2387.81200000017
+            }
+         ],
+         "download" : {
+            "s_time" : 1986.67399999999,
+            "id" : "download_7",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://f06df6.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Cc%3A195983185249824%7Cd%3A1%7Ca%3AF06DF6%7Ch%3A1%7Ce%3A%7Cv%3A8.0%7Cb%3ALibero%20Home%20Page%7Cl%3Ahttp%24*%24%2F%2Fwww.libero.it%2F%7Cm%3A2048%7Co%3A1152%7Cp%3AMacIntel%7Cg%3AChrome%7Cf%3A22.0.1195.0%7Cta%3A1%7D%7Bn%3Au%7Ce%3A1%7D&a=F06DF6&r=1&s=1",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 2387.83899999999,
+               "time" : 4.90100000000984,
+               "type" : 2,
+               "id" : "comp_56",
+               "e_time" : 2392.74
+            }
+         ],
+         "download" : {
+            "s_time" : 1957.33200000018,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/2013/i/hf/bg03.jpg",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1994.18200000014,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/s/2013/i/hf/834/img_hf.gif",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2174.44399999999,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.it.doubleclick.net/adj/hp.libero.it/hp;bgarea=hp;adv_sso1=0;adv_sso2=0;adv_sso3=0;adv_np=yes;region=0;dcopt=ist;tile=1;sz=728x90,970x90,970x270;oe=iso-8859-1;ord=9731086231?",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 2459.69600000012,
+               "time" : 3.85400000004984,
+               "type" : 1,
+               "id" : "comp_57",
+               "e_time" : 2463.55000000017
+            }
+         ],
+         "download" : {
+            "s_time" : 2345.1120000002,
+            "id" : "download_11",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://secure-it.imrworldwide.com/storageframe.html",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 2519.59000000011,
+               "time" : 9.8159999999998,
+               "type" : "evalhtml",
+               "id" : "r36_c1",
+               "e_time" : 2529.40600000011
+            }
+         ],
+         "download" : {
+            "s_time" : 2164.08999999999,
+            "id" : "download_12",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.it.doubleclick.net/adj/hp.libero.it/hp;fasciahp=1;adv_sso1=0;adv_sso2=0;adv_sso3=0;adv_np=yes;region=0;tile=2;sz=300x250,300x600;oe=iso-8859-1;ord=9731086231?",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2471.00999999998,
+            "id" : "download_13",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/2013/i/sprite_08.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2167.57300000017,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/2013/i/sprite_a3f.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2167.94900000014,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/s/2013/i/hf/img_hf.gif",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2174.78600000004,
+            "id" : "download_16",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/s/2013/i/sprite_09e.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2175.12000000011,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/img107/news/04/43/2013/9/bancomat-pagamento.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2168.3300000002,
+            "id" : "download_18",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/funweek/med/130902-torrisi-addio-a-pieraccioni.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2169.12200000002,
+            "id" : "download_19",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/sport/med/130902-kaka-quotsognavo-san-siroquot.jpg",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2168.72699999999,
+            "id" : "download_20",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/img107/coldx/i_rtz/02/2031/2013/6/box_formazione_B.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2175.46800000014,
+            "id" : "download_21",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/img107/coldx/appl/04/4769/2013/3/Uomo80x80.jpg",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2175.82500000003,
+            "id" : "download_22",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/img107/coldx/appl/04/4516/2013/1/94x94-CasinoGold.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2176.18300000004,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/2013/i/dummy.gif",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2169.48200000002,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/img107/coldx/appl/04/4983/2013/4/chirurgia-estetica-lacliniq.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2176.56699999998,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/img107/coldx/i_rtz/02/2031/2013/5/box_lavoro_B.jpg",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2169.8600000002,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/s/2013/i/sprite_partners4.gif",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2176.92000000011,
+            "id" : "download_27",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img3.iol.it/s/2013/i/logo_libero_bianco.png",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2479.27600000003,
+            "id" : "download_28",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/img107/coldx/i_rtz/02/2031/2013/5/box_motori_B.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2170.23900000004,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgMDO_7CH2gEQARgBMggK9-ReiQ3K_A",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2471.53300000014,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://secure-it.imrworldwide.com/cgi-bin/m?rnd=1378144569043&ci=libero-it&js=1&cg=0&ts=v60.js&vn=6.0.25&cc=0&cd=24&ck=y&je=y&lg=en-US&si=http%3A//www.libero.it/%3F&sr=2048x1152&id=lstrg-2cc433c3a2c8c3265fde9c33649df3c6&tz=-7",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2541.55200000014,
+            "id" : "download_31",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/2013/i/sprite06.png",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2170.62900000019,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/img107/coldx/appl/03/3874/2012/10/Img5.jpg",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2171.01900000011,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/img107/coldx/appl/05/5412/2013/6/80x80_couple_may13.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2171.42800000011,
+            "id" : "download_34",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://track.adform.net/adfscript/?bn=2354528;click=http://adclick.g.doubleclick.net/aclk?sa=L&ai=B9tSjOdEkUtBK75SUAv-FgaAHx5HKmQQAAAAQASAAOABY16Df5l9gyY7GjfSk0BmCARdjYS1wdWItMTA4MDU5MTQ5NjUzMjY2NrIBDXd3dy5saWJlcm8uaXS6AQlnZnBfaW1hZ2XIAQnaARVodHRwOi8vd3d3LmxpYmVyby5pdC-pAkRux8l9IbY-wAIC4AIA6gIUNTE4MC9ocC5saWJlcm8uaXQvaHD4AoHSHoADAZADrAKYA8gGqAMB4AQBoAYW&num=0&sig=AOD64_3Knc1LibSLptqty0CBDMNQQ24TZw&client=ca-pub-1080591496532666&adurl=",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2550.79000000001,
+            "id" : "download_35",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/img107/coldx/appl/04/4835/2013/3/generali2.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2171.80600000006,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s2.adform.net/banners/scripts/bootstrap/Adform.Bootstrap.js?v=128",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2945.03300000019,
+            "id" : "download_37",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/buonissimo/med/130902-barbabietola-benefici-anticancro-e-vitamine.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2172.18600000001,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/buonissimo/med/130902-penne-ai-4-formaggi-ma-gratiniamole-bene.jpg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2172.56700000007,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/buonissimo/med/130902-profiteroles-al-cioccolato-bianco.jpg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2172.94600000014,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/local/7/118/milano/130831-mondo-ronfo.jpg",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2173.31899999999,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/i/buonissimo/med/130902-fegato-alla-veneta-dalla-tradizione-veneta.jpg",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2173.70100000016,
+            "id" : "download_42",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.iol.it/s/2013/i/m/30.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2174.09100000009,
+            "id" : "download_43",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://track.adform.net/adfserve/?bn=2354528;click=http://adclick.g.doubleclick.net/aclk?sa=L&ai=B9tSjOdEkUtBK75SUAv-FgaAHx5HKmQQAAAAQASAAOABY16Df5l9gyY7GjfSk0BmCARdjYS1wdWItMTA4MDU5MTQ5NjUzMjY2NrIBDXd3dy5saWJlcm8uaXS6AQlnZnBfaW1hZ2XIAQnaARVodHRwOi8vd3d3LmxpYmVyby5pdC-pAkRux8l9IbY-wAIC4AIA6gIUNTE4MC9ocC5saWJlcm8uaXQvaHD4AoHSHoADAZADrAKYA8gGqAMB4AQBoAYW&num=0&sig=AOD64_3Knc1LibSLptqty0CBDMNQQ24TZw&client=ca-pub-1080591496532666&adurl=;js=1;adfxid=1x;1435;set=en-US|en-US|2048X1152|11.8|950|1000|24|8|3|7|0&CREFURL=http%3a%2f%2fwww.libero.it%2f%3f",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3095.52100000019,
+            "id" : "download_44",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s2.adform.net/Banners/scripts/rmb/Adform.RMB.js?version=2-128",
+         "id" : "r48",
+         "comps" : [
+            {
+               "s_time" : 3307.62100000015,
+               "time" : 164.3529999999,
+               "type" : 1,
+               "id" : "comp_370",
+               "e_time" : 3471.97400000005
+            }
+         ],
+         "download" : {
+            "s_time" : 3293.31200000001,
+            "id" : "download_45",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.it.doubleclick.net/adj/hp.libero.it/hp;fasciahp=1;adv_sso1=0;adv_sso2=0;adv_sso3=0;adv_np=yes;region=0;tile=3;sz=301x251;oe=iso-8859-1;ord=9731086231?",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3476.15900000005,
+            "id" : "download_46",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/show_ads.js",
+         "id" : "r52",
+         "comps" : [
+            {
+               "s_time" : 3832.42000000018,
+               "time" : 40.7419999999097,
+               "type" : 1,
+               "id" : "comp_385",
+               "e_time" : 3873.16200000009
+            }
+         ],
+         "download" : {
+            "s_time" : 3800.10400000015,
+            "id" : "download_47",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s2.adform.net/Banners/3029912/3029912.swf?bv=2-128",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3802.369,
+            "id" : "download_48",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/js/r20130822/r20130206/show_ads_impl.js",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3876.37500000005,
+            "id" : "download_49",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/html/r20130822/r20130206/zrt_lookup.html#I-http%253A%252F%252Fwww.libero.it%252F%253F%2F3340389061%2F1",
+         "id" : "r56",
+         "comps" : [
+            {
+               "s_time" : 3967.05700000007,
+               "time" : 18.24099999999,
+               "type" : "evalhtml",
+               "id" : "r56_c1",
+               "e_time" : 3985.29800000006
+            }
+         ],
+         "download" : {
+            "s_time" : 3872.47700000012,
+            "id" : "download_50",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.it.doubleclick.net/adj/hp.libero.it/hp;fasciahp=1;adv_sso1=0;adv_sso2=0;adv_sso3=0;adv_np=yes;region=0;tile=4;sz=970x250;oe=iso-8859-1;ord=9731086231?",
+         "id" : "r58",
+         "comps" : [
+            {
+               "s_time" : 3991.66600000012,
+               "time" : 1.55100000006996,
+               "type" : null,
+               "id" : "comp_414",
+               "e_time" : 3993.21700000019
+            }
+         ],
+         "download" : {
+            "s_time" : 3876.96600000004,
+            "id" : "download_51",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/expansion_embed.js",
+         "id" : "r59",
+         "comps" : [
+            {
+               "s_time" : 4008.73700000011,
+               "time" : 62.75200000005,
+               "type" : 1,
+               "id" : "comp_429",
+               "e_time" : 4071.48900000016
+            }
+         ],
+         "download" : {
+            "s_time" : 3955.04700000015,
+            "id" : "download_52",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pagead2.googlesyndication.com/pagead/osd.js",
+         "id" : "r63",
+         "comps" : [
+            {
+               "s_time" : 4126.39000000013,
+               "time" : 34.4969999998693,
+               "type" : null,
+               "id" : "comp_441",
+               "e_time" : 4160.887
+            }
+         ],
+         "download" : {
+            "s_time" : 4109.06199999999,
+            "id" : "download_53",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.libero.it/adv/libero_home_sponsor_pagina_iframe_src.html",
+         "id" : "r61",
+         "comps" : [
+            {
+               "s_time" : 4333.842,
+               "time" : 7.21900000008009,
+               "type" : "evalhtml",
+               "id" : "r61_c1",
+               "e_time" : 4341.06100000008
+            }
+         ],
+         "download" : {
+            "s_time" : 4000.55600000019,
+            "id" : "download_54",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2033535132705533&output=html&h=250&slotname=1610334939&w=300&lmt=1378169770&flash=11.8.800&url=http%3A%2F%2Fwww.libero.it%2F%3F&dt=1378144570350&bpp=21&bdt=3139&shv=r20130822&cbv=r20130206&saldr=sa&correlator=1378144570454&frm=20&adk=3340389061&ga_vid=1252553823.1378144571&ga_sid=1378144571&ga_hid=1472500371&ga_fc=0&u_tz=-420&u_his=3&u_java=1&u_h=1152&u_w=2048&u_ah=1130&u_aw=1967&u_cd=24&u_nplug=6&u_nmime=93&dff=times&dfs=16&adx=633&ady=1229&biw=934&bih=999&oid=3&vis=1&fu=0&ifi=1&pfi=48&dtd=238&xpc=UfmFbdnlR5&p=http%3A//www.libero.it",
+         "id" : "r62",
+         "comps" : [
+            {
+               "s_time" : 4357.16600000001,
+               "time" : 809.76800000007,
+               "id" : "r62_c1",
+               "type" : "evalhtml",
+               "e_time" : 5166.93400000008
+            },
+            {
+               "s_time" : 5543.64200000009,
+               "time" : 1.80099999989034,
+               "type" : "evalhtml",
+               "id" : "r62_c2",
+               "e_time" : 5545.44299999998
+            }
+         ],
+         "download" : {
+            "s_time" : 4087.29500000004,
+            "id" : "download_55",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.facebook.com/brandlift.php?campaign_id=ab58ae55a624abc69bba597e1854ce1b&creative_id=203060c1649372eeaf52c3b38bf39267&placement_id=71c4f7df13e7d0fe71825edef3fe5e1c&segment1=US&segment2=819&h=b515ea16a6&rnd=17918223",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3798.03400000014,
+            "id" : "download_56",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://www.facebook.com/brandlift.php?campaign_id=ab58ae55a624abc69bba597e1854ce1b&creative_id=51b0862e760682e3354ab0db0e47fd0e&placement_id=2ce85873d5c63b4067d63c5bc4a7efcc&segment1=US&segment2=819&h=ba0fa5cf12&rnd=94812730",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3770.21800000011,
+            "id" : "download_57",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.turn.com/server/ads.js?pub=5622371&cch=5689307&code=5689669&l=300x250&aid=28006410&ahcid=3400946&bimpd=dUbr5hajk8xPsD029Dnt_cIrlAH4YVm1XAJnKYHxrXCPugUfvDVh5SkYzKz3J-s3b26O0yBsxnmjXQfnbUihvKM8qTMwyYCbIidtqptVy7fMUePzMOtiQNG9qzuzDj233Fjhu2OXRRBNwnVqb2Trk7HhxOkOt1E7WQKBooDa4ZgkqtGH_ehxyYOgrYheLckDEfJrtiwD8nMF3vsm7i5d888nuHMvyxTDYkDQXBvCaU8oC-TgAygN10MtHcxulVmNB8Camjlx2BIyxoHs6nYGzSC_YZWoDXcjNwjAfnljJ5Amb0hzJFbAbjvvkU01bdpvbVlXJWLBOJ2cXiLvoPEE1m8-YSg3L4e_IoNWwxXsIbSKJIa00v2maf8YC-2URKYY-vk3oFacFGZGS2b3mVp_wF3Pm6_NUHAwuxhtvFltvlyadnFmVfTOymK2RgdMkr_pGP6ArqVtWTh1QuXJV-np5r3wc-cQ7FRKnITKYzO3zYWIvZmP6SNESUUbXWunXJF4xv6WjoxVlfYtmnJjKlyPBqeTNKR9M0cvgcLVQIFuzVS98HPnEOxUSpyEymMzt82F2ML20I6Hc2KJvz8u9vdSvVAEwoZ6Urp_74sAoLKS-_MUZFeD076KcciVy619Nnzq9FN7HjMTxnO4zIYUTthvAD0EEZxN3K6y6n5kmX5qie3c0Y1gKUTK21Dxz08ogcTZ6OTphqbnK1kBUuYxvFbRaa8v3pJWXwSFKfYbG44ItgOdvtCAir4H6R1qCM99K_zwRUg_EIiloHuywO8ByPRPymmJVvbyfQZ7_hYEYNL8hEsav6NlPVv8WtSVaxnpK0c-4STE7m2n9VEmZULPlqhqx9VrkWNxWN7FV_3bgkFifrsnrgLARJZM5LNoRw76i1lXvfBz5xDsVEqchMpjM7fNheBQxZ1r7OeU6YAuJKxqDmf50eIKJ_CMEcZpuuoeEp_6r_YgMFpvL1b8E6HU9RYARBb_y7bCSQENDyS59yE-ELWRs3843Rxl5tZzaKf0Or0ALEFlaYhJm4qndtZ2my67SkLkp6vBeDXzlBNPsILGMYk1spXUQpfInjN-gmXQLPQHrMHkEG4z9a34v4rTim6D6A&acp=UiTROgAJQfQKRQlhAAByUAA0EtHxCYwy1tsb8g&3c=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCEFeKOtEkUvSDJeGSlALQ5IHQCuiX-IkCkKb8qkTcvtuoGhABIABQgMfhxARgyY7GjfSk0BmCARdjYS1wdWItMjAzMzUzNTEzMjcwNTUzM6ABjPe59APIAQmoAwGqBF9P0JYhqJODDnYfigKCss6j9_Q0GVPTSjoYIZzdCzQwITz-aImSrMcMMj1DCjh5bSQNLX42ABVulbmXWb4jEDEWcPLnWadTNFHeiffY4Pgf4TykCwTzwUW-4Xe-VxABaoAG0bKFtYn5o-BHoAYh%26num%3D1%26sig%3DAOD64_3o6BLp-14sRGRm2P_VeejkTtKgeg%26client%3Dca-pub-2033535132705533%26adurl%3D",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4361.98600000012,
+            "id" : "download_58",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ad.doubleclick.net/adj/N4492.150834.TURN/B4142511.3;sz=300x250;ord=4516162964334605221?;click=http://r.turn.com/r/tpclick/id/pXPw1EmirD7-JwYAXgIBAA/3c/http%3A%2F%2Fadclick.g.doubleclick.net%2Faclk%3Fsa%3Dl%26ai%3DCEFeKOtEkUvSDJeGSlALQ5IHQCuiX-IkCkKb8qkTcvtuoGhABIABQgMfhxARgyY7GjfSk0BmCARdjYS1wdWItMjAzMzUzNTEzMjcwNTUzM6ABjPe59APIAQmoAwGqBF9P0JYhqJODDnYfigKCss6j9_Q0GVPTSjoYIZzdCzQwITz-aImSrMcMMj1DCjh5bSQNLX42ABVulbmXWb4jEDEWcPLnWadTNFHeiffY4Pgf4TykCwTzwUW-4Xe-VxABaoAG0bKFtYn5o-BHoAYh%26num%3D1%26sig%3DAOD64_3o6BLp-14sRGRm2P_VeejkTtKgeg%26client%3Dca-pub-2033535132705533%26adurl%3D/url/;",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5028.81500000012,
+            "id" : "download_59",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/879366/flashwrite_1_2.js",
+         "id" : "r67",
+         "comps" : [
+            {
+               "s_time" : 5542.9180000001,
+               "time" : 0.723999999990156,
+               "type" : 1,
+               "id" : "comp_459",
+               "e_time" : 5543.64200000009
+            }
+         ],
+         "download" : {
+            "s_time" : 5166.93400000008,
+            "id" : "download_60",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cdn.turn.com/server/ddc.htm?uid=7398466725851722661&mktid=67&mpid=&fpid=3&rnd=3022779102200582694&nu=y&sp=y&ctid=1",
+         "id" : "r68",
+         "comps" : [
+            {
+               "s_time" : 5610.68399999999,
+               "time" : 13.2040000000898,
+               "type" : "evalhtml",
+               "id" : "r68_c1",
+               "e_time" : 5623.88800000008
+            }
+         ],
+         "download" : {
+            "s_time" : 5546.14100000003,
+            "id" : "download_61",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s0.2mdn.net/1384245/1010_auto_NYP_SliderFlo_interactive_300x250.swf",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5625.38000000018,
+            "id" : "download_62",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cm.g.doubleclick.net/pixel?google_nid=turn1&google_cm&google_sc&google_hm=NzM5ODQ2NjcyNTg1MTcyMjY2MQ==",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5622.31200000019,
+            "id" : "download_63",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_39"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_50"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_57"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_370"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_385"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_420"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_429"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_7"
+      },
+      {
+         "a2" : "r62_c2",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_459"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 11.6280000001998,
+         "id" : "dep13",
+         "a1" : "r68_c1"
+      },
+      {
+         "a2" : "download_62",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 1474.65199999987,
+         "id" : "dep15",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_60",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "r62_c1"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 957.32599999996,
+         "id" : "dep17",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 671.649000000109,
+         "id" : "dep18",
+         "a1" : "r62_c1"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 4.82000000010976,
+         "id" : "dep19",
+         "a1" : "r62_c1"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 298.24400000006,
+         "id" : "dep20",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_56",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 15.80599999988,
+         "id" : "dep22",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_54",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 37.5729999998298,
+         "id" : "dep24",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 81.8850000000602,
+         "id" : "dep25",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 81.8850000000602,
+         "id" : "dep26",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 3.80399999995007,
+         "id" : "dep27",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_50",
+         "time" : -1,
+         "id" : "dep28",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 3.21299999996018,
+         "id" : "dep29",
+         "a1" : "r1_c9"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 330.39499999995,
+         "id" : "dep30",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 328.1300000001,
+         "id" : "dep31",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 4.18499999999995,
+         "id" : "dep32",
+         "a1" : "r1_c8"
+      },
+      {
+         "a2" : "download_45",
+         "time" : -1,
+         "id" : "dep33",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 829.76199999984,
+         "id" : "dep34",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 631.97100000002,
+         "id" : "dep35",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_43",
+         "time" : -1,
+         "id" : "dep36",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 14.9280000000499,
+         "id" : "dep37",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 14.5459999998798,
+         "id" : "dep38",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 14.1730000000298,
+         "id" : "dep39",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 13.7939999999599,
+         "id" : "dep40",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 13.4129999999,
+         "id" : "dep41",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 481.48300000002,
+         "id" : "dep42",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 13.0329999999499,
+         "id" : "dep43",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 87.2399999998402,
+         "id" : "dep44",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 12.6549999999997,
+         "id" : "dep45",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 12.2459999999996,
+         "id" : "dep46",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 11.8560000000798,
+         "id" : "dep47",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 78.0019999999704,
+         "id" : "dep48",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 7.98299999997016,
+         "id" : "dep49",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 11.4659999999299,
+         "id" : "dep50",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 15.7259999998601,
+         "id" : "dep51",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_27",
+         "time" : -1,
+         "id" : "dep52",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 11.08700000009,
+         "id" : "dep53",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 17.7939999998698,
+         "id" : "dep54",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 10.7089999999098,
+         "id" : "dep55",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 17.4099999999298,
+         "id" : "dep56",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 17.0519999999196,
+         "id" : "dep57",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 16.6950000000297,
+         "id" : "dep58",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 9.95399999987967,
+         "id" : "dep59",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 10.3489999999097,
+         "id" : "dep60",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 9.55700000008983,
+         "id" : "dep61",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 16.3469999999998,
+         "id" : "dep62",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 16.0129999999299,
+         "id" : "dep63",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 9.17600000002994,
+         "id" : "dep64",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 8.80000000005975,
+         "id" : "dep65",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 7.45999999981041,
+         "id" : "dep66",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 5.31699999987995,
+         "id" : "dep67",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_11",
+         "time" : -1,
+         "id" : "dep68",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 20.8040000000001,
+         "id" : "dep69",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 15.6709999998798,
+         "id" : "dep70",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 0.973000000160027,
+         "id" : "dep71",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 0.75600000013992,
+         "id" : "dep72",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : -1,
+         "id" : "dep73",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 8.22900000002983,
+         "id" : "dep74",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 8.22900000002983,
+         "id" : "dep75",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_5",
+         "time" : -1,
+         "id" : "dep76",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 509.371999999987,
+         "id" : "dep77",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 508.928999999857,
+         "id" : "dep78",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 508.928999999857,
+         "id" : "dep79",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 24.880999999823,
+         "id" : "dep80",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : -1,
+         "id" : "dep81",
+         "a1" : "r1_c1"
+      }
+   ]
+}

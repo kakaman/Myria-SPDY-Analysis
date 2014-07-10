@@ -1,0 +1,16 @@
+{"page": "samsung.com_"}
+{"DOMLoad": 1279.690488}
+{"Resource": {"id": 1, "url": "http://samsung.com/", "sentTime": -1.000000, "len": 216, "from": "0x0",                            "mimeType": "text/html", "contentLength": 216, "httpStatus": 200, "connId": 2840, "connReused": 0, "cached": 0,                            "requestTime": 1279.013369, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 252, "dnsEnd": 252, "connectStart": 2, "connectEnd": 404, "sendStart": 404, "sendEnd": 405, "receiveHeadersEnd": 556, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 1279.663092, "len": 216}}
+{"ObjectHash": {"code": "0x3161a0", "doc": "http://samsung.com/", "row": 0, "column": 6, "tagName": "html", "time": 1279.685709, "url": "", "pos": 6, "chunkLen": 216, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x316dd0", "doc": "http://samsung.com/", "row": 1, "column": 67, "tagName": "meta", "time": 1279.686014, "url": "", "pos": 74, "chunkLen": 216, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x316fa0", "doc": "http://samsung.com/", "row": 2, "column": 6, "tagName": "head", "time": 1279.686112, "url": "", "pos": 81, "chunkLen": 216, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x316ff0", "doc": "http://samsung.com/", "row": 3, "column": 7, "tagName": "title", "time": 1279.686120, "url": "", "pos": 89, "chunkLen": 216, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x323c20", "doc": "http://samsung.com/", "row": 3, "column": 22, "tagName": "title", "time": 1279.689901, "url": "", "pos": 104, "chunkLen": 216, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3242a0", "doc": "http://samsung.com/", "row": 4, "column": 7, "tagName": "head", "time": 1279.689915, "url": "", "pos": 112, "chunkLen": 216, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x324390", "doc": "http://samsung.com/", "row": 5, "column": 86, "tagName": "body", "time": 1279.689934, "url": "", "pos": 199, "chunkLen": 216, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x324510", "doc": "http://samsung.com/", "row": 6, "column": 7, "tagName": "body", "time": 1279.690056, "url": "", "pos": 207, "chunkLen": 216, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x3248f0", "doc": "http://samsung.com/", "row": 7, "column": 7, "tagName": "html", "time": 1279.690070, "url": "", "pos": 215, "chunkLen": 216, "isStartTag": 0}}
+{"Computation": {"type": "fireEvent", "code": "0x3248f0", "docUrl": "http://samsung.com/", "startTime": 1279.690100, "endTime": 1279.690102, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x3248f0", "docUrl": "http://samsung.com/", "startTime": 1279.690104, "endTime": 1279.690106, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete": "samsung.com_"}

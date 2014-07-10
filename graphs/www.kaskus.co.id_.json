@@ -1,0 +1,286 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.kaskus.co.id_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.kaskus.co.id/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 1048.83800000016,
+               "time" : 4.6959999999699,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1053.53400000013
+            },
+            {
+               "s_time" : 1650.62899999998,
+               "time" : 0.0600000000802083,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1650.68900000006
+            },
+            {
+               "s_time" : 2754.502,
+               "time" : 187.13400000002,
+               "type" : "evalhtml",
+               "id" : "r1_c3",
+               "e_time" : 2941.63600000002
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1521.99000000019,
+               "time" : 128.63899999979,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 1650.62899999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1052.84800000004,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://kkcdn-static.kaskus.co.id/themes_2.0/javascript/maintenis.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 2751.68600000006,
+               "time" : 2.81599999993978,
+               "type" : 1,
+               "id" : "comp_15",
+               "e_time" : 2754.502
+            }
+         ],
+         "download" : {
+            "s_time" : 1053.53400000013,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://platform.twitter.com/widgets.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 2841.11300000018,
+               "time" : 96.5229999999301,
+               "type" : 2,
+               "id" : "comp_27",
+               "e_time" : 2937.63600000011
+            }
+         ],
+         "download" : {
+            "s_time" : 2758.53600000005,
+            "id" : "download_3",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://kkcdn-static.kaskus.co.id/themes_2.0/images/layout/bg-tanah.jpg",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2794.8100000001,
+            "id" : "download_4",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://kkcdn-static.kaskus.co.id/themes_2.0/images/layout/raket-left.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2795.64600000003,
+            "id" : "download_5",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://kkcdn-static.kaskus.co.id/themes_2.0/images/layout/lapangan-tenis.jpg",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2795.26200000009,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://kkcdn-static.kaskus.co.id/themes_2.0/images/layout/raket-right.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2796.04200000017,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://kkcdn-static.kaskus.co.id/themes_2.0/images/layout/bola.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2796.41300000003,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://platform.twitter.com/widgets/follow_button.1375828408.html#_=1378144650376&id=twitter-widget-0&lang=en&screen_name=kaskus&show_count=false&show_screen_name=true&size=m",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 2973.84699999998,
+               "time" : 64.1660000001098,
+               "type" : "evalhtml",
+               "id" : "r10_c1",
+               "e_time" : 3038.01300000009
+            }
+         ],
+         "download" : {
+            "s_time" : 2941.63600000002,
+            "id" : "download_9",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://p.twitter.com/f.gif?_=1378144650376&id=twitter-widget-0&lang=en&screen_name=kaskus&show_count=false&show_screen_name=true&size=m&twttr_variant=2.0&twttr_referrer=http%3A%2F%2Fwww.kaskus.co.id%2F&twttr_widget=1&twttr_hask=0&twttr_li=0&twttr_pid=",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3028.34100000018,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://twitter.com/i/jot?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22language%22%3A%22en%22%2C%22client_version%22%3A%222.0%3Am%22%2C%22widget_origin%22%3A%22http%3A%2F%2Fwww.kaskus.co.id%2F%22%2C%22format_version%22%3A1%2C%22dnt%22%3Afalse%2C%22triggered_on%22%3A1378144650488%2C%22event_namespace%22%3A%7B%22client%22%3A%22tfw%22%2C%22page%22%3A%22button%22%2C%22section%22%3A%22follow%22%2C%22action%22%3A%22impression%22%7D%7D",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3031.55100000004,
+            "id" : "download_12",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_15"
+      },
+      {
+         "a2" : "comp_15",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 57.7040000000598,
+         "id" : "dep4",
+         "a1" : "r10_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 54.4940000001998,
+         "id" : "dep5",
+         "a1" : "r10_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 41.9110000000301,
+         "id" : "dep7",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 41.54000000017,
+         "id" : "dep8",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 40.7600000000903,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 41.1440000000302,
+         "id" : "dep10",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 40.3080000001,
+         "id" : "dep11",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 4.03400000005013,
+         "id" : "dep12",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_2",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 4.6959999999699,
+         "id" : "dep14",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 4.00999999987994,
+         "id" : "dep15",
+         "a1" : "r1_c1"
+      }
+   ]
+}

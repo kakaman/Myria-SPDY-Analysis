@@ -1,0 +1,766 @@
+{"page": "www.addthis.com_"}
+{"DOMLoad": 976.288181}
+{"Resource": {"id": 1, "url": "http://www.addthis.com/", "sentTime": -1.000000, "len": 14046, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 270, "connReused": 0, "cached": 0,                            "requestTime": 974.575617, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 40, "connectStart": 1, "connectEnd": 70, "sendStart": 70, "sendEnd": 70, "receiveHeadersEnd": 171, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 974.763874, "len": 2411}}
+{"ReceivedChunk": {"receivedTime": 974.797163, "len": 4868}}
+{"ReceivedChunk": {"receivedTime": 974.797751, "len": 6767}}
+{"ObjectHash": {"code": "0x4313950", "doc": "http://www.addthis.com/", "row": 2, "column": 168, "tagName": "html", "time": 974.786743, "url": "", "pos": 185, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4316f10", "doc": "http://www.addthis.com/", "row": 3, "column": 6, "tagName": "head", "time": 974.786993, "url": "", "pos": 192, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4317a00", "doc": "http://www.addthis.com/", "row": 4, "column": 7, "tagName": "title", "time": 974.787026, "url": "", "pos": 200, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4326580", "doc": "http://www.addthis.com/", "row": 4, "column": 148, "tagName": "title", "time": 974.790436, "url": "", "pos": 341, "chunkLen": 2411, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4326630", "doc": "http://www.addthis.com/", "row": 5, "column": 73, "tagName": "meta", "time": 974.790456, "url": "", "pos": 415, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4325d60", "doc": "http://www.addthis.com/", "row": 6, "column": 169, "tagName": "meta", "time": 974.793830, "url": "", "pos": 585, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4326c90", "doc": "http://www.addthis.com/", "row": 7, "column": 172, "tagName": "meta", "time": 974.793891, "url": "", "pos": 758, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43269f0", "doc": "http://www.addthis.com/", "row": 8, "column": 141, "tagName": "meta", "time": 974.793915, "url": "", "pos": 900, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43166f0", "doc": "http://www.addthis.com/", "row": 9, "column": 145, "tagName": "meta", "time": 974.793935, "url": "", "pos": 1046, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43269c0", "doc": "http://www.addthis.com/", "row": 10, "column": 225, "tagName": "meta", "time": 974.793960, "url": "", "pos": 1273, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4326bb0", "doc": "http://www.addthis.com/", "row": 11, "column": 40, "tagName": "meta", "time": 974.793974, "url": "", "pos": 1314, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4326dd0", "doc": "http://www.addthis.com/", "row": 12, "column": 48, "tagName": "meta", "time": 974.793988, "url": "", "pos": 1363, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4326ed0", "doc": "http://www.addthis.com/", "row": 13, "column": 54, "tagName": "meta", "time": 974.794026, "url": "", "pos": 1418, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4327160", "doc": "http://www.addthis.com/", "row": 14, "column": 87, "tagName": "link", "time": 974.794059, "url": "http://s7.addthis.com/static/t00/logo100100.png", "pos": 1506, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43276b0", "doc": "http://www.addthis.com/", "row": 15, "column": 127, "tagName": "link", "time": 974.794135, "url": "http://www.addthis.com/blog/?feed=rss2", "pos": 1634, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43279f0", "doc": "http://www.addthis.com/", "row": 16, "column": 116, "tagName": "link", "time": 974.794166, "url": "http://cache.addthiscdn.com/site/core/css/core-1.0.1.css", "pos": 1751, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43278a0", "doc": "http://www.addthis.com/", "row": 17, "column": 121, "tagName": "link", "time": 974.794542, "url": "http://cache.addthiscdn.com/www/20130829101442/style/site.css", "pos": 1873, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4329080", "doc": "http://www.addthis.com/", "row": 18, "column": 123, "tagName": "link", "time": 974.794920, "url": "http://cache.addthiscdn.com/www/20130829101442/style/common.css", "pos": 1997, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432a0d0", "doc": "http://www.addthis.com/", "row": 19, "column": 109, "tagName": "link", "time": 974.796224, "url": "http://cache.addthiscdn.com/www/20130829101442/images/addthis_57x57.png", "pos": 2107, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432acd0", "doc": "http://www.addthis.com/", "row": 20, "column": 124, "tagName": "link", "time": 974.796278, "url": "http://cache.addthiscdn.com/www/20130829101442/style/homepage.css", "pos": 2232, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432bcb0", "doc": "http://www.addthis.com/", "row": 21, "column": 54, "tagName": "link", "time": 974.796535, "url": "http://www.addthis.com/", "pos": 2287, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432bec0", "doc": "http://www.addthis.com/", "row": 21, "column": 169, "tagName": "script", "time": 974.796564, "url": "http://cache.addthiscdn.com/www/20130829101442/js/shared/modernizr.custom.84442.js", "pos": 2402, "chunkLen": 2411, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432c0d0", "doc": "http://www.addthis.com/", "row": 21, "column": 178, "tagName": "script", "time": 974.796602, "url": "", "pos": 2411, "chunkLen": 2411, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x435f680", "doc": "http://www.addthis.com/", "row": 0, "column": 5, "tagName": "xyz", "time": 975.330961, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x435fcf0", "doc": "http://www.addthis.com/", "row": 0, "column": 11, "tagName": "xyz", "time": 975.330988, "url": "", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x435e8a0", "doc": "http://www.addthis.com/", "row": 22, "column": 7, "tagName": "head", "time": 975.333879, "url": "", "pos": 9, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x435ef90", "doc": "http://www.addthis.com/", "row": 24, "column": 6, "tagName": "body", "time": 975.333890, "url": "", "pos": 17, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43603b0", "doc": "http://www.addthis.com/", "row": 25, "column": 43, "tagName": "a", "time": 975.334032, "url": "", "pos": 61, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4360980", "doc": "http://www.addthis.com/", "row": 25, "column": 72, "tagName": "a", "time": 975.334187, "url": "", "pos": 90, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4360a00", "doc": "http://www.addthis.com/", "row": 27, "column": 17, "tagName": "div", "time": 975.334200, "url": "", "pos": 109, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4360e20", "doc": "http://www.addthis.com/", "row": 28, "column": 27, "tagName": "div", "time": 975.334273, "url": "", "pos": 137, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43611d0", "doc": "http://www.addthis.com/", "row": 29, "column": 23, "tagName": "div", "time": 975.334323, "url": "", "pos": 161, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43615a0", "doc": "http://www.addthis.com/", "row": 30, "column": 7, "tagName": "h1", "time": 975.334369, "url": "", "pos": 169, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x435fca0", "doc": "http://www.addthis.com/", "row": 30, "column": 48, "tagName": "a", "time": 975.334433, "url": "", "pos": 210, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43624a0", "doc": "http://www.addthis.com/", "row": 30, "column": 59, "tagName": "a", "time": 975.334789, "url": "", "pos": 221, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4362f20", "doc": "http://www.addthis.com/", "row": 30, "column": 64, "tagName": "h1", "time": 975.334794, "url": "", "pos": 226, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4360050", "doc": "http://www.addthis.com/", "row": 31, "column": 22, "tagName": "ul", "time": 975.334807, "url": "", "pos": 249, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4361b70", "doc": "http://www.addthis.com/", "row": 32, "column": 8, "tagName": "li", "time": 975.334879, "url": "", "pos": 258, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4362ed0", "doc": "http://www.addthis.com/", "row": 33, "column": 61, "tagName": "a", "time": 975.334987, "url": "", "pos": 320, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4363710", "doc": "http://www.addthis.com/", "row": 33, "column": 77, "tagName": "a", "time": 975.335056, "url": "", "pos": 336, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43637a0", "doc": "http://www.addthis.com/", "row": 34, "column": 14, "tagName": "ul", "time": 975.335065, "url": "", "pos": 351, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4363be0", "doc": "http://www.addthis.com/", "row": 35, "column": 21, "tagName": "li", "time": 975.335117, "url": "", "pos": 373, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4363d70", "doc": "http://www.addthis.com/", "row": 35, "column": 73, "tagName": "a", "time": 975.335131, "url": "", "pos": 425, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4361700", "doc": "http://www.addthis.com/", "row": 35, "column": 89, "tagName": "a", "time": 975.335146, "url": "", "pos": 441, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4363fb0", "doc": "http://www.addthis.com/", "row": 35, "column": 94, "tagName": "li", "time": 975.335159, "url": "", "pos": 446, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4362de0", "doc": "http://www.addthis.com/", "row": 36, "column": 21, "tagName": "li", "time": 975.335168, "url": "", "pos": 468, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4364040", "doc": "http://www.addthis.com/", "row": 36, "column": 64, "tagName": "a", "time": 975.335180, "url": "", "pos": 511, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4363e40", "doc": "http://www.addthis.com/", "row": 36, "column": 83, "tagName": "a", "time": 975.335194, "url": "", "pos": 530, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4363e70", "doc": "http://www.addthis.com/", "row": 36, "column": 88, "tagName": "li", "time": 975.335197, "url": "", "pos": 535, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364120", "doc": "http://www.addthis.com/", "row": 37, "column": 21, "tagName": "li", "time": 975.335204, "url": "", "pos": 557, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43642b0", "doc": "http://www.addthis.com/", "row": 37, "column": 62, "tagName": "a", "time": 975.335215, "url": "", "pos": 598, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43643b0", "doc": "http://www.addthis.com/", "row": 37, "column": 80, "tagName": "a", "time": 975.335229, "url": "", "pos": 616, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364150", "doc": "http://www.addthis.com/", "row": 37, "column": 85, "tagName": "li", "time": 975.335232, "url": "", "pos": 621, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43641f0", "doc": "http://www.addthis.com/", "row": 38, "column": 21, "tagName": "li", "time": 975.335239, "url": "", "pos": 643, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4364440", "doc": "http://www.addthis.com/", "row": 38, "column": 64, "tagName": "a", "time": 975.335250, "url": "", "pos": 686, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4363f30", "doc": "http://www.addthis.com/", "row": 38, "column": 79, "tagName": "a", "time": 975.335263, "url": "", "pos": 701, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4363f60", "doc": "http://www.addthis.com/", "row": 38, "column": 84, "tagName": "li", "time": 975.335267, "url": "", "pos": 706, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364770", "doc": "http://www.addthis.com/", "row": 39, "column": 21, "tagName": "li", "time": 975.335273, "url": "", "pos": 728, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4364800", "doc": "http://www.addthis.com/", "row": 39, "column": 66, "tagName": "a", "time": 975.335284, "url": "", "pos": 773, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4364510", "doc": "http://www.addthis.com/", "row": 39, "column": 86, "tagName": "a", "time": 975.335298, "url": "", "pos": 793, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364540", "doc": "http://www.addthis.com/", "row": 39, "column": 91, "tagName": "li", "time": 975.335301, "url": "", "pos": 798, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43649e0", "doc": "http://www.addthis.com/", "row": 40, "column": 21, "tagName": "ul", "time": 975.335307, "url": "", "pos": 820, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364a80", "doc": "http://www.addthis.com/", "row": 41, "column": 25, "tagName": "li", "time": 975.335315, "url": "", "pos": 846, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364ab0", "doc": "http://www.addthis.com/", "row": 42, "column": 8, "tagName": "li", "time": 975.335322, "url": "", "pos": 855, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4364de0", "doc": "http://www.addthis.com/", "row": 42, "column": 94, "tagName": "a", "time": 975.335358, "url": "", "pos": 941, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4364d20", "doc": "http://www.addthis.com/", "row": 42, "column": 118, "tagName": "a", "time": 975.335402, "url": "", "pos": 965, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364950", "doc": "http://www.addthis.com/", "row": 42, "column": 123, "tagName": "li", "time": 975.335414, "url": "", "pos": 970, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364d50", "doc": "http://www.addthis.com/", "row": 43, "column": 8, "tagName": "li", "time": 975.335423, "url": "", "pos": 979, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365020", "doc": "http://www.addthis.com/", "row": 43, "column": 58, "tagName": "a", "time": 975.335454, "url": "", "pos": 1029, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43645e0", "doc": "http://www.addthis.com/", "row": 43, "column": 75, "tagName": "a", "time": 975.335495, "url": "", "pos": 1046, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364610", "doc": "http://www.addthis.com/", "row": 43, "column": 80, "tagName": "li", "time": 975.335499, "url": "", "pos": 1051, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4364670", "doc": "http://www.addthis.com/", "row": 43, "column": 88, "tagName": "li", "time": 975.335506, "url": "", "pos": 1059, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365360", "doc": "http://www.addthis.com/", "row": 43, "column": 172, "tagName": "a", "time": 975.335537, "url": "", "pos": 1143, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365610", "doc": "http://www.addthis.com/", "row": 43, "column": 183, "tagName": "a", "time": 975.335599, "url": "", "pos": 1154, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43650d0", "doc": "http://www.addthis.com/", "row": 43, "column": 188, "tagName": "li", "time": 975.335603, "url": "", "pos": 1159, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4365740", "doc": "http://www.addthis.com/", "row": 44, "column": 8, "tagName": "ul", "time": 975.335611, "url": "", "pos": 1168, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43657a0", "doc": "http://www.addthis.com/", "row": 45, "column": 30, "tagName": "ul", "time": 975.335620, "url": "", "pos": 1199, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365ab0", "doc": "http://www.addthis.com/", "row": 46, "column": 30, "tagName": "li", "time": 975.335691, "url": "", "pos": 1230, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365fc0", "doc": "http://www.addthis.com/", "row": 46, "column": 47, "tagName": "a", "time": 975.335755, "url": "", "pos": 1247, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43665c0", "doc": "http://www.addthis.com/", "row": 46, "column": 58, "tagName": "a", "time": 975.335829, "url": "", "pos": 1258, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366720", "doc": "http://www.addthis.com/", "row": 46, "column": 65, "tagName": "span", "time": 975.335841, "url": "", "pos": 1265, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4366650", "doc": "http://www.addthis.com/", "row": 46, "column": 74, "tagName": "span", "time": 975.335889, "url": "", "pos": 1274, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366680", "doc": "http://www.addthis.com/", "row": 46, "column": 95, "tagName": "a", "time": 975.335901, "url": "", "pos": 1295, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4366c10", "doc": "http://www.addthis.com/", "row": 46, "column": 113, "tagName": "a", "time": 975.335935, "url": "", "pos": 1313, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366c40", "doc": "http://www.addthis.com/", "row": 46, "column": 118, "tagName": "li", "time": 975.335939, "url": "", "pos": 1318, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366c70", "doc": "http://www.addthis.com/", "row": 47, "column": 11, "tagName": "ul", "time": 975.335946, "url": "", "pos": 1330, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366d40", "doc": "http://www.addthis.com/", "row": 49, "column": 38, "tagName": "div", "time": 975.335956, "url": "", "pos": 1373, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4367130", "doc": "http://www.addthis.com/", "row": 50, "column": 36, "tagName": "span", "time": 975.336018, "url": "", "pos": 1410, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4367270", "doc": "http://www.addthis.com/", "row": 50, "column": 43, "tagName": "span", "time": 975.336028, "url": "", "pos": 1417, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43673d0", "doc": "http://www.addthis.com/", "row": 51, "column": 35, "tagName": "div", "time": 975.336038, "url": "", "pos": 1453, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4366b70", "doc": "http://www.addthis.com/", "row": 52, "column": 9, "tagName": "ul", "time": 975.336050, "url": "", "pos": 1463, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43674b0", "doc": "http://www.addthis.com/", "row": 54, "column": 10, "tagName": "li", "time": 975.336061, "url": "", "pos": 1486, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4367520", "doc": "http://www.addthis.com/", "row": 54, "column": 27, "tagName": "a", "time": 975.336071, "url": "", "pos": 1503, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4367610", "doc": "http://www.addthis.com/", "row": 54, "column": 38, "tagName": "a", "time": 975.336082, "url": "", "pos": 1514, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367640", "doc": "http://www.addthis.com/", "row": 54, "column": 43, "tagName": "li", "time": 975.336086, "url": "", "pos": 1519, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367770", "doc": "http://www.addthis.com/", "row": 55, "column": 10, "tagName": "li", "time": 975.336092, "url": "", "pos": 1530, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43676b0", "doc": "http://www.addthis.com/", "row": 55, "column": 30, "tagName": "a", "time": 975.336101, "url": "", "pos": 1550, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4367830", "doc": "http://www.addthis.com/", "row": 55, "column": 48, "tagName": "a", "time": 975.336113, "url": "", "pos": 1568, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367860", "doc": "http://www.addthis.com/", "row": 55, "column": 53, "tagName": "li", "time": 975.336116, "url": "", "pos": 1573, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367890", "doc": "http://www.addthis.com/", "row": 57, "column": 10, "tagName": "ul", "time": 975.336122, "url": "", "pos": 1591, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43678f0", "doc": "http://www.addthis.com/", "row": 58, "column": 10, "tagName": "div", "time": 975.336127, "url": "", "pos": 1602, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367950", "doc": "http://www.addthis.com/", "row": 59, "column": 9, "tagName": "div", "time": 975.336133, "url": "", "pos": 1612, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367330", "doc": "http://www.addthis.com/", "row": 61, "column": 8, "tagName": "div", "time": 975.336140, "url": "", "pos": 1625, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367390", "doc": "http://www.addthis.com/", "row": 62, "column": 7, "tagName": "div", "time": 975.336146, "url": "", "pos": 1633, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367b20", "doc": "http://www.addthis.com/", "row": 63, "column": 6, "tagName": "div", "time": 975.336153, "url": "", "pos": 1640, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4367cb0", "doc": "http://www.addthis.com/", "row": 68, "column": 22, "tagName": "div", "time": 975.336161, "url": "", "pos": 1669, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4367e80", "doc": "http://www.addthis.com/", "row": 70, "column": 24, "tagName": "section", "time": 975.336216, "url": "", "pos": 1696, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43682d0", "doc": "http://www.addthis.com/", "row": 71, "column": 27, "tagName": "div", "time": 975.336272, "url": "", "pos": 1725, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4368650", "doc": "http://www.addthis.com/", "row": 72, "column": 22, "tagName": "div", "time": 975.336314, "url": "", "pos": 1749, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4368870", "doc": "http://www.addthis.com/", "row": 73, "column": 7, "tagName": "h2", "time": 975.336357, "url": "", "pos": 1758, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4368a30", "doc": "http://www.addthis.com/", "row": 73, "column": 10, "tagName": "b", "time": 975.336420, "url": "", "pos": 1761, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43691a0", "doc": "http://www.addthis.com/", "row": 73, "column": 17, "tagName": "b", "time": 975.336471, "url": "", "pos": 1768, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43691d0", "doc": "http://www.addthis.com/", "row": 73, "column": 35, "tagName": "h2", "time": 975.336482, "url": "", "pos": 1786, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4369330", "doc": "http://www.addthis.com/", "row": 74, "column": 6, "tagName": "p", "time": 975.336493, "url": "", "pos": 1794, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4368e90", "doc": "http://www.addthis.com/", "row": 74, "column": 50, "tagName": "br", "time": 975.336550, "url": "", "pos": 1838, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43697d0", "doc": "http://www.addthis.com/", "row": 74, "column": 68, "tagName": "p", "time": 975.336573, "url": "", "pos": 1856, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4369700", "doc": "http://www.addthis.com/", "row": 75, "column": 7, "tagName": "ul", "time": 975.336581, "url": "", "pos": 1865, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4369b60", "doc": "http://www.addthis.com/", "row": 76, "column": 8, "tagName": "li", "time": 975.336629, "url": "", "pos": 1875, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4369e90", "doc": "http://www.addthis.com/", "row": 76, "column": 46, "tagName": "li", "time": 975.336857, "url": "", "pos": 1913, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4369ec0", "doc": "http://www.addthis.com/", "row": 77, "column": 8, "tagName": "li", "time": 975.336866, "url": "", "pos": 1923, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4369940", "doc": "http://www.addthis.com/", "row": 77, "column": 34, "tagName": "li", "time": 975.336890, "url": "", "pos": 1949, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43699a0", "doc": "http://www.addthis.com/", "row": 78, "column": 8, "tagName": "li", "time": 975.336897, "url": "", "pos": 1959, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432f9e0", "doc": "http://www.addthis.com/", "row": 78, "column": 25, "tagName": "li", "time": 975.336917, "url": "", "pos": 1976, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436a230", "doc": "http://www.addthis.com/", "row": 79, "column": 8, "tagName": "li", "time": 975.336925, "url": "", "pos": 1986, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436a610", "doc": "http://www.addthis.com/", "row": 79, "column": 30, "tagName": "li", "time": 975.336945, "url": "", "pos": 2008, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x432f910", "doc": "http://www.addthis.com/", "row": 80, "column": 8, "tagName": "ul", "time": 975.336953, "url": "", "pos": 2018, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x432f970", "doc": "http://www.addthis.com/", "row": 81, "column": 6, "tagName": "p", "time": 975.336960, "url": "", "pos": 2026, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436a790", "doc": "http://www.addthis.com/", "row": 81, "column": 61, "tagName": "a", "time": 975.336978, "url": "", "pos": 2081, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436b1d0", "doc": "http://www.addthis.com/", "row": 81, "column": 81, "tagName": "a", "time": 975.337203, "url": "", "pos": 2101, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436b200", "doc": "http://www.addthis.com/", "row": 81, "column": 85, "tagName": "p", "time": 975.337207, "url": "", "pos": 2105, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436ada0", "doc": "http://www.addthis.com/", "row": 82, "column": 19, "tagName": "p", "time": 975.337218, "url": "", "pos": 2126, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436a6d0", "doc": "http://www.addthis.com/", "row": 82, "column": 86, "tagName": "a", "time": 975.337265, "url": "", "pos": 2193, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436bf60", "doc": "http://www.addthis.com/", "row": 82, "column": 118, "tagName": "a", "time": 975.337372, "url": "", "pos": 2225, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436b6b0", "doc": "http://www.addthis.com/", "row": 82, "column": 122, "tagName": "p", "time": 975.337376, "url": "", "pos": 2229, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436b730", "doc": "http://www.addthis.com/", "row": 83, "column": 8, "tagName": "div", "time": 975.337384, "url": "", "pos": 2239, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436c1a0", "doc": "http://www.addthis.com/", "row": 84, "column": 21, "tagName": "div", "time": 975.337392, "url": "", "pos": 2262, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4360440", "doc": "http://www.addthis.com/", "row": 84, "column": 27, "tagName": "div", "time": 975.337481, "url": "", "pos": 2268, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43629b0", "doc": "http://www.addthis.com/", "row": 85, "column": 7, "tagName": "div", "time": 975.337491, "url": "", "pos": 2277, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366590", "doc": "http://www.addthis.com/", "row": 86, "column": 19, "tagName": "div", "time": 975.337499, "url": "", "pos": 2298, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365a40", "doc": "http://www.addthis.com/", "row": 87, "column": 26, "tagName": "div", "time": 975.337548, "url": "", "pos": 2326, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436a580", "doc": "http://www.addthis.com/", "row": 88, "column": 22, "tagName": "div", "time": 975.337601, "url": "", "pos": 2350, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436d3a0", "doc": "http://www.addthis.com/", "row": 88, "column": 28, "tagName": "div", "time": 975.337814, "url": "", "pos": 2356, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436ca90", "doc": "http://www.addthis.com/", "row": 89, "column": 27, "tagName": "div", "time": 975.337827, "url": "", "pos": 2385, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436df10", "doc": "http://www.addthis.com/", "row": 89, "column": 33, "tagName": "div", "time": 975.338014, "url": "", "pos": 2391, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436db90", "doc": "http://www.addthis.com/", "row": 90, "column": 27, "tagName": "div", "time": 975.338027, "url": "", "pos": 2420, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436e960", "doc": "http://www.addthis.com/", "row": 90, "column": 33, "tagName": "div", "time": 975.338211, "url": "", "pos": 2426, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436da90", "doc": "http://www.addthis.com/", "row": 91, "column": 8, "tagName": "div", "time": 975.338221, "url": "", "pos": 2436, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436e6d0", "doc": "http://www.addthis.com/", "row": 92, "column": 7, "tagName": "div", "time": 975.338228, "url": "", "pos": 2445, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436daf0", "doc": "http://www.addthis.com/", "row": 93, "column": 10, "tagName": "section", "time": 975.338234, "url": "", "pos": 2457, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436db50", "doc": "http://www.addthis.com/", "row": 95, "column": 23, "tagName": "section", "time": 975.338243, "url": "", "pos": 2484, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436ec20", "doc": "http://www.addthis.com/", "row": 96, "column": 27, "tagName": "div", "time": 975.338288, "url": "", "pos": 2513, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4369470", "doc": "http://www.addthis.com/", "row": 98, "column": 23, "tagName": "div", "time": 975.338330, "url": "", "pos": 2542, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436f2b0", "doc": "http://www.addthis.com/", "row": 99, "column": 7, "tagName": "h2", "time": 975.338373, "url": "", "pos": 2551, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436e2f0", "doc": "http://www.addthis.com/", "row": 99, "column": 44, "tagName": "span", "time": 975.338439, "url": "", "pos": 2588, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436fc10", "doc": "http://www.addthis.com/", "row": 99, "column": 61, "tagName": "span", "time": 975.338483, "url": "", "pos": 2605, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436fd10", "doc": "http://www.addthis.com/", "row": 99, "column": 90, "tagName": "h2", "time": 975.338494, "url": "", "pos": 2634, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436fd40", "doc": "http://www.addthis.com/", "row": 100, "column": 8, "tagName": "div", "time": 975.338502, "url": "", "pos": 2644, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436fea0", "doc": "http://www.addthis.com/", "row": 101, "column": 21, "tagName": "div", "time": 975.338511, "url": "", "pos": 2667, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436fe40", "doc": "http://www.addthis.com/", "row": 101, "column": 27, "tagName": "div", "time": 975.338567, "url": "", "pos": 2673, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4370070", "doc": "http://www.addthis.com/", "row": 102, "column": 20, "tagName": "div", "time": 975.338577, "url": "", "pos": 2695, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436f950", "doc": "http://www.addthis.com/", "row": 102, "column": 26, "tagName": "div", "time": 975.338614, "url": "", "pos": 2701, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436f980", "doc": "http://www.addthis.com/", "row": 104, "column": 22, "tagName": "div", "time": 975.338624, "url": "", "pos": 2729, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43706a0", "doc": "http://www.addthis.com/", "row": 105, "column": 26, "tagName": "a", "time": 975.338676, "url": "", "pos": 2757, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4370c80", "doc": "http://www.addthis.com/", "row": 106, "column": 32, "tagName": "span", "time": 975.338743, "url": "", "pos": 2791, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4371d60", "doc": "http://www.addthis.com/", "row": 106, "column": 39, "tagName": "span", "time": 975.338942, "url": "", "pos": 2798, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4371800", "doc": "http://www.addthis.com/", "row": 107, "column": 7, "tagName": "p", "time": 975.338953, "url": "", "pos": 2807, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4371f90", "doc": "http://www.addthis.com/", "row": 107, "column": 10, "tagName": "b", "time": 975.338998, "url": "", "pos": 2810, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4371cd0", "doc": "http://www.addthis.com/", "row": 107, "column": 29, "tagName": "b", "time": 975.339043, "url": "", "pos": 2829, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4371930", "doc": "http://www.addthis.com/", "row": 107, "column": 85, "tagName": "br", "time": 975.339058, "url": "", "pos": 2885, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4371fc0", "doc": "http://www.addthis.com/", "row": 107, "column": 102, "tagName": "span", "time": 975.339084, "url": "", "pos": 2902, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4372530", "doc": "http://www.addthis.com/", "row": 107, "column": 121, "tagName": "span", "time": 975.339145, "url": "", "pos": 2921, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4371b60", "doc": "http://www.addthis.com/", "row": 107, "column": 125, "tagName": "p", "time": 975.339150, "url": "", "pos": 2925, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4371bc0", "doc": "http://www.addthis.com/", "row": 108, "column": 7, "tagName": "a", "time": 975.339159, "url": "", "pos": 2934, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4371c20", "doc": "http://www.addthis.com/", "row": 109, "column": 8, "tagName": "div", "time": 975.339166, "url": "", "pos": 2944, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4372630", "doc": "http://www.addthis.com/", "row": 110, "column": 22, "tagName": "div", "time": 975.339174, "url": "", "pos": 2968, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43728d0", "doc": "http://www.addthis.com/", "row": 111, "column": 25, "tagName": "a", "time": 975.339202, "url": "", "pos": 2995, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4372760", "doc": "http://www.addthis.com/", "row": 112, "column": 31, "tagName": "span", "time": 975.339247, "url": "", "pos": 3028, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4372f30", "doc": "http://www.addthis.com/", "row": 112, "column": 38, "tagName": "span", "time": 975.339437, "url": "", "pos": 3035, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43733a0", "doc": "http://www.addthis.com/", "row": 113, "column": 7, "tagName": "p", "time": 975.339448, "url": "", "pos": 3044, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4372850", "doc": "http://www.addthis.com/", "row": 113, "column": 10, "tagName": "b", "time": 975.339471, "url": "", "pos": 3047, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4372c20", "doc": "http://www.addthis.com/", "row": 113, "column": 28, "tagName": "b", "time": 975.339495, "url": "", "pos": 3065, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4373b20", "doc": "http://www.addthis.com/", "row": 113, "column": 85, "tagName": "br", "time": 975.339510, "url": "", "pos": 3122, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43739e0", "doc": "http://www.addthis.com/", "row": 113, "column": 102, "tagName": "span", "time": 975.339528, "url": "", "pos": 3139, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4373050", "doc": "http://www.addthis.com/", "row": 113, "column": 121, "tagName": "span", "time": 975.339557, "url": "", "pos": 3158, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4373080", "doc": "http://www.addthis.com/", "row": 113, "column": 125, "tagName": "p", "time": 975.339560, "url": "", "pos": 3162, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4373750", "doc": "http://www.addthis.com/", "row": 114, "column": 7, "tagName": "a", "time": 975.339568, "url": "", "pos": 3171, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4373780", "doc": "http://www.addthis.com/", "row": 115, "column": 8, "tagName": "div", "time": 975.339575, "url": "", "pos": 3181, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43737b0", "doc": "http://www.addthis.com/", "row": 116, "column": 22, "tagName": "div", "time": 975.339583, "url": "", "pos": 3205, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4373580", "doc": "http://www.addthis.com/", "row": 117, "column": 26, "tagName": "a", "time": 975.339610, "url": "", "pos": 3233, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43736c0", "doc": "http://www.addthis.com/", "row": 118, "column": 32, "tagName": "span", "time": 975.339647, "url": "", "pos": 3267, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43748d0", "doc": "http://www.addthis.com/", "row": 118, "column": 39, "tagName": "span", "time": 975.339835, "url": "", "pos": 3274, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4373480", "doc": "http://www.addthis.com/", "row": 119, "column": 7, "tagName": "p", "time": 975.339846, "url": "", "pos": 3283, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4374100", "doc": "http://www.addthis.com/", "row": 119, "column": 10, "tagName": "b", "time": 975.339868, "url": "", "pos": 3286, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4373cd0", "doc": "http://www.addthis.com/", "row": 119, "column": 25, "tagName": "b", "time": 975.339892, "url": "", "pos": 3301, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43743e0", "doc": "http://www.addthis.com/", "row": 119, "column": 72, "tagName": "br", "time": 975.339907, "url": "", "pos": 3348, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43740b0", "doc": "http://www.addthis.com/", "row": 119, "column": 89, "tagName": "span", "time": 975.339925, "url": "", "pos": 3365, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x432a680", "doc": "http://www.addthis.com/", "row": 119, "column": 108, "tagName": "span", "time": 975.339954, "url": "", "pos": 3384, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x432a6b0", "doc": "http://www.addthis.com/", "row": 119, "column": 112, "tagName": "p", "time": 975.339958, "url": "", "pos": 3388, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x432a580", "doc": "http://www.addthis.com/", "row": 120, "column": 7, "tagName": "a", "time": 975.339965, "url": "", "pos": 3397, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x432a5e0", "doc": "http://www.addthis.com/", "row": 121, "column": 8, "tagName": "div", "time": 975.339972, "url": "", "pos": 3407, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x432a640", "doc": "http://www.addthis.com/", "row": 122, "column": 22, "tagName": "div", "time": 975.339980, "url": "", "pos": 3431, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4374580", "doc": "http://www.addthis.com/", "row": 123, "column": 27, "tagName": "a", "time": 975.340007, "url": "", "pos": 3460, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4374800", "doc": "http://www.addthis.com/", "row": 124, "column": 33, "tagName": "span", "time": 975.340052, "url": "", "pos": 3495, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4375a40", "doc": "http://www.addthis.com/", "row": 124, "column": 40, "tagName": "span", "time": 975.340242, "url": "", "pos": 3502, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4374700", "doc": "http://www.addthis.com/", "row": 125, "column": 7, "tagName": "p", "time": 975.340252, "url": "", "pos": 3511, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4375200", "doc": "http://www.addthis.com/", "row": 125, "column": 10, "tagName": "b", "time": 975.340274, "url": "", "pos": 3514, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4374df0", "doc": "http://www.addthis.com/", "row": 125, "column": 30, "tagName": "b", "time": 975.340299, "url": "", "pos": 3534, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4375180", "doc": "http://www.addthis.com/", "row": 125, "column": 83, "tagName": "br", "time": 975.340314, "url": "", "pos": 3587, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4375140", "doc": "http://www.addthis.com/", "row": 125, "column": 100, "tagName": "span", "time": 975.340331, "url": "", "pos": 3604, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4375b00", "doc": "http://www.addthis.com/", "row": 125, "column": 119, "tagName": "span", "time": 975.340359, "url": "", "pos": 3623, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4375b30", "doc": "http://www.addthis.com/", "row": 125, "column": 123, "tagName": "p", "time": 975.340363, "url": "", "pos": 3627, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43756b0", "doc": "http://www.addthis.com/", "row": 126, "column": 7, "tagName": "a", "time": 975.340370, "url": "", "pos": 3636, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43755e0", "doc": "http://www.addthis.com/", "row": 127, "column": 8, "tagName": "div", "time": 975.340377, "url": "", "pos": 3646, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4375640", "doc": "http://www.addthis.com/", "row": 128, "column": 21, "tagName": "div", "time": 975.340386, "url": "", "pos": 3669, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43759e0", "doc": "http://www.addthis.com/", "row": 128, "column": 27, "tagName": "div", "time": 975.340413, "url": "", "pos": 3675, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4375970", "doc": "http://www.addthis.com/", "row": 129, "column": 20, "tagName": "div", "time": 975.340424, "url": "", "pos": 3697, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4375dc0", "doc": "http://www.addthis.com/", "row": 129, "column": 26, "tagName": "div", "time": 975.340464, "url": "", "pos": 3703, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4375870", "doc": "http://www.addthis.com/", "row": 131, "column": 23, "tagName": "div", "time": 975.340475, "url": "", "pos": 3732, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4375910", "doc": "http://www.addthis.com/", "row": 132, "column": 7, "tagName": "h3", "time": 975.340505, "url": "", "pos": 3741, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4376250", "doc": "http://www.addthis.com/", "row": 132, "column": 30, "tagName": "span", "time": 975.340573, "url": "", "pos": 3764, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4376540", "doc": "http://www.addthis.com/", "row": 132, "column": 47, "tagName": "span", "time": 975.340613, "url": "", "pos": 3781, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4376500", "doc": "http://www.addthis.com/", "row": 132, "column": 75, "tagName": "h3", "time": 975.340624, "url": "", "pos": 3809, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43766f0", "doc": "http://www.addthis.com/", "row": 133, "column": 39, "tagName": "a", "time": 975.340636, "url": "", "pos": 3850, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43770a0", "doc": "http://www.addthis.com/", "row": 133, "column": 43, "tagName": "a", "time": 975.340861, "url": "", "pos": 3854, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4377210", "doc": "http://www.addthis.com/", "row": 134, "column": 8, "tagName": "div", "time": 975.340871, "url": "", "pos": 3864, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4376b30", "doc": "http://www.addthis.com/", "row": 135, "column": 21, "tagName": "div", "time": 975.340880, "url": "", "pos": 3887, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4376ba0", "doc": "http://www.addthis.com/", "row": 135, "column": 27, "tagName": "div", "time": 975.340906, "url": "", "pos": 3893, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4376810", "doc": "http://www.addthis.com/", "row": 136, "column": 20, "tagName": "div", "time": 975.340916, "url": "", "pos": 3915, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4376880", "doc": "http://www.addthis.com/", "row": 136, "column": 26, "tagName": "div", "time": 975.340935, "url": "", "pos": 3921, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4377170", "doc": "http://www.addthis.com/", "row": 138, "column": 7, "tagName": "div", "time": 975.340943, "url": "", "pos": 3936, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43774b0", "doc": "http://www.addthis.com/", "row": 139, "column": 10, "tagName": "section", "time": 975.340950, "url": "", "pos": 3949, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4377610", "doc": "http://www.addthis.com/", "row": 142, "column": 22, "tagName": "section", "time": 975.340958, "url": "", "pos": 3977, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4377980", "doc": "http://www.addthis.com/", "row": 143, "column": 27, "tagName": "div", "time": 975.341000, "url": "", "pos": 4006, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4377b50", "doc": "http://www.addthis.com/", "row": 144, "column": 22, "tagName": "div", "time": 975.341043, "url": "", "pos": 4030, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4377fd0", "doc": "http://www.addthis.com/", "row": 145, "column": 27, "tagName": "div", "time": 975.341096, "url": "", "pos": 4059, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43783a0", "doc": "http://www.addthis.com/", "row": 146, "column": 7, "tagName": "h3", "time": 975.341147, "url": "", "pos": 4068, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4377540", "doc": "http://www.addthis.com/", "row": 146, "column": 25, "tagName": "h3", "time": 975.341206, "url": "", "pos": 4086, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43775a0", "doc": "http://www.addthis.com/", "row": 147, "column": 29, "tagName": "p", "time": 975.341218, "url": "", "pos": 4117, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4378960", "doc": "http://www.addthis.com/", "row": 147, "column": 103, "tagName": "a", "time": 975.341260, "url": "", "pos": 4191, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4378c50", "doc": "http://www.addthis.com/", "row": 147, "column": 161, "tagName": "a", "time": 975.341504, "url": "", "pos": 4249, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4378c80", "doc": "http://www.addthis.com/", "row": 147, "column": 165, "tagName": "p", "time": 975.341508, "url": "", "pos": 4253, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4378cb0", "doc": "http://www.addthis.com/", "row": 147, "column": 186, "tagName": "p", "time": 975.341514, "url": "", "pos": 4274, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437a0a0", "doc": "http://www.addthis.com/", "row": 147, "column": 260, "tagName": "a", "time": 975.341558, "url": "", "pos": 4348, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4379080", "doc": "http://www.addthis.com/", "row": 147, "column": 303, "tagName": "a", "time": 975.341618, "url": "", "pos": 4391, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43790b0", "doc": "http://www.addthis.com/", "row": 147, "column": 307, "tagName": "p", "time": 975.341622, "url": "", "pos": 4395, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43790e0", "doc": "http://www.addthis.com/", "row": 147, "column": 328, "tagName": "p", "time": 975.341627, "url": "", "pos": 4416, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4379c70", "doc": "http://www.addthis.com/", "row": 147, "column": 402, "tagName": "a", "time": 975.341668, "url": "", "pos": 4490, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437a2a0", "doc": "http://www.addthis.com/", "row": 147, "column": 446, "tagName": "a", "time": 975.341717, "url": "", "pos": 4534, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437a110", "doc": "http://www.addthis.com/", "row": 147, "column": 450, "tagName": "p", "time": 975.341721, "url": "", "pos": 4538, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437a3d0", "doc": "http://www.addthis.com/", "row": 147, "column": 463, "tagName": "div", "time": 975.341729, "url": "", "pos": 4551, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437a430", "doc": "http://www.addthis.com/", "row": 148, "column": 8, "tagName": "div", "time": 975.341736, "url": "", "pos": 4562, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437a300", "doc": "http://www.addthis.com/", "row": 149, "column": 22, "tagName": "div", "time": 975.341745, "url": "", "pos": 4586, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437a4b0", "doc": "http://www.addthis.com/", "row": 150, "column": 27, "tagName": "div", "time": 975.341772, "url": "", "pos": 4615, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437a800", "doc": "http://www.addthis.com/", "row": 151, "column": 8, "tagName": "h3", "time": 975.341819, "url": "", "pos": 4625, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437a970", "doc": "http://www.addthis.com/", "row": 151, "column": 25, "tagName": "h3", "time": 975.341846, "url": "", "pos": 4642, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437a9d0", "doc": "http://www.addthis.com/", "row": 152, "column": 7, "tagName": "p", "time": 975.341854, "url": "", "pos": 4651, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437ab60", "doc": "http://www.addthis.com/", "row": 152, "column": 90, "tagName": "a", "time": 975.341894, "url": "", "pos": 4734, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437aea0", "doc": "http://www.addthis.com/", "row": 152, "column": 123, "tagName": "a", "time": 975.341943, "url": "", "pos": 4767, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437a5f0", "doc": "http://www.addthis.com/", "row": 152, "column": 128, "tagName": "li", "time": 975.341948, "url": "", "pos": 4772, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437afd0", "doc": "http://www.addthis.com/", "row": 153, "column": 7, "tagName": "p", "time": 975.341968, "url": "", "pos": 4781, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437ad10", "doc": "http://www.addthis.com/", "row": 153, "column": 133, "tagName": "a", "time": 975.342012, "url": "", "pos": 4907, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437b530", "doc": "http://www.addthis.com/", "row": 153, "column": 213, "tagName": "a", "time": 975.342066, "url": "", "pos": 4987, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437b480", "doc": "http://www.addthis.com/", "row": 153, "column": 217, "tagName": "p", "time": 975.342070, "url": "", "pos": 4991, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437b590", "doc": "http://www.addthis.com/", "row": 154, "column": 9, "tagName": "div", "time": 975.342078, "url": "", "pos": 5002, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437b5f0", "doc": "http://www.addthis.com/", "row": 155, "column": 8, "tagName": "div", "time": 975.342084, "url": "", "pos": 5012, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437b3b0", "doc": "http://www.addthis.com/", "row": 156, "column": 22, "tagName": "div", "time": 975.342092, "url": "", "pos": 5036, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437b650", "doc": "http://www.addthis.com/", "row": 157, "column": 27, "tagName": "div", "time": 975.342119, "url": "", "pos": 5065, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437b9a0", "doc": "http://www.addthis.com/", "row": 158, "column": 7, "tagName": "h3", "time": 975.342165, "url": "", "pos": 5074, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437bab0", "doc": "http://www.addthis.com/", "row": 158, "column": 19, "tagName": "h3", "time": 975.342191, "url": "", "pos": 5086, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437b770", "doc": "http://www.addthis.com/", "row": 159, "column": 6, "tagName": "p", "time": 975.342201, "url": "", "pos": 5094, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437bb80", "doc": "http://www.addthis.com/", "row": 159, "column": 42, "tagName": "a", "time": 975.342236, "url": "", "pos": 5130, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437be90", "doc": "http://www.addthis.com/", "row": 159, "column": 78, "tagName": "span", "time": 975.342284, "url": "", "pos": 5166, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437c280", "doc": "http://www.addthis.com/", "row": 159, "column": 86, "tagName": "span", "time": 975.342327, "url": "", "pos": 5174, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437c060", "doc": "http://www.addthis.com/", "row": 159, "column": 93, "tagName": "a", "time": 975.342338, "url": "", "pos": 5181, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437c090", "doc": "http://www.addthis.com/", "row": 159, "column": 97, "tagName": "p", "time": 975.342342, "url": "", "pos": 5185, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437c0f0", "doc": "http://www.addthis.com/", "row": 160, "column": 6, "tagName": "p", "time": 975.342349, "url": "", "pos": 5193, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437c4e0", "doc": "http://www.addthis.com/", "row": 160, "column": 42, "tagName": "a", "time": 975.342384, "url": "", "pos": 5229, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437c6e0", "doc": "http://www.addthis.com/", "row": 160, "column": 87, "tagName": "span", "time": 975.342424, "url": "", "pos": 5274, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437c920", "doc": "http://www.addthis.com/", "row": 160, "column": 95, "tagName": "span", "time": 975.342449, "url": "", "pos": 5282, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437c850", "doc": "http://www.addthis.com/", "row": 160, "column": 102, "tagName": "a", "time": 975.342459, "url": "", "pos": 5289, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437c880", "doc": "http://www.addthis.com/", "row": 160, "column": 106, "tagName": "p", "time": 975.342462, "url": "", "pos": 5293, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437c8e0", "doc": "http://www.addthis.com/", "row": 161, "column": 6, "tagName": "p", "time": 975.342469, "url": "", "pos": 5301, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437cb40", "doc": "http://www.addthis.com/", "row": 161, "column": 42, "tagName": "a", "time": 975.342504, "url": "", "pos": 5337, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437cd40", "doc": "http://www.addthis.com/", "row": 161, "column": 83, "tagName": "span", "time": 975.342542, "url": "", "pos": 5378, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437cf80", "doc": "http://www.addthis.com/", "row": 161, "column": 91, "tagName": "span", "time": 975.342574, "url": "", "pos": 5386, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437cea0", "doc": "http://www.addthis.com/", "row": 161, "column": 98, "tagName": "a", "time": 975.342585, "url": "", "pos": 5393, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437ced0", "doc": "http://www.addthis.com/", "row": 161, "column": 102, "tagName": "p", "time": 975.342588, "url": "", "pos": 5397, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437cf30", "doc": "http://www.addthis.com/", "row": 162, "column": 6, "tagName": "p", "time": 975.342595, "url": "", "pos": 5405, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437d1d0", "doc": "http://www.addthis.com/", "row": 162, "column": 42, "tagName": "a", "time": 975.342631, "url": "", "pos": 5441, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437d3c0", "doc": "http://www.addthis.com/", "row": 162, "column": 77, "tagName": "span", "time": 975.342669, "url": "", "pos": 5476, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437d5e0", "doc": "http://www.addthis.com/", "row": 162, "column": 85, "tagName": "span", "time": 975.342693, "url": "", "pos": 5484, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437d490", "doc": "http://www.addthis.com/", "row": 162, "column": 92, "tagName": "a", "time": 975.342703, "url": "", "pos": 5491, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437d4c0", "doc": "http://www.addthis.com/", "row": 162, "column": 96, "tagName": "p", "time": 975.342706, "url": "", "pos": 5495, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437d860", "doc": "http://www.addthis.com/", "row": 163, "column": 6, "tagName": "p", "time": 975.342713, "url": "", "pos": 5503, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437d720", "doc": "http://www.addthis.com/", "row": 163, "column": 25, "tagName": "a", "time": 975.342754, "url": "", "pos": 5522, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437da20", "doc": "http://www.addthis.com/", "row": 163, "column": 38, "tagName": "a", "time": 975.342791, "url": "", "pos": 5535, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437db50", "doc": "http://www.addthis.com/", "row": 163, "column": 42, "tagName": "p", "time": 975.342795, "url": "", "pos": 5539, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437db80", "doc": "http://www.addthis.com/", "row": 164, "column": 9, "tagName": "div", "time": 975.342802, "url": "", "pos": 5550, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437dbe0", "doc": "http://www.addthis.com/", "row": 165, "column": 8, "tagName": "div", "time": 975.342808, "url": "", "pos": 5560, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437dc40", "doc": "http://www.addthis.com/", "row": 166, "column": 21, "tagName": "div", "time": 975.342816, "url": "", "pos": 5583, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437da50", "doc": "http://www.addthis.com/", "row": 166, "column": 27, "tagName": "div", "time": 975.342861, "url": "", "pos": 5589, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437dab0", "doc": "http://www.addthis.com/", "row": 167, "column": 7, "tagName": "div", "time": 975.342877, "url": "", "pos": 5598, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437db10", "doc": "http://www.addthis.com/", "row": 168, "column": 10, "tagName": "section", "time": 975.342884, "url": "", "pos": 5611, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437df20", "doc": "http://www.addthis.com/", "row": 170, "column": 27, "tagName": "div", "time": 975.342892, "url": "", "pos": 5642, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437dd80", "doc": "http://www.addthis.com/", "row": 170, "column": 33, "tagName": "div", "time": 975.342941, "url": "", "pos": 5648, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437e550", "doc": "http://www.addthis.com/", "row": 171, "column": 40, "tagName": "div", "time": 975.342952, "url": "", "pos": 5690, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436bb60", "doc": "http://www.addthis.com/", "row": 172, "column": 33, "tagName": "a", "time": 975.343092, "url": "", "pos": 5725, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436ca30", "doc": "http://www.addthis.com/", "row": 172, "column": 42, "tagName": "a", "time": 975.343107, "url": "", "pos": 5734, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436f7e0", "doc": "http://www.addthis.com/", "row": 173, "column": 26, "tagName": "div", "time": 975.343116, "url": "", "pos": 5762, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437eab0", "doc": "http://www.addthis.com/", "row": 173, "column": 30, "tagName": "h4", "time": 975.343126, "url": "", "pos": 5766, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437e5c0", "doc": "http://www.addthis.com/", "row": 173, "column": 58, "tagName": "h4", "time": 975.343137, "url": "", "pos": 5794, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437e5f0", "doc": "http://www.addthis.com/", "row": 173, "column": 64, "tagName": "div", "time": 975.343140, "url": "", "pos": 5800, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x437e650", "doc": "http://www.addthis.com/", "row": 174, "column": 26, "tagName": "div", "time": 975.343148, "url": "", "pos": 5828, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436c770", "doc": "http://www.addthis.com/", "row": 174, "column": 32, "tagName": "div", "time": 975.343156, "url": "", "pos": 5834, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436c820", "doc": "http://www.addthis.com/", "row": 175, "column": 6, "tagName": "div", "time": 975.343162, "url": "", "pos": 5842, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436c880", "doc": "http://www.addthis.com/", "row": 178, "column": 6, "tagName": "div", "time": 975.343169, "url": "", "pos": 5854, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436c570", "doc": "http://www.addthis.com/", "row": 179, "column": 17, "tagName": "div", "time": 975.343177, "url": "", "pos": 5872, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437f7f0", "doc": "http://www.addthis.com/", "row": 180, "column": 27, "tagName": "div", "time": 975.343222, "url": "", "pos": 5900, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437f9b0", "doc": "http://www.addthis.com/", "row": 181, "column": 22, "tagName": "div", "time": 975.343263, "url": "", "pos": 5923, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x437fdd0", "doc": "http://www.addthis.com/", "row": 182, "column": 7, "tagName": "h5", "time": 975.343305, "url": "", "pos": 5931, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x436c6d0", "doc": "http://www.addthis.com/", "row": 182, "column": 21, "tagName": "h5", "time": 975.343369, "url": "", "pos": 5945, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x436c730", "doc": "http://www.addthis.com/", "row": 183, "column": 7, "tagName": "ul", "time": 975.343378, "url": "", "pos": 5953, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380380", "doc": "http://www.addthis.com/", "row": 184, "column": 8, "tagName": "li", "time": 975.343424, "url": "", "pos": 5962, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380800", "doc": "http://www.addthis.com/", "row": 184, "column": 34, "tagName": "a", "time": 975.343483, "url": "", "pos": 5988, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380e70", "doc": "http://www.addthis.com/", "row": 184, "column": 48, "tagName": "a", "time": 975.343544, "url": "", "pos": 6002, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4380ea0", "doc": "http://www.addthis.com/", "row": 184, "column": 53, "tagName": "li", "time": 975.343548, "url": "", "pos": 6007, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381000", "doc": "http://www.addthis.com/", "row": 185, "column": 8, "tagName": "li", "time": 975.343564, "url": "", "pos": 6016, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380f30", "doc": "http://www.addthis.com/", "row": 185, "column": 30, "tagName": "a", "time": 975.343583, "url": "", "pos": 6038, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380af0", "doc": "http://www.addthis.com/", "row": 185, "column": 40, "tagName": "a", "time": 975.343622, "url": "", "pos": 6048, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4380b20", "doc": "http://www.addthis.com/", "row": 185, "column": 45, "tagName": "li", "time": 975.343626, "url": "", "pos": 6053, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4380b80", "doc": "http://www.addthis.com/", "row": 186, "column": 8, "tagName": "li", "time": 975.343633, "url": "", "pos": 6062, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43811f0", "doc": "http://www.addthis.com/", "row": 186, "column": 34, "tagName": "a", "time": 975.343650, "url": "", "pos": 6088, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381110", "doc": "http://www.addthis.com/", "row": 186, "column": 48, "tagName": "a", "time": 975.343682, "url": "", "pos": 6102, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381140", "doc": "http://www.addthis.com/", "row": 186, "column": 53, "tagName": "li", "time": 975.343685, "url": "", "pos": 6107, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43813a0", "doc": "http://www.addthis.com/", "row": 187, "column": 8, "tagName": "li", "time": 975.343692, "url": "", "pos": 6116, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381440", "doc": "http://www.addthis.com/", "row": 187, "column": 33, "tagName": "a", "time": 975.343709, "url": "", "pos": 6141, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381550", "doc": "http://www.addthis.com/", "row": 187, "column": 46, "tagName": "a", "time": 975.343746, "url": "", "pos": 6154, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381580", "doc": "http://www.addthis.com/", "row": 187, "column": 51, "tagName": "li", "time": 975.343752, "url": "", "pos": 6159, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43816e0", "doc": "http://www.addthis.com/", "row": 188, "column": 8, "tagName": "li", "time": 975.343759, "url": "", "pos": 6168, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381620", "doc": "http://www.addthis.com/", "row": 188, "column": 40, "tagName": "a", "time": 975.343776, "url": "", "pos": 6200, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43812e0", "doc": "http://www.addthis.com/", "row": 188, "column": 60, "tagName": "a", "time": 975.343813, "url": "", "pos": 6220, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381310", "doc": "http://www.addthis.com/", "row": 188, "column": 65, "tagName": "li", "time": 975.343817, "url": "", "pos": 6225, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381850", "doc": "http://www.addthis.com/", "row": 189, "column": 8, "tagName": "li", "time": 975.343824, "url": "", "pos": 6234, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43818f0", "doc": "http://www.addthis.com/", "row": 189, "column": 33, "tagName": "a", "time": 975.343841, "url": "", "pos": 6259, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381800", "doc": "http://www.addthis.com/", "row": 189, "column": 46, "tagName": "a", "time": 975.343871, "url": "", "pos": 6272, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381970", "doc": "http://www.addthis.com/", "row": 189, "column": 51, "tagName": "li", "time": 975.343875, "url": "", "pos": 6277, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381ad0", "doc": "http://www.addthis.com/", "row": 190, "column": 8, "tagName": "ul", "time": 975.343882, "url": "", "pos": 6286, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381c30", "doc": "http://www.addthis.com/", "row": 191, "column": 8, "tagName": "div", "time": 975.343889, "url": "", "pos": 6295, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381a00", "doc": "http://www.addthis.com/", "row": 192, "column": 22, "tagName": "div", "time": 975.343897, "url": "", "pos": 6318, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381aa0", "doc": "http://www.addthis.com/", "row": 193, "column": 7, "tagName": "h5", "time": 975.343917, "url": "", "pos": 6326, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381ba0", "doc": "http://www.addthis.com/", "row": 193, "column": 20, "tagName": "h5", "time": 975.343936, "url": "", "pos": 6339, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381d70", "doc": "http://www.addthis.com/", "row": 194, "column": 7, "tagName": "ul", "time": 975.343944, "url": "", "pos": 6347, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381e10", "doc": "http://www.addthis.com/", "row": 195, "column": 8, "tagName": "li", "time": 975.343961, "url": "", "pos": 6356, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381eb0", "doc": "http://www.addthis.com/", "row": 195, "column": 30, "tagName": "a", "time": 975.343978, "url": "", "pos": 6378, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381fc0", "doc": "http://www.addthis.com/", "row": 195, "column": 44, "tagName": "a", "time": 975.344026, "url": "", "pos": 6392, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4381ff0", "doc": "http://www.addthis.com/", "row": 195, "column": 49, "tagName": "li", "time": 975.344030, "url": "", "pos": 6397, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382020", "doc": "http://www.addthis.com/", "row": 196, "column": 8, "tagName": "li", "time": 975.344037, "url": "", "pos": 6406, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382090", "doc": "http://www.addthis.com/", "row": 196, "column": 30, "tagName": "a", "time": 975.344054, "url": "", "pos": 6428, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4381d20", "doc": "http://www.addthis.com/", "row": 196, "column": 53, "tagName": "a", "time": 975.344086, "url": "", "pos": 6451, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382150", "doc": "http://www.addthis.com/", "row": 196, "column": 58, "tagName": "li", "time": 975.344089, "url": "", "pos": 6456, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43822b0", "doc": "http://www.addthis.com/", "row": 197, "column": 8, "tagName": "li", "time": 975.344096, "url": "", "pos": 6465, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43821b0", "doc": "http://www.addthis.com/", "row": 197, "column": 28, "tagName": "a", "time": 975.344113, "url": "", "pos": 6485, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382350", "doc": "http://www.addthis.com/", "row": 197, "column": 49, "tagName": "a", "time": 975.344144, "url": "", "pos": 6506, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382380", "doc": "http://www.addthis.com/", "row": 197, "column": 54, "tagName": "li", "time": 975.344148, "url": "", "pos": 6511, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43823e0", "doc": "http://www.addthis.com/", "row": 198, "column": 8, "tagName": "li", "time": 975.344155, "url": "", "pos": 6520, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43825c0", "doc": "http://www.addthis.com/", "row": 198, "column": 29, "tagName": "a", "time": 975.344171, "url": "", "pos": 6541, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43826e0", "doc": "http://www.addthis.com/", "row": 198, "column": 50, "tagName": "a", "time": 975.344208, "url": "", "pos": 6562, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382710", "doc": "http://www.addthis.com/", "row": 198, "column": 55, "tagName": "li", "time": 975.344212, "url": "", "pos": 6567, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382740", "doc": "http://www.addthis.com/", "row": 199, "column": 8, "tagName": "li", "time": 975.344219, "url": "", "pos": 6576, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382450", "doc": "http://www.addthis.com/", "row": 199, "column": 98, "tagName": "a", "time": 975.344239, "url": "", "pos": 6666, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43824b0", "doc": "http://www.addthis.com/", "row": 199, "column": 117, "tagName": "a", "time": 975.344291, "url": "", "pos": 6685, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43824e0", "doc": "http://www.addthis.com/", "row": 199, "column": 122, "tagName": "li", "time": 975.344295, "url": "", "pos": 6690, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382870", "doc": "http://www.addthis.com/", "row": 200, "column": 8, "tagName": "li", "time": 975.344302, "url": "", "pos": 6699, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43829e0", "doc": "http://www.addthis.com/", "row": 200, "column": 45, "tagName": "a", "time": 975.344319, "url": "", "pos": 6736, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382910", "doc": "http://www.addthis.com/", "row": 200, "column": 64, "tagName": "a", "time": 975.344366, "url": "", "pos": 6755, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382940", "doc": "http://www.addthis.com/", "row": 200, "column": 69, "tagName": "li", "time": 975.344370, "url": "", "pos": 6760, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43829a0", "doc": "http://www.addthis.com/", "row": 201, "column": 8, "tagName": "li", "time": 975.344377, "url": "", "pos": 6769, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382d60", "doc": "http://www.addthis.com/", "row": 201, "column": 24, "tagName": "a", "time": 975.344393, "url": "", "pos": 6785, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382e70", "doc": "http://www.addthis.com/", "row": 201, "column": 32, "tagName": "a", "time": 975.344424, "url": "", "pos": 6793, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382ea0", "doc": "http://www.addthis.com/", "row": 201, "column": 37, "tagName": "li", "time": 975.344436, "url": "", "pos": 6798, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383000", "doc": "http://www.addthis.com/", "row": 202, "column": 8, "tagName": "ul", "time": 975.344445, "url": "", "pos": 6807, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382c50", "doc": "http://www.addthis.com/", "row": 203, "column": 8, "tagName": "div", "time": 975.344451, "url": "", "pos": 6816, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382cb0", "doc": "http://www.addthis.com/", "row": 204, "column": 22, "tagName": "div", "time": 975.344459, "url": "", "pos": 6839, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383060", "doc": "http://www.addthis.com/", "row": 205, "column": 7, "tagName": "h5", "time": 975.344480, "url": "", "pos": 6847, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382ed0", "doc": "http://www.addthis.com/", "row": 205, "column": 19, "tagName": "h5", "time": 975.344499, "url": "", "pos": 6859, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4382f30", "doc": "http://www.addthis.com/", "row": 206, "column": 7, "tagName": "ul", "time": 975.344507, "url": "", "pos": 6867, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383230", "doc": "http://www.addthis.com/", "row": 207, "column": 8, "tagName": "li", "time": 975.344524, "url": "", "pos": 6876, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43832d0", "doc": "http://www.addthis.com/", "row": 207, "column": 27, "tagName": "a", "time": 975.344540, "url": "", "pos": 6895, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43831e0", "doc": "http://www.addthis.com/", "row": 207, "column": 51, "tagName": "a", "time": 975.344573, "url": "", "pos": 6919, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383340", "doc": "http://www.addthis.com/", "row": 207, "column": 56, "tagName": "li", "time": 975.344577, "url": "", "pos": 6924, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43834a0", "doc": "http://www.addthis.com/", "row": 208, "column": 8, "tagName": "li", "time": 975.344584, "url": "", "pos": 6933, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383610", "doc": "http://www.addthis.com/", "row": 208, "column": 42, "tagName": "a", "time": 975.344601, "url": "", "pos": 6967, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383540", "doc": "http://www.addthis.com/", "row": 208, "column": 60, "tagName": "a", "time": 975.344638, "url": "", "pos": 6985, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383570", "doc": "http://www.addthis.com/", "row": 208, "column": 65, "tagName": "li", "time": 975.344642, "url": "", "pos": 6990, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43835d0", "doc": "http://www.addthis.com/", "row": 209, "column": 8, "tagName": "li", "time": 975.344649, "url": "", "pos": 6999, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383780", "doc": "http://www.addthis.com/", "row": 209, "column": 23, "tagName": "a", "time": 975.344665, "url": "", "pos": 7014, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43838a0", "doc": "http://www.addthis.com/", "row": 209, "column": 43, "tagName": "a", "time": 975.344698, "url": "", "pos": 7034, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43838d0", "doc": "http://www.addthis.com/", "row": 209, "column": 48, "tagName": "li", "time": 975.344702, "url": "", "pos": 7039, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4366100", "doc": "http://www.addthis.com/", "row": 210, "column": 8, "tagName": "li", "time": 975.344709, "url": "", "pos": 7048, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43661b0", "doc": "http://www.addthis.com/", "row": 210, "column": 36, "tagName": "a", "time": 975.344725, "url": "", "pos": 7076, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383a40", "doc": "http://www.addthis.com/", "row": 210, "column": 48, "tagName": "a", "time": 975.344763, "url": "", "pos": 7088, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383a70", "doc": "http://www.addthis.com/", "row": 210, "column": 53, "tagName": "li", "time": 975.344767, "url": "", "pos": 7093, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383bd0", "doc": "http://www.addthis.com/", "row": 211, "column": 8, "tagName": "ul", "time": 975.344774, "url": "", "pos": 7102, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383930", "doc": "http://www.addthis.com/", "row": 212, "column": 8, "tagName": "div", "time": 975.344780, "url": "", "pos": 7111, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383990", "doc": "http://www.addthis.com/", "row": 213, "column": 22, "tagName": "div", "time": 975.344788, "url": "", "pos": 7134, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383c30", "doc": "http://www.addthis.com/", "row": 214, "column": 7, "tagName": "h5", "time": 975.344808, "url": "", "pos": 7142, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383d00", "doc": "http://www.addthis.com/", "row": 214, "column": 19, "tagName": "h5", "time": 975.344827, "url": "", "pos": 7154, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383b00", "doc": "http://www.addthis.com/", "row": 215, "column": 7, "tagName": "ul", "time": 975.344834, "url": "", "pos": 7162, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383ba0", "doc": "http://www.addthis.com/", "row": 216, "column": 8, "tagName": "li", "time": 975.344851, "url": "", "pos": 7171, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383d70", "doc": "http://www.addthis.com/", "row": 216, "column": 25, "tagName": "a", "time": 975.344868, "url": "", "pos": 7188, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4383ea0", "doc": "http://www.addthis.com/", "row": 216, "column": 37, "tagName": "a", "time": 975.344908, "url": "", "pos": 7200, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383ed0", "doc": "http://www.addthis.com/", "row": 216, "column": 42, "tagName": "li", "time": 975.344912, "url": "", "pos": 7205, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384070", "doc": "http://www.addthis.com/", "row": 217, "column": 8, "tagName": "li", "time": 975.344919, "url": "", "pos": 7214, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384110", "doc": "http://www.addthis.com/", "row": 217, "column": 30, "tagName": "a", "time": 975.344936, "url": "", "pos": 7236, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384210", "doc": "http://www.addthis.com/", "row": 217, "column": 38, "tagName": "a", "time": 975.344967, "url": "", "pos": 7244, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383f20", "doc": "http://www.addthis.com/", "row": 217, "column": 43, "tagName": "li", "time": 975.344971, "url": "", "pos": 7249, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4383fa0", "doc": "http://www.addthis.com/", "row": 218, "column": 8, "tagName": "li", "time": 975.344978, "url": "", "pos": 7258, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384240", "doc": "http://www.addthis.com/", "row": 218, "column": 25, "tagName": "a", "time": 975.344994, "url": "", "pos": 7275, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384360", "doc": "http://www.addthis.com/", "row": 218, "column": 34, "tagName": "a", "time": 975.345024, "url": "", "pos": 7284, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384490", "doc": "http://www.addthis.com/", "row": 218, "column": 39, "tagName": "li", "time": 975.345028, "url": "", "pos": 7289, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384610", "doc": "http://www.addthis.com/", "row": 219, "column": 8, "tagName": "li", "time": 975.345035, "url": "", "pos": 7298, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384500", "doc": "http://www.addthis.com/", "row": 219, "column": 27, "tagName": "a", "time": 975.345051, "url": "", "pos": 7317, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43846a0", "doc": "http://www.addthis.com/", "row": 219, "column": 38, "tagName": "a", "time": 975.345083, "url": "", "pos": 7328, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43846d0", "doc": "http://www.addthis.com/", "row": 219, "column": 43, "tagName": "li", "time": 975.345086, "url": "", "pos": 7333, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43843c0", "doc": "http://www.addthis.com/", "row": 220, "column": 8, "tagName": "li", "time": 975.345093, "url": "", "pos": 7342, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384460", "doc": "http://www.addthis.com/", "row": 220, "column": 27, "tagName": "a", "time": 975.345109, "url": "", "pos": 7361, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384910", "doc": "http://www.addthis.com/", "row": 220, "column": 38, "tagName": "a", "time": 975.345140, "url": "", "pos": 7372, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384700", "doc": "http://www.addthis.com/", "row": 220, "column": 43, "tagName": "li", "time": 975.345144, "url": "", "pos": 7377, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384780", "doc": "http://www.addthis.com/", "row": 221, "column": 8, "tagName": "li", "time": 975.345151, "url": "", "pos": 7386, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384940", "doc": "http://www.addthis.com/", "row": 221, "column": 25, "tagName": "a", "time": 975.345167, "url": "", "pos": 7403, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384ac0", "doc": "http://www.addthis.com/", "row": 221, "column": 47, "tagName": "a", "time": 975.345206, "url": "", "pos": 7425, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384a40", "doc": "http://www.addthis.com/", "row": 221, "column": 52, "tagName": "li", "time": 975.345210, "url": "", "pos": 7430, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384bf0", "doc": "http://www.addthis.com/", "row": 222, "column": 8, "tagName": "li", "time": 975.345217, "url": "", "pos": 7439, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384c60", "doc": "http://www.addthis.com/", "row": 222, "column": 25, "tagName": "a", "time": 975.345233, "url": "", "pos": 7456, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384b80", "doc": "http://www.addthis.com/", "row": 222, "column": 33, "tagName": "a", "time": 975.345264, "url": "", "pos": 7464, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384bb0", "doc": "http://www.addthis.com/", "row": 222, "column": 38, "tagName": "li", "time": 975.345267, "url": "", "pos": 7469, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384e70", "doc": "http://www.addthis.com/", "row": 223, "column": 8, "tagName": "ul", "time": 975.345274, "url": "", "pos": 7478, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384fd0", "doc": "http://www.addthis.com/", "row": 224, "column": 8, "tagName": "div", "time": 975.345290, "url": "", "pos": 7487, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384d40", "doc": "http://www.addthis.com/", "row": 225, "column": 22, "tagName": "div", "time": 975.345299, "url": "", "pos": 7510, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384e00", "doc": "http://www.addthis.com/", "row": 226, "column": 7, "tagName": "h5", "time": 975.345319, "url": "", "pos": 7518, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43850e0", "doc": "http://www.addthis.com/", "row": 226, "column": 22, "tagName": "h5", "time": 975.345338, "url": "", "pos": 7533, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4385110", "doc": "http://www.addthis.com/", "row": 227, "column": 24, "tagName": "div", "time": 975.345348, "url": "", "pos": 7558, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4385410", "doc": "http://www.addthis.com/", "row": 228, "column": 158, "tagName": "a", "time": 975.345405, "url": "", "pos": 7717, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4385a70", "doc": "http://www.addthis.com/", "row": 228, "column": 179, "tagName": "a", "time": 975.345656, "url": "", "pos": 7738, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4328d20", "doc": "http://www.addthis.com/", "row": 229, "column": 139, "tagName": "a", "time": 975.345679, "url": "", "pos": 7878, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4386ac0", "doc": "http://www.addthis.com/", "row": 229, "column": 149, "tagName": "a", "time": 975.345748, "url": "", "pos": 7888, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43867f0", "doc": "http://www.addthis.com/", "row": 230, "column": 138, "tagName": "a", "time": 975.345770, "url": "", "pos": 8027, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4386f90", "doc": "http://www.addthis.com/", "row": 230, "column": 149, "tagName": "a", "time": 975.345842, "url": "", "pos": 8038, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4386fc0", "doc": "http://www.addthis.com/", "row": 231, "column": 148, "tagName": "a", "time": 975.345865, "url": "", "pos": 8187, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43876d0", "doc": "http://www.addthis.com/", "row": 231, "column": 158, "tagName": "a", "time": 975.345930, "url": "", "pos": 8197, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4387240", "doc": "http://www.addthis.com/", "row": 232, "column": 154, "tagName": "a", "time": 975.345953, "url": "", "pos": 8352, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4387e30", "doc": "http://www.addthis.com/", "row": 232, "column": 169, "tagName": "a", "time": 975.346017, "url": "", "pos": 8367, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4387e90", "doc": "http://www.addthis.com/", "row": 233, "column": 9, "tagName": "div", "time": 975.346026, "url": "", "pos": 8377, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4387ef0", "doc": "http://www.addthis.com/", "row": 234, "column": 8, "tagName": "div", "time": 975.346033, "url": "", "pos": 8386, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4384f00", "doc": "http://www.addthis.com/", "row": 235, "column": 22, "tagName": "div", "time": 975.346041, "url": "", "pos": 8409, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4384fa0", "doc": "http://www.addthis.com/", "row": 236, "column": 7, "tagName": "h5", "time": 975.346071, "url": "", "pos": 8417, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43878e0", "doc": "http://www.addthis.com/", "row": 236, "column": 18, "tagName": "h5", "time": 975.346091, "url": "", "pos": 8428, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4387940", "doc": "http://www.addthis.com/", "row": 237, "column": 55, "tagName": "div", "time": 975.346103, "url": "", "pos": 8484, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43884a0", "doc": "http://www.addthis.com/", "row": 238, "column": 71, "tagName": "a", "time": 975.346152, "url": "", "pos": 8556, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43887a0", "doc": "http://www.addthis.com/", "row": 238, "column": 75, "tagName": "a", "time": 975.346194, "url": "", "pos": 8560, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4387fb0", "doc": "http://www.addthis.com/", "row": 239, "column": 70, "tagName": "a", "time": 975.346207, "url": "", "pos": 8631, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43888a0", "doc": "http://www.addthis.com/", "row": 239, "column": 74, "tagName": "a", "time": 975.346231, "url": "", "pos": 8635, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388b90", "doc": "http://www.addthis.com/", "row": 240, "column": 97, "tagName": "a", "time": 975.346246, "url": "", "pos": 8733, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388a10", "doc": "http://www.addthis.com/", "row": 240, "column": 101, "tagName": "a", "time": 975.346269, "url": "", "pos": 8737, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388de0", "doc": "http://www.addthis.com/", "row": 241, "column": 84, "tagName": "a", "time": 975.346282, "url": "", "pos": 8822, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388ce0", "doc": "http://www.addthis.com/", "row": 241, "column": 88, "tagName": "a", "time": 975.346305, "url": "", "pos": 8826, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388d40", "doc": "http://www.addthis.com/", "row": 242, "column": 9, "tagName": "div", "time": 975.346321, "url": "", "pos": 8836, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388da0", "doc": "http://www.addthis.com/", "row": 243, "column": 43, "tagName": "a", "time": 975.346333, "url": "", "pos": 8880, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4389450", "doc": "http://www.addthis.com/", "row": 243, "column": 58, "tagName": "a", "time": 975.346392, "url": "", "pos": 8895, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43894b0", "doc": "http://www.addthis.com/", "row": 244, "column": 8, "tagName": "div", "time": 975.346403, "url": "", "pos": 8904, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4389610", "doc": "http://www.addthis.com/", "row": 245, "column": 21, "tagName": "div", "time": 975.346412, "url": "", "pos": 8926, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43895b0", "doc": "http://www.addthis.com/", "row": 245, "column": 27, "tagName": "div", "time": 975.346461, "url": "", "pos": 8932, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43897f0", "doc": "http://www.addthis.com/", "row": 246, "column": 20, "tagName": "div", "time": 975.346471, "url": "", "pos": 8953, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4388f10", "doc": "http://www.addthis.com/", "row": 246, "column": 26, "tagName": "div", "time": 975.346509, "url": "", "pos": 8959, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388f90", "doc": "http://www.addthis.com/", "row": 248, "column": 25, "tagName": "div", "time": 975.346519, "url": "", "pos": 8986, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4389f90", "doc": "http://www.addthis.com/", "row": 249, "column": 36, "tagName": "div", "time": 975.346572, "url": "", "pos": 9023, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438a290", "doc": "http://www.addthis.com/", "row": 250, "column": 25, "tagName": "p", "time": 975.346623, "url": "", "pos": 9049, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438a600", "doc": "http://www.addthis.com/", "row": 251, "column": 130, "tagName": "a", "time": 975.346683, "url": "", "pos": 9180, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438abb0", "doc": "http://www.addthis.com/", "row": 251, "column": 141, "tagName": "a", "time": 975.346736, "url": "", "pos": 9191, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ac10", "doc": "http://www.addthis.com/", "row": 251, "column": 152, "tagName": "br", "time": 975.346747, "url": "", "pos": 9202, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ad10", "doc": "http://www.addthis.com/", "row": 252, "column": 32, "tagName": "a", "time": 975.346771, "url": "", "pos": 9235, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b110", "doc": "http://www.addthis.com/", "row": 252, "column": 52, "tagName": "a", "time": 975.347050, "url": "", "pos": 9255, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438a8b0", "doc": "http://www.addthis.com/", "row": 253, "column": 8, "tagName": "p", "time": 975.347060, "url": "", "pos": 9264, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438a910", "doc": "http://www.addthis.com/", "row": 254, "column": 9, "tagName": "div", "time": 975.347067, "url": "", "pos": 9274, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c150", "doc": "http://www.addthis.com/", "row": 255, "column": 22, "tagName": "div", "time": 975.347076, "url": "", "pos": 9297, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438c210", "doc": "http://www.addthis.com/", "row": 255, "column": 28, "tagName": "div", "time": 975.347127, "url": "", "pos": 9303, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b740", "doc": "http://www.addthis.com/", "row": 256, "column": 8, "tagName": "div", "time": 975.347136, "url": "", "pos": 9312, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438b7a0", "doc": "http://www.addthis.com/", "row": 258, "column": 7, "tagName": "div", "time": 975.347142, "url": "", "pos": 9323, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c050", "doc": "http://www.addthis.com/", "row": 259, "column": 6, "tagName": "div", "time": 975.347148, "url": "", "pos": 9330, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c110", "doc": "http://www.addthis.com/", "row": 262, "column": 87, "tagName": "script", "time": 975.347163, "url": "http://cache.addthiscdn.com/site/core/js/core-1.1.1.js", "pos": 9421, "chunkLen": 11634, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438b6d0", "doc": "http://www.addthis.com/", "row": 262, "column": 96, "tagName": "script", "time": 975.347187, "url": "", "pos": 9430, "chunkLen": 11634, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438c8f0", "doc": "http://www.addthis.com/", "row": 0, "column": 9, "tagName": "link", "time": 975.394140, "url": "", "pos": 9, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ca80", "doc": "http://www.addthis.com/", "row": 0, "column": 16, "tagName": "table", "time": 975.394158, "url": "", "pos": 16, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438cb10", "doc": "http://www.addthis.com/", "row": 0, "column": 24, "tagName": "table", "time": 975.394179, "url": "", "pos": 24, "chunkLen": 66, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438cb40", "doc": "http://www.addthis.com/", "row": 0, "column": 37, "tagName": "a", "time": 975.394188, "url": "", "pos": 37, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438cc80", "doc": "http://www.addthis.com/", "row": 0, "column": 42, "tagName": "a", "time": 975.394202, "url": "", "pos": 42, "chunkLen": 66, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438ccb0", "doc": "http://www.addthis.com/", "row": 0, "column": 66, "tagName": "input", "time": 975.394209, "url": "", "pos": 66, "chunkLen": 66, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f1e0", "doc": "http://www.addthis.com/", "row": 0, "column": 12, "tagName": "a", "time": 975.404537, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f2d0", "doc": "http://www.addthis.com/", "row": 0, "column": 16, "tagName": "a", "time": 975.404561, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438f1a0", "doc": "http://www.addthis.com/", "row": 0, "column": 8, "tagName": "select", "time": 975.404653, "url": "", "pos": 8, "chunkLen": 17, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f490", "doc": "http://www.addthis.com/", "row": 0, "column": 17, "tagName": "select", "time": 975.404668, "url": "", "pos": 17, "chunkLen": 17, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438f140", "doc": "http://www.addthis.com/", "row": 0, "column": 22, "tagName": "div", "time": 975.404762, "url": "", "pos": 22, "chunkLen": 54, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f6d0", "doc": "http://www.addthis.com/", "row": 0, "column": 28, "tagName": "div", "time": 975.404774, "url": "", "pos": 28, "chunkLen": 54, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438f700", "doc": "http://www.addthis.com/", "row": 0, "column": 48, "tagName": "div", "time": 975.404779, "url": "", "pos": 48, "chunkLen": 54, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f7d0", "doc": "http://www.addthis.com/", "row": 0, "column": 54, "tagName": "div", "time": 975.404785, "url": "", "pos": 54, "chunkLen": 54, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438fb70", "doc": "http://www.addthis.com/", "row": 0, "column": 37, "tagName": "a", "time": 975.404936, "url": "", "pos": 37, "chunkLen": 86, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438fc20", "doc": "http://www.addthis.com/", "row": 0, "column": 41, "tagName": "a", "time": 975.404945, "url": "", "pos": 41, "chunkLen": 86, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438fc50", "doc": "http://www.addthis.com/", "row": 0, "column": 80, "tagName": "div", "time": 975.404951, "url": "", "pos": 80, "chunkLen": 86, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438fcf0", "doc": "http://www.addthis.com/", "row": 0, "column": 86, "tagName": "div", "time": 975.404957, "url": "", "pos": 86, "chunkLen": 86, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x438fe50", "doc": "http://www.addthis.com/", "row": 0, "column": 8, "tagName": "select", "time": 975.407503, "url": "", "pos": 8, "chunkLen": 46, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ff20", "doc": "http://www.addthis.com/", "row": 0, "column": 28, "tagName": "option", "time": 975.407527, "url": "", "pos": 28, "chunkLen": 46, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390000", "doc": "http://www.addthis.com/", "row": 0, "column": 37, "tagName": "option", "time": 975.407552, "url": "", "pos": 37, "chunkLen": 46, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4390030", "doc": "http://www.addthis.com/", "row": 0, "column": 46, "tagName": "select", "time": 975.407566, "url": "", "pos": 46, "chunkLen": 46, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43903c0", "doc": "http://www.addthis.com/", "row": 0, "column": 11, "tagName": "p", "time": 975.407711, "url": "", "pos": 11, "chunkLen": 15, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4390460", "doc": "http://www.addthis.com/", "row": 0, "column": 15, "tagName": "p", "time": 975.407722, "url": "", "pos": 15, "chunkLen": 15, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43905f0", "doc": "http://www.addthis.com/", "row": 0, "column": 22, "tagName": "input", "time": 975.407764, "url": "", "pos": 22, "chunkLen": 22, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438bf80", "doc": "http://www.addthis.com/", "row": 263, "column": 88, "tagName": "script", "time": 975.416365, "url": "http://cache.addthiscdn.com/www/20130829101442/js/lr.js", "pos": 4651, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4391330", "doc": "http://www.addthis.com/", "row": 263, "column": 97, "tagName": "script", "time": 975.416413, "url": "", "pos": 4660, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43912d0", "doc": "http://www.addthis.com/", "row": 264, "column": 110, "tagName": "script", "time": 975.416959, "url": "http://cache.addthiscdn.com/lib/jquery/plugins/cycle-2.88/jquery.cycle.min.js", "pos": 4771, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43914e0", "doc": "http://www.addthis.com/", "row": 264, "column": 119, "tagName": "script", "time": 975.416981, "url": "", "pos": 4780, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43915e0", "doc": "http://www.addthis.com/", "row": 265, "column": 94, "tagName": "script", "time": 975.424269, "url": "http://cache.addthiscdn.com/www/20130829101442/js/homepage.js", "pos": 4875, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4391410", "doc": "http://www.addthis.com/", "row": 265, "column": 103, "tagName": "script", "time": 975.424314, "url": "", "pos": 4884, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4391a20", "doc": "http://www.addthis.com/", "row": 265, "column": 134, "tagName": "script", "time": 975.424868, "url": "", "pos": 4915, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4326550", "doc": "http://www.addthis.com/", "row": 274, "column": 9, "tagName": "script", "time": 975.424914, "url": "http://www.google-analytics.com/ga.js", "pos": 5346, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4392f20", "doc": "http://www.addthis.com/", "row": 274, "column": 40, "tagName": "script", "time": 975.425718, "url": "", "pos": 5377, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43915a0", "doc": "http://www.addthis.com/", "row": 282, "column": 9, "tagName": "script", "time": 975.425764, "url": "", "pos": 5616, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4392ec0", "doc": "http://www.addthis.com/", "row": 284, "column": 97, "tagName": "script", "time": 975.426061, "url": "http://cache.addthiscdn.com/www/20130829101442/js/site.footer.js", "pos": 5715, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393200", "doc": "http://www.addthis.com/", "row": 284, "column": 106, "tagName": "script", "time": 975.426084, "url": "", "pos": 5724, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43932d0", "doc": "http://www.addthis.com/", "row": 285, "column": 158, "tagName": "script", "time": 975.426791, "url": "http://s7.addthis.com/js/300/addthis_widget.js#pubid=no-pub-ad&adev=pco%3Dcnv-100%2Cev%3DSmartLayers_Site%2Cpxid%3D2427&dnt=1", "pos": 5883, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394130", "doc": "http://www.addthis.com/", "row": 285, "column": 167, "tagName": "script", "time": 975.426815, "url": "http://ct1.addthis.com/static/r07/core094.js", "pos": 5892, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396850", "doc": "http://www.addthis.com/", "row": 287, "column": 31, "tagName": "script", "time": 975.443500, "url": "", "pos": 5925, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4391770", "doc": "http://www.addthis.com/", "row": 309, "column": 9, "tagName": "script", "time": 975.443566, "url": "", "pos": 6648, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439a580", "doc": "http://www.addthis.com/", "row": 310, "column": 90, "tagName": "script", "time": 975.444181, "url": "http://s7.addthis.com/js/300/addthis_widget.js#pub=at_com", "pos": 6739, "chunkLen": 6766, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4391ce0", "doc": "http://www.addthis.com/", "row": 310, "column": 99, "tagName": "script", "time": 975.444231, "url": "", "pos": 6748, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4068980", "doc": "http://www.addthis.com/", "row": 312, "column": 7, "tagName": "body", "time": 975.450139, "url": "", "pos": 6757, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40689b0", "doc": "http://www.addthis.com/", "row": 313, "column": 7, "tagName": "html", "time": 975.450148, "url": "", "pos": 6765, "chunkLen": 6766, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406d640", "doc": "http://www.addthis.com/", "row": 0, "column": 7, "tagName": "table", "time": 975.451442, "url": "", "pos": 7, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406d6c0", "doc": "http://www.addthis.com/", "row": 0, "column": 11, "tagName": "tr", "time": 975.451459, "url": "", "pos": 11, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x405d750", "doc": "http://www.addthis.com/", "row": 0, "column": 15, "tagName": "td", "time": 975.451483, "url": "", "pos": 15, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406d790", "doc": "http://www.addthis.com/", "row": 0, "column": 20, "tagName": "td", "time": 975.451489, "url": "", "pos": 20, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406d7c0", "doc": "http://www.addthis.com/", "row": 0, "column": 24, "tagName": "td", "time": 975.451493, "url": "", "pos": 24, "chunkLen": 43, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x406d880", "doc": "http://www.addthis.com/", "row": 0, "column": 30, "tagName": "td", "time": 975.451499, "url": "", "pos": 30, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406d8b0", "doc": "http://www.addthis.com/", "row": 0, "column": 35, "tagName": "tr", "time": 975.451501, "url": "", "pos": 35, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x406d8e0", "doc": "http://www.addthis.com/", "row": 0, "column": 43, "tagName": "table", "time": 975.451503, "url": "", "pos": 43, "chunkLen": 43, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x408ff70", "doc": "http://www.addthis.com/", "row": 0, "column": 5, "tagName": "div", "time": 975.786862, "url": "", "pos": 5, "chunkLen": 11, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40900d0", "doc": "http://www.addthis.com/", "row": 0, "column": 11, "tagName": "div", "time": 975.786874, "url": "http://ct1.addthis.com/static/r07/widget115.css", "pos": 11, "chunkLen": 11, "isStartTag": 0}}
+{"Resource": {"id": 12, "url": "http://s7.addthis.com/js/300/addthis_widget.js", "sentTime": -1.000000, "len": 7184, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 344, "connReused": 0, "cached": 0,                            "requestTime": 974.801450, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 4, "dnsEnd": 407, "connectStart": 4, "connectEnd": 409, "sendStart": 409, "sendEnd": 409, "receiveHeadersEnd": 412, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.215430, "len": 2982}}
+{"ReceivedChunk": {"receivedTime": 975.216182, "len": 4202}}
+{"Resource": {"id": 2, "url": "http://cache.addthiscdn.com/site/core/css/core-1.0.1.css", "sentTime": -1.000000, "len": 4673, "from": "0x43279f0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 345, "connReused": 0, "cached": 0,                            "requestTime": 974.795624, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 7, "dnsEnd": 450, "connectStart": 7, "connectEnd": 451, "sendStart": 451, "sendEnd": 452, "receiveHeadersEnd": 455, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.251989, "len": 4673}}
+{"Resource": {"id": 3, "url": "http://cache.addthiscdn.com/www/20130829101442/style/site.css", "sentTime": -1.000000, "len": 12967, "from": "0x43278a0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 346, "connReused": 0, "cached": 0,                            "requestTime": 974.796172, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 8, "dnsEnd": 449, "connectStart": 8, "connectEnd": 451, "sendStart": 452, "sendEnd": 452, "receiveHeadersEnd": 455, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.261675, "len": 3677}}
+{"ReceivedChunk": {"receivedTime": 975.262318, "len": 9290}}
+{"Resource": {"id": 7, "url": "http://cache.addthiscdn.com/site/core/js/core-1.1.1.js", "sentTime": -1.000000, "len": 97937, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 347, "connReused": 0, "cached": 0,                            "requestTime": 974.798703, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 6, "dnsEnd": 447, "connectStart": 6, "connectEnd": 449, "sendStart": 450, "sendEnd": 450, "receiveHeadersEnd": 454, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.261930, "len": 8532}}
+{"ReceivedChunk": {"receivedTime": 975.265952, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 975.266202, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 975.266459, "len": 23869}}
+{"Resource": {"id": 6, "url": "http://cache.addthiscdn.com/www/20130829101442/js/shared/modernizr.custom.84442.js", "sentTime": -1.000000, "len": 10577, "from": "0x432bec0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 349, "connReused": 0, "cached": 0,                            "requestTime": 974.797862, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 7, "dnsEnd": 448, "connectStart": 7, "connectEnd": 450, "sendStart": 451, "sendEnd": 451, "receiveHeadersEnd": 455, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.262120, "len": 8173}}
+{"ReceivedChunk": {"receivedTime": 975.266852, "len": 2404}}
+{"Resource": {"id": 8, "url": "http://cache.addthiscdn.com/www/20130829101442/js/lr.js", "sentTime": -1.000000, "len": 776, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 345, "connReused": 1, "cached": 0,                            "requestTime": 974.799354, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 453, "sendStart": 453, "sendEnd": 453, "receiveHeadersEnd": 458, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.271028, "len": 776}}
+{"Resource": {"id": 4, "url": "http://cache.addthiscdn.com/www/20130829101442/style/common.css", "sentTime": -1.000000, "len": 45918, "from": "0x4329080",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 348, "connReused": 0, "cached": 0,                            "requestTime": 974.796729, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 8, "dnsEnd": 449, "connectStart": 8, "connectEnd": 451, "sendStart": 451, "sendEnd": 451, "receiveHeadersEnd": 461, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.278352, "len": 17748}}
+{"ReceivedChunk": {"receivedTime": 975.281665, "len": 28170}}
+{"Resource": {"id": 5, "url": "http://cache.addthiscdn.com/www/20130829101442/style/homepage.css", "sentTime": -1.000000, "len": 4741, "from": "0x432acd0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 350, "connReused": 0, "cached": 0,                            "requestTime": 974.797339, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 7, "dnsEnd": 448, "connectStart": 7, "connectEnd": 450, "sendStart": 451, "sendEnd": 451, "receiveHeadersEnd": 461, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.278590, "len": 4741}}
+{"Resource": {"id": 10, "url": "http://cache.addthiscdn.com/www/20130829101442/js/homepage.js", "sentTime": -1.000000, "len": 1681, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 347, "connReused": 1, "cached": 0,                            "requestTime": 974.800458, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 464, "sendStart": 464, "sendEnd": 464, "receiveHeadersEnd": 470, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.291714, "len": 1681}}
+{"Resource": {"id": 9, "url": "http://cache.addthiscdn.com/lib/jquery/plugins/cycle-2.88/jquery.cycle.min.js", "sentTime": -1.000000, "len": 20004, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 346, "connReused": 1, "cached": 0,                            "requestTime": 974.799872, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 5, "connectEnd": 461, "sendStart": 464, "sendEnd": 464, "receiveHeadersEnd": 471, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.292289, "len": 11523}}
+{"ReceivedChunk": {"receivedTime": 975.292768, "len": 8481}}
+{"Resource": {"id": 11, "url": "http://cache.addthiscdn.com/www/20130829101442/js/site.footer.js", "sentTime": -1.000000, "len": 1463, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 349, "connReused": 1, "cached": 0,                            "requestTime": 974.800908, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 4, "connectEnd": 465, "sendStart": 466, "sendEnd": 466, "receiveHeadersEnd": 470, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.292496, "len": 1463}}
+{"Resource": {"id": 13, "url": "http://cache.addthiscdn.com/www/20130829101442/style/modal.css", "sentTime": -1.000000, "len": 2255, "from": "0x0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 346, "connReused": 1, "cached": 0,                            "requestTime": 975.280806, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 2, "receiveHeadersEnd": 5, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.293411, "len": 2255}}
+{"Resource": {"id": 29, "url": "about:blank", "sentTime": -1.000000, "len": 0, "from": "0x0",                            "mimeType": "text/html", "contentLength": 0, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 28, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 39867, "from": "0x4326550",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 975.429390, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 975.844382, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 975.844702, "len": 7099}}
+{"Resource": {"id": 14, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/header/bg-logo.png", "sentTime": -1.000000, "len": 579, "from": "0x435fca0",                            "mimeType": "image/png", "contentLength": 579, "httpStatus": 200, "connId": 346, "connReused": 1, "cached": 0,                            "requestTime": 975.819770, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 21, "connectEnd": 21, "sendStart": 23, "sendEnd": 23, "receiveHeadersEnd": 31, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.037823, "len": 579}}
+{"Resource": {"id": 15, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/bg-plus.png", "sentTime": -1.000000, "len": 198, "from": "0x4369b60",                            "mimeType": "image/png", "contentLength": 198, "httpStatus": 200, "connId": 349, "connReused": 1, "cached": 0,                            "requestTime": 975.820482, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 21, "connectEnd": 21, "sendStart": 23, "sendEnd": 23, "receiveHeadersEnd": 30, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.039213, "len": 198}}
+{"Resource": {"id": 16, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/video_tour_icon.png", "sentTime": -1.000000, "len": 308, "from": "0x436a790",                            "mimeType": "image/png", "contentLength": 308, "httpStatus": 200, "connId": 347, "connReused": 1, "cached": 0,                            "requestTime": 975.821108, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 20, "connectEnd": 20, "sendStart": 22, "sendEnd": 22, "receiveHeadersEnd": 30, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.039611, "len": 308}}
+{"Resource": {"id": 18, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/hero_2.png", "sentTime": -1.000000, "len": 37287, "from": "0x436ca90",                            "mimeType": "image/png", "contentLength": 37287, "httpStatus": 200, "connId": 350, "connReused": 1, "cached": 0,                            "requestTime": 975.822507, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 19, "connectEnd": 19, "sendStart": 29, "sendEnd": 29, "receiveHeadersEnd": 38, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.039975, "len": 3835}}
+{"ReceivedChunk": {"receivedTime": 976.040515, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 976.041040, "len": 684}}
+{"Resource": {"id": 17, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/hero_1.png", "sentTime": -1.000000, "len": 17187, "from": "0x436a580",                            "mimeType": "image/png", "contentLength": 17187, "httpStatus": 200, "connId": 348, "connReused": 1, "cached": 0,                            "requestTime": 975.821746, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 19, "connectEnd": 20, "sendStart": 30, "sendEnd": 30, "receiveHeadersEnd": 39, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.040248, "len": 3835}}
+{"ReceivedChunk": {"receivedTime": 976.040732, "len": 13352}}
+{"Resource": {"id": 20, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/referee_sharing.png", "sentTime": -1.000000, "len": 10159, "from": "0x4370c80",                            "mimeType": "image/png", "contentLength": 10159, "httpStatus": 200, "connId": 346, "connReused": 1, "cached": 0,                            "requestTime": 975.824201, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 17, "connectEnd": 42, "sendStart": 49, "sendEnd": 49, "receiveHeadersEnd": 52, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.043106, "len": 1199}}
+{"ReceivedChunk": {"receivedTime": 976.044524, "len": 8960}}
+{"Resource": {"id": 21, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/referee_follow.png", "sentTime": -1.000000, "len": 9025, "from": "0x4372760",                            "mimeType": "image/png", "contentLength": 9025, "httpStatus": 200, "connId": 349, "connReused": 1, "cached": 0,                            "requestTime": 975.824946, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 17, "connectEnd": 43, "sendStart": 48, "sendEnd": 48, "receiveHeadersEnd": 58, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.043414, "len": 1200}}
+{"ReceivedChunk": {"receivedTime": 976.044859, "len": 7825}}
+{"Resource": {"id": 22, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/referee_welcome.png", "sentTime": -1.000000, "len": 6846, "from": "0x43736c0",                            "mimeType": "image/png", "contentLength": 6846, "httpStatus": 200, "connId": 347, "connReused": 1, "cached": 0,                            "requestTime": 975.825619, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 46, "sendStart": 49, "sendEnd": 49, "receiveHeadersEnd": 59, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.043693, "len": 3836}}
+{"ReceivedChunk": {"receivedTime": 976.045164, "len": 3010}}
+{"Resource": {"id": 19, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/hero_3.png", "sentTime": -1.000000, "len": 26015, "from": "0x436db90",                            "mimeType": "image/png", "contentLength": 26015, "httpStatus": 200, "connId": 345, "connReused": 1, "cached": 0,                            "requestTime": 975.823433, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 18, "connectEnd": 18, "sendStart": 28, "sendEnd": 28, "receiveHeadersEnd": 61, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.043969, "len": 3835}}
+{"ReceivedChunk": {"receivedTime": 976.045468, "len": 22180}}
+{"Resource": {"id": 23, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/referee_trending.png", "sentTime": -1.000000, "len": 17627, "from": "0x4374800",                            "mimeType": "image/png", "contentLength": 17627, "httpStatus": 200, "connId": 348, "connReused": 1, "cached": 0,                            "requestTime": 975.826053, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 16, "connectEnd": 49, "sendStart": 50, "sendEnd": 50, "receiveHeadersEnd": 59, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.044244, "len": 3835}}
+{"ReceivedChunk": {"receivedTime": 976.045810, "len": 13792}}
+{"Resource": {"id": 24, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/logos.png", "sentTime": -1.000000, "len": 31091, "from": "0x43766f0",                            "mimeType": "image/png", "contentLength": 31091, "httpStatus": 200, "connId": 350, "connReused": 1, "cached": 0,                            "requestTime": 975.826465, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 57, "sendStart": 59, "sendEnd": 59, "receiveHeadersEnd": 63, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.047536, "len": 1199}}
+{"ReceivedChunk": {"receivedTime": 976.047857, "len": 29892}}
+{"Resource": {"id": 25, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/homepage/link_arrow.png", "sentTime": -1.000000, "len": 138, "from": "0x4378960",                            "mimeType": "image/png", "contentLength": 138, "httpStatus": 200, "connId": 346, "connReused": 1, "cached": 0,                            "requestTime": 975.826875, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 70, "sendStart": 75, "sendEnd": 75, "receiveHeadersEnd": 86, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.049250, "len": 138}}
+{"Resource": {"id": 27, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/footer/bg-logo-home.gif", "sentTime": -1.000000, "len": 751, "from": "0x438ad10",                            "mimeType": "image/gif", "contentLength": 751, "httpStatus": 200, "connId": 347, "connReused": 1, "cached": 0,                            "requestTime": 975.827616, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 14, "connectEnd": 72, "sendStart": 75, "sendEnd": 75, "receiveHeadersEnd": 85, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.049660, "len": 751}}
+{"Resource": {"id": 26, "url": "http://cache.addthiscdn.com/www/20130829101442/style/images/footer/bg-extensions.png", "sentTime": -1.000000, "len": 3945, "from": "0x4385410",                            "mimeType": "image/png", "contentLength": 3945, "httpStatus": 200, "connId": 349, "connReused": 1, "cached": 0,                            "requestTime": 975.827250, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 72, "sendStart": 75, "sendEnd": 75, "receiveHeadersEnd": 86, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.049984, "len": 3836}}
+{"ReceivedChunk": {"receivedTime": 976.050236, "len": 109}}
+{"Resource": {"id": 30, "url": "http://ct1.addthis.com/static/r07/core094.js", "sentTime": -1.000000, "len": 173612, "from": "0x4394130",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 491, "connReused": 0, "cached": 0,                            "requestTime": 975.458455, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 427, "connectStart": 1, "connectEnd": 455, "sendStart": 455, "sendEnd": 456, "receiveHeadersEnd": 477, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.050927, "len": 1922}}
+{"ReceivedChunk": {"receivedTime": 976.051122, "len": 32076}}
+{"ReceivedChunk": {"receivedTime": 976.051334, "len": 4070}}
+{"ReceivedChunk": {"receivedTime": 976.051506, "len": 3845}}
+{"ReceivedChunk": {"receivedTime": 976.051677, "len": 8185}}
+{"ReceivedChunk": {"receivedTime": 976.051852, "len": 23094}}
+{"ReceivedChunk": {"receivedTime": 976.052081, "len": 19132}}
+{"ReceivedChunk": {"receivedTime": 976.052297, "len": 5558}}
+{"ReceivedChunk": {"receivedTime": 976.052483, "len": 5229}}
+{"ReceivedChunk": {"receivedTime": 976.052666, "len": 25974}}
+{"ReceivedChunk": {"receivedTime": 976.052902, "len": 31335}}
+{"ReceivedChunk": {"receivedTime": 976.053148, "len": 13192}}
+{"Resource": {"id": 36, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1413013795&utmhn=www.addthis.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=934x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=The%20Largest%20Sharing%20and%20Social%20Data%20Platform.%20We%20Provide%20Twitter%20and%20Facebook%20Buttons%2C%20Custom%20Audience%20Targeting%2C%20and%20more.%20%7C%20AddThis&utmhid=704238849&utmr=-&utmp=%2F&utmht=1378144446095&utmac=UA-1170033-1&utmcc=__utma%3D63837439.1902159465.1378144446.1378144446.1378144446.1%3B%2B__utmz%3D63837439.1378144446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~", "sentTime": -1.000000, "len": 35, "from": "0x40900d0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 224, "connReused": 1, "cached": 0,                            "requestTime": 976.017135, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 2, "connectEnd": 2, "sendStart": 2, "sendEnd": 2, "receiveHeadersEnd": 4, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.053923, "len": 35}}
+{"Resource": {"id": 37, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=872421828&utmhn=www.addthis.com&utme=8(Login)9(False)11(2)&utmcs=UTF-8&utmsr=2048x1152&utmvp=934x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=The%20Largest%20Sharing%20and%20Social%20Data%20Platform.%20We%20Provide%20Twitter%20and%20Facebook%20Buttons%2C%20Custom%20Audience%20Targeting%2C%20and%20more.%20%7C%20AddThis&utmhid=704238849&utmr=-&utmp=%2F&utmht=1378144446113&utmac=UA-1170033-1&utmcc=__utma%3D63837439.1902159465.1378144446.1378144446.1378144446.1%3B%2B__utmz%3D63837439.1378144446.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qRC~", "sentTime": -1.000000, "len": 35, "from": "0x40900d0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 224, "connReused": 1, "cached": 0,                            "requestTime": 976.039309, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 3, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 5, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.199334, "len": 35}}
+{"Resource": {"id": 38, "url": "http://ct1.addthis.com/static/r07/widget115.css", "sentTime": -1.000000, "len": 88207, "from": "0x40900d0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 491, "connReused": 1, "cached": 0,                            "requestTime": 976.160228, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 3, "connectEnd": 3, "sendStart": 3, "sendEnd": 3, "receiveHeadersEnd": 25, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.202668, "len": 2037}}
+{"ReceivedChunk": {"receivedTime": 976.202936, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 976.203158, "len": 12676}}
+{"ReceivedChunk": {"receivedTime": 976.203365, "len": 40726}}
+{"Resource": {"id": 31, "url": "http://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff", "sentTime": -1.000000, "len": 22748, "from": "0x0",                            "mimeType": "font/woff", "contentLength": 22748, "httpStatus": 200, "connId": 511, "connReused": 0, "cached": 0,                            "requestTime": 975.828050, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 14, "dnsEnd": 402, "connectStart": 14, "connectEnd": 404, "sendStart": 405, "sendEnd": 405, "receiveHeadersEnd": 412, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.284413, "len": 3711}}
+{"ReceivedChunk": {"receivedTime": 976.286458, "len": 19037}}
+{"Resource": {"id": 32, "url": "http://themes.googleusercontent.com/static/fonts/opensans/v6/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff", "sentTime": -1.000000, "len": 22944, "from": "0x0",                            "mimeType": "font/woff", "contentLength": 22944, "httpStatus": 200, "connId": 512, "connReused": 0, "cached": 0,                            "requestTime": 975.828484, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 14, "dnsEnd": 401, "connectStart": 14, "connectEnd": 404, "sendStart": 405, "sendEnd": 405, "receiveHeadersEnd": 412, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.284676, "len": 3711}}
+{"ReceivedChunk": {"receivedTime": 976.286988, "len": 19233}}
+{"Resource": {"id": 34, "url": "http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff", "sentTime": -1.000000, "len": 21956, "from": "0x0",                            "mimeType": "font/woff", "contentLength": 21956, "httpStatus": 200, "connId": 514, "connReused": 0, "cached": 0,                            "requestTime": 975.829362, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 13, "dnsEnd": 400, "connectStart": 13, "connectEnd": 403, "sendStart": 404, "sendEnd": 404, "receiveHeadersEnd": 412, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.285475, "len": 3711}}
+{"ReceivedChunk": {"receivedTime": 976.287291, "len": 18245}}
+{"Resource": {"id": 33, "url": "http://themes.googleusercontent.com/static/fonts/opensans/v6/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff", "sentTime": -1.000000, "len": 22604, "from": "0x0",                            "mimeType": "font/woff", "contentLength": 22604, "httpStatus": 200, "connId": 513, "connReused": 0, "cached": 0,                            "requestTime": 975.828934, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 13, "dnsEnd": 401, "connectStart": 13, "connectEnd": 404, "sendStart": 404, "sendEnd": 405, "receiveHeadersEnd": 413, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.285847, "len": 3711}}
+{"ReceivedChunk": {"receivedTime": 976.287605, "len": 18893}}
+{"Resource": {"id": 35, "url": "http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff", "sentTime": -1.000000, "len": 22656, "from": "0x0",                            "mimeType": "font/woff", "contentLength": 22656, "httpStatus": 200, "connId": 515, "connReused": 0, "cached": 0,                            "requestTime": 975.829791, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 13, "dnsEnd": 400, "connectStart": 13, "connectEnd": 403, "sendStart": 404, "sendEnd": 404, "receiveHeadersEnd": 412, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 976.286172, "len": 3711}}
+{"ReceivedChunk": {"receivedTime": 976.287919, "len": 18945}}
+{"HOL": {"type": 4, "docUrl": "http://www.addthis.com/", "code": "0x43279f0", "row": 16, "column": 116, "url": "http://cache.addthiscdn.com/site/core/css/core-1.0.1.css"}}
+{"HOL": {"type": 4, "docUrl": "http://www.addthis.com/", "code": "0x43278a0", "row": 17, "column": 121, "url": "http://cache.addthiscdn.com/www/20130829101442/style/site.css"}}
+{"HOL": {"type": 4, "docUrl": "http://www.addthis.com/", "code": "0x4329080", "row": 18, "column": 123, "url": "http://cache.addthiscdn.com/www/20130829101442/style/common.css"}}
+{"HOL": {"type": 4, "docUrl": "http://www.addthis.com/", "code": "0x432acd0", "row": 20, "column": 124, "url": "http://cache.addthiscdn.com/www/20130829101442/style/homepage.css"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x432bec0", "row": 21, "column": 169, "url": "http://cache.addthiscdn.com/www/20130829101442/js/shared/modernizr.custom.84442.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x438c110", "row": 262, "column": 87, "url": "http://cache.addthiscdn.com/site/core/js/core-1.1.1.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x438bf80", "row": 263, "column": 88, "url": "http://cache.addthiscdn.com/www/20130829101442/js/lr.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x43912d0", "row": 264, "column": 110, "url": "http://cache.addthiscdn.com/lib/jquery/plugins/cycle-2.88/jquery.cycle.min.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x43915e0", "row": 265, "column": 94, "url": "http://cache.addthiscdn.com/www/20130829101442/js/homepage.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x4391a20", "row": 265, "column": 134, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x4392f20", "row": 274, "column": 40, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x4392ec0", "row": 284, "column": 97, "url": "http://cache.addthiscdn.com/www/20130829101442/js/site.footer.js"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x43932d0", "row": 285, "column": 158, "url": "http://s7.addthis.com/js/300/addthis_widget.js#pubid=no-pub-ad&adev=pco%3Dcnv-100%2Cev%3DSmartLayers_Site%2Cpxid%3D2427&dnt=1"}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x4396850", "row": 287, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://www.addthis.com/", "code": "0x439a580", "row": 310, "column": 90, "url": "http://s7.addthis.com/js/300/addthis_widget.js#pub=at_com"}}
+{"Computation": {"type": "execScript", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 974.796836, "endTime": -1.000000, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/js/shared/modernizr.custom.84442.js"}}
+{"Computation": {"type": "layout", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 974.800044, "endTime": 974.800931, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 974.800884, "endTime": 974.800921, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 974.832548, "endTime": 974.836926, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.252420, "endTime": 975.253518, "urlRecalcStyle": "http://cache.addthiscdn.com/site/core/css/core-1.0.1.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.262814, "endTime": 975.265781, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/style/site.css"}}
+{"Computation": {"type": "execScript", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.267022, "endTime": -1.000000, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/js/shared/modernizr.custom.84442.js"}}
+{"Computation": {"type": "recalcStyle", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.279031, "endTime": 975.281450, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/style/homepage.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.281937, "endTime": 975.290449, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/style/common.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.293578, "endTime": 975.818366, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/style/modal.css"}}
+{"Computation": {"type": "execScript", "code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "startTime": 975.305551, "endTime": 975.333864, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/js/shared/modernizr.custom.84442.js"}}
+{"Computation": {"type": "execScript", "code": "0x438b6d0", "docUrl": "http://www.addthis.com/", "startTime": 975.347224, "endTime": 975.416334, "urlRecalcStyle": "http://cache.addthiscdn.com/site/core/js/core-1.1.1.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x43905f0", "docUrl": "http://www.addthis.com/", "startTime": 975.416325, "endTime": 975.416327, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4391330", "docUrl": "http://www.addthis.com/", "startTime": 975.416467, "endTime": 975.416940, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/js/lr.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4391330", "docUrl": "http://www.addthis.com/", "startTime": 975.416935, "endTime": 975.416936, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x43914e0", "docUrl": "http://www.addthis.com/", "startTime": 975.417010, "endTime": 975.424237, "urlRecalcStyle": "http://cache.addthiscdn.com/lib/jquery/plugins/cycle-2.88/jquery.cycle.min.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x43914e0", "docUrl": "http://www.addthis.com/", "startTime": 975.424229, "endTime": 975.424230, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4391410", "docUrl": "http://www.addthis.com/", "startTime": 975.424363, "endTime": 975.424862, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/js/homepage.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4391410", "docUrl": "http://www.addthis.com/", "startTime": 975.424857, "endTime": 975.424858, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4326550", "docUrl": "http://www.addthis.com/", "startTime": 975.424923, "endTime": 975.425708, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x43915a0", "docUrl": "http://www.addthis.com/", "startTime": 975.425774, "endTime": 975.426040, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4393200", "docUrl": "http://www.addthis.com/", "startTime": 975.426115, "endTime": 975.426761, "urlRecalcStyle": "http://cache.addthiscdn.com/www/20130829101442/js/site.footer.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4393200", "docUrl": "http://www.addthis.com/", "startTime": 975.426756, "endTime": 975.426757, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.426852, "endTime": 975.443474, "urlRecalcStyle": "http://s7.addthis.com/js/300/addthis_widget.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.433550, "endTime": 975.433553, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.433555, "endTime": 975.433557, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.442643, "endTime": 975.442645, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.442647, "endTime": 975.442648, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.442739, "endTime": 975.442740, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.442753, "endTime": 975.442754, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.442759, "endTime": 975.442760, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x4394130", "docUrl": "http://www.addthis.com/", "startTime": 975.443468, "endTime": 975.443469, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x4391770", "docUrl": "http://www.addthis.com/", "startTime": 975.443575, "endTime": 975.444157, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x4391ce0", "docUrl": "http://www.addthis.com/", "startTime": 975.444278, "endTime": 975.450112, "urlRecalcStyle": "http://s7.addthis.com/js/300/addthis_widget.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x4391ce0", "docUrl": "http://www.addthis.com/", "startTime": 975.450103, "endTime": 975.450105, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40689b0", "docUrl": "http://www.addthis.com/", "startTime": 975.450175, "endTime": 975.450177, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x40689b0", "docUrl": "http://www.addthis.com/", "startTime": 975.450179, "endTime": 975.817876, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.454480, "endTime": 975.784428, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.783781, "endTime": 975.784306, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784009, "endTime": 975.784072, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784094, "endTime": 975.784155, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784121, "endTime": 975.784150, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784162, "endTime": 975.784190, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784194, "endTime": 975.784305, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784217, "endTime": 975.784269, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784237, "endTime": 975.784264, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784274, "endTime": 975.784301, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.784890, "endTime": 975.785108, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.785426, "endTime": 975.785562, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.786045, "endTime": 975.786199, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x406d8e0", "docUrl": "http://www.addthis.com/", "startTime": 975.786580, "endTime": 975.786739, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.787033, "endTime": 975.787177, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.796510, "endTime": 975.796886, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.796752, "endTime": 975.796884, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.796787, "endTime": 975.796846, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.796810, "endTime": 975.796840, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.796852, "endTime": 975.796880, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.798584, "endTime": 975.798713, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.800352, "endTime": 975.800438, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.803011, "endTime": 975.803113, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.803645, "endTime": 975.803711, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.804215, "endTime": 975.804301, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.805048, "endTime": 975.805116, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.805533, "endTime": 975.805620, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.806104, "endTime": 975.806170, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.806585, "endTime": 975.806672, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.812477, "endTime": 975.812575, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.817880, "endTime": 975.817883, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.821098, "endTime": 975.821240, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.821255, "endTime": 975.821256, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 975.847827, "endTime": 976.036065, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.036079, "endTime": 976.036081, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.054286, "endTime": 976.173947, "urlRecalcStyle": "http://ct1.addthis.com/static/r07/core094.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.173964, "endTime": 976.173966, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.199978, "endTime": 976.200214, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.200222, "endTime": 976.200245, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "recalcStyle", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.203613, "endTime": 976.225034, "urlRecalcStyle": "http://ct1.addthis.com/static/r07/widget115.css"}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.225377, "endTime": 976.238737, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.246523, "endTime": 976.246525, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "layout", "code": "0x40900d0", "docUrl": "http://www.addthis.com/", "startTime": 976.270135, "endTime": 976.281940, "urlRecalcStyle": ""}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://cache.addthiscdn.com/site/core/js/core-1.1.1.js", "time": 974.798054}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://cache.addthiscdn.com/www/20130829101442/js/lr.js", "time": 974.798257}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://cache.addthiscdn.com/lib/jquery/plugins/cycle-2.88/jquery.cycle.min.js", "time": 974.798454}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://cache.addthiscdn.com/www/20130829101442/js/homepage.js", "time": 974.798645}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://cache.addthiscdn.com/www/20130829101442/js/site.footer.js", "time": 974.798857}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://s7.addthis.com/js/300/addthis_widget.js#pubid=no-pub-ad&adev=pco%3Dcnv-100%2Cev%3DSmartLayers_Site%2Cpxid%3D2427&dnt=1", "time": 974.799059}}
+{"Preload": {"code": "0x432c0d0", "docUrl": "http://www.addthis.com/", "url": "http://s7.addthis.com/js/300/addthis_widget.js#pub=at_com", "time": 974.799282}}
+{"Complete": "www.addthis.com_"}

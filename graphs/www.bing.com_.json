@@ -1,0 +1,46 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.bing.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.bing.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 149.848000146449,
+               "time" : 150.615999940782,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 300.464000087231
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.bing.com/s/a/hpc8.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 300.464000087231,
+            "id" : "download_1",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "download_1",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "r1_c1"
+      }
+   ]
+}

@@ -1,0 +1,1437 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.zol.com.cn_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.zol.com.cn/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 648.202999960631,
+               "time" : 1958.90100020915,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 2607.10400016978
+            },
+            {
+               "s_time" : 4347.46199985966,
+               "time" : 0.08600018918969,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 4347.54800004885
+            },
+            {
+               "s_time" : 4351.79700003937,
+               "time" : 152.6199998334,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 4504.41699987277
+            },
+            {
+               "s_time" : 4505.60599984601,
+               "time" : 5.39400009439032,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 4510.9999999404
+            },
+            {
+               "s_time" : 5313.89199988917,
+               "time" : 3.18700028583044,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 5317.079000175
+            },
+            {
+               "s_time" : 5320.0759999454,
+               "time" : 1949.90300014615,
+               "type" : "evalhtml",
+               "id" : "r1_c6",
+               "e_time" : 7269.97900009155
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2c.zol-img.com.cn/article/9_60x45/864/li7lO8sQngOLg.jpg",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 973.569999914616,
+            "id" : "download_1",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2f.zol-img.com.cn/article/9_60x45/765/liNzZhLPFM2I.jpg",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 973.976000212133,
+            "id" : "download_2",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2a.zol-img.com.cn/article/9_100x75/794/lig3kHbBUT3.jpg",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2357.57600003853,
+            "id" : "download_3",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2a.zol-img.com.cn/article/9_60x45/868/lienGPvp6wNjo.jpg",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 972.7389998734,
+            "id" : "download_4",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2f.zol-img.com.cn/article/9_60x45/849/likspKrJJxVA.jpg",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1004.87100007012,
+            "id" : "download_5",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2c.zol-img.com.cn/article/9_100x75/648/liQeGEuMoKT1U.jpg",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1837.66200020909,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2c.zol-img.com.cn/article/9_100x75/186/libYauTMc6HCg.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1838.29599991441,
+            "id" : "download_7",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/site-nav.png",
+         "id" : "r2",
+         "comps" : [],
+         "download" : {
+            "s_time" : 958.089000079781,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/mainpage-logo-2013.png",
+         "id" : "r3",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1003.62000009045,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/index-icon-20130527.png",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1004.06400021166,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/mainpage/js/click.js?1",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 4504.45900019258,
+               "time" : 1.1469996534297,
+               "type" : 1,
+               "id" : "comp_72",
+               "e_time" : 4505.60599984601
+            }
+         ],
+         "download" : {
+            "s_time" : 2511.64899999276,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/mainpage/js/index2013.js?20130828",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 4347.59700018913,
+               "time" : 4.19999985023969,
+               "type" : 1,
+               "id" : "comp_62",
+               "e_time" : 4351.79700003937
+            }
+         ],
+         "download" : {
+            "s_time" : 2510.84299990907,
+            "id" : "download_12",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2e.zol-img.com.cn/article/9_60x45/902/lib1lMFdmpuJo.jpg",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 973.154000006616,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2e.zol-img.com.cn/article/9_100x75/846/liEa1kffFXbgQ.jpg",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1835.17999993637,
+            "id" : "download_14",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2e.zol-img.com.cn/article/9_100x75/506/licKN9PGJ0fxE.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1834.55300005153,
+            "id" : "download_15",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2d.zol-img.com.cn/article/9_100x75/403/li4vleuK381Uw.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1835.80000000075,
+            "id" : "download_16",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2d.zol-img.com.cn/article/9_60x45/955/liCf0gPcwZf8c.jpg",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 971.843000035733,
+            "id" : "download_17",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/public/js/jquery-1.6.1.min.js",
+         "id" : "r38",
+         "comps" : [
+            {
+               "s_time" : 4269.13399994373,
+               "time" : 78.3279999159304,
+               "type" : 1,
+               "id" : "comp_54",
+               "e_time" : 4347.46199985966
+            }
+         ],
+         "download" : {
+            "s_time" : 2509.60800005123,
+            "id" : "download_18",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2d.zol-img.com.cn/article/9_100x75/133/liNFkZWQssZNM.jpg",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1836.42600011081,
+            "id" : "download_19",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/09/1378041401.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1508.73599993065,
+            "id" : "download_20",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377742221.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2358.01299987361,
+            "id" : "download_21",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1376532984.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2359.36400014907,
+            "id" : "download_22",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377250913.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2358.57699997723,
+            "id" : "download_23",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/2013/08/au_647_5214864ed7e3508_soft_css.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1500.30600000173,
+            "id" : "download_24",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377572897.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2358.96900016814,
+            "id" : "download_25",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1376044454.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2359.72400009632,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/2013/08/au_810_5214864f2e77f08_soft_css.jpg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1837.04600017518,
+            "id" : "download_27",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2b.zol-img.com.cn/article/9_100x75/825/lidaiO3tM9VM6.jpg",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1832.48100010678,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2b.zol-img.com.cn/article/9_100x75/413/lioQTGVlyuzkg.jpg",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1530.08100017905,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/nav-icon.jpg",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1004.46399999782,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2012/p_brand.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1833.23600003496,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/footer.png",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2606.10300023109,
+            "id" : "download_32",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/new_icon.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1833.92200013623,
+            "id" : "download_33",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2011/police_0414.gif",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2606.66499985382,
+            "id" : "download_34",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://js.zol.com.cn/pv.js",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2512.32200022787,
+            "id" : "download_35",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picb.zol-img.com.cn/2013/08/1376881270.jpg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1840.74900019914,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picb.zol-img.com.cn/2013/08/1376881236.jpg",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2360.85500009358,
+            "id" : "download_37",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dw.cbsi.com.cn/js/dw.js",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 5316.69399980456,
+               "time" : 3.38200014084032,
+               "type" : 1,
+               "id" : "comp_83",
+               "e_time" : 5320.0759999454
+            }
+         ],
+         "download" : {
+            "s_time" : 2512.70500011742,
+            "id" : "download_38",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://icon.zol-img.com.cn/2013/weixin.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2607.10400016978,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1376532074.jpg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2360.08200002834,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377656557.jpg",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2360.47200020403,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://zdw.w8.com.cn/p.ht?h=&t=1378095963506791&c=",
+         "id" : "r43",
+         "comps" : [
+            {
+               "s_time" : 5305.88500015438,
+               "time" : 8.00699973479004,
+               "type" : 1,
+               "id" : "comp_79",
+               "e_time" : 5313.89199988917
+            }
+         ],
+         "download" : {
+            "s_time" : 4510.9999999404,
+            "id" : "download_42",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/dot.gif",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5314.60099993274,
+            "id" : "download_43",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r46",
+         "comps" : [
+            {
+               "s_time" : 5940.73199992999,
+               "time" : 62.4110000208102,
+               "type" : 2,
+               "id" : "comp_106",
+               "e_time" : 6003.1429999508
+            }
+         ],
+         "download" : {
+            "s_time" : 5317.079000175,
+            "id" : "download_44",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pv.zol.com.cn/images/pvhit0001.gif?t=1378095963506791&subcat=0&vuserid=&&ip_ck=5s+C4PP1j7QuMTgzNzkyLjEzNzgwOTU5NjQ=&lv=1378095964&vn=1&sr=2048x1152&sc=24&fl=11.8&ti=%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9C%A8%E7%BA%BF%20-%20%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%9C%80%E5%85%B7%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E7%9A%84IT%E4%B8%93%E4%B8%9A%E7%BD%91%E7%AB%99%20-%20The%20most%20valuable%20and%20professional%20IT%20business%20website%20in%20Greater%20China&se=932f255477a3c70d0619fcff8a108401&uv=128.208.4.212&cv=&zmac=0&manuid=0&ldt=6485&mzcv=&mztext=&third_ip_ck=5s+C4PP1j7QuMTgzNzkyLjEzNzgwOTU5NjQ=",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5315.21699996665,
+            "id" : "download_45",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://imp.zol.com.cn/imphit0001.gif?impid=smcmp1&barid=71037&type=1&tmp=1378095964332",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5334.3500001356,
+            "id" : "download_46",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1448486131&utmhn=www.zol.com.cn&utmcs=GBK&utmsr=2048x1152&utmvp=937x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9C%A8%E7%BA%BF%20-%20%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%9C%80%E5%85%B7%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E7%9A%84IT%E4%B8%93%E4%B8%9A%E7%BD%91%E7%AB%99%20-%20The%20most%20valuable%20and%20professional%20IT%20business%20website%20in%20Greater%20China&utmhid=331306985&utmr=-&utmp=%2F&utmht=1378095964995&utmac=UA-5405767-1&utmcc=__utma%3D139727160.2095675866.1378095965.1378095965.1378095965.1%3B%2B__utmz%3D139727160.1378095965.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5999.46400010958,
+            "id" : "download_47",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picb.zol-img.com.cn/2013/09/1378028519.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5902.89699984714,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377856560.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5912.30899980292,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picb.zol-img.com.cn/2013/09/1378028872.jpg",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5914.45600008592,
+            "id" : "download_50",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ca.cbsi.com.cn/rpv?s=zol&on=zol&id=71037&tmp=1378095964332",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5338.99800013751,
+            "id" : "download_51",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201308/qch63995hp760_0831.jpg",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5919.36600022018,
+            "id" : "download_52",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201308/gt63838hp100_0830.jpg",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5919.74999988452,
+            "id" : "download_53",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377856418.jpg",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5921.30000004545,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/08/1377856396.jpg",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5921.69999983162,
+            "id" : "download_55",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://dw.cbsi.com.cn/clear/redx/c.gif?ts=1378095964320&sid=73&ld=www.zol.com.cn&ldc=eeaafd73-b17f-4a4e-9ce3-76e166f8386f&brflv=11.8.800&brwinsz=952x1014&brscrsz=2048x1152&brlang=en-US&tcset=utf8&im=dwjs&srcurl=http%3A%2F%2Fwww.zol.com.cn%2F&title=%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9C%A8%E7%BA%BF%20-%20%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%9C%80%E5%85%B7%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E7%9A%84IT%E4%B8%93%E4%B8%9A%E7%BD%91%E7%AB%99%20-%20The%20most%20valuable%20and%20professional%20IT%20business%20website%20in%20Greater%20China",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5938.37899994105,
+            "id" : "download_56",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picb.zol-img.com.cn/2013/08/1377855764.jpg",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5915.12000001967,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201304/sliderad3e_0428.swf",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5940.83200022578,
+            "id" : "download_58",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201304/sliderad3e_0428.swf",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5940.37800002843,
+            "id" : "download_59",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201309/mic62743hp760tt_0902.swf",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5941.21300010011,
+            "id" : "download_60",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201309/mic62743hpcarzy_c_0902.swf",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5941.58399989828,
+            "id" : "download_61",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picc.zol-img.com.cn/2013/09/1377966382.jpg",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6197.77600001544,
+            "id" : "download_62",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pica.zol-img.com.cn/2013/09/1378028004.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5905.29499994591,
+            "id" : "download_63",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pica.zol-img.com.cn/2013/09/1378089189.jpg",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5918.92800014466,
+            "id" : "download_64",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://picf.zol-img.com.cn/2013/08/1377848549.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5906.91100014374,
+            "id" : "download_65",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://intf.zol.com.cn/intf_ip/get_ip2py.php?jsname=locale_ip_city&jsshen=locale_ip_province&_=1378095964871",
+         "id" : "r50",
+         "comps" : [
+            {
+               "s_time" : 6762.51000026241,
+               "time" : 0.401999801400052,
+               "type" : 2,
+               "id" : "comp_136",
+               "e_time" : 6762.91200006381
+            }
+         ],
+         "download" : {
+            "s_time" : 5879.78400010616,
+            "id" : "download_66",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201308/gt63838hp20_0830.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5920.14499986544,
+            "id" : "download_67",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201308/lg63602hp430_0819.jpg",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5920.52299994975,
+            "id" : "download_68",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pvm.zol.com.cn/images/pvhit0001.gif?t=1378095963506791&subcat=0&vuserid=&&ip_ck=5s+C4PP1j7QuMTgzNzkyLjEzNzgwOTU5NjQ=&lv=1378095964&vn=1&sr=2048x1152&sc=24&fl=11.8&ti=%E4%B8%AD%E5%85%B3%E6%9D%91%E5%9C%A8%E7%BA%BF%20-%20%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%9C%80%E5%85%B7%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E7%9A%84IT%E4%B8%93%E4%B8%9A%E7%BD%91%E7%AB%99%20-%20The%20most%20valuable%20and%20professional%20IT%20business%20website%20in%20Greater%20China&se=932f255477a3c70d0619fcff8a108401&uv=128.208.4.212&cv=&zmac=0&manuid=0&ldt=6485&mzcv=&mztext=&third_ip_ck=5s+C4PP1j7QuMTgzNzkyLjEzNzgwOTU5NjQ=",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6261.30399992689,
+            "id" : "download_69",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201309/sam59810hp250_0902.jpg",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5920.91599991545,
+            "id" : "download_70",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.zol.com.cn/statics/all_price_article/locale_city_right_beijingshi_2013.html",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6779.18499987572,
+            "id" : "download_71",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.zol.com.cn/statics/all_price_article/locale_city_beijingshi_2013.html",
+         "id" : "r76",
+         "comps" : [],
+         "download" : {
+            "s_time" : 6778.55300018564,
+            "id" : "download_72",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201306/zol14590righta_0627.jpg",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 7254.62700007483,
+            "id" : "download_73",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pic.zol-img.com.cn/201308/zol14590right_0808.jpg",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 7254.20199986547,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://2e.zol-img.com.cn/article/9_150x118/384/liGWz62vLwkVs.jpg",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 7269.86399991438,
+            "id" : "download_75",
+            "type" : "image/jpeg"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_54"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_62"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_72"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_79"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_83"
+      },
+      {
+         "a2" : "comp_62",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_54"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 1949.78799996898,
+         "id" : "dep7",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 1934.12599992007,
+         "id" : "dep8",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 1934.55100012943,
+         "id" : "dep9",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 1458.47700024024,
+         "id" : "dep10",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 1459.10899993032,
+         "id" : "dep11",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 600.83999997005,
+         "id" : "dep12",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 941.22799998149,
+         "id" : "dep13",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 600.447000004349,
+         "id" : "dep14",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 600.068999920039,
+         "id" : "dep15",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 559.70800016076,
+         "id" : "dep16",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 586.83500019834,
+         "id" : "dep17",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 598.852000199259,
+         "id" : "dep18",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 585.219000000509,
+         "id" : "dep19",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 877.70000007004,
+         "id" : "dep20",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 621.50799995288,
+         "id" : "dep21",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 621.137000154709,
+         "id" : "dep22",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 620.302000083029,
+         "id" : "dep23",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 620.756000280379,
+         "id" : "dep24",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 595.04400007427,
+         "id" : "dep25",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 618.30299999565,
+         "id" : "dep26",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 601.623999886219,
+         "id" : "dep27",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 601.22400010005,
+         "id" : "dep28",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 599.673999939119,
+         "id" : "dep29",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 599.290000274779,
+         "id" : "dep30",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 18.9220001921094,
+         "id" : "dep31",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 594.38000014052,
+         "id" : "dep32",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 592.23299985752,
+         "id" : "dep33",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 582.82099990174,
+         "id" : "dep34",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 679.38800016418,
+         "id" : "dep35",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 14.2740001901993,
+         "id" : "dep36",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 1.32500007748058,
+         "id" : "dep37",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_44",
+         "time" : -1,
+         "id" : "dep38",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 0.709000043570086,
+         "id" : "dep39",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_42",
+         "time" : -1,
+         "id" : "dep40",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 5.39400009439032,
+         "id" : "dep41",
+         "a1" : "r1_c4"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 1712.2690002434,
+         "id" : "dep42",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 1711.87900006771,
+         "id" : "dep43",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_39",
+         "time" : -1,
+         "id" : "dep44",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 1864.50200015679,
+         "id" : "dep45",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 1712.65200013295,
+         "id" : "dep46",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 1192.54600023851,
+         "id" : "dep47",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 1864.11900026724,
+         "id" : "dep48",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 1958.46199989319,
+         "id" : "dep49",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 1185.7190001756,
+         "id" : "dep50",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 1957.90000027046,
+         "id" : "dep51",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 1185.03300007433,
+         "id" : "dep52",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 356.261000037189,
+         "id" : "dep53",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 881.878000218419,
+         "id" : "dep54",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 1184.27800014615,
+         "id" : "dep55",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 1188.84300021455,
+         "id" : "dep56",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 1711.52100013569,
+         "id" : "dep57",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 1710.76600020751,
+         "id" : "dep58",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 852.103000041099,
+         "id" : "dep59",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 1710.3740000166,
+         "id" : "dep60",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 1711.16100018844,
+         "id" : "dep61",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 1709.80999991298,
+         "id" : "dep62",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 860.532999970019,
+         "id" : "dep63",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 1188.22300015018,
+         "id" : "dep64",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 1861.4050000906,
+         "id" : "dep65",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 323.640000075102,
+         "id" : "dep66",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 1187.59700004012,
+         "id" : "dep67",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 1186.3500000909,
+         "id" : "dep68",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 1186.97699997574,
+         "id" : "dep69",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 324.951000045985,
+         "id" : "dep70",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 1862.63999994844,
+         "id" : "dep71",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 1863.44600003213,
+         "id" : "dep72",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 355.861000251029,
+         "id" : "dep73",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 355.417000129819,
+         "id" : "dep74",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 309.88600011915,
+         "id" : "dep75",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 1190.09299995378,
+         "id" : "dep76",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 1189.45900024846,
+         "id" : "dep77",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 356.668000109489,
+         "id" : "dep78",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 324.535999912769,
+         "id" : "dep79",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 1709.3730000779,
+         "id" : "dep80",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 325.773000251502,
+         "id" : "dep81",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 325.366999953985,
+         "id" : "dep82",
+         "a1" : "r1_c1"
+      }
+   ]
+}

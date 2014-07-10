@@ -1,0 +1,353 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "systweak.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://systweak.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 570.160000119358,
+               "time" : 43.071999680251,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 613.231999799609
+            },
+            {
+               "s_time" : 649.780000094324,
+               "time" : 1164.9909997359,
+               "type" : "evalhtml",
+               "id" : "r1_c2",
+               "e_time" : 1814.77099983022
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 619.91300014779,
+               "time" : 29.8669999465341,
+               "type" : 1,
+               "id" : "comp_3",
+               "e_time" : 649.780000094324
+            }
+         ],
+         "download" : {
+            "s_time" : 604.301000013947,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=961333326&utmhn=systweak.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=953x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Systweak%20-%20Download%20Software%20utilities%20for%20Windows%20optimization%2C%20Scan%20%26%20Clean%20Spyware%20for%20Free&utmhid=674470027&utmr=-&utmp=%2F&utmht=1378094153350&utmac=UA-2849924-7&utmcc=__utma%3D2215474.175579575.1378094153.1378094153.1378094153.1%3B%2B__utmz%3D2215474.1378094153.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=H~",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 738.591999746859,
+            "id" : "download_2",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/css/HomePageNewStylesheet.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 959.297999739647,
+               "time" : 22.0790002495049,
+               "type" : 4,
+               "id" : "comp_7",
+               "e_time" : 981.376999989152
+            }
+         ],
+         "download" : {
+            "s_time" : 613.231999799609,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://systweak.com/WebResource.axd?d=OC_L6pfX-W2wUXM2crFR6rY0u_bXY_LjjLxkUtneznpEZzROQAh6vC80fReVYvLIja7eGqj62JSQH_qKYzicKL8oOSs1&t=634604424479085897",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 970.962999854237,
+            "id" : "download_4",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/AsoOffer.jpg",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 982.50799998641,
+            "id" : "download_5",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/AsoOffer_hover.jpg",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 983.395999763161,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/thumb_box_h.jpg",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 983.785000164062,
+            "id" : "download_7",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/WhiteBG.jpg",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 984.596000052989,
+            "id" : "download_8",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/thumb_box_n.jpg",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 984.190999995917,
+            "id" : "download_9",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/Common/HeadHome.jpg",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 984.991999808699,
+            "id" : "download_10",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/header_bottom_black.jpg",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 985.367000102997,
+            "id" : "download_11",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/line1.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 985.748999752104,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/footer_bg.jpg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 993.228999897838,
+            "id" : "download_13",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/product_icon_bottom.gif",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 993.64099977538,
+            "id" : "download_14",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/blog.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 994.001999963075,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.systweak.com/Images/common/MGCP_long.jpg",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 994.361999910325,
+            "id" : "download_16",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://r.openx.net/set?pid=a89bb081-118b-032b-5f6a-e4c1a79b1b81&rtb=9f6b7e95-e154-46ee-94ab-1d01e22922e4&cc=1",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1814.77099983022,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_3"
+      },
+      {
+         "a2" : "download_17",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 344.581999816001,
+         "id" : "dep3",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 344.221999868751,
+         "id" : "dep4",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 343.860999681056,
+         "id" : "dep5",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 343.448999803514,
+         "id" : "dep6",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 335.96899965778,
+         "id" : "dep7",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 335.587000008673,
+         "id" : "dep8",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 335.211999714375,
+         "id" : "dep9",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 334.410999901593,
+         "id" : "dep10",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 334.815999958665,
+         "id" : "dep11",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 334.005000069738,
+         "id" : "dep12",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 333.615999668837,
+         "id" : "dep13",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 332.727999892086,
+         "id" : "dep14",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 321.182999759913,
+         "id" : "dep15",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_3",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 43.071999680251,
+         "id" : "dep17",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 88.811999652535,
+         "id" : "dep18",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 34.1409998945891,
+         "id" : "dep19",
+         "a1" : "r1_c1"
+      }
+   ]
+}

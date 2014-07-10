@@ -1,0 +1,388 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "ww2.deadlyblessing.com_?",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ww2.deadlyblessing.com/?",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 777.018999999996,
+               "time" : 910.163000000014,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 1687.18200000001
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ww2.deadlyblessing.com/??framerequest=1&refurl=",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 932.522999999946,
+               "time" : 409.761000000004,
+               "id" : "r2_c1",
+               "type" : "evalhtml",
+               "e_time" : 1342.28399999995
+            },
+            {
+               "s_time" : 1440.89499999995,
+               "time" : 34.96200000007,
+               "type" : "evalhtml",
+               "id" : "r2_c2",
+               "e_time" : 1475.85700000002
+            }
+         ],
+         "download" : {
+            "s_time" : 806.452999999919,
+            "id" : "download_1",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.com/adsense/domains/caf.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1615.69799999995,
+               "time" : 60.76200000007,
+               "type" : 1,
+               "id" : "comp_74",
+               "e_time" : 1676.46000000002
+            }
+         ],
+         "download" : {
+            "s_time" : 993.254999999976,
+            "id" : "download_2",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fonts.googleapis.com/css?family=Merriweather+Sans",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1327.40200000001,
+               "time" : 13.9969999999,
+               "type" : 4,
+               "id" : "comp_9",
+               "e_time" : 1341.39899999991
+            }
+         ],
+         "download" : {
+            "s_time" : 937.116999999944,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google.com/ads/search/module/ads/1.0/00a62cd43b39e33066a8e5c21641eb7dc6ae005c/n/domains.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1379.70199999995,
+               "time" : 61.193,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 1440.89499999995
+            }
+         ],
+         "download" : {
+            "s_time" : 1342.28399999995,
+            "id" : "download_4",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.gstatic.com/domainads/tracking/caf.gif?ts=1378144452282&rid=2302179",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1445.27599999992,
+            "id" : "download_5",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://dp.g.doubleclick.net/static/caf/slave.html#slave-3-1",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 1555.17699999996,
+               "time" : 2.59000000005017,
+               "type" : "evalhtml",
+               "id" : "r11_c1",
+               "e_time" : 1557.76700000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1482.48699999999,
+            "id" : "download_6",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://dp.g.doubleclick.net/static/caf/slave.html#slave-2-1",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 1569.81199999996,
+               "time" : 1.83600000001979,
+               "type" : "evalhtml",
+               "id" : "r12_c1",
+               "e_time" : 1571.64799999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1487.46599999993,
+            "id" : "download_7",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://dp.g.doubleclick.net/static/caf/slave.html#slave-1-1",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 1578.35499999999,
+               "time" : 1.85499999998001,
+               "type" : "evalhtml",
+               "id" : "r13_c1",
+               "e_time" : 1580.20999999997
+            }
+         ],
+         "download" : {
+            "s_time" : 1493.13199999995,
+            "id" : "download_8",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://dp.g.doubleclick.net/static/caf/slave.html#slave-0-1",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 1586.34799999993,
+               "time" : 2.40800000006016,
+               "type" : "evalhtml",
+               "id" : "r14_c1",
+               "e_time" : 1588.75599999999
+            }
+         ],
+         "download" : {
+            "s_time" : 1502.36999999993,
+            "id" : "download_9",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ww2.deadlyblessing.com/template/TrinityPurpleOneClickCAF/main-bg.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1475.41100000001,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://dp.g.doubleclick.net/apps/domainpark/domainpark.cgi?client=dp-bodis01us_3ph_js&channel=013041&adtest=off&r=m&max_radlink_len=35&oe=UTF-8&ie=UTF-8&fexp=21404&format=p5%7Cs%7Cr10%7Cr6&ad=a5&adrep=2&num=0&output=caf&domain_name=ww2.deadlyblessing.com&v=3&preload=true&adext=as1%2Csr1&u_his=4&u_tz=-420&dt=1378144452296&u_w=2048&u_h=1152&biw=949&bih=688&isw=949&ish=688&psw=949&psh=0&frm=1&ui=uv3aTsLsRcc-st22sd15sv14sa14lt34lv28--wi230st14sa14lt30-wi1000st12sa12&rurl=http%3A%2F%2Fww2.deadlyblessing.com%2F%3F%3Fframerequest%3D1%26refurl%3D&ref=http%3A%2F%2Fww2.deadlyblessing.com%2F%3F#master-1",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1614.00199999991,
+               "time" : 1.28700000005006,
+               "id" : "r7_c1",
+               "type" : "evalhtml",
+               "e_time" : 1615.28899999996
+            },
+            {
+               "s_time" : 1676.46000000002,
+               "time" : 0.0199999999499596,
+               "type" : "evalhtml",
+               "id" : "r7_c2",
+               "e_time" : 1676.47999999997
+            }
+         ],
+         "download" : {
+            "s_time" : 1466.33399999996,
+            "id" : "download_11",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ww2.deadlyblessing.com/template/TrinityPurpleOneClickCAF/intro-bg.jpg",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1479.45799999991,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://themes.googleusercontent.com/static/fonts/merriweathersans/v2/AKu1CjQ4qnV8MUltkAX3sMoBJSyBiVuloIc8IXLz46o.woff",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1581.53699999991,
+            "id" : "download_13",
+            "type" : "font/woff"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ww2.deadlyblessing.com/template/TrinityPurpleOneClickCAF/search-bg.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1480.16399999995,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ww2.deadlyblessing.com/?framerequest=1&enc=cmk9NDk0NjU4JmQ9ZGVhZGx5Ymxlc3NpbmcuY29tJnM9ZnlnbnNobHhhYTd2aHFseCZzcj0mdGFnaWQ9JnQ9MjAwJml1Zj1mYWxzZSZ1Zj0mc2k9OTAmc3Q9NDcmZGs9U2hhcm9uIFN0b25lfEhvbWUgQmxlc3NpbmdzfEFubml2ZXJzYXJ5IEJsZXNzaW5nfFdlZGRpbmcgQmxlc3NpbmdzfEJsZXNzaW5nIE51biBEb2xsc3xOYXR1cmVzIEJsZXNzaW5nfEFzY2VuZCBLYXlha3N8Qmxlc3NpbmcgRHJlc3N8Qmxlc3NpbmcgQnJhY2VsZXR8QXNjZW5kIFBhbnRzfEl0YWxpYW4gQmxlc3NpbmdzfElyaXNoIEJsZXNzaW5nIEdpZnRzfExlZ2FjeSBTdG9uZXxCbGVzc2luZyBDYXJkc3xIb3VzZSBCbGVzc2luZyBQbGFxdWVzfEJsZXNzaW5ncyBVbmxpbWl0ZWR8QXNjZW5kIFBob25lfEFzY2VuZCBQcmVtaWVyfEJhcHRpc20gQmxlc3Npbmd8UHJheWVyIEJsZXNzaW5nc3xCbGVzc2luZyBCb3h8Q2hyaXN0ZW5pbmcgQmxlc3NpbmdzfERheXNwcmluZyBCbGVzc2luZ3N8QmFieSBCbGVzc2luZyBPdXRmaXRzfFNwaXJpdHVhbCBCbGVzc2luZ3M&skipg=1",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1687.18200000001,
+            "id" : "download_15",
+            "type" : "text/html"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r2_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "r7_c2",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_74"
+      },
+      {
+         "a2" : "download_15",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 703.144999999954,
+         "id" : "dep4",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 804.517999999914,
+         "id" : "dep5",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 702.438999999914,
+         "id" : "dep6",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 25.4390000000101,
+         "id" : "dep7",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 34.5160000000601,
+         "id" : "dep8",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 725.350999999934,
+         "id" : "dep9",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 716.112999999954,
+         "id" : "dep10",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 710.446999999934,
+         "id" : "dep11",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 705.467999999994,
+         "id" : "dep12",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 4.38099999997007,
+         "id" : "dep13",
+         "a1" : "r2_c2"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 565.264999999954,
+         "id" : "dep14",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 4.593999999998,
+         "id" : "dep16",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 60.73200000003,
+         "id" : "dep17",
+         "a1" : "r2_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 29.433999999923,
+         "id" : "dep18",
+         "a1" : "r1_c1"
+      }
+   ]
+}

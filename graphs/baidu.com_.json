@@ -1,0 +1,28 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "baidu.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://baidu.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 649.740000255406,
+               "time" : 0.25899987667799,
+               "type" : "evalhtml",
+               "id" : "r1_c1",
+               "e_time" : 649.999000132084
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      }
+   ],
+   "deps" : []
+}

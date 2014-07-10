@@ -1,0 +1,494 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "4dsply.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://4dsply.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 262.486000079662,
+               "time" : 22.874999791383,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 285.360999871045
+            },
+            {
+               "s_time" : 619.006999768317,
+               "time" : 0.503000337630056,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 619.510000105947
+            },
+            {
+               "s_time" : 626.89600000158,
+               "time" : 2.21699988469402,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 629.112999886274
+            },
+            {
+               "s_time" : 691.45999988541,
+               "time" : 0.274000223726034,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 691.734000109136
+            },
+            {
+               "s_time" : 692.857999820262,
+               "time" : 0.0490001402799862,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 692.906999960542
+            },
+            {
+               "s_time" : 693.388999905437,
+               "time" : 51.78500013426,
+               "type" : "evalhtml",
+               "id" : "r1_c6",
+               "e_time" : 745.174000039697
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 517.368000000715,
+               "time" : 101.638999767602,
+               "type" : 1,
+               "id" : "comp_63",
+               "e_time" : 619.006999768317
+            }
+         ],
+         "download" : {
+            "s_time" : 281.469999812543,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/css/normalize.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 394.902000203729,
+               "time" : 0.682999845593997,
+               "type" : 4,
+               "id" : "comp_5",
+               "e_time" : 395.585000049323
+            }
+         ],
+         "download" : {
+            "s_time" : 267.518000211567,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/css/bootstrap.css",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 500.926999840885,
+               "time" : 126.103000249714,
+               "type" : 4,
+               "id" : "comp_62",
+               "e_time" : 627.030000090599
+            }
+         ],
+         "download" : {
+            "s_time" : 270.281000062823,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/plugins/colorbox/colorbox.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 396.300999913365,
+               "time" : 0.572999939322017,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 396.873999852687
+            }
+         ],
+         "download" : {
+            "s_time" : 268.945000134408,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/css/main.css",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 425.148000009358,
+               "time" : 1.16800004616402,
+               "type" : 4,
+               "id" : "comp_16",
+               "e_time" : 426.316000055522
+            }
+         ],
+         "download" : {
+            "s_time" : 271.567999850959,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/css/style.css",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 427.776999771595,
+               "time" : 1.40900025144202,
+               "type" : 4,
+               "id" : "comp_18",
+               "e_time" : 429.186000023037
+            }
+         ],
+         "download" : {
+            "s_time" : 272.770000156015,
+            "id" : "download_6",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/plugins/colorbox/jquery.colorbox.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 619.543000124395,
+               "time" : 7.35299987718497,
+               "type" : 1,
+               "id" : "comp_66",
+               "e_time" : 626.89600000158
+            }
+         ],
+         "download" : {
+            "s_time" : 283.441000152379,
+            "id" : "download_7",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/js/validation.js",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 691.78200000897,
+               "time" : 1.07599981129192,
+               "type" : 1,
+               "id" : "comp_73",
+               "e_time" : 692.857999820262
+            }
+         ],
+         "download" : {
+            "s_time" : 285.029000137001,
+            "id" : "download_8",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/js/main.js",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 692.929000128061,
+               "time" : 0.45999977737597,
+               "type" : 1,
+               "id" : "comp_75",
+               "e_time" : 693.388999905437
+            }
+         ],
+         "download" : {
+            "s_time" : 285.360999871045,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/images/logo.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 275.768999941647,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://service.rapidpaytoday.com/payday.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 685.043000150472,
+               "time" : 6.41699973493792,
+               "type" : 1,
+               "id" : "comp_71",
+               "e_time" : 691.45999988541
+            }
+         ],
+         "download" : {
+            "s_time" : 284.655000083148,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/images/banner.jpg",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 276.591999921948,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/images/bullet.png",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 628.717999905348,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/images/btn-contact-adsupply.png",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 629.112999886274,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/plugins/colorbox/images/border2.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 745.174000039697,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://4dsply.com/plugins/colorbox/images/border1.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 744.659999851137,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_63"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_66"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_71"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_73"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_75"
+      },
+      {
+         "a2" : "comp_63",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "comp_63",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "comp_63",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_62"
+      },
+      {
+         "a2" : "comp_63",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_16"
+      },
+      {
+         "a2" : "comp_63",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_18"
+      },
+      {
+         "a2" : "comp_71",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_66"
+      },
+      {
+         "a2" : "comp_73",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_71"
+      },
+      {
+         "a2" : "comp_75",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_73"
+      },
+      {
+         "a2" : "download_16",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_15",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_14",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 1.82199990376807,
+         "id" : "dep17",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 14.105999842286,
+         "id" : "dep18",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 13.282999861985,
+         "id" : "dep20",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 22.543000057339,
+         "id" : "dep22",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 20.955000072717,
+         "id" : "dep23",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 10.284000076353,
+         "id" : "dep24",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 9.08199977129698,
+         "id" : "dep25",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 6.45900005474601,
+         "id" : "dep26",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 7.79499998316101,
+         "id" : "dep27",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 5.03200013190502,
+         "id" : "dep28",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 18.983999732881,
+         "id" : "dep29",
+         "a1" : "r1_c1"
+      }
+   ]
+}

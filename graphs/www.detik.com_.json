@@ -1,0 +1,357 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.detik.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.detik.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 1101.25599999992,
+               "time" : 35.08800000009,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1136.34400000001
+            },
+            {
+               "s_time" : 1592.13799999998,
+               "time" : 450.09200000004,
+               "type" : "evalhtml",
+               "id" : "r1_c2",
+               "e_time" : 2042.23000000002
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/urchin.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1578.25600000001,
+               "time" : 13.8819999999698,
+               "type" : 1,
+               "id" : "comp_6",
+               "e_time" : 1592.13799999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1131.94300000009,
+            "id" : "download_1",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/css/detikads201203.css?2013090300",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1790.92300000002,
+               "time" : 4.06299999986004,
+               "type" : 4,
+               "id" : "comp_14",
+               "e_time" : 1794.98599999988
+            }
+         ],
+         "download" : {
+            "s_time" : 1133.49700000003,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/css/detik201203.css?2013090300",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 2025.72499999997,
+               "time" : 15.7160000001102,
+               "type" : 4,
+               "id" : "comp_18",
+               "e_time" : 2041.44100000008
+            }
+         ],
+         "download" : {
+            "s_time" : 1135.53000000002,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/css/detik_frame201203.css?2013090300",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1615.83300000007,
+               "time" : 0.845999999910191,
+               "type" : 4,
+               "id" : "comp_9",
+               "e_time" : 1616.67899999998
+            }
+         ],
+         "download" : {
+            "s_time" : 1135.97400000003,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/css/topbar.css?2013090300",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 1819.0669999999,
+               "time" : 2.65800000010995,
+               "type" : 4,
+               "id" : "comp_15",
+               "e_time" : 1821.72500000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1136.34400000001,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 1625.76399999989,
+               "time" : 81.1710000000398,
+               "type" : 2,
+               "id" : "comp_10",
+               "e_time" : 1706.93499999993
+            }
+         ],
+         "download" : {
+            "s_time" : 1613.73600000002,
+            "id" : "download_6",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1588955629&utmhn=www.detik.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=949x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=detikcom%20%3A%20situs%20warta%20era%20digital&utmhid=576606294&utmr=-&utmp=%2F&utmht=1378144696816&utmac=UA-891770-5&utmcc=__utma%3D146380193.2045843121.1378144697.1378144697.1378144697.1%3B%2B__utmz%3D146380193.1378144697.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAAAAAAg~",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1683.77600000008,
+            "id" : "download_7",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=1270719211&utmhn=www.detik.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=949x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=detikcom%20%3A%20situs%20warta%20era%20digital&utmhid=576606294&utmr=-&utmp=%2F&utmht=1378144696826&utmac=UA-891770-59&utmcc=__utma%3D146380193.2045843121.1378144697.1378144697.1378144697.1%3B%2B__utmz%3D146380193.1378144697.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qhAAAAAgAAI~",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1709.42100000002,
+            "id" : "download_8",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=3&utmn=165575808&utmhn=www.detik.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=949x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=detikcom%20%3A%20situs%20warta%20era%20digital&utmhid=576606294&utmr=-&utmp=%2F&utmht=1378144696838&utmac=UA-891770-118&utmcc=__utma%3D146380193.2045843121.1378144697.1378144697.1378144697.1%3B%2B__utmz%3D146380193.1378144697.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qhAAAAAgAAI~",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1709.94100000007,
+            "id" : "download_9",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/__utm.gif?utmwv=1&utmn=2045843121&utmcs=UTF-8&utmsr=2048x1152&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmcn=1&utmdt=detikcom%20%3A%20situs%20warta%20era%20digital&utmhn=www.detik.com&utmr=-&utmp=/",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1615.09799999999,
+            "id" : "download_10",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=481600557&utmhn=www.detik.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=949x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=detikcom%20%3A%20situs%20warta%20era%20digital&utmhid=576606294&utmr=-&utmp=%2F",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1710.39700000006,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.detik.com/image/bg_new.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2042.23000000002,
+            "id" : "download_12",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googletagservices.com/tag/js/gpt.js",
+         "id" : "r14",
+         "comps" : [
+            {
+               "s_time" : 2490.64900000008,
+               "time" : 97.66300000001,
+               "type" : null,
+               "id" : "comp_28",
+               "e_time" : 2588.31200000009
+            },
+            {
+               "s_time" : 2588.33899999991,
+               "time" : 21.2060000001202,
+               "type" : null,
+               "id" : "comp_30",
+               "e_time" : 2609.54500000003
+            }
+         ],
+         "download" : {
+            "s_time" : 2039.65500000004,
+            "id" : "download_13",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://partner.googleadservices.com/gpt/pubads_impl_25.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 2998.68399999991,
+               "time" : 35.4190000000499,
+               "type" : null,
+               "id" : "comp_32",
+               "e_time" : 3034.10299999996
+            }
+         ],
+         "download" : {
+            "s_time" : 2584.4810000001,
+            "id" : "download_14",
+            "type" : "text/javascript"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_6"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 93.8320000000199,
+         "id" : "dep2",
+         "a1" : "comp_28"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 447.51700000006,
+         "id" : "dep3",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 118.25900000008,
+         "id" : "dep5",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 22.96000000001,
+         "id" : "dep6",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 117.80300000009,
+         "id" : "dep7",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 117.28300000004,
+         "id" : "dep8",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 91.6380000001002,
+         "id" : "dep9",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 21.5980000000402,
+         "id" : "dep10",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_5",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 34.7180000001099,
+         "id" : "dep12",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 34.2740000000999,
+         "id" : "dep13",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 32.24100000011,
+         "id" : "dep14",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 32.24100000011,
+         "id" : "dep15",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 30.68700000017,
+         "id" : "dep16",
+         "a1" : "r1_c1"
+      }
+   ]
+}

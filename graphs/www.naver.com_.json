@@ -1,0 +1,1909 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.naver.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.naver.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 759.142999999995,
+               "time" : 98.5769999999769,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 857.719999999972
+            },
+            {
+               "s_time" : 860.660999999936,
+               "time" : 345.820999999884,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1206.48199999982
+            },
+            {
+               "s_time" : 1404.5349999999,
+               "time" : 0.0990000000899727,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1404.63399999999
+            },
+            {
+               "s_time" : 1438.18699999997,
+               "time" : 0.0760000000398122,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 1438.26300000001
+            },
+            {
+               "s_time" : 1444.10999999991,
+               "time" : 0.0720000000499113,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 1444.18199999996
+            },
+            {
+               "s_time" : 1451.71099999993,
+               "time" : 1821.65600000008,
+               "type" : "evalhtml",
+               "id" : "r1_c6",
+               "e_time" : 3273.36700000001
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/css/main_v20130826.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 790.355999999974,
+               "time" : 37.188000000015,
+               "type" : 4,
+               "id" : "comp_2",
+               "e_time" : 827.543999999989
+            }
+         ],
+         "download" : {
+            "s_time" : 763.585999999805,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/css/api_atcmp_v20130709.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 828.049999999848,
+               "time" : 29.7199999999981,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 857.769999999846
+            }
+         ],
+         "download" : {
+            "s_time" : 764.091999999891,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/js/c/nlog_20120319.min.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 858.204999999998,
+               "time" : 2.45599999993806,
+               "type" : 1,
+               "id" : "comp_5",
+               "e_time" : 860.660999999936
+            }
+         ],
+         "download" : {
+            "s_time" : 764.486999999917,
+            "id" : "download_3",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/js/c/JEagleEyeClient_20120111.min.js?v=2",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1195.61099999987,
+               "time" : 1.85299999998006,
+               "type" : 2,
+               "id" : "comp_32",
+               "e_time" : 1197.46399999985
+            }
+         ],
+         "download" : {
+            "s_time" : 864.988999999923,
+            "id" : "download_4",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/js/c/jindo.all.2013030601.min.js",
+         "id" : "r57",
+         "comps" : [
+            {
+               "s_time" : 1298.47099999984,
+               "time" : 106.06400000006,
+               "type" : 1,
+               "id" : "comp_33",
+               "e_time" : 1404.5349999999
+            }
+         ],
+         "download" : {
+            "s_time" : 1151.05399999993,
+            "id" : "download_5",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/js/c/ntop2_20130828.min.js",
+         "id" : "r59",
+         "comps" : [
+            {
+               "s_time" : 1438.31099999989,
+               "time" : 5.79900000001999,
+               "type" : 1,
+               "id" : "comp_36",
+               "e_time" : 1444.10999999991
+            }
+         ],
+         "download" : {
+            "s_time" : 1151.86899999981,
+            "id" : "download_6",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/js/c/ntop1_20130822.min.js",
+         "id" : "r58",
+         "comps" : [
+            {
+               "s_time" : 1404.68699999997,
+               "time" : 33.5,
+               "type" : 1,
+               "id" : "comp_34",
+               "e_time" : 1438.18699999997
+            }
+         ],
+         "download" : {
+            "s_time" : 1151.49899999983,
+            "id" : "download_7",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.naver.com/js/c/ntop3_20130709.min.js?2",
+         "id" : "r60",
+         "comps" : [
+            {
+               "s_time" : 1444.22899999995,
+               "time" : 7.48199999997996,
+               "type" : 1,
+               "id" : "comp_38",
+               "e_time" : 1451.71099999993
+            }
+         ],
+         "download" : {
+            "s_time" : 1152.24799999987,
+            "id" : "download_8",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sstatic.naver.com/search/images11/btn_atcmp_down_on.gif",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 927.575999999817,
+            "id" : "download_9",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://nv1.ad.naver.com/adshow?unit=002AG&nrefreshx=0",
+         "id" : "r21",
+         "comps" : [
+            {
+               "s_time" : 1660.2469999998,
+               "time" : 949.49500000007,
+               "id" : "r21_c1",
+               "type" : "evalhtml",
+               "e_time" : 2609.74199999987
+            },
+            {
+               "s_time" : 2610.412,
+               "time" : 0.0439999998902749,
+               "id" : "r21_c2",
+               "type" : "evalhtml",
+               "e_time" : 2610.45599999989
+            },
+            {
+               "s_time" : 2611.55599999984,
+               "time" : 11.90199999996,
+               "type" : "evalhtml",
+               "id" : "r21_c3",
+               "e_time" : 2623.4579999998
+            }
+         ],
+         "download" : {
+            "s_time" : 944.94399999985,
+            "id" : "download_10",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sstatic.naver.net/search/images11/img_atcmp15.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 928.805000000011,
+            "id" : "download_11",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sstatic.naver.net/search/img2/btn_help.gif",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 946.486999999934,
+            "id" : "download_12",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sstatic.naver.net/keypage/lifesrch/exchange/ico_@8@1.gif",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 947.11499999994,
+            "id" : "download_13",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/sp_u_skip.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 878.234999999904,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/sp_main20130813.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 948.020999999926,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/dl_qr_naver.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 948.388999999906,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/u/2013/0819/nmms_111143893.gif",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 949.159999999893,
+            "id" : "download_17",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2012/naver_homepage.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 948.780999999826,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/sp_mn20130801v3.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 949.538999999959,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/sp_rgt20130626.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 949.907999999823,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/w9/blank.gif",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 950.275999999803,
+            "id" : "download_21",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1119/nsd113852954.gif",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1194.30999999986,
+            "id" : "download_22",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2013/0111/nsd10118864.gif",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1195.52299999987,
+            "id" : "download_23",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1118/nsd17425192.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1195.12899999995,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1119/nsd102852391.gif",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1195.91199999991,
+            "id" : "download_25",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2013/0130/nsd104440320.gif",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1196.26699999981,
+            "id" : "download_26",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/sp_main_high20130806.png",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1196.63199999991,
+            "id" : "download_27",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2013/0603/nsd163958474.gif",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1197.35900000001,
+            "id" : "download_28",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1118/nsd165753754.gif",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1196.98699999981,
+            "id" : "download_29",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2013/0409/nsd16247594.gif",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1197.72399999988,
+            "id" : "download_30",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1116/nsd183039979.gif",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1198.083,
+            "id" : "download_31",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1116/nsd19334215.gif",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1198.46099999995,
+            "id" : "download_32",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2012/1125/nsd14465916.gif",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1199.21399999998,
+            "id" : "download_33",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/newsstand/up/2013/0409/nsd163758547.gif",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1198.85299999987,
+            "id" : "download_34",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/thumb.opencast/opencast01/n/a/naver_story/20130902/15373641538870.jpg?type=f10060",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1199.59399999993,
+            "id" : "download_35",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/thumb.opencast/opencast01/n/a/naver_story/20130902/19510645742252.jpg?type=f10060",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1199.98299999997,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.net/m/weather/2011/im/wt170_@1@.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 933.864999999969,
+            "id" : "download_37",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/thumb.opencast/opencast01/n/a/naver_story/20130902/19505391614915.jpg?type=f10060",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1200.38399999999,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/thumb.opencast/opencast01/n/a/naver_story/20130902/19511627591054.jpg?type=f10060",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1200.77900000001,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.net/m/weather/2011/im/wt170_@2@.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 947.651999999835,
+            "id" : "download_40",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_201214335c.jpg",
+         "id" : "r40",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1201.56899999984,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_20121316c.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1201.1779999998,
+            "id" : "download_42",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_201432435c.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1201.96299999998,
+            "id" : "download_43",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_201444597c.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1202.39699999979,
+            "id" : "download_44",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2012/0911/mat_11836625c.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1202.76100000001,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_202131709c.jpg",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1203.19599999993,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2012/0903/mat_205027937c.jpg",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1203.58899999997,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_202144482c.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1203.96699999992,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0628/mat_1043095c.jpg",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1204.34599999999,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_202610590c.jpg",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1204.71099999986,
+            "id" : "download_50",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/up/2013/0830/mat_202639710c.jpg",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1205.07499999985,
+            "id" : "download_51",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/cast_moreview.png",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1205.42499999988,
+            "id" : "download_52",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/u/2013/0830/nmms_224043541.jpg",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1205.782,
+            "id" : "download_53",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/u/2013/0902/nmms_22957818.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1206.13600000001,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/w8/n.gif",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1206.48199999982,
+            "id" : "download_55",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://nv2.ad.naver.com/adshow?unit=002AK&nrefreshx=0",
+         "id" : "r52",
+         "comps" : [
+            {
+               "s_time" : 1956.88599999994,
+               "time" : 0.859999999880074,
+               "type" : "evalhtml",
+               "id" : "r52_c1",
+               "e_time" : 1957.74599999982
+            }
+         ],
+         "download" : {
+            "s_time" : 1139.74799999983,
+            "id" : "download_56",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://lcs.naver.com/m?u=http%3A%2F%2Fwww.naver.com%2F&e=&i=&os=MacIntel&ln=en-US&sr=2048x1152&bw=935&bh=688&c=24&j=Y&jv=1.8&k=Y&fv=11.8&sl=&ct=&cta=N&p=Remoting%20Viewer%3BNative%20Client%3BShockwave%20Flash%3BiPhotoPhotocast%3BJava%20Applet%20Plug-in%3BQuickTime%20Plug-in%207.6.6&EOU",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 877.637999999934,
+            "id" : "download_57",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://static.nid.naver.com/login.nhn?svc=me&url=http%3A%2F%2Fwww.naver.com&t=20120425",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 2425.98899999984,
+               "time" : 844.44600000007,
+               "type" : "evalhtml",
+               "id" : "r51_c1",
+               "e_time" : 3270.43499999991
+            }
+         ],
+         "download" : {
+            "s_time" : 1136.05399999983,
+            "id" : "download_58",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/css/min/adcast_v5.min.css?111110",
+         "id" : "r61",
+         "comps" : [
+            {
+               "s_time" : 2582.19199999985,
+               "time" : 1.73600000015995,
+               "type" : 2,
+               "id" : "comp_118",
+               "e_time" : 2583.92800000001
+            }
+         ],
+         "download" : {
+            "s_time" : 1662.14799999989,
+            "id" : "download_59",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/js/adcast/min/a110718.min.js?120905",
+         "id" : "r63",
+         "comps" : [
+            {
+               "s_time" : 2609.78499999987,
+               "time" : 0.62700000013001,
+               "type" : 1,
+               "id" : "comp_121",
+               "e_time" : 2610.412
+            }
+         ],
+         "download" : {
+            "s_time" : 1663.19299999986,
+            "id" : "download_60",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/js/min/da.min.js?120905",
+         "id" : "r62",
+         "comps" : [
+            {
+               "s_time" : 2607.8329999998,
+               "time" : 1.81200000019999,
+               "type" : 2,
+               "id" : "comp_120",
+               "e_time" : 2609.645
+            }
+         ],
+         "download" : {
+            "s_time" : 1662.79599999984,
+            "id" : "download_61",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/js/min/da.picnic.min.js?120905",
+         "id" : "r64",
+         "comps" : [
+            {
+               "s_time" : 2610.84899999992,
+               "time" : 0.706999999919844,
+               "type" : 1,
+               "id" : "comp_122",
+               "e_time" : 2611.55599999984
+            }
+         ],
+         "download" : {
+            "s_time" : 1663.58199999991,
+            "id" : "download_62",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.nid.naver.com/loginv3/css/main_login.css?130402",
+         "id" : "r67",
+         "comps" : [
+            {
+               "s_time" : 2615.16099999994,
+               "time" : 1.09399999997004,
+               "type" : 2,
+               "id" : "comp_126",
+               "e_time" : 2616.25499999991
+            }
+         ],
+         "download" : {
+            "s_time" : 2427.03699999993,
+            "id" : "download_63",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/css/common.css?080714",
+         "id" : "r65",
+         "comps" : [
+            {
+               "s_time" : 2617.26399999998,
+               "time" : 0.289999999949941,
+               "type" : 2,
+               "id" : "comp_127",
+               "e_time" : 2617.55399999993
+            }
+         ],
+         "download" : {
+            "s_time" : 1958.25599999989,
+            "id" : "download_64",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/1013/1013352/280_150_10407_1.jpg",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2005.987,
+            "id" : "download_65",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/system/adcast/img/bg_adcast5.png",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2585.59799999989,
+            "id" : "download_66",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/common/da/da_access.png",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2626.32299999996,
+            "id" : "download_67",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/system/adcast/img/ln_adcast2.png",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2677.07799999994,
+            "id" : "download_68",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/system/adcast/expand/Movie_templet_475x383_FUIT.swf",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2680.81499999994,
+            "id" : "download_69",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.nid.naver.com/loginv3/js/loginv3.js?20130524",
+         "id" : "r68",
+         "comps" : [
+            {
+               "s_time" : 3240.06099999997,
+               "time" : 8.86599999989994,
+               "type" : null,
+               "id" : "comp_156",
+               "e_time" : 3248.92699999987
+            }
+         ],
+         "download" : {
+            "s_time" : 2428.05399999997,
+            "id" : "download_70",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://castbox.shopping.naver.com/index.nhn",
+         "id" : "r53",
+         "comps" : [
+            {
+               "s_time" : 2726.94299999989,
+               "time" : 392.11,
+               "id" : "r53_c1",
+               "type" : "evalhtml",
+               "e_time" : 3119.05299999989
+            },
+            {
+               "s_time" : 3122.68899999981,
+               "time" : 36.91700000013,
+               "type" : "evalhtml",
+               "id" : "r53_c2",
+               "e_time" : 3159.60599999994
+            }
+         ],
+         "download" : {
+            "s_time" : 1143.6299999998,
+            "id" : "download_71",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative.naver.com/ad3/1055/1055823/Naver_475x100cs3_3.swf",
+         "id" : "r77",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2950.84499999984,
+            "id" : "download_72",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.shopping.naver.net/co/js/v24/castbox-nclktag-min_v24.js?d=20130531_1028",
+         "id" : "r75",
+         "comps" : [
+            {
+               "s_time" : 3119.09999999989,
+               "time" : 3.58899999992036,
+               "type" : 1,
+               "id" : "comp_142",
+               "e_time" : 3122.68899999981
+            }
+         ],
+         "download" : {
+            "s_time" : 2731.86099999998,
+            "id" : "download_73",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.shopping.naver.net/co/css/v33/castbox_v33_6.css?d=20130610_1117",
+         "id" : "r74",
+         "comps" : [
+            {
+               "s_time" : 3108.89699999984,
+               "time" : 50.90199999995,
+               "type" : 4,
+               "id" : "comp_140",
+               "e_time" : 3159.79899999979
+            }
+         ],
+         "download" : {
+            "s_time" : 2731.42899999993,
+            "id" : "download_74",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img.naver.net/static/www/sp_shop20121030v2.png",
+         "id" : "r78",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3126.49499999998,
+            "id" : "download_75",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.nid.naver.com/loginv3/img/sp_login_m.png",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3272.919,
+            "id" : "download_76",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.nid.naver.com/loginv3/img/btn_login_m.png",
+         "id" : "r93",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3273.36700000001,
+            "id" : "download_77",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/aed6e139-1032-4df5-b103-939015564e06.jpg",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3150.00499999996,
+            "id" : "download_78",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201309/e18ec203-1e51-43f8-a5fc-4d13f016652b.jpg",
+         "id" : "r80",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3164.11099999982,
+            "id" : "download_79",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201309/dd0845ab-7507-4a32-86bd-358f3e1f9be7.jpg",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3165.46099999982,
+            "id" : "download_80",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201309/0b9da609-4a2b-49f5-b8de-5ccb0e742eb0.jpg",
+         "id" : "r84",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3166.61099999988,
+            "id" : "download_81",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/a2ceb92d-474d-4264-9ae6-dc3d47f7832a.jpg",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3165.8759999998,
+            "id" : "download_82",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/11a7d3a6-d062-45db-ae98-62d1307dd1bb.jpg",
+         "id" : "r83",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3166.24499999989,
+            "id" : "download_83",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201309/d9afc4b4-d113-43c9-b053-c6c15d3f75d8.jpg",
+         "id" : "r85",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3166.97499999987,
+            "id" : "download_84",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/74fc217c-9632-45e4-8d88-5e29e4b9a483.jpg",
+         "id" : "r86",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3167.34499999984,
+            "id" : "download_85",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/7fd2e607-2620-44cd-b7fe-82cb2f56de18.jpg",
+         "id" : "r87",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3167.70899999983,
+            "id" : "download_86",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/f0fbd0c6-2d2d-4869-a68d-2d74e36fac90.jpg",
+         "id" : "r88",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3168.15199999996,
+            "id" : "download_87",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/b76ea2e5-9a81-44bb-890e-1e542605a24f.jpg",
+         "id" : "r89",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3168.53700000001,
+            "id" : "download_88",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://shopping.phinf.naver.net/201308/63d56bee-db99-4110-a559-90d4e8f3c28a.jpg",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3168.89999999989,
+            "id" : "download_89",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://imgshopping.naver.net/admin/iu/luckto/13/0902/80evuclj7yb.gif",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3161.39799999996,
+            "id" : "download_90",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_5"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_33"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_34"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_38"
+      },
+      {
+         "a2" : "comp_34",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_33"
+      },
+      {
+         "a2" : "comp_36",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_34"
+      },
+      {
+         "a2" : "comp_38",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "r21_c2",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_121"
+      },
+      {
+         "a2" : "r21_c3",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_122"
+      },
+      {
+         "a2" : "comp_122",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_121"
+      },
+      {
+         "a2" : "r53_c2",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_142"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 735.40900000012,
+         "id" : "dep13",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 742.91100000005,
+         "id" : "dep14",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 742.54800000017,
+         "id" : "dep15",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 742.16300000012,
+         "id" : "dep16",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 741.71999999999,
+         "id" : "dep17",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 741.356,
+         "id" : "dep18",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 740.98600000003,
+         "id" : "dep19",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 740.25600000005,
+         "id" : "dep20",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_82",
+         "time" : 739.88699999996,
+         "id" : "dep21",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 740.62200000004,
+         "id" : "dep22",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 739.47199999998,
+         "id" : "dep23",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 738.12199999998,
+         "id" : "dep24",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 27.3160000001499,
+         "id" : "dep25",
+         "a1" : "r53_c2"
+      },
+      {
+         "a2" : "download_78",
+         "time" : 724.01600000012,
+         "id" : "dep26",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_77",
+         "time" : -1,
+         "id" : "dep27",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_76",
+         "time" : 1821.20800000007,
+         "id" : "dep28",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 3.80600000016966,
+         "id" : "dep29",
+         "a1" : "r53_c2"
+      },
+      {
+         "a2" : "download_75",
+         "time" : 700.50600000014,
+         "id" : "dep30",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 4.48600000003989,
+         "id" : "dep31",
+         "a1" : "r53_c1"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 305.44000000009,
+         "id" : "dep32",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 4.91800000008971,
+         "id" : "dep33",
+         "a1" : "r53_c1"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 305.87200000014,
+         "id" : "dep34",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 223.90199999995,
+         "id" : "dep35",
+         "a1" : "r53_c1"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 524.856,
+         "id" : "dep36",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_71",
+         "time" : 282.968999999864,
+         "id" : "dep37",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 2.06500000013011,
+         "id" : "dep38",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 767.80700000017,
+         "id" : "dep39",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 254.8260000001,
+         "id" : "dep40",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 251.0890000001,
+         "id" : "dep41",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 200.33400000012,
+         "id" : "dep42",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 159.60900000005,
+         "id" : "dep43",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 925.35100000009,
+         "id" : "dep44",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 345.7400000002,
+         "id" : "dep45",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 298.00900000009,
+         "id" : "dep46",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 1.04800000008981,
+         "id" : "dep47",
+         "a1" : "r51_c1"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 766.79000000013,
+         "id" : "dep48",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 3.33500000011009,
+         "id" : "dep49",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 2.54900000004,
+         "id" : "dep50",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 2.94600000005994,
+         "id" : "dep51",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 1.90100000009011,
+         "id" : "dep52",
+         "a1" : "r21_c1"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 275.392999999894,
+         "id" : "dep53",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 16.9769999999979,
+         "id" : "dep54",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 279.086999999894,
+         "id" : "dep55",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_55",
+         "time" : -1,
+         "id" : "dep56",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 345.475000000074,
+         "id" : "dep57",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 345.121000000064,
+         "id" : "dep58",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 344.763999999944,
+         "id" : "dep59",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 344.413999999914,
+         "id" : "dep60",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 344.049999999924,
+         "id" : "dep61",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 343.685000000054,
+         "id" : "dep62",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 343.305999999984,
+         "id" : "dep63",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 342.928000000034,
+         "id" : "dep64",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 342.534999999994,
+         "id" : "dep65",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 342.100000000074,
+         "id" : "dep66",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 341.735999999854,
+         "id" : "dep67",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 341.302000000044,
+         "id" : "dep68",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 340.516999999864,
+         "id" : "dep69",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 340.907999999904,
+         "id" : "dep70",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 86.9909999998989,
+         "id" : "dep71",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 340.118000000074,
+         "id" : "dep72",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 339.723000000054,
+         "id" : "dep73",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 73.2040000000329,
+         "id" : "dep74",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 339.322000000034,
+         "id" : "dep75",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 338.932999999994,
+         "id" : "dep76",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 338.191999999934,
+         "id" : "dep77",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 338.553000000044,
+         "id" : "dep78",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 337.800000000014,
+         "id" : "dep79",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 337.422000000064,
+         "id" : "dep80",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 337.062999999944,
+         "id" : "dep81",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 336.325999999874,
+         "id" : "dep82",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 336.698000000074,
+         "id" : "dep83",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 335.970999999974,
+         "id" : "dep84",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 335.605999999874,
+         "id" : "dep85",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 335.250999999974,
+         "id" : "dep86",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 334.468000000014,
+         "id" : "dep87",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 334.861999999934,
+         "id" : "dep88",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 333.648999999924,
+         "id" : "dep89",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 89.614999999867,
+         "id" : "dep90",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 89.246999999887,
+         "id" : "dep91",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 88.8780000000229,
+         "id" : "dep92",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 88.11999999989,
+         "id" : "dep93",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 88.4989999999569,
+         "id" : "dep94",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 87.7279999999699,
+         "id" : "dep95",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 87.3599999999899,
+         "id" : "dep96",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 17.5739999999679,
+         "id" : "dep97",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 86.4540000000039,
+         "id" : "dep98",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 85.825999999998,
+         "id" : "dep99",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 68.1440000000749,
+         "id" : "dep100",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 84.282999999914,
+         "id" : "dep101",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 66.9149999998809,
+         "id" : "dep102",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 291.586999999934,
+         "id" : "dep103",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 290.837999999894,
+         "id" : "dep104",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 291.207999999874,
+         "id" : "dep105",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 290.392999999994,
+         "id" : "dep106",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 4.3279999999869,
+         "id" : "dep107",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 5.34399999992195,
+         "id" : "dep108",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 5.34399999992195,
+         "id" : "dep109",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 4.94899999989593,
+         "id" : "dep110",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 4.44299999981001,
+         "id" : "dep111",
+         "a1" : "r1_c1"
+      }
+   ]
+}

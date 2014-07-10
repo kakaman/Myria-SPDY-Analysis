@@ -1,0 +1,241 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.ganji.com_index.htm",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.ganji.com/index.htm",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 487.471000000141,
+               "time" : 1099.246,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1586.71700000014
+            },
+            {
+               "s_time" : 1815.30399999997,
+               "time" : 1832.81299999999,
+               "type" : "evalhtml",
+               "id" : "r1_c2",
+               "e_time" : 3648.11699999996
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/css/ued/city-index/category.cmb.__1376988278__.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1578.76499999998,
+               "time" : 8.01000000001,
+               "type" : 4,
+               "id" : "comp_6",
+               "e_time" : 1586.77499999999
+            }
+         ],
+         "download" : {
+            "s_time" : 509.663000000046,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/js/util/ganji/ganji.__1375880453__.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 1778.37599999998,
+               "time" : 36.9279999999901,
+               "type" : 1,
+               "id" : "comp_9",
+               "e_time" : 1815.30399999997
+            }
+         ],
+         "download" : {
+            "s_time" : 510.312999999996,
+            "id" : "download_2",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/js/util/jquery/jquery-1.8.2.__1370678730__.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 3296.56199999999,
+               "time" : 38.8510000000301,
+               "type" : 2,
+               "id" : "comp_26",
+               "e_time" : 3335.41300000002
+            }
+         ],
+         "download" : {
+            "s_time" : 2004.97100000007,
+            "id" : "download_3",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/app/ms/changecity/index.cmb.__1377779551__.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 3255.84300000014,
+               "time" : 40.1909999998202,
+               "type" : 2,
+               "id" : "comp_23",
+               "e_time" : 3296.03399999996
+            }
+         ],
+         "download" : {
+            "s_time" : 2005.8610000001,
+            "id" : "download_4",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/app/ms/changecity/index_page.__1348743872__.js",
+         "id" : "r10",
+         "comps" : [
+            {
+               "s_time" : 2960.70800000007,
+               "time" : 272.91500000001,
+               "type" : 2,
+               "id" : "comp_20",
+               "e_time" : 3233.62300000008
+            }
+         ],
+         "download" : {
+            "s_time" : 2006.71299999999,
+            "id" : "download_5",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/image/category/ganji-banner.jpg",
+         "id" : "r5",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2007.10400000003,
+            "id" : "download_6",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://sta.ganjistatic1.com/public/image/category/city-arrow.png",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2007.44800000007,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stacdn201.ganjistatic1.com/src/image/category/ganji-logo.png",
+         "id" : "r4",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1827.19599999996,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://stacdn201.ganjistatic1.com/src/image/globle/ued/tag-new.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2007.79299999999,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 192.48900000002,
+         "id" : "dep2",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 11.8919999999898,
+         "id" : "dep3",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 192.1440000001,
+         "id" : "dep4",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 191.80000000006,
+         "id" : "dep5",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 191.40900000002,
+         "id" : "dep6",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 190.55700000013,
+         "id" : "dep7",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 189.6670000001,
+         "id" : "dep8",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 22.841999999855,
+         "id" : "dep9",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 22.841999999855,
+         "id" : "dep10",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 22.191999999905,
+         "id" : "dep11",
+         "a1" : "r1_c1"
+      }
+   ]
+}

@@ -1,0 +1,648 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.pof.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pof.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 315.016000000014,
+               "time" : 8.54200000003402,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 323.558000000048
+            },
+            {
+               "s_time" : 402.016000000003,
+               "time" : 77.323000000206,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 479.339000000209
+            },
+            {
+               "s_time" : 492.108000000144,
+               "time" : 999.006000000006,
+               "type" : "evalhtml",
+               "id" : "r1_c3",
+               "e_time" : 1491.11400000015
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.googleadservices.com/pagead/conversion.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 479.369000000133,
+               "time" : 12.739000000011,
+               "type" : 1,
+               "id" : "comp_12",
+               "e_time" : 492.108000000144
+            }
+         ],
+         "download" : {
+            "s_time" : 323.558000000048,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/css/versioned/main.min.7378.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 344.287000000122,
+               "time" : 9.35200000003499,
+               "type" : 4,
+               "id" : "comp_2",
+               "e_time" : 353.639000000157
+            }
+         ],
+         "download" : {
+            "s_time" : 319.368000000168,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://fonts.googleapis.com/css?family=Open+Sans",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 354.491000000053,
+               "time" : 11.122000000114,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 365.613000000167
+            }
+         ],
+         "download" : {
+            "s_time" : 319.985000000088,
+            "id" : "download_3",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/javascript/versioned/pofcommon.min.6916.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 367.208000000119,
+               "time" : 34.807999999884,
+               "type" : 1,
+               "id" : "comp_4",
+               "e_time" : 402.016000000003
+            }
+         ],
+         "download" : {
+            "s_time" : 320.3460000002,
+            "id" : "download_4",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r26",
+         "comps" : [
+            {
+               "s_time" : 756.042000000207,
+               "time" : 82.1559999999409,
+               "type" : null,
+               "id" : "comp_28",
+               "e_time" : 838.198000000148
+            }
+         ],
+         "download" : {
+            "s_time" : 479.109000000108,
+            "id" : "download_5",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/noise.gif",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 641.466000000037,
+            "id" : "download_6",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/images/pofv3/pof-web-header-top-bg.png",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 641.917000000149,
+            "id" : "download_7",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/images/pofv3/pof-web-header-divider-c.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 642.681000000039,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/images/pofv3/pof-web-header-divider.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 643.04200000015,
+            "id" : "download_9",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/images/pofv3/pof-web-header-logo.png",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 642.31000000018,
+            "id" : "download_10",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/en_btn-continue.png",
+         "id" : "r12",
+         "comps" : [],
+         "download" : {
+            "s_time" : 643.753000000061,
+            "id" : "download_11",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/beaker.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 644.100000000208,
+            "id" : "download_12",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/line.png",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 644.450000000006,
+            "id" : "download_13",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/hand_plant.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 644.803000000138,
+            "id" : "download_14",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/news_03.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 645.59300000019,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/messages.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 645.238000000063,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/news_04.png",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 645.95700000018,
+            "id" : "download_17",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/news_08.png",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 646.699000000126,
+            "id" : "download_18",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/news_07.png",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 646.310000000085,
+            "id" : "download_19",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.pof.com/yawhat.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 647.399000000178,
+            "id" : "download_20",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/image/news_10.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 647.054000000026,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://upload.plentyoffish.com/yawhatc.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 495.736000000079,
+            "id" : "download_22",
+            "type" : "text/plain"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 732.95700000017,
+            "id" : "download_23",
+            "type" : "font/woff"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1633570333&utmhn=www.pof.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=935x999&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=POF.com%20%E2%84%A2%20The%20Leading%20Free%20Online%20Dating%20Site%20for%20Singles%20%26%20Personals&utmhid=846287984&utmr=-&utmp=%2F&utmht=1378144775957&utmac=UA-172947-1&utmcc=__utma%3D181982502.1507715987.1378144776.1378144776.1378144776.1%3B%2B__utmz%3D181982502.1378144776.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 829.505000000154,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.google.com/ads/user-lists/1072269077/?label=aKzaCNuLvQEQlY6m_wM&fmt=1&bg=666666&num=1&ct_cookie_present=false&cv=7&frm=0&url=http%3A%2F%2Fwww.pof.com%2F&random=1279460901",
+         "id" : "r28",
+         "comps" : [
+            {
+               "s_time" : 1020.20500000003,
+               "time" : 0.379000000069937,
+               "type" : "evalhtml",
+               "id" : "r28_c1",
+               "e_time" : 1020.5840000001
+            }
+         ],
+         "download" : {
+            "s_time" : 943.256000000019,
+            "id" : "download_25",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.pof.com/JpegImage.aspx?nc=a&key=u0zpyh50lqbhtf50rpbhanup&rand=409150&side=1",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 942.69300000019,
+            "id" : "download_26",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pics2.pof.com/thumbnails/200/63/3rqwchysuzzkf0codedkhel2s336620729.2.jpg",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 647.787000000108,
+            "id" : "download_27",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pics3.pof.com/thumbnails/195/26/3xc2lrk4zs4xh4gqq2nsqxhbg329754860.2.jpg",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 468.993000000182,
+            "id" : "download_28",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pics2.pof.com/thumbnails/192/78/3bbu3n1ycpixzwpcjaih31cck325308510.jpg",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 468.46000000005,
+            "id" : "download_29",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://pics3.pof.com/thumbnails/201/49/10x41lxp1pm0mbcw1zpu0hgwg337880653.jpg",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 648.159000000078,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://a.triggit.com/pxtg?score=000&zip=&indiv1.age=&indiv1.gender=&indiv1.timestamp=&indiv2.age=&indiv2.gender=&indiv2.timestamp=&cb=4gxwz6&td=T1001",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1491.11400000015,
+            "id" : "download_31",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_12"
+      },
+      {
+         "a2" : "comp_4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_2"
+      },
+      {
+         "a2" : "comp_4",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_3"
+      },
+      {
+         "a2" : "download_31",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 156.050999999934,
+         "id" : "dep6",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 66.444000000047,
+         "id" : "dep7",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 66.977000000179,
+         "id" : "dep8",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 155.678999999964,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 450.585000000046,
+         "id" : "dep10",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 451.147999999875,
+         "id" : "dep11",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 73.462999999947,
+         "id" : "dep12",
+         "a1" : "comp_28"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 240.849000000026,
+         "id" : "dep13",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 3.62799999993501,
+         "id" : "dep14",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 154.945999999882,
+         "id" : "dep15",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 155.291000000034,
+         "id" : "dep16",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 154.201999999941,
+         "id" : "dep17",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 154.590999999982,
+         "id" : "dep18",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 153.849000000036,
+         "id" : "dep19",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 153.129999999919,
+         "id" : "dep20",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 153.485000000046,
+         "id" : "dep21",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 152.694999999994,
+         "id" : "dep22",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 152.341999999862,
+         "id" : "dep23",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 151.992000000064,
+         "id" : "dep24",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 151.644999999917,
+         "id" : "dep25",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 150.202000000036,
+         "id" : "dep26",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 150.934000000006,
+         "id" : "dep27",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 150.572999999895,
+         "id" : "dep28",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 149.809000000005,
+         "id" : "dep29",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 149.357999999893,
+         "id" : "dep30",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 77.093000000105,
+         "id" : "dep31",
+         "a1" : "r1_c2"
+      },
+      {
+         "a2" : "download_4",
+         "time" : -1,
+         "id" : "dep32",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 4.969000000074,
+         "id" : "dep33",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 4.35200000015402,
+         "id" : "dep34",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : -1,
+         "id" : "dep35",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 8.54200000003402,
+         "id" : "dep36",
+         "a1" : "r1_c1"
+      }
+   ]
+}

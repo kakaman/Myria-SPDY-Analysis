@@ -1,0 +1,241 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.naver.jp_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.naver.jp/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 459.000000264496,
+               "time" : 13.702000025659,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 472.702000290155
+            },
+            {
+               "s_time" : 1580.94200026244,
+               "time" : 0.0620000064400301,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1581.00400026888
+            },
+            {
+               "s_time" : 1607.2900001891,
+               "time" : 165.73200002312,
+               "type" : "evalhtml",
+               "id" : "r1_c3",
+               "e_time" : 1773.02200021222
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/naver_top_ver4/css/naver_top_ver4_13748148111098.css",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 1171.03599989787,
+               "time" : 6.60100020468008,
+               "type" : 4,
+               "id" : "comp_4",
+               "e_time" : 1177.63700010255
+            }
+         ],
+         "download" : {
+            "s_time" : 464.420000091195,
+            "id" : "download_1",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/nvCommon_ver4/css/nvCommon_ver4_search_vertical_13753549441072.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 746.503999922425,
+               "time" : 3.58300004154398,
+               "type" : 4,
+               "id" : "comp_3",
+               "e_time" : 750.086999963969
+            }
+         ],
+         "download" : {
+            "s_time" : 471.892999950796,
+            "id" : "download_2",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/naver_top_ver4/js/jindo2_13748148111098.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1531.5680000931,
+               "time" : 49.37400016934,
+               "type" : 1,
+               "id" : "comp_8",
+               "e_time" : 1580.94200026244
+            }
+         ],
+         "download" : {
+            "s_time" : 472.324999980628,
+            "id" : "download_3",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/naver_top_ver4/js/nj.naver_top_ver4_13748148111098.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1581.05600019917,
+               "time" : 26.23399998993,
+               "type" : 1,
+               "id" : "comp_9",
+               "e_time" : 1607.2900001891
+            }
+         ],
+         "download" : {
+            "s_time" : 472.702000290155,
+            "id" : "download_4",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/nvCommon_ver4/img/gnb/bg_search_10.png",
+         "id" : "r6",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1771.22300025076,
+            "id" : "download_5",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/nvCommon_ver4/img/gnb/sprite_search_01.png?20130603",
+         "id" : "r7",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1772.15899992734,
+            "id" : "download_6",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.naver.jp/search_ver3/img/tit_suggest.gif",
+         "id" : "r8",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1773.02200021222,
+            "id" : "download_7",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://lcs.naver.jp/m?u=http%3A%2F%2Fwww.naver.jp%2F&e=&i=&os=MacIntel&ln=en-US&sr=2048x1152&bw=935&bh=999&c=24&j=Y&jv=1.8&k=Y&fv=11.8&sl=&ct=&p=Remoting%20Viewer%3BNative%20Client%3BShockwave%20Flash%3BiPhotoPhotocast%3BJava%20Applet%20Plug-in%3BQuickTime%20Plug-in%207.6.6&EOU",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1757.08100013435,
+            "id" : "download_8",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "comp_8",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_3"
+      },
+      {
+         "a2" : "comp_9",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "download_8",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_7",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 164.86899973824,
+         "id" : "dep8",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 163.93300006166,
+         "id" : "dep9",
+         "a1" : "r1_c3"
+      },
+      {
+         "a2" : "download_4",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 13.324999716132,
+         "id" : "dep11",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 12.8929996863,
+         "id" : "dep12",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 5.41999982669898,
+         "id" : "dep13",
+         "a1" : "r1_c1"
+      }
+   ]
+}

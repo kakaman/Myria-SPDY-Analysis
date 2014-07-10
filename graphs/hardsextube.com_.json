@@ -1,0 +1,2871 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "hardsextube.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://hardsextube.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 877.737999893725,
+               "time" : 488.927000202235,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1366.66500009596
+            },
+            {
+               "s_time" : 1764.09200020134,
+               "time" : 0.0700000673600698,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 1764.1620002687
+            },
+            {
+               "s_time" : 1765.30600013211,
+               "time" : 0.11299969628999,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 1765.4189998284
+            },
+            {
+               "s_time" : 1766.72200020403,
+               "time" : 0.0469996593899396,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 1766.76899986342
+            },
+            {
+               "s_time" : 1779.52199988067,
+               "time" : 0.0750003382599971,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 1779.59700021893
+            },
+            {
+               "s_time" : 1783.29800022766,
+               "time" : 0.368999782950141,
+               "id" : "r1_c6",
+               "type" : "evalhtml",
+               "e_time" : 1783.66700001061
+            },
+            {
+               "s_time" : 1809.39200008288,
+               "time" : 0.146000180390047,
+               "id" : "r1_c7",
+               "type" : "evalhtml",
+               "e_time" : 1809.53800026327
+            },
+            {
+               "s_time" : 1817.78899999335,
+               "time" : 8.41400027274994,
+               "id" : "r1_c8",
+               "type" : "evalhtml",
+               "e_time" : 1826.2030002661
+            },
+            {
+               "s_time" : 1828.86100001633,
+               "time" : 0.398000236599955,
+               "id" : "r1_c9",
+               "type" : "evalhtml",
+               "e_time" : 1829.25900025293
+            },
+            {
+               "s_time" : 1843.88600010425,
+               "time" : 157.84699982032,
+               "id" : "r1_c10",
+               "type" : "evalhtml",
+               "e_time" : 2001.73299992457
+            },
+            {
+               "s_time" : 2169.63199991733,
+               "time" : 2915.80000007525,
+               "type" : "evalhtml",
+               "id" : "r1_c11",
+               "e_time" : 5085.43199999258
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/ga.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 944.079999811947,
+               "time" : 96.420000307263,
+               "type" : 2,
+               "id" : "comp_5",
+               "e_time" : 1040.50000011921
+            }
+         ],
+         "download" : {
+            "s_time" : 908.600000198931,
+            "id" : "download_1",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/js/plusone.js",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 943.971999920905,
+            "id" : "download_2",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=863251890&utmhn=hardsextube.com&utmcs=UTF-8&utmsr=2048x1152&utmvp=956x688&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Hard%20Sex%20Tube%20-%20for%20every%20fan%20of%20hot%20porn%20videos%20and%20free%20porn&utmhid=109687453&utmr=-&utmp=%2F&utmht=1378094356515&utmac=UA-1857422-1&utmcc=__utma%3D42063804.164250961.1378094356.1378094356.1378094356.1%3B%2B__utmz%3D42063804.1378094356.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1026.23900026083,
+            "id" : "download_3",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/css/css_432522b8425504ea8450fe83e25d9118.css",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 1542.99600003287,
+               "time" : 25.3779999911801,
+               "type" : 4,
+               "id" : "comp_9",
+               "e_time" : 1568.37400002405
+            }
+         ],
+         "download" : {
+            "s_time" : 911.032999865711,
+            "id" : "download_4",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/js/global_0674dd0b8b3ce0a2da83f32f1c1354d7.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 1765.51700010896,
+               "time" : 1.20500009507009,
+               "type" : 1,
+               "id" : "comp_25",
+               "e_time" : 1766.72200020403
+            }
+         ],
+         "download" : {
+            "s_time" : 912.547000218183,
+            "id" : "download_5",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/js/jquery.gettext_f6ade673913abc60d42a3c3e0b06de6d.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 1764.216999989,
+               "time" : 1.08900014311007,
+               "type" : 1,
+               "id" : "comp_23",
+               "e_time" : 1765.30600013211
+            }
+         ],
+         "download" : {
+            "s_time" : 911.973000038415,
+            "id" : "download_6",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/js/external_c68d8698b4c8069e87d9529eddd477b1.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 1572.77199998498,
+               "time" : 191.32000021636,
+               "type" : 1,
+               "id" : "comp_11",
+               "e_time" : 1764.09200020134
+            }
+         ],
+         "download" : {
+            "s_time" : 911.507999990135,
+            "id" : "download_7",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/www/js/hst_853a5d783012ea2c37d5047b1775543f.js",
+         "id" : "r11",
+         "comps" : [
+            {
+               "s_time" : 1809.49900019914,
+               "time" : 8.28999979420996,
+               "type" : 1,
+               "id" : "comp_35",
+               "e_time" : 1817.78899999335
+            }
+         ],
+         "download" : {
+            "s_time" : 916.519999969751,
+            "id" : "download_8",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/www/css/hst_187e01cdae4da4eeac9630a2ca437918.css",
+         "id" : "r12",
+         "comps" : [
+            {
+               "s_time" : 1532.71599998698,
+               "time" : 0.308000016950018,
+               "type" : 4,
+               "id" : "comp_8",
+               "e_time" : 1533.02400000393
+            }
+         ],
+         "download" : {
+            "s_time" : 917.079000268131,
+            "id" : "download_9",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/js/scripts_cca71a0f3a9eaf9b21a67c3ee438670d.js",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 1766.80700015277,
+               "time" : 12.7149997279,
+               "type" : 1,
+               "id" : "comp_27",
+               "e_time" : 1779.52199988067
+            }
+         ],
+         "download" : {
+            "s_time" : 915.055000223219,
+            "id" : "download_10",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/common/js/jquery.validationEngine_b936101988daf4be7aa0bb47eb4b5692.js",
+         "id" : "r15",
+         "comps" : [
+            {
+               "s_time" : 1829.309000168,
+               "time" : 14.5769999362499,
+               "type" : 1,
+               "id" : "comp_39",
+               "e_time" : 1843.88600010425
+            }
+         ],
+         "download" : {
+            "s_time" : 1042.52099990845,
+            "id" : "download_11",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/common/js/jquery.validationEngine/en_2484492df28bc84fb60167aba8a60478.js",
+         "id" : "r13",
+         "comps" : [
+            {
+               "s_time" : 1826.24700013548,
+               "time" : 2.61399988085009,
+               "type" : 1,
+               "id" : "comp_37",
+               "e_time" : 1828.86100001633
+            }
+         ],
+         "download" : {
+            "s_time" : 917.69600007683,
+            "id" : "download_12",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/common/css/validationEngine.jquery_754cfa838903cbcd517479afe343bdd6.css",
+         "id" : "r16",
+         "comps" : [
+            {
+               "s_time" : 1569.35899984092,
+               "time" : 0.00900030135994712,
+               "type" : 4,
+               "id" : "comp_10",
+               "e_time" : 1569.36800014228
+            }
+         ],
+         "download" : {
+            "s_time" : 1043.14999980852,
+            "id" : "download_13",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://reco.hardsextube.com/js/hardsextube/gr_reco4-min.js",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 3033.47099991515,
+               "time" : 52.1060000173798,
+               "type" : null,
+               "id" : "comp_127",
+               "e_time" : 3085.57699993253
+            }
+         ],
+         "download" : {
+            "s_time" : 909.837999846786,
+            "id" : "download_14",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/js/gravity_01b8a79f891fae0f050288250e77657c.js",
+         "id" : "r9",
+         "comps" : [
+            {
+               "s_time" : 1779.66000000015,
+               "time" : 3.63800022751002,
+               "type" : 1,
+               "id" : "comp_29",
+               "e_time" : 1783.29800022766
+            }
+         ],
+         "download" : {
+            "s_time" : 915.589999873191,
+            "id" : "download_15",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1.traffichaus.com/scripts/adblocker-production.js",
+         "id" : "r17",
+         "comps" : [
+            {
+               "s_time" : 2168.9670002088,
+               "time" : 0.664999708530104,
+               "type" : 1,
+               "id" : "comp_55",
+               "e_time" : 2169.63199991733
+            }
+         ],
+         "download" : {
+            "s_time" : 1366.66500009596,
+            "id" : "download_16",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_0",
+         "id" : "r18",
+         "comps" : [
+            {
+               "s_time" : 2972.07200014964,
+               "time" : 61.3569999113697,
+               "type" : null,
+               "id" : "comp_125",
+               "e_time" : 3033.42900006101
+            }
+         ],
+         "download" : {
+            "s_time" : 1809.53800026327,
+            "id" : "download_17",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/common/img/preloader.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1866.73799995333,
+            "id" : "download_18",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/img/hstspritex_0626.png",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1975.95100011677,
+            "id" : "download_20",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/img/opacity.png",
+         "id" : "r79",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1976.91200021654,
+            "id" : "download_21",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/img/playlist-ui/top-control-button-bg.png",
+         "id" : "r81",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1977.37600002438,
+            "id" : "download_22",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/img/playlist-ui/icon-arrow-u.png",
+         "id" : "r82",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1977.83900005743,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/common/img/hstspritey_1126.png",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1982.97799983993,
+            "id" : "download_24",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.static.hardsextube.com/common/img/hstspritey_1126.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1976.46000003442,
+            "id" : "download_25",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.static.hardsextube.com/common/img/hstspritex_0626.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1983.46500005573,
+            "id" : "download_26",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.traffichaus.com/adserve/index.php?z=418",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 2908.80900016055,
+               "time" : 998.36000008508,
+               "type" : "evalhtml",
+               "id" : "r40_c1",
+               "e_time" : 3907.16900024563
+            }
+         ],
+         "download" : {
+            "s_time" : 1902.65600010753,
+            "id" : "download_27",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.traffichaus.com/adserve/index.php?z=5581",
+         "id" : "r76",
+         "comps" : [
+            {
+               "s_time" : 2929.40799985081,
+               "time" : 1.31600024178988,
+               "type" : "evalhtml",
+               "id" : "r76_c1",
+               "e_time" : 2930.7240000926
+            }
+         ],
+         "download" : {
+            "s_time" : 1956.32199989632,
+            "id" : "download_28",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.static.hardsextube.com/common/img/logo.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1847.40199986845,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/08/15/2045159.3.160.120.jpg",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1866.20000004768,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/04/26/1467564.1.160.120.jpg",
+         "id" : "r27",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1989.12899987772,
+            "id" : "download_31",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/04/14/1437184.9.160.120.jpg",
+         "id" : "r35",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1990.08399993181,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/04/13/1436934.13.160.120.jpg",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1989.62699994445,
+            "id" : "download_33",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/08/21/2066033.13.160.120.jpg",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1984.4550001435,
+            "id" : "download_34",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/05/17/1570503.3.160.120.jpg",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1874.42400027066,
+            "id" : "download_35",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/08/20/2065549.2.160.120.jpg",
+         "id" : "r37",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1990.55099999532,
+            "id" : "download_36",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/05/17/1570533.8.160.120.jpg",
+         "id" : "r32",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1984.93100004271,
+            "id" : "download_37",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/04/14/1437183.9.160.120.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1983.95799985155,
+            "id" : "download_38",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/06/05/1684703.3.160.120.jpg",
+         "id" : "r36",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1985.40499992669,
+            "id" : "download_39",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/03/19/1368403.7.160.120.jpg",
+         "id" : "r49",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1986.26000015065,
+            "id" : "download_40",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/08/21/2068159.12.160.120.jpg",
+         "id" : "r46",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1991.05900013819,
+            "id" : "download_41",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.creatives.livejasmin.com/adcreative2/generated_js/ed_hstkontxpu/adcreative.js",
+         "id" : "r77",
+         "comps" : [
+            {
+               "s_time" : 3343.30799989402,
+               "time" : 20.3530001454096,
+               "type" : null,
+               "id" : "comp_261",
+               "e_time" : 3363.66100003943
+            }
+         ],
+         "download" : {
+            "s_time" : 1958.61699990928,
+            "id" : "download_42",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/02/18/1291954.10.160.120.jpg",
+         "id" : "r52",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1991.51899991557,
+            "id" : "download_43",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/06/05/1686649.7.160.120.jpg",
+         "id" : "r73",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1992.68299993128,
+            "id" : "download_44",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/06/06/1692825.12.160.120.jpg",
+         "id" : "r39",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1891.87199994922,
+            "id" : "download_45",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/05/24/1611565.10.160.120.jpg",
+         "id" : "r42",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1978.30499988049,
+            "id" : "download_46",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/04/26/1467565.4.160.120.jpg",
+         "id" : "r55",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1980.14299990609,
+            "id" : "download_47",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/01/24/1243740.3.160.120.jpg",
+         "id" : "r50",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1979.22200011089,
+            "id" : "download_48",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn5b.pics.hardsextube.com/2013/03/19/1368399.5.160.120.jpg",
+         "id" : "r59",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1991.98199994862,
+            "id" : "download_49",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/08/21/2068775.4.160.120.jpg",
+         "id" : "r51",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1979.67900009826,
+            "id" : "download_50",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/05/28/1638817.9.160.120.jpg",
+         "id" : "r53",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1999.80599991977,
+            "id" : "download_51",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/08/21/2066031.2.160.120.jpg",
+         "id" : "r31",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1882.06099998206,
+            "id" : "download_52",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/08/02/1987863.1.160.120.jpg",
+         "id" : "r56",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1987.2139999643,
+            "id" : "download_53",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/05/15/1560555.7.160.120.jpg",
+         "id" : "r45",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1978.76399988309,
+            "id" : "download_54",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/05/21/1593317.10.160.120.jpg",
+         "id" : "r57",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2000.2899998799,
+            "id" : "download_55",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/03/19/1368397.16.160.120.jpg",
+         "id" : "r33",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1884.71100013703,
+            "id" : "download_56",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/02/07/1268691.3.160.120.jpg",
+         "id" : "r38",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1993.17299993709,
+            "id" : "download_57",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/02/07/1268986.2.160.120.jpg",
+         "id" : "r47",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1995.10300019756,
+            "id" : "download_58",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/02/18/1292806.6.160.120.jpg",
+         "id" : "r43",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1994.14099985734,
+            "id" : "download_59",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/07/04/1848671.13.160.120.jpg",
+         "id" : "r44",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1994.59900008515,
+            "id" : "download_60",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/08/21/2066027.10.160.120.jpg",
+         "id" : "r62",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2001.25099997967,
+            "id" : "download_61",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/06/01/1662623.16.160.120.jpg",
+         "id" : "r72",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1987.68399981782,
+            "id" : "download_62",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/02/07/1267712.8.160.120.jpg",
+         "id" : "r60",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2000.77100005001,
+            "id" : "download_63",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/05/16/1570003.12.160.120.jpg",
+         "id" : "r74",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1988.16499998793,
+            "id" : "download_64",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/08/14/2039271.9.160.120.jpg",
+         "id" : "r41",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1993.64800006151,
+            "id" : "download_65",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/01/09/1217338.8.160.120.jpg",
+         "id" : "r75",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1988.6449999176,
+            "id" : "download_66",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/03/11/1349357.6.160.120.jpg",
+         "id" : "r34",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1999.32399997488,
+            "id" : "download_67",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://widgets.amung.us/small.js",
+         "id" : "r78",
+         "comps" : [
+            {
+               "s_time" : 3363.68500022218,
+               "time" : 2.68099969252989,
+               "type" : null,
+               "id" : "comp_263",
+               "e_time" : 3366.36599991471
+            }
+         ],
+         "download" : {
+            "s_time" : 1964.86499998719,
+            "id" : "download_68",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/05/15/1561295.15.160.120.jpg",
+         "id" : "r61",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1981.09399992973,
+            "id" : "download_69",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/03/19/1368405.6.160.120.jpg",
+         "id" : "r63",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1981.56200023368,
+            "id" : "download_70",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn3b.pics.hardsextube.com/2013/02/09/1272067.5.160.120.jpg",
+         "id" : "r64",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2001.73299992457,
+            "id" : "download_71",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2012/12/12/1168071.3.160.120.jpg",
+         "id" : "r48",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1995.59399997815,
+            "id" : "download_72",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/07/05/1850945.16.160.120.jpg",
+         "id" : "r69",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1982.03400010243,
+            "id" : "download_73",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/07/05/1850195.5.160.120.jpg",
+         "id" : "r70",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1982.50799998641,
+            "id" : "download_74",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/01/21/1237821.6.160.120.jpg",
+         "id" : "r71",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1998.74000018463,
+            "id" : "download_75",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/01/15/1228276.6.160.120.jpg",
+         "id" : "r68",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1998.23899986222,
+            "id" : "download_76",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/02/08/1270946.14.160.120.jpg",
+         "id" : "r66",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1997.24199995399,
+            "id" : "download_77",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/02/08/1271196.5.160.120.jpg",
+         "id" : "r67",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1997.72900016978,
+            "id" : "download_78",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn1b.pics.hardsextube.com/2013/02/19/1292810.14.160.120.jpg",
+         "id" : "r58",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1980.62699986622,
+            "id" : "download_79",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn4b.pics.hardsextube.com/2013/07/30/1972673.3.160.120.jpg",
+         "id" : "r54",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1986.74299987033,
+            "id" : "download_80",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_1",
+         "id" : "r86",
+         "comps" : [
+            {
+               "s_time" : 3366.40499997884,
+               "time" : 61.6180002689402,
+               "type" : null,
+               "id" : "comp_265",
+               "e_time" : 3428.02300024778
+            }
+         ],
+         "download" : {
+            "s_time" : 2875.2009999007,
+            "id" : "download_81",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn2b.pics.hardsextube.com/2013/03/19/1368406.3.160.120.jpg",
+         "id" : "r65",
+         "comps" : [],
+         "download" : {
+            "s_time" : 1996.69599998742,
+            "id" : "download_82",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://apis.google.com/_/+1/fastbutton?bsv=o&usegapi=1&hl=en-US&origin=http%3A%2F%2Fhardsextube.com&url=http%3A%2F%2Fhardsextube.com%2F&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.7cPSuHVtCCI.O%2Fm%3D__features__%2Fam%3DIQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&id=I0_1378094358368&parent=http%3A%2F%2Fhardsextube.com&pfname=&rpctoken=17123556",
+         "id" : "r87",
+         "comps" : [
+            {
+               "s_time" : 3268.32399982959,
+               "time" : 39.4930001348303,
+               "type" : "evalhtml",
+               "id" : "r87_c1",
+               "e_time" : 3307.81699996442
+            }
+         ],
+         "download" : {
+            "s_time" : 2881.26699998975,
+            "id" : "download_83",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png",
+         "id" : "r90",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3029.28300015628,
+            "id" : "download_84",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://ads.traffichaus.com/ads/mr/5581/ad.php",
+         "id" : "r89",
+         "comps" : [
+            {
+               "s_time" : 3324.81299992651,
+               "time" : 7.63700017704969,
+               "type" : "evalhtml",
+               "id" : "r89_c1",
+               "e_time" : 3332.45000010356
+            }
+         ],
+         "download" : {
+            "s_time" : 2940.13300025836,
+            "id" : "download_85",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.7cPSuHVtCCI.O/m=googleapis_client,iframes_styles_bubble_internal,gapi_iframes_style_common,gapi_iframes_iframer/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNQi5OAAUsIVPV-bjZtHfNGWCzynw/cb=gapi.loaded_0",
+         "id" : "r91",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3295.22299999371,
+            "id" : "download_86",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://apis.google.com/_/scs/apps-static/_/js/k=oz.plusone.en_US.paC4a_aPClQ.O/m=p1b,p1p/rt=j/sv=1/d=1/ed=1/am=jAI/rs=AItRSTNTOQ60ne5eR6rkGn2o0yK1Dp7QIQ/cb=gapi.loaded_1",
+         "id" : "r92",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3299.20400027186,
+            "id" : "download_87",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fhardsextube.com#rpctoken=337056835&forcesecure=1",
+         "id" : "r97",
+         "comps" : [
+            {
+               "s_time" : 3476.65699990466,
+               "time" : 159.32000009343,
+               "id" : "r97_c1",
+               "type" : "evalhtml",
+               "e_time" : 3635.97699999809
+            },
+            {
+               "s_time" : 3639.53500008211,
+               "time" : 0.140000134700131,
+               "type" : "evalhtml",
+               "id" : "r97_c2",
+               "e_time" : 3639.67500021681
+            }
+         ],
+         "download" : {
+            "s_time" : 3412.7879999578,
+            "id" : "download_88",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.traffichaus.com/adserve/index.php?z=43",
+         "id" : "r93",
+         "comps" : [
+            {
+               "s_time" : 3488.84000023827,
+               "time" : 3.17899975926002,
+               "type" : "evalhtml",
+               "id" : "r93_c1",
+               "e_time" : 3492.01899999753
+            }
+         ],
+         "download" : {
+            "s_time" : 3327.34900014475,
+            "id" : "download_89",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.traffichaus.com/adserve/index.php?z=85",
+         "id" : "r94",
+         "comps" : [
+            {
+               "s_time" : 3509.20600024983,
+               "time" : 1.63699965923979,
+               "type" : "evalhtml",
+               "id" : "r94_c1",
+               "e_time" : 3510.84299990907
+            }
+         ],
+         "download" : {
+            "s_time" : 3330.8089999482,
+            "id" : "download_90",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.traffichaus.com/adserve/index.php?z=86",
+         "id" : "r95",
+         "comps" : [
+            {
+               "s_time" : 3520.90300014243,
+               "time" : 1.50900008156032,
+               "type" : "evalhtml",
+               "id" : "r95_c1",
+               "e_time" : 3522.41200022399
+            }
+         ],
+         "download" : {
+            "s_time" : 3332.91999995708,
+            "id" : "download_91",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://oauth.googleusercontent.com/gadgets/js/core:rpc:shindig.random:shindig.sha1.js?c=2",
+         "id" : "r98",
+         "comps" : [
+            {
+               "s_time" : 3573.66400025785,
+               "time" : 62.2199997305897,
+               "type" : null,
+               "id" : "comp_310",
+               "e_time" : 3635.88399998844
+            }
+         ],
+         "download" : {
+            "s_time" : 3483.95799985155,
+            "id" : "download_92",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "https://ssl.gstatic.com/accounts/o/327579480-postmessagerelay.js",
+         "id" : "r99",
+         "comps" : [
+            {
+               "s_time" : 3637.51000026241,
+               "time" : 2.02499981970004,
+               "type" : 1,
+               "id" : "comp_314",
+               "e_time" : 3639.53500008211
+            }
+         ],
+         "download" : {
+            "s_time" : 3487.55200020969,
+            "id" : "download_93",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cdn.zeusclicks.com/ads/adult/iframes/hst.html",
+         "id" : "r100",
+         "comps" : [
+            {
+               "s_time" : 3784.44200009108,
+               "time" : 162.07800013944,
+               "type" : "evalhtml",
+               "id" : "r100_c1",
+               "e_time" : 3946.52000023052
+            }
+         ],
+         "download" : {
+            "s_time" : 3495.41500024498,
+            "id" : "download_94",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://cdn.zeusclicks.com/ads/adult/iframes/hstf2.html",
+         "id" : "r102",
+         "comps" : [
+            {
+               "s_time" : 3800.54800026119,
+               "time" : 222.31399966404,
+               "type" : "evalhtml",
+               "id" : "r102_c1",
+               "e_time" : 4022.86199992523
+            }
+         ],
+         "download" : {
+            "s_time" : 3522.71699998528,
+            "id" : "download_95",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adcreative2.awempire.com/an/ed_hstkontxpu?info={}",
+         "id" : "r96",
+         "comps" : [
+            {
+               "s_time" : 3824.19099984691,
+               "time" : 3.13100032508009,
+               "type" : 2,
+               "id" : "comp_329",
+               "e_time" : 3827.32200017199
+            }
+         ],
+         "download" : {
+            "s_time" : 3363.00199991092,
+            "id" : "download_96",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://data-ero-advertising.com/userads/hardsextube/300x250.html",
+         "id" : "r101",
+         "comps" : [
+            {
+               "s_time" : 3834.40899988636,
+               "time" : 698.93399998546,
+               "type" : "evalhtml",
+               "id" : "r101_c1",
+               "e_time" : 4533.34299987182
+            }
+         ],
+         "download" : {
+            "s_time" : 3511.12399995327,
+            "id" : "download_97",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adserver.bz/ox/www/delivery/ajs.php?zoneid=8&cb=6776137184&charset=ISO-8859-1&loc=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D418&referer=http%3A//hardsextube.com/",
+         "id" : "r88",
+         "comps" : [
+            {
+               "s_time" : 3904.76399986073,
+               "time" : 2.36000027507998,
+               "type" : 2,
+               "id" : "comp_331",
+               "e_time" : 3907.12400013581
+            }
+         ],
+         "download" : {
+            "s_time" : 2922.83499985933,
+            "id" : "download_98",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ads2.zeusclicks.com/servlet/view/banner/javascript/zone?zid=87&pid=0&random=41902231&millis=1378094359278&referrer=http%3A//cdn.zeusclicks.com/ads/adult/iframes/hst.html",
+         "id" : "r103",
+         "comps" : [
+            {
+               "s_time" : 3945.01199992374,
+               "time" : 1.42299989238018,
+               "type" : null,
+               "id" : "comp_340",
+               "e_time" : 3946.43499981612
+            }
+         ],
+         "download" : {
+            "s_time" : 3788.95500022918,
+            "id" : "download_99",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://ads2.zeusclicks.com/servlet/view/banner/javascript/zone?zid=403&pid=0&random=52317981&millis=1378094359295&referrer=http%3A%2F%2Fcdn.zeusclicks.com%2Fads%2Fadult%2Fiframes%2Fhstf2.html",
+         "id" : "r104",
+         "comps" : [
+            {
+               "s_time" : 4014.20200010762,
+               "time" : 8.6400001309803,
+               "type" : 2,
+               "id" : "comp_352",
+               "e_time" : 4022.8420002386
+            }
+         ],
+         "download" : {
+            "s_time" : 3803.17000020295,
+            "id" : "download_100",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://adserver.bz/ox/www/delivery/afr.php?refresh=40&zoneid=7&cb=INSERT_RANDOM_NUMBER_HERE",
+         "id" : "r107",
+         "comps" : [
+            {
+               "s_time" : 3971.22099995613,
+               "time" : 166.65100026876,
+               "id" : "r107_c1",
+               "type" : "evalhtml",
+               "e_time" : 4137.87200022489
+            },
+            {
+               "s_time" : 4140.00400016084,
+               "time" : 0.181999988859388,
+               "id" : "r107_c2",
+               "type" : "evalhtml",
+               "e_time" : 4140.1860001497
+            },
+            {
+               "s_time" : 4141.81900024414,
+               "time" : 2.53599975258021,
+               "id" : "r107_c3",
+               "type" : "evalhtml",
+               "e_time" : 4144.35499999672
+            },
+            {
+               "s_time" : 4144.69699980691,
+               "time" : 0.588000286370516,
+               "type" : "evalhtml",
+               "id" : "r107_c4",
+               "e_time" : 4145.28500009328
+            }
+         ],
+         "download" : {
+            "s_time" : 3907.10100019351,
+            "id" : "download_101",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://whos.amung.us/pingjs/?k=f8bygce3&t=Hard%20Sex%20Tube%20-%20for%20every%20fan%20of%20hot%20porn%20videos%20and%20free%20porn&c=s&y=&a=0&r=4521",
+         "id" : "r105",
+         "comps" : [
+            {
+               "s_time" : 3985.22000014782,
+               "time" : 2.42399983107998,
+               "type" : 2,
+               "id" : "comp_346",
+               "e_time" : 3987.6439999789
+            }
+         ],
+         "download" : {
+            "s_time" : 3811.92300003022,
+            "id" : "download_102",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adserver.bz/ox/www/delivery/lg.php?bannerid=10&campaignid=10&zoneid=8&loc=1&referer=http%3A%2F%2Fsyndication.traffichaus.com%2Fadserve%2Findex.php%3Fz%3D418&cb=0a200da806",
+         "id" : "r108",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3907.83900022507,
+            "id" : "download_103",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.zeusclicks.com/ads/adult/300x250/300x250-3d-gif10.gif",
+         "id" : "r109",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3947.24899996072,
+            "id" : "download_105",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adserver.bz/ox/www/delivery/lg.php?bannerid=9&campaignid=9&zoneid=7&loc=1&referer=http%3A%2F%2Fsyndication.traffichaus.com%2Fadserve%2Findex.php%3Fz%3D418&cb=fe785f1793",
+         "id" : "r111",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3980.79900024459,
+            "id" : "download_106",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://syndication.exoclick.com/ads.php?type=300x250&login=ajonline&cat=97&search=&ad_title_color=0000cc&bgcolor=FFFFFF&border=0&border_color=000000&font=&block_keywords=&ad_text_color=000000&ad_durl_color=008000&adult=0&sub=0&text_only=0&show_thumb=0&idzone=367560&idsite=143939",
+         "id" : "r110",
+         "comps" : [
+            {
+               "s_time" : 4137.6689998433,
+               "time" : 2.33500031754011,
+               "type" : 1,
+               "id" : "comp_365",
+               "e_time" : 4140.00400016084
+            },
+            {
+               "s_time" : 4140.2320000343,
+               "time" : 1.58700020983997,
+               "type" : 1,
+               "id" : "comp_368",
+               "e_time" : 4141.81900024414
+            },
+            {
+               "s_time" : 4142.01800012961,
+               "time" : 2.67899967729954,
+               "type" : 1,
+               "id" : "comp_371",
+               "e_time" : 4144.69699980691
+            },
+            {
+               "s_time" : 4135.57300018147,
+               "time" : 1.88899971544015,
+               "type" : null,
+               "id" : "comp_362",
+               "e_time" : 4137.46199989691
+            }
+         ],
+         "download" : {
+            "s_time" : 3973.91200019047,
+            "id" : "download_107",
+            "type" : "text/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.zeusclicks.com/ads/adult/300x250/flash/300x250-omggfs-teenhotel.swf",
+         "id" : "r122",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4071.22500007972,
+            "id" : "download_108",
+            "type" : "application/x-shockwave-flash"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://adspaces.ero-advertising.com/adspace/getadspace.php?id=99096",
+         "id" : "r106",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3836.85499988496,
+            "id" : "download_109",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.exoclick.com/ads-iframe-display.php?type=300x250&login=ajonline&cat=97&search=&ad_title_color=0000cc&bgcolor=FFFFFF&border=0&border_color=000000&font=&block_keywords=&ad_text_color=000000&ad_durl_color=008000&adult=0&sub=0&text_only=0&show_thumb=0&idzone=367560&idsite=143939&p=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D418&dt=1378094359629",
+         "id" : "r123",
+         "comps" : [
+            {
+               "s_time" : 4428.30700008199,
+               "time" : 1.25099997967027,
+               "type" : "evalhtml",
+               "id" : "r123_c1",
+               "e_time" : 4429.55800006166
+            }
+         ],
+         "download" : {
+            "s_time" : 4137.87200022489,
+            "id" : "download_110",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.exoclick.com/ads-iframe-display.php?type=300x250&login=ajonline&cat=97&search=&ad_title_color=0000cc&bgcolor=FFFFFF&border=0&border_color=000000&font=&block_keywords=&ad_text_color=000000&ad_durl_color=008000&adult=0&sub=0&text_only=0&show_thumb=0&idzone=367560&idsite=143939&p=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D418&dt=1378094359631",
+         "id" : "r124",
+         "comps" : [
+            {
+               "s_time" : 4440.89600024745,
+               "time" : 0.72099966927999,
+               "type" : "evalhtml",
+               "id" : "r124_c1",
+               "e_time" : 4441.61699991673
+            }
+         ],
+         "download" : {
+            "s_time" : 4144.35499999672,
+            "id" : "download_111",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.exoclick.com/ads-iframe-display.php?type=300x250&login=ajonline&cat=97&search=&ad_title_color=0000cc&bgcolor=FFFFFF&border=0&border_color=000000&font=&block_keywords=&ad_text_color=000000&ad_durl_color=008000&adult=0&sub=0&text_only=0&show_thumb=0&idzone=367560&idsite=143939&p=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D418&dt=1378094359635",
+         "id" : "r126",
+         "comps" : [
+            {
+               "s_time" : 4450.78400010243,
+               "time" : 1.58799998462018,
+               "type" : "evalhtml",
+               "id" : "r126_c1",
+               "e_time" : 4452.37200008705
+            }
+         ],
+         "download" : {
+            "s_time" : 4146.66099986061,
+            "id" : "download_112",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://syndication.exoclick.com/ads-iframe-display.php?type=300x250&login=ajonline&cat=97&search=&ad_title_color=0000cc&bgcolor=FFFFFF&border=0&border_color=000000&font=&block_keywords=&ad_text_color=000000&ad_durl_color=008000&adult=0&sub=0&text_only=0&show_thumb=0&idzone=367560&idsite=143939&p=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D418&dt=1378094359633",
+         "id" : "r125",
+         "comps" : [
+            {
+               "s_time" : 4522.05000026152,
+               "time" : 1.2249997816898,
+               "type" : "evalhtml",
+               "id" : "r125_c1",
+               "e_time" : 4523.27500004321
+            }
+         ],
+         "download" : {
+            "s_time" : 4144.87600000575,
+            "id" : "download_113",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://data-eroadvertising.com/adspace/checksums-min.js",
+         "id" : "r127",
+         "comps" : [
+            {
+               "s_time" : 4527.28600008413,
+               "time" : 4.84800012781943,
+               "type" : null,
+               "id" : "comp_400",
+               "e_time" : 4532.13400021195
+            }
+         ],
+         "download" : {
+            "s_time" : 4167.66000026837,
+            "id" : "download_114",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.exoclick.com/banners/144719/6-4-byc_43.gif",
+         "id" : "r130",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4429.62499987334,
+            "id" : "download_115",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://cdn.zeusclicks.com/ads/adult/flvs/hg-hotelteen.flv",
+         "id" : "r129",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4420.80199997872,
+            "id" : "download_116",
+            "type" : "video/x-flv"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.exoclick.com/banners/193866/2-300x250_4.jpg",
+         "id" : "r131",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4535.61299992725,
+            "id" : "download_117",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.exoclick.com/banners/108928/4-us_300_bu_3.gif",
+         "id" : "r132",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4536.06500010937,
+            "id" : "download_118",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://static.exoclick.com/banners/190530/7-300x250_2.gif",
+         "id" : "r133",
+         "comps" : [],
+         "download" : {
+            "s_time" : 4536.50599997491,
+            "id" : "download_119",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : 1,
+         "url" : "http://banners.ero-advertising.com/banads/view.php?time=1378094359&pid=40&spaceid=99096&siteid=27991&cpmid=0&data=FRKc1gWxnaiuSN9u11wczls8t3oGl6nvZDkU9exJYlupMMIPeEZEDTxZ8FIG5ZsX7Sgez7cj10CMBGXK%2FBya9CcLwACWW7zWWWmlN5RTNCzrJRmTOQZMw6mRw%2BPgVV%2Fvb4phLdP3h78IWDyQKi1tocqfYSWs31AUcg6MklvJ%2FWUcIiRmmrtPt2gLkAsuAZTEdXaTYAqVyYpbLLtrxeytu%2FOJH69VItwqdXQujbDhma5Lsyh4aEVJJtxJm1eNExF4Iv%2BtSfdhzprpmoyM05wW6A%3D%3D&rnd=8353&doc30=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D85&ref=http%3A//syndication.traffichaus.com/adserve/index.php%3Fz%3D85&cnt=0",
+         "id" : "r134",
+         "comps" : [
+            {
+               "s_time" : 5078.95200001076,
+               "time" : 5.97799988463066,
+               "type" : "evalhtml",
+               "id" : "r134_c1",
+               "e_time" : 5084.92999989539
+            }
+         ],
+         "download" : {
+            "s_time" : 4534.46599980816,
+            "id" : "download_120",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://data-ero-advertising.com/datanew/cpmcampaigns/31180/21405.gif",
+         "id" : "r135",
+         "comps" : [],
+         "download" : {
+            "s_time" : 5085.43199999258,
+            "id" : "download_121",
+            "type" : "image/gif"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_11"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_25"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_27"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_29"
+      },
+      {
+         "a2" : "r1_c7",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_32"
+      },
+      {
+         "a2" : "r1_c8",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_35"
+      },
+      {
+         "a2" : "r1_c9",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_37"
+      },
+      {
+         "a2" : "r1_c10",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_39"
+      },
+      {
+         "a2" : "r1_c11",
+         "time" : -1,
+         "id" : "dep10",
+         "a1" : "comp_55"
+      },
+      {
+         "a2" : "comp_11",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "comp_23",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "comp_11"
+      },
+      {
+         "a2" : "comp_25",
+         "time" : -1,
+         "id" : "dep13",
+         "a1" : "comp_23"
+      },
+      {
+         "a2" : "comp_27",
+         "time" : -1,
+         "id" : "dep14",
+         "a1" : "comp_25"
+      },
+      {
+         "a2" : "comp_29",
+         "time" : -1,
+         "id" : "dep15",
+         "a1" : "comp_27"
+      },
+      {
+         "a2" : "comp_35",
+         "time" : -1,
+         "id" : "dep16",
+         "a1" : "comp_32"
+      },
+      {
+         "a2" : "comp_37",
+         "time" : -1,
+         "id" : "dep17",
+         "a1" : "comp_35"
+      },
+      {
+         "a2" : "comp_37",
+         "time" : -1,
+         "id" : "dep18",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_39",
+         "time" : -1,
+         "id" : "dep19",
+         "a1" : "comp_37"
+      },
+      {
+         "a2" : "r97_c2",
+         "time" : -1,
+         "id" : "dep20",
+         "a1" : "comp_314"
+      },
+      {
+         "a2" : "r107_c2",
+         "time" : -1,
+         "id" : "dep21",
+         "a1" : "comp_365"
+      },
+      {
+         "a2" : "r107_c3",
+         "time" : -1,
+         "id" : "dep22",
+         "a1" : "comp_368"
+      },
+      {
+         "a2" : "r107_c4",
+         "time" : -1,
+         "id" : "dep23",
+         "a1" : "comp_371"
+      },
+      {
+         "a2" : "download_121",
+         "time" : -1,
+         "id" : "dep24",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_120",
+         "time" : 2364.83399989083,
+         "id" : "dep25",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_119",
+         "time" : 2366.87400005758,
+         "id" : "dep26",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_118",
+         "time" : 2366.43300019204,
+         "id" : "dep27",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_117",
+         "time" : 2365.98100000992,
+         "id" : "dep28",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_116",
+         "time" : 586.39300009236,
+         "id" : "dep29",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_115",
+         "time" : 595.21599998698,
+         "id" : "dep30",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_114",
+         "time" : 333.25100038201,
+         "id" : "dep31",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 0.179000198840185,
+         "id" : "dep32",
+         "a1" : "r107_c4"
+      },
+      {
+         "a2" : "download_113",
+         "time" : 310.46700011939,
+         "id" : "dep33",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_112",
+         "time" : 312.25199997425,
+         "id" : "dep34",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_111",
+         "time" : -1,
+         "id" : "dep35",
+         "a1" : "r107_c3"
+      },
+      {
+         "a2" : "download_111",
+         "time" : 309.94600011036,
+         "id" : "dep36",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : -1,
+         "id" : "dep37",
+         "a1" : "r107_c1"
+      },
+      {
+         "a2" : "download_110",
+         "time" : 303.46300033853,
+         "id" : "dep38",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 2.44599999859975,
+         "id" : "dep39",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 36.30699962377,
+         "id" : "dep40",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 52.4129997938799,
+         "id" : "dep41",
+         "a1" : "r100_c1"
+      },
+      {
+         "a2" : "download_109",
+         "time" : 928.04599972441,
+         "id" : "dep42",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 100.00400012359,
+         "id" : "dep43",
+         "a1" : "r107_c1"
+      },
+      {
+         "a2" : "download_108",
+         "time" : 236.81600019336,
+         "id" : "dep44",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 1804.28000027314,
+         "id" : "dep45",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 2.69100023433975,
+         "id" : "dep46",
+         "a1" : "r107_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 139.50300030411,
+         "id" : "dep47",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_107",
+         "time" : 173.36399992928,
+         "id" : "dep48",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 9.57800028845986,
+         "id" : "dep49",
+         "a1" : "r107_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 146.39000035823,
+         "id" : "dep50",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_106",
+         "time" : 180.2509999834,
+         "id" : "dep51",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 112.84000007436,
+         "id" : "dep52",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_105",
+         "time" : 146.70099969953,
+         "id" : "dep53",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 73.4300003387098,
+         "id" : "dep54",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 107.29099996388,
+         "id" : "dep55",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_103",
+         "time" : 123.39700013399,
+         "id" : "dep56",
+         "a1" : "r100_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 11.3749997690302,
+         "id" : "dep57",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 27.48099993914,
+         "id" : "dep58",
+         "a1" : "r100_c1"
+      },
+      {
+         "a2" : "download_102",
+         "time" : 903.11399986967,
+         "id" : "dep59",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 72.69200030715,
+         "id" : "dep60",
+         "a1" : "r101_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 106.55299993232,
+         "id" : "dep61",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 122.65900010243,
+         "id" : "dep62",
+         "a1" : "r100_c1"
+      },
+      {
+         "a2" : "download_101",
+         "time" : 998.29200003296,
+         "id" : "dep63",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 1633.53800028562,
+         "id" : "dep64",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 2.62199994176035,
+         "id" : "dep65",
+         "a1" : "r102_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 18.7280001118702,
+         "id" : "dep66",
+         "a1" : "r100_c1"
+      },
+      {
+         "a2" : "download_100",
+         "time" : 894.3610000424,
+         "id" : "dep67",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 4.51300013809987,
+         "id" : "dep68",
+         "a1" : "r100_c1"
+      },
+      {
+         "a2" : "download_99",
+         "time" : 880.14600006863,
+         "id" : "dep69",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_98",
+         "time" : 14.0259996987797,
+         "id" : "dep70",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 34.4670000486099,
+         "id" : "dep71",
+         "a1" : "r97_c1"
+      },
+      {
+         "a2" : "download_97",
+         "time" : 602.31499979272,
+         "id" : "dep72",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_96",
+         "time" : 19.6940000168997,
+         "id" : "dep73",
+         "a1" : "comp_261"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 46.0600000806198,
+         "id" : "dep74",
+         "a1" : "r97_c1"
+      },
+      {
+         "a2" : "download_95",
+         "time" : 613.90799982473,
+         "id" : "dep75",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 18.75800034032,
+         "id" : "dep76",
+         "a1" : "r97_c1"
+      },
+      {
+         "a2" : "download_94",
+         "time" : 586.60600008443,
+         "id" : "dep77",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 10.89500030503,
+         "id" : "dep78",
+         "a1" : "r97_c1"
+      },
+      {
+         "a2" : "download_93",
+         "time" : 578.74300004914,
+         "id" : "dep79",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 7.30099994688999,
+         "id" : "dep80",
+         "a1" : "r97_c1"
+      },
+      {
+         "a2" : "download_92",
+         "time" : 575.148999691,
+         "id" : "dep81",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_91",
+         "time" : 424.11099979653,
+         "id" : "dep82",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 5.99600002168972,
+         "id" : "dep83",
+         "a1" : "r89_c1"
+      },
+      {
+         "a2" : "download_90",
+         "time" : 421.99999978765,
+         "id" : "dep84",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 2.53600021823968,
+         "id" : "dep85",
+         "a1" : "r89_c1"
+      },
+      {
+         "a2" : "download_89",
+         "time" : 418.5399999842,
+         "id" : "dep86",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_88",
+         "time" : 46.38299997896,
+         "id" : "dep87",
+         "a1" : "comp_265"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 30.8800004422701,
+         "id" : "dep88",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_87",
+         "time" : 390.39500011131,
+         "id" : "dep89",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 26.89900016412,
+         "id" : "dep90",
+         "a1" : "r87_c1"
+      },
+      {
+         "a2" : "download_86",
+         "time" : 386.41399983316,
+         "id" : "dep91",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_85",
+         "time" : 31.3240000978099,
+         "id" : "dep92",
+         "a1" : "r40_c1"
+      },
+      {
+         "a2" : "download_84",
+         "time" : 57.21100000664,
+         "id" : "dep93",
+         "a1" : "comp_125"
+      },
+      {
+         "a2" : "download_83",
+         "time" : 711.63500007242,
+         "id" : "dep94",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_82",
+         "time" : -1,
+         "id" : "dep95",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_81",
+         "time" : 705.56899998337,
+         "id" : "dep96",
+         "a1" : "r1_c11"
+      },
+      {
+         "a2" : "download_80",
+         "time" : 142.85699976608,
+         "id" : "dep97",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_79",
+         "time" : 136.74099976197,
+         "id" : "dep98",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_78",
+         "time" : -1,
+         "id" : "dep99",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_77",
+         "time" : 153.35599984974,
+         "id" : "dep100",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_76",
+         "time" : -1,
+         "id" : "dep101",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_75",
+         "time" : -1,
+         "id" : "dep102",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_74",
+         "time" : 138.62199988216,
+         "id" : "dep103",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_73",
+         "time" : 138.14799999818,
+         "id" : "dep104",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_72",
+         "time" : 151.7079998739,
+         "id" : "dep105",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_71",
+         "time" : -1,
+         "id" : "dep106",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_70",
+         "time" : 137.67600012943,
+         "id" : "dep107",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_69",
+         "time" : 137.20799982548,
+         "id" : "dep108",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_68",
+         "time" : 120.97899988294,
+         "id" : "dep109",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_67",
+         "time" : 155.43799987063,
+         "id" : "dep110",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_66",
+         "time" : 144.75899981335,
+         "id" : "dep111",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_65",
+         "time" : 149.76199995726,
+         "id" : "dep112",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_64",
+         "time" : 144.27899988368,
+         "id" : "dep113",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_63",
+         "time" : 156.88499994576,
+         "id" : "dep114",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_62",
+         "time" : 143.79799971357,
+         "id" : "dep115",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_61",
+         "time" : 157.36499987542,
+         "id" : "dep116",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_60",
+         "time" : 150.7129999809,
+         "id" : "dep117",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_59",
+         "time" : 150.25499975309,
+         "id" : "dep118",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_58",
+         "time" : 151.21700009331,
+         "id" : "dep119",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_57",
+         "time" : 149.28699983284,
+         "id" : "dep120",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_56",
+         "time" : 40.8250000327801,
+         "id" : "dep121",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_55",
+         "time" : 156.40399977565,
+         "id" : "dep122",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_54",
+         "time" : 134.87799977884,
+         "id" : "dep123",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_53",
+         "time" : 143.32799986005,
+         "id" : "dep124",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_52",
+         "time" : 38.17499987781,
+         "id" : "dep125",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_51",
+         "time" : 155.91999981552,
+         "id" : "dep126",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_50",
+         "time" : 135.79299999401,
+         "id" : "dep127",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_49",
+         "time" : 148.09599984437,
+         "id" : "dep128",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 135.33600000664,
+         "id" : "dep129",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_47",
+         "time" : 136.25699980184,
+         "id" : "dep130",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_46",
+         "time" : 134.41899977624,
+         "id" : "dep131",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 47.9859998449701,
+         "id" : "dep132",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 148.79699982703,
+         "id" : "dep133",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 147.63299981132,
+         "id" : "dep134",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 114.73099980503,
+         "id" : "dep135",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 147.17300003394,
+         "id" : "dep136",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 142.3740000464,
+         "id" : "dep137",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 141.51899982244,
+         "id" : "dep138",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 140.0719997473,
+         "id" : "dep139",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 141.04499993846,
+         "id" : "dep140",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 146.66499989107,
+         "id" : "dep141",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 30.53800016641,
+         "id" : "dep142",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 140.56900003925,
+         "id" : "dep143",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 145.7409998402,
+         "id" : "dep144",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 146.19799982756,
+         "id" : "dep145",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 145.24299977347,
+         "id" : "dep146",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 22.3139999434302,
+         "id" : "dep147",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 3.51599976420016,
+         "id" : "dep148",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 112.43599979207,
+         "id" : "dep149",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 58.7700000032801,
+         "id" : "dep150",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 139.57899995148,
+         "id" : "dep151",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 132.57399993017,
+         "id" : "dep152",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 139.09199973568,
+         "id" : "dep153",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 133.95299995318,
+         "id" : "dep154",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 133.48999992013,
+         "id" : "dep155",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 133.02600011229,
+         "id" : "dep156",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 132.06500001252,
+         "id" : "dep157",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 22.8519998490801,
+         "id" : "dep158",
+         "a1" : "r1_c10"
+      },
+      {
+         "a2" : "download_17",
+         "time" : -1,
+         "id" : "dep159",
+         "a1" : "r1_c7"
+      },
+      {
+         "a2" : "download_16",
+         "time" : -1,
+         "id" : "dep160",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 37.851999979466,
+         "id" : "dep161",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 32.099999953061,
+         "id" : "dep162",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 165.411999914795,
+         "id" : "dep163",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 165.411999914795,
+         "id" : "dep164",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 39.958000183105,
+         "id" : "dep165",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 164.783000014725,
+         "id" : "dep166",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 164.783000014725,
+         "id" : "dep167",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 37.317000329494,
+         "id" : "dep168",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 39.341000374406,
+         "id" : "dep169",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 38.782000076026,
+         "id" : "dep170",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_7",
+         "time" : 33.7700000964099,
+         "id" : "dep171",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 34.2350001446899,
+         "id" : "dep172",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 34.809000324458,
+         "id" : "dep173",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 33.2949999719859,
+         "id" : "dep174",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 148.501000367105,
+         "id" : "dep175",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 66.2340000271799,
+         "id" : "dep176",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 30.8620003052059,
+         "id" : "dep177",
+         "a1" : "r1_c1"
+      }
+   ]
+}

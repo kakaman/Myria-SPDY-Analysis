@@ -1,0 +1,1164 @@
+{
+   "n_download_no_trigger" : 1,
+   "start_activity" : "download_0",
+   "name" : "www.kaixin001.com_",
+   "load_activity" : -1,
+   "objs" : [
+      {
+         "when_comp_start" : 1,
+         "url" : "http://www.kaixin001.com/",
+         "id" : "r1",
+         "comps" : [
+            {
+               "s_time" : 1470.56800033897,
+               "time" : 30.1629998721201,
+               "id" : "r1_c1",
+               "type" : "evalhtml",
+               "e_time" : 1500.73100021109
+            },
+            {
+               "s_time" : 2392.6830003038,
+               "time" : 0.618999823930153,
+               "id" : "r1_c2",
+               "type" : "evalhtml",
+               "e_time" : 2393.30200012773
+            },
+            {
+               "s_time" : 2708.15900014713,
+               "time" : 0.074999872600074,
+               "id" : "r1_c3",
+               "type" : "evalhtml",
+               "e_time" : 2708.23400001973
+            },
+            {
+               "s_time" : 2742.92400013655,
+               "time" : 0.074999872600074,
+               "id" : "r1_c4",
+               "type" : "evalhtml",
+               "e_time" : 2742.99900000915
+            },
+            {
+               "s_time" : 2751.71900028363,
+               "time" : 22.4819998256798,
+               "id" : "r1_c5",
+               "type" : "evalhtml",
+               "e_time" : 2774.20100010931
+            },
+            {
+               "s_time" : 2775.61900019646,
+               "time" : 1042.23399981856,
+               "type" : "evalhtml",
+               "id" : "r1_c6",
+               "e_time" : 3817.85300001502
+            }
+         ],
+         "download" : {
+            "s_time" : 0,
+            "id" : "download_0",
+            "type" : "text/html"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/base*Base,base*Array,base*Class,base*Function,base*Object,base*String,base*Browser,base*Pubsub,base*Module,base*CustEvent,base*Env,base*Util-00209b36e.js",
+         "id" : "r2",
+         "comps" : [
+            {
+               "s_time" : 2373.74600023031,
+               "time" : 18.9370000734898,
+               "type" : 1,
+               "id" : "comp_4",
+               "e_time" : 2392.6830003038
+            }
+         ],
+         "download" : {
+            "s_time" : 1495.8100002259,
+            "id" : "download_1",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/prototype-1.6.1,jquery_min,kaixin-0037cc5f8.js",
+         "id" : "r4",
+         "comps" : [
+            {
+               "s_time" : 2583.03400035948,
+               "time" : 125.12499978765,
+               "type" : 1,
+               "id" : "comp_9",
+               "e_time" : 2708.15900014713
+            }
+         ],
+         "download" : {
+            "s_time" : 1497.81800014898,
+            "id" : "download_2",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/common,lazyload,s,head,head_rgroup,webeditor*editor,webeditor*lite,comment_base,Kx_Utils,Kx_HtmlTpl,apps*common*FaceResource,Kx_Easy_Captcha,apps*common*UserCard,apps*common*AppCard-0420d907f.js",
+         "id" : "r5",
+         "comps" : [
+            {
+               "s_time" : 2708.28400040045,
+               "time" : 34.6399997361,
+               "type" : 1,
+               "id" : "comp_19",
+               "e_time" : 2742.92400013655
+            }
+         ],
+         "download" : {
+            "s_time" : 1498.24900040403,
+            "id" : "download_3",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/seclogin,apps*common*AQqLogin,apps*common*AOauthLogin-004835e68.js",
+         "id" : "r6",
+         "comps" : [
+            {
+               "s_time" : 2743.04800014943,
+               "time" : 8.67100013419986,
+               "type" : 1,
+               "id" : "comp_22",
+               "e_time" : 2751.71900028363
+            }
+         ],
+         "download" : {
+            "s_time" : 1498.63900011405,
+            "id" : "download_4",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/css/_combo/s,basic,suggestion,icon,panel-0711c79f1.css",
+         "id" : "r3",
+         "comps" : [
+            {
+               "s_time" : 2535.44000023976,
+               "time" : 46.3729999028101,
+               "type" : 4,
+               "id" : "comp_8",
+               "e_time" : 2581.81300014257
+            }
+         ],
+         "download" : {
+            "s_time" : 1496.80800037459,
+            "id" : "download_5",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/index-7.js",
+         "id" : "r7",
+         "comps" : [
+            {
+               "s_time" : 2774.24200018868,
+               "time" : 1.37700000778023,
+               "type" : 1,
+               "id" : "comp_36",
+               "e_time" : 2775.61900019646
+            }
+         ],
+         "download" : {
+            "s_time" : 1500.31200004742,
+            "id" : "download_6",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/css/register-14.css",
+         "id" : "r8",
+         "comps" : [
+            {
+               "s_time" : 2420.07200000808,
+               "time" : 0.0960002653300762,
+               "type" : 4,
+               "id" : "comp_7",
+               "e_time" : 2420.16800027341
+            }
+         ],
+         "download" : {
+            "s_time" : 1500.73100021109,
+            "id" : "download_7",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/homenew/headbg_index.png",
+         "id" : "r9",
+         "comps" : [],
+         "download" : {
+            "s_time" : 2753.37800011039,
+            "id" : "download_8",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/apps/reg/ARegister-00100c612.js",
+         "id" : "r31",
+         "comps" : [
+            {
+               "s_time" : 3372.78700014576,
+               "time" : 1.43600022421015,
+               "type" : 2,
+               "id" : "comp_77",
+               "e_time" : 3374.22300036997
+            }
+         ],
+         "download" : {
+            "s_time" : 3085.75300034136,
+            "id" : "download_9",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/valid/Valid-000338a7a.js",
+         "id" : "r33",
+         "comps" : [
+            {
+               "s_time" : 3380.58700039983,
+               "time" : 14.27999977022,
+               "type" : 2,
+               "id" : "comp_93",
+               "e_time" : 3394.86700017005
+            }
+         ],
+         "download" : {
+            "s_time" : 3086.68000018224,
+            "id" : "download_10",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/apps/reg/Captcha-00031a83c.js",
+         "id" : "r32",
+         "comps" : [
+            {
+               "s_time" : 3374.47400018573,
+               "time" : 0.554000027480015,
+               "type" : 2,
+               "id" : "comp_81",
+               "e_time" : 3375.02800021321
+            }
+         ],
+         "download" : {
+            "s_time" : 3086.25200018287,
+            "id" : "download_11",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/apps/reg/AWizardInfo-00096e056.js",
+         "id" : "r35",
+         "comps" : [
+            {
+               "s_time" : 3394.94000002742,
+               "time" : 18.8420000486099,
+               "type" : 2,
+               "id" : "comp_97",
+               "e_time" : 3413.78200007603
+            }
+         ],
+         "download" : {
+            "s_time" : 3087.50900020823,
+            "id" : "download_12",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/apps/reg/CityChoose-0000cb58a.js",
+         "id" : "r34",
+         "comps" : [
+            {
+               "s_time" : 3375.1080003567,
+               "time" : 0.641999766230128,
+               "type" : 2,
+               "id" : "comp_85",
+               "e_time" : 3375.75000012293
+            }
+         ],
+         "download" : {
+            "s_time" : 3087.08800002933,
+            "id" : "download_13",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/apps/reg/SchoolSelector-0000d81c7.js",
+         "id" : "r36",
+         "comps" : [
+            {
+               "s_time" : 3375.81600015983,
+               "time" : 4.65600006282011,
+               "type" : 2,
+               "id" : "comp_89",
+               "e_time" : 3380.47200022265
+            }
+         ],
+         "download" : {
+            "s_time" : 3087.91600028053,
+            "id" : "download_14",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/kx-logo-index.png",
+         "id" : "r10",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3160.27000034228,
+            "id" : "download_15",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/homenew/spt_head_12.png",
+         "id" : "r11",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3160.69700010121,
+            "id" : "download_16",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/apps*common*AScrollTip,apps*common*AHeadPopupNav-00422e470.js",
+         "id" : "r37",
+         "comps" : [
+            {
+               "s_time" : 3413.86800026521,
+               "time" : 8.2629998214602,
+               "type" : 2,
+               "id" : "comp_101",
+               "e_time" : 3422.13100008667
+            }
+         ],
+         "download" : {
+            "s_time" : 3090.03500035033,
+            "id" : "download_17",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/Geometry-0001de487.js",
+         "id" : "r38",
+         "comps" : [
+            {
+               "s_time" : 3422.22000006586,
+               "time" : 0.529000069950143,
+               "type" : 2,
+               "id" : "comp_105",
+               "e_time" : 3422.74900013581
+            }
+         ],
+         "download" : {
+            "s_time" : 3091.11200040206,
+            "id" : "download_18",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/ScrollObserver-000179b73.js",
+         "id" : "r39",
+         "comps" : [
+            {
+               "s_time" : 3422.79900005087,
+               "time" : 136.78800035268,
+               "type" : 2,
+               "id" : "comp_109",
+               "e_time" : 3559.58700040355
+            }
+         ],
+         "download" : {
+            "s_time" : 3091.74000006169,
+            "id" : "download_19",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/apps*news_interaction*AInit,apps*news_interaction*Utils,apps*news_interaction*Comment-0042e9e70.js",
+         "id" : "r40",
+         "comps" : [
+            {
+               "s_time" : 3764.00399999693,
+               "time" : 12.8870001062801,
+               "type" : null,
+               "id" : "comp_210",
+               "e_time" : 3776.89100010321
+            }
+         ],
+         "download" : {
+            "s_time" : 3092.5569999963,
+            "id" : "download_20",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/3rd/autosize/Autosize-00031e451.js",
+         "id" : "r41",
+         "comps" : [
+            {
+               "s_time" : 3559.65800024569,
+               "time" : 20.4570000059903,
+               "type" : 2,
+               "id" : "comp_127",
+               "e_time" : 3580.11500025168
+            }
+         ],
+         "download" : {
+            "s_time" : 3094.43200007081,
+            "id" : "download_21",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/_combo/apps*common*event_log*Rules,apps*common*event_log*AEventLog-0020c99e2.js",
+         "id" : "r42",
+         "comps" : [
+            {
+               "s_time" : 3580.20900003612,
+               "time" : 3.20300040767006,
+               "type" : null,
+               "id" : "comp_132",
+               "e_time" : 3583.41200044379
+            }
+         ],
+         "download" : {
+            "s_time" : 3095.42800020427,
+            "id" : "download_22",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/login/left_bg.png",
+         "id" : "r13",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3161.41900001094,
+            "id" : "download_23",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/del_account.gif",
+         "id" : "r15",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3162.19600010663,
+            "id" : "download_24",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/login/login_btn_01.png",
+         "id" : "r16",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3162.58600028232,
+            "id" : "download_25",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/fzcg_dh.gif",
+         "id" : "r14",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3161.81500023231,
+            "id" : "download_26",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/cookie/Cookie-0001f6c85.js",
+         "id" : "r43",
+         "comps" : [
+            {
+               "s_time" : 3776.95800038055,
+               "time" : 19.4059996865599,
+               "type" : null,
+               "id" : "comp_214",
+               "e_time" : 3796.36400006711
+            }
+         ],
+         "download" : {
+            "s_time" : 3096.43700020388,
+            "id" : "download_27",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/log_kaixin001-00257bf5a.js",
+         "id" : "r46",
+         "comps" : [
+            {
+               "s_time" : 3796.44900001585,
+               "time" : 17.0880001969704,
+               "type" : null,
+               "id" : "comp_218",
+               "e_time" : 3813.53700021282
+            }
+         ],
+         "download" : {
+            "s_time" : 3136.03500043973,
+            "id" : "download_28",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/login/login_ico2.png",
+         "id" : "r17",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3162.97599999234,
+            "id" : "download_29",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i3/kxmobile/aClient_spread_login.jpg",
+         "id" : "r18",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3163.36200013757,
+            "id" : "download_30",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i3/kxmobile/KXaClient_down_link02.png",
+         "id" : "r19",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3163.76300016418,
+            "id" : "download_31",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/register/reg_r_pic02.jpg",
+         "id" : "r20",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3164.19600043446,
+            "id" : "download_32",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.kaixin001.com/interface/resourcemap.php?modules=core/storage/Storage",
+         "id" : "r44",
+         "comps" : [
+            {
+               "s_time" : 3815.06500020623,
+               "time" : 1.49000016973014,
+               "type" : null,
+               "id" : "comp_222",
+               "e_time" : 3816.55500037596
+            }
+         ],
+         "download" : {
+            "s_time" : 3099.19500024989,
+            "id" : "download_33",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.kaixin001.com/favicon.ico",
+         "id" : "r28",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3075.885000173,
+            "id" : "download_34",
+            "type" : "image/x-icon"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/css/user_card-0014cb0ff.css",
+         "id" : "r48",
+         "comps" : [
+            {
+               "s_time" : 3727.05300012603,
+               "time" : 20.92200005427,
+               "type" : null,
+               "id" : "comp_137",
+               "e_time" : 3747.9750001803
+            }
+         ],
+         "download" : {
+            "s_time" : 3405.7680000551,
+            "id" : "download_35",
+            "type" : "text/css"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/register/spr_reg_num02.png",
+         "id" : "r21",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3164.61600037292,
+            "id" : "download_36",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/register/step12.png",
+         "id" : "r22",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3165.0380003266,
+            "id" : "download_37",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/register/th_ju.gif",
+         "id" : "r23",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3165.50900042057,
+            "id" : "download_38",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/fzcg_dh4.gif",
+         "id" : "r24",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3172.18900006264,
+            "id" : "download_39",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/register/spr_reg.png",
+         "id" : "r25",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3172.86900011823,
+            "id" : "download_40",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/home/dt_loading_nobg.gif",
+         "id" : "r26",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3173.29900013283,
+            "id" : "download_41",
+            "type" : "image/gif"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/footreport.png",
+         "id" : "r30",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3174.05900033191,
+            "id" : "download_42",
+            "type" : "image/png"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://img1.kaixin001.com.cn/i/dot2.jpg",
+         "id" : "r29",
+         "comps" : [],
+         "download" : {
+            "s_time" : 3173.68200002238,
+            "id" : "download_43",
+            "type" : "image/jpeg"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/media/MediaBox-0002a9159.js",
+         "id" : "r50",
+         "comps" : [
+            {
+               "s_time" : 4006.21400028467,
+               "time" : 2.6130001060701,
+               "type" : null,
+               "id" : "comp_230",
+               "e_time" : 4008.82700039074
+            }
+         ],
+         "download" : {
+            "s_time" : 3776.38700045645,
+            "id" : "download_44",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/apps/common/EmoticonControl-0001d914b.js",
+         "id" : "r51",
+         "comps" : [
+            {
+               "s_time" : 4008.9000002481,
+               "time" : 1.56599981711042,
+               "type" : null,
+               "id" : "comp_234",
+               "e_time" : 4010.46600006521
+            }
+         ],
+         "download" : {
+            "s_time" : 3777.9720001854,
+            "id" : "download_45",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/storage/Storage-00049ab7f.js",
+         "id" : "r53",
+         "comps" : [
+            {
+               "s_time" : 4010.53500035778,
+               "time" : 7.37199978902981,
+               "type" : null,
+               "id" : "comp_238",
+               "e_time" : 4017.90700014681
+            }
+         ],
+         "download" : {
+            "s_time" : 3817.85300001502,
+            "id" : "download_46",
+            "type" : "application/x-javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://www.kaixin001.com/interface/resourcemap.php?modules=apps/common/event_log/Rules",
+         "id" : "r49",
+         "comps" : [
+            {
+               "s_time" : 4019.73400032148,
+               "time" : 0.476999673990122,
+               "type" : null,
+               "id" : "comp_242",
+               "e_time" : 4020.21099999547
+            }
+         ],
+         "download" : {
+            "s_time" : 3584.34800012037,
+            "id" : "download_47",
+            "type" : "application/javascript"
+         }
+      },
+      {
+         "when_comp_start" : -1,
+         "url" : "http://s.kaixin001.com.cn/js/core/CmpEventMgr-00030bfcd.js",
+         "id" : "r54",
+         "comps" : [
+            {
+               "s_time" : 4096.81300027296,
+               "time" : 0.804999843239784,
+               "type" : null,
+               "id" : "comp_246",
+               "e_time" : 4097.6180001162
+            }
+         ],
+         "download" : {
+            "s_time" : 4010.23600017652,
+            "id" : "download_48",
+            "type" : "application/x-javascript"
+         }
+      }
+   ],
+   "deps" : [
+      {
+         "a2" : "r1_c2",
+         "time" : -1,
+         "id" : "dep1",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "r1_c3",
+         "time" : -1,
+         "id" : "dep2",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "r1_c4",
+         "time" : -1,
+         "id" : "dep3",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "r1_c5",
+         "time" : -1,
+         "id" : "dep4",
+         "a1" : "comp_22"
+      },
+      {
+         "a2" : "r1_c6",
+         "time" : -1,
+         "id" : "dep5",
+         "a1" : "comp_36"
+      },
+      {
+         "a2" : "comp_9",
+         "time" : -1,
+         "id" : "dep6",
+         "a1" : "comp_4"
+      },
+      {
+         "a2" : "comp_9",
+         "time" : -1,
+         "id" : "dep7",
+         "a1" : "comp_8"
+      },
+      {
+         "a2" : "comp_19",
+         "time" : -1,
+         "id" : "dep8",
+         "a1" : "comp_9"
+      },
+      {
+         "a2" : "comp_22",
+         "time" : -1,
+         "id" : "dep9",
+         "a1" : "comp_19"
+      },
+      {
+         "a2" : "download_48",
+         "time" : 1.33599992842028,
+         "id" : "dep10",
+         "a1" : "comp_234"
+      },
+      {
+         "a2" : "download_47",
+         "time" : -1,
+         "id" : "dep11",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_46",
+         "time" : -1,
+         "id" : "dep12",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_45",
+         "time" : 1.01399980484985,
+         "id" : "dep13",
+         "a1" : "comp_214"
+      },
+      {
+         "a2" : "download_44",
+         "time" : 12.3830004595202,
+         "id" : "dep14",
+         "a1" : "comp_210"
+      },
+      {
+         "a2" : "download_43",
+         "time" : 398.06299982592,
+         "id" : "dep15",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_42",
+         "time" : 398.44000013545,
+         "id" : "dep16",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_41",
+         "time" : 397.67999993637,
+         "id" : "dep17",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_40",
+         "time" : 397.24999992177,
+         "id" : "dep18",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_39",
+         "time" : 396.56999986618,
+         "id" : "dep19",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_38",
+         "time" : 389.89000022411,
+         "id" : "dep20",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_37",
+         "time" : 389.41900013014,
+         "id" : "dep21",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_36",
+         "time" : 388.99700017646,
+         "id" : "dep22",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_35",
+         "time" : 630.14899985864,
+         "id" : "dep23",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_34",
+         "time" : 300.26599997654,
+         "id" : "dep24",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_33",
+         "time" : 323.57600005343,
+         "id" : "dep25",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_32",
+         "time" : 388.577000238,
+         "id" : "dep26",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_31",
+         "time" : 388.14399996772,
+         "id" : "dep27",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_30",
+         "time" : 387.74299994111,
+         "id" : "dep28",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_29",
+         "time" : 387.35699979588,
+         "id" : "dep29",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_28",
+         "time" : 360.41600024327,
+         "id" : "dep30",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_27",
+         "time" : 320.81800000742,
+         "id" : "dep31",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_26",
+         "time" : 386.19600003585,
+         "id" : "dep32",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_25",
+         "time" : 386.96700008586,
+         "id" : "dep33",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_24",
+         "time" : 386.57699991017,
+         "id" : "dep34",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_23",
+         "time" : 385.79999981448,
+         "id" : "dep35",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_22",
+         "time" : 319.80900000781,
+         "id" : "dep36",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_21",
+         "time" : 318.81299987435,
+         "id" : "dep37",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_20",
+         "time" : 316.93799979984,
+         "id" : "dep38",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_19",
+         "time" : 316.12099986523,
+         "id" : "dep39",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_18",
+         "time" : 315.4930002056,
+         "id" : "dep40",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_17",
+         "time" : 314.41600015387,
+         "id" : "dep41",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_16",
+         "time" : 385.07799990475,
+         "id" : "dep42",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_15",
+         "time" : 384.65100014582,
+         "id" : "dep43",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_14",
+         "time" : 312.29700008407,
+         "id" : "dep44",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_13",
+         "time" : 311.46899983287,
+         "id" : "dep45",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_12",
+         "time" : 311.89000001177,
+         "id" : "dep46",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_11",
+         "time" : 310.63299998641,
+         "id" : "dep47",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_10",
+         "time" : 311.06099998578,
+         "id" : "dep48",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_9",
+         "time" : 310.1340001449,
+         "id" : "dep49",
+         "a1" : "r1_c6"
+      },
+      {
+         "a2" : "download_8",
+         "time" : 1.65899982676001,
+         "id" : "dep50",
+         "a1" : "r1_c5"
+      },
+      {
+         "a2" : "download_7",
+         "time" : -1,
+         "id" : "dep51",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_6",
+         "time" : 29.74399970845,
+         "id" : "dep52",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 26.2400000356199,
+         "id" : "dep53",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_5",
+         "time" : 26.2400000356199,
+         "id" : "dep54",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_4",
+         "time" : 28.0709997750801,
+         "id" : "dep55",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_3",
+         "time" : 27.6810000650601,
+         "id" : "dep56",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_2",
+         "time" : 27.24999981001,
+         "id" : "dep57",
+         "a1" : "r1_c1"
+      },
+      {
+         "a2" : "download_1",
+         "time" : 25.24199988693,
+         "id" : "dep58",
+         "a1" : "r1_c1"
+      }
+   ]
+}

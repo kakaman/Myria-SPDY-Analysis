@@ -1,0 +1,17 @@
+{"page": "www.goal.com_"}
+{"DOMLoad": 2269495.724834}
+{"Resource": {"id": 1, "url": "http://www.goal.com/", "sentTime": -1.000000, "len": 6468, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 9453, "connReused": 0, "cached": 0,                            "requestTime": 2269494.754833, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 287, "connectStart": 1, "connectEnd": 289, "sendStart": 289, "sendEnd": 289, "receiveHeadersEnd": 548, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2269495.681089, "len": 6468}}
+{"ObjectHash": {"code": "0x423dae0", "doc": "http://www.goal.com/", "row": 1, "column": 79, "tagName": "html", "time": 2269495.700066, "url": "", "pos": 182, "chunkLen": 6384, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x423d5a0", "doc": "http://www.goal.com/", "row": 2, "column": 10, "tagName": "head", "time": 2269495.700332, "url": "", "pos": 193, "chunkLen": 6384, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x423d6e0", "doc": "http://www.goal.com/", "row": 3, "column": 77, "tagName": "meta", "time": 2269495.700373, "url": "", "pos": 271, "chunkLen": 6384, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x423dd70", "doc": "http://www.goal.com/", "row": 4, "column": 15, "tagName": "title", "time": 2269495.700401, "url": "", "pos": 287, "chunkLen": 6384, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x424ae40", "doc": "http://www.goal.com/", "row": 4, "column": 31, "tagName": "title", "time": 2269495.703535, "url": "", "pos": 303, "chunkLen": 6384, "isStartTag": 0}}
+{"ObjectHash": {"code": "0x424af10", "doc": "http://www.goal.com/", "row": 5, "column": 67, "tagName": "link", "time": 2269495.703551, "url": "http://www.goal.com/favicon.ico", "pos": 371, "chunkLen": 6384, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x424b210", "doc": "http://www.goal.com/", "row": 6, "column": 16, "tagName": "script", "time": 2269495.703663, "url": "", "pos": 388, "chunkLen": 6384, "isStartTag": 1}}
+{"ObjectHash": {"code": "0x424ae10", "doc": "http://www.goal.com/", "row": 8, "column": 17, "tagName": "script", "time": 2269495.703710, "url": "", "pos": 452, "chunkLen": 6384, "isStartTag": 0}}
+{"HOL": {"type": 1, "docUrl": "http://www.goal.com/", "code": "0x424b210", "row": 6, "column": 16, "url": ""}}
+{"Computation": {"type": "execScript", "code": "0x424ae10", "docUrl": "http://www.goal.com/", "startTime": 2269495.703724, "endTime": 2269495.724352, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x424ae10", "docUrl": "http://www.goal.com/", "startTime": 2269495.724700, "endTime": 2269495.724702, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x424ae10", "docUrl": "http://www.goal.com/", "startTime": 2269495.724704, "endTime": 2269495.724705, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Complete": "www.goal.com_"}
