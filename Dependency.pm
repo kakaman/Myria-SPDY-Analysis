@@ -10,6 +10,8 @@ use JSON;
 use Data::Dumper;
 
 # creates the self object?
+# The self is a table with multiple columns and rows
+# Entire code creates one table: self
 
 sub new {
   my $class = shift;
@@ -29,8 +31,15 @@ sub new {
 
   return $self;
 }
-
+# Dependency graph: Name, Objs, deps, Start activity, Load activity
 # self: comps, objects, preloads, resource info, url, 
+# Dependencies:
+# Comp: id, type, s_time, e_time, 
+# Dep: id, a1, a2, time
+# Nodes:
+# E2D: 
+# Obj: id, url, when_comp_start, download. comps
+# Download: type, s_time, id
 
 
 sub process { # Subroutine that processes the information
@@ -88,7 +97,7 @@ sub process { # Subroutine that processes the information
   $self->addE2DDependencies();
   @resources = @{$info->getResources()};
 
-  ####################################
+  ####################################    What are these nodes that are used here???
   # add resources to nodes
   my @nodes;
   foreach $resource (@resources) {
@@ -157,7 +166,7 @@ sub constructParses {
       # objs hash
       %objs_hash = ();
       if ($parse{"objects_hash"}) {
-        %objs_hash = %{decode_json($parse{"objects_hash"})};
+        %objs_hash = %{decode_json($parse{"objects_hash"})}; # Hashes the objects
       }
       $objs_hash{$object{"code"}} = $object;
       $parse{"objects_hash"} = encode_json(\%objs_hash);
@@ -182,6 +191,7 @@ sub constructParses {
     }
 
     # create a new parse
+    # A parse is a type of object that has url, starttime, endtime, lastcode, and its id
     $docs{$docUrl} = 1;
     %parse = ();
     $parse{"url"} = $docUrl;
@@ -246,7 +256,8 @@ sub constructParses {
   return \@parses;
 }
 
-# Add obj_id to resources
+# Add obj_id to resources 
+# Create a graph that maps the resource table with the object id table
 sub addId2Resources {
   my ($self, $info) = @_;
   $info = $self->{_info};
@@ -309,6 +320,7 @@ sub addId2Resources {
 }
 
 # Add obj_id and D2E dependencies to comps
+# Creates a table that is a union of object id, dependencies, and comps
 sub addIdAndD2E2Comps {
   my ($self, $info) = @_;
   $info = $self->{_info};
@@ -400,6 +412,7 @@ sub addIdAndD2E2Comps {
 }
 
 # Add comps to parses and leave other comps not in parses external
+# Creates a table from a union of parse and comps (not in parses external)
 sub addComps2Parses {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -531,6 +544,7 @@ sub addHolDependencies {
   }
 
   # add dependencies to comps
+  # Union dependencies and comps
   my $i = 0;
   foreach $parse (@parses) {
     %parse = %{decode_json($parse)};
@@ -892,6 +906,7 @@ if (0) {
   $info->setResources(\@resources);
 }
 
+# Creates the Dependency graph: Name, Objs, deps, Start activity, Load activity
 sub generateDependencyGraph {
   my ($self, $info, $parses) = @_;
   my $info = $self->{_info};
@@ -1273,6 +1288,7 @@ sub generateDependencyGraph {
   close FH;
 }
 
+# What is this what if analysis on?
 sub whatIfAnalysis {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -1491,6 +1507,7 @@ sub whatIfAnalysis {
   return  encode_json(\@results);
 }
 
+# What if analysis start on the start
 sub whatIfAnalysisStart {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -1878,6 +1895,7 @@ sub whatIfAnalysisStart {
   return $pageEndIf;
 }
 
+# Finds the critical part in the path
 sub criticalPathAnalysis {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2282,6 +2300,7 @@ if (0) {
   return \%ret;
 }
 
+# What is this doing??
 sub cpaFindLastActivity {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2347,6 +2366,7 @@ sub cpaFindLastActivity {
   return \%ret;
 }
 
+# What??
 sub cpaFindInnerParser {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2476,6 +2496,7 @@ sub cpaFindInnerParser {
   return \%ret;
 }
 
+# InnerComps??
 sub cpaFindInnerComps {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2620,6 +2641,7 @@ sub cpaFindInnerComps {
   return \%ret;
 }
 
+# Calculates the dependencies?
 sub cpaCalculateDep {
   my ($self, $info, $parses) = @_;
   %obj = %{$_[1]};
@@ -2679,6 +2701,7 @@ sub cpaCalculateDep {
   return \%ret;
 }
 
+# Finds the resources for specific urls, used earlier on I believe.
 sub findResourceByUrl {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2694,6 +2717,7 @@ sub findResourceByUrl {
   return undef;
 }
 
+# Finds the resources given the object id.
 sub findResourceById {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2709,6 +2733,7 @@ sub findResourceById {
   return undef;
 }
 
+# Finds the Comp given the object id.
 sub findCompById {
   my ($self, $info, $parses) = @_;
   @comps_post_l = @{$self->{_comps_post_l}};
@@ -2723,6 +2748,7 @@ sub findCompById {
   return undef;
 }
 
+# Finds the parse given object id
 sub findParseById {
   my ($self, $info, $parses) = @_;
   @parses = @{$self->{_parses}};
