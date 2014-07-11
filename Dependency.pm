@@ -9,6 +9,8 @@ package Dependency;
 use JSON;
 use Data::Dumper;
 
+# creates the self object?
+
 sub new {
   my $class = shift;
   my $config = UtilConfig->getInstance()->getConfig();
@@ -28,20 +30,23 @@ sub new {
   return $self;
 }
 
-sub process {
-  my ($self, $info) = @_;
+# self: comps, objects, preloads, resource info, url, 
+
+
+sub process { # Subroutine that processes the information
+  my ($self, $info) = @_; # Creates the "container" that houses the information used in the dependency graph
 
   $info = $self->{_info};
   $self->{_load} = 1000 * ($self->{_load} - $info->getPageStart());
 
-  $url = $info->getPageUrl();
-  $pageStart = $info->getPageStart();
+  $url = $info->getPageUrl(); # Gets url 
+  $pageStart = $info->getPageStart(); 
   $pageEnd = $info->getPageEnd();
   print "pageUrl: " . $url , "\n";
   print "pageStart: " . $pageStart , "\n";
 
-  @comps = @{$info->getComps()};
-  @objects = @{$info->getObjects()};
+  @comps = @{$info->getComps()}; # comps?
+  @objects = @{$info->getObjects()}; # Number of objects in the page
   %objecthashes = %{$info->getObjecthashes()};
 
   @hols = @{$info->getHols()};
@@ -99,7 +104,7 @@ sub process {
 
   ####################################
   # [new] Generate dependency graph
-  $self->generateDependencyGraph();
+  $self->generateDependencyGraph(); # Creates a dependency graph
 
   ####################################
   # what-if analysis
