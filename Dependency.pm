@@ -5,6 +5,7 @@
 # ------------------------------------------------------
 
 package Dependency;
+# Creates a Dependency package
 
 use JSON;
 use Data::Dumper;
