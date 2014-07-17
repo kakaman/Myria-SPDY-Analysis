@@ -124,7 +124,7 @@ if (0) {
 
   ####################################
   # critical path analysis
-  $ret = $self->criticalPathAnalysis();
+  $ret = $self->criticalPathAnalysis(); # Calls on the method created later.
   %ret = %{$ret};
   $ret{"whatif_matrix"} = $whatif_matrix;
 
@@ -1126,7 +1126,7 @@ sub generateDependencyGraph {
       $i++;
     }
 
-    # If obj is not found, this should evaluate a data uri which has been included in another comp.
+    # If obj is not found, this should evaluate a data url which has been included in another comp.
     # So just skip
     if (!$obj) {
       next;
@@ -1508,7 +1508,7 @@ sub whatIfAnalysis {
   return  encode_json(\@results);
 }
 
-# What if analysis start on the start
+
 sub whatIfAnalysisStart {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -1588,7 +1588,8 @@ sub whatIfAnalysisStart {
     %prev_obj = %{decode_json($prev_obj)};
     $obj{"ifStart"} = $prev_obj{"ifEnd"};
 
-    # start looking at downloads
+#################################################################################################################################################################
+    # start looking at downloads 
     @succ = ();
     if ($obj{"succ"}) {
       @succ = @{decode_json($obj{"succ"})};
@@ -1896,7 +1897,7 @@ sub whatIfAnalysisStart {
   return $pageEndIf;
 }
 
-# Finds the critical part in the path
+# Finds the critical part in the path, Utilized earlier.
 sub criticalPathAnalysis {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
