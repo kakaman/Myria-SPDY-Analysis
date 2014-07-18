@@ -194,7 +194,7 @@ sub constructParses {
     # create a new parse
     # A parse is a type of object that has url, starttime, endtime, lastcode, and its id
     $docs{$docUrl} = 1;
-    %parse = ();
+    %parse = (); # Parse hash
     $parse{"url"} = $docUrl;
     $parse{"start"} = $object{"time"};
     $parse{"end"} = $object{"time"};
@@ -1289,7 +1289,6 @@ sub generateDependencyGraph {
   close FH;
 }
 
-# What is this what if analysis on?
 sub whatIfAnalysis {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2302,7 +2301,7 @@ if (0) {
   return \%ret;
 }
 
-# What is this doing??
+
 sub cpaFindLastActivity {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2368,7 +2367,7 @@ sub cpaFindLastActivity {
   return \%ret;
 }
 
-# What??
+
 sub cpaFindInnerParser {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2498,7 +2497,6 @@ sub cpaFindInnerParser {
   return \%ret;
 }
 
-# InnerComps??
 sub cpaFindInnerComps {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -2643,7 +2641,7 @@ sub cpaFindInnerComps {
   return \%ret;
 }
 
-# Calculates the dependencies?
+
 sub cpaCalculateDep {
   my ($self, $info, $parses) = @_;
   %obj = %{$_[1]};
@@ -2703,7 +2701,7 @@ sub cpaCalculateDep {
   return \%ret;
 }
 
-# Finds the resources for specific urls, used earlier on I believe.
+# Finds the resources for specific url.
 sub findResourceByUrl {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};

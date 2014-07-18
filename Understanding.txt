@@ -1,0 +1,9 @@
+My understanding of what this program is doing.
+
+Given data that is organized into Objects, Resources, HOL, Computation, and Preload. The program sifts through the data and finds various paths regarding load time under various conditions.
+
+The objects are the tag names written in the HTML page like div, a, img, etc. It is hashed into a table. It has the row and column number, time, position, the chunk length, and wether or not it is a start tag.
+
+Calling structure
+	Analyze.pl -> ProcessMain.pm -> RawParser.pm -> Dependency.pm
+
