@@ -114,14 +114,14 @@ sub outputIntermediaries {
 }
 
 sub generateIntermediaries {
-  my ($self, $paths, $config) = @_;
-  %paths = %{$self->{_paths}};
+  my ($self, $paths, $config) = @_; # Uses self, paths, config
+  %paths = %{$self->{_paths}}; # Sets paths equal to the paths var in the self object
 
-  foreach $path (keys %paths) {
+  foreach $path (keys %paths) { # for each path  that is a key in paths set value
     $value = $paths{$path};
 
       # clear files in temp path
-      my $temp_path = $self->{_config}->{"TempPath"};
+      my $temp_path = $self->{_config}->{"TempPath"}; # set temkp path
       $temp_path .= $path;
       print `mkdir $temp_path`;
       print `rm -rf $temp_path/*`;
@@ -132,11 +132,11 @@ sub generateIntermediaries {
       print `rm -rf graphs/`;
       print `mkdir graphs/`;
 
-      my $data_path = $self->{_config}->{"DataPath"};
+      my $data_path = $self->{_config}->{"DataPath"}; # sets data path
       $data_path .= $path;
       $ps = `ls $data_path`;
       #print $ps . "\n";
-      @files = split(/\n/, $ps);
+      @files = split(/\n/, $ps); # splits based on line
 
 if (1) {
       # find out the min
@@ -145,46 +145,46 @@ if (1) {
       my %loads1 = ();
       my %loads2 = ();
       foreach $file (@files) {
-        if ($value eq "ultralisk" and $file !~ "ultralisk") {
+        if ($value eq "ultralisk" and $file !~ "ultralisk") { # when ultralisk == val & != file
           next;
         }
-        $f = $data_path . "/" . $file;
+        $f = $data_path . "/" . $file; # concatonates data_path and file together
         print "\n" . $f . "\n";
-        $rp = new RawParser($file, $data_path, $temp_path, $value, 0);
-        $url = $rp->getPageUrl();
+        $rp = new RawParser($file, $data_path, $temp_path, $value, 0); # Calls on the new function in RawParser
+        $url = $rp->getPageUrl(); # sets url
 
         #$url = $file; # all
 
-        @a = split(/\-/, $file);
-        $n = $a[2];
+        @a = split(/\-/, $file); # set a = separate - from file 
+        $n = $a[2]; # set n
         if ($url) {
           if (($value ne "two" or $n eq "1")) {
-            $loads1{$url}{$rp->getLoad()} = $file;
+            $loads1{$url}{$rp->getLoad()} = $file; # sets load1
           }
           if ($n eq "2"  and $rp->getLoad() > $loads2{$url}) {
-            $loads2{$url}{$rp->getLoad()} = $file;
+            $loads2{$url}{$rp->getLoad()} = $file; # sets load 2
           }
         }
       }
 
       # calculate the corresponding file based on $type
-      foreach $url (keys %loads1) {
+      foreach $url (keys %loads1) { # for each url which is a key in loads
         my %temp = %{$loads1{$url}};
-        @temp_keys = sort { $a <=> $b } keys %temp;
+        @temp_keys = sort { $a <=> $b } keys %temp; # sort a,b numerically into temp_keys
         my $type = $self->{_type};
         my $k = 0;
         my $count = @temp_keys;
-        if ($type eq "min") {
+        if ($type eq "min") { # if min set k = first element in temp_keys
           $k = $temp_keys[0];
-        } elsif ($type eq "max") {
-          $k = $temp_keys[$count - 1];
-        } elsif ($type eq "median") {
-          $k = $temp_keys[$count / 2];
+        } elsif ($type eq "max") { 
+          $k = $temp_keys[$count - 1]; # set k to last element
+        } elsif ($type eq "median") { 
+          $k = $temp_keys[$count / 2]; # set k to middle element
         } else {
-          my $perc = $type + 0.0;
-          $k = $temp_keys[$count * $perc];
+          my $perc = $type + 0.0; # set perc to type + 0.0
+          $k = $temp_keys[$count * $perc]; # set k to key in count * perc
         }
-        $files1{$url} = $loads1{$url}{$k};
+        $files1{$url} = $loads1{$url}{$k}; # set file url to loads1 url of k
       }
 if (0) { # hot
       foreach $url (keys %loads2) {
