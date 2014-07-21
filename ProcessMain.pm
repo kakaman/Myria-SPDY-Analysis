@@ -187,50 +187,50 @@ if (1) {
         $files1{$url} = $loads1{$url}{$k}; # set file url to loads1 url of k
       }
 if (0) { # hot
-      foreach $url (keys %loads2) {
-        my %temp = %{$loads2{$url}};
-        @temp_keys = sort { $a <=> $b } keys %temp;
+      foreach $url (keys %loads2) { # For each url that is a key in Loads2
+        my %temp = %{$loads2{$url}}; # set temp variable
+        @temp_keys = sort { $a <=> $b } keys %temp; #set temp_keys variable to sorted a,b from temp
         my $type = $self->{_type};
         my $k = 0;
         my $count = @temp_keys;
         if ($type eq "min") {
-          $k = $temp_keys[0];
+          $k = $temp_keys[0]; # if min set k = first element in temp_keys
         } elsif ($type eq "max") {
-          $k = $temp_keys[$count - 1];
+          $k = $temp_keys[$count - 1]; # if max set k = last element in temp_keys
         } elsif ($type eq "median") {
-          $k = $temp_keys[$count / 2];
+          $k = $temp_keys[$count / 2]; # if median set k = middle element
         } else {
-          my $perc = $type + 0.0;
-          $k = $temp_keys[$count * $perc];
+          my $perc = $type + 0.0; # set perc to type + 0.0
+          $k = $temp_keys[$count * $perc]; # set k to key in count * perc
         }
-        $files2{$url} = $loads2{$url}{$k};
+        $files2{$url} = $loads2{$url}{$k}; # set file url to loads1 url of k
       }
 }
 
       #do real analysis on 
       #cold
-      foreach $url (keys %files1) {
-        $file = $files1{$url};
+      foreach $url (keys %files1) { # for each url that is a key in files1
+        $file = $files1{$url}; # set file
 
         if ($value eq "ultralisk" and $file !~ "ultralisk") {
-          next;
+          next; # get next url
         }
-        $f = $data_path . "/" . $file;
+        $f = $data_path . "/" . $file; # set datapath
         print "$file\t$date_path\t$value\n\n";
-        $rp = new RawParser($file, $data_path, $temp_path, $value, 1);
-        $url = $rp->getPageUrl();
+        $rp = new RawParser($file, $data_path, $temp_path, $value, 1); # call RawParser
+        $url = $rp->getPageUrl(); # set url from rp
       }
       #hot
 if (0) {
-      foreach $url (keys %files2) {
-        $file = $files2{$url};
+      foreach $url (keys %files2) { # for each url that is a key in files2
+        $file = $files2{$url}; # Set file
         if ($value eq "ultralisk" and $file !~ "ultralisk") {
-          next;
+          next; # get next url
         }
-        $f = $data_path . "/" . $file;
+        $f = $data_path . "/" . $file; # set datapath
         print "\n" . $f . "\n";
-        $rp = new RawParser($file, $data_path, $temp_path, $value, 1);
-        $url = $rp->getPageUrl();
+        $rp = new RawParser($file, $data_path, $temp_path, $value, 1); # call RawParser
+        $url = $rp->getPageUrl(); # set url from rp
       }
 }
 }
