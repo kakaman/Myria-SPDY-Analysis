@@ -7,3 +7,80 @@ The objects are the tag names written in the HTML page like div, a, img, etc. It
 Calling structure
 	Analyze.pl -> ProcessMain.pm -> RawParser.pm -> Dependency.pm
 
+	ProcessMain() -> generateIntermediaries() -> RawParser() -> 
+
+
+generateIntermediaries (): Psuedocode
+
+take self, paths, config
+%paths = self->paths
+
+for each path (keys %paths)
+	value = path from paths
+
+	clear files in temp path
+
+parse(): Psuedocode
+If parsed return;
+If noInput return;
+ContentIsAvailable = 1
+Split/Separate on -
+lines = content on each line; (Parse each line)
+
+for each line
+{
+	decode json
+	if (!'RecievedChunk' AND chunks > 0)
+	{
+		add chunks to resource
+
+		if pageUrl
+			push to json
+
+		if not pageResource
+			pageresource = encode json
+
+		clear resource and chunks
+	}
+
+	if 'Resource'
+		%Resource = %$Resource
+
+	if resource sentTime DNE
+		sentTime = requestTime
+
+	clear chunks
+	if !pageUrl & filename == pageUrlTemp
+	set pageURL and start = sentTime
+
+	if !start
+		start = requestTime
+
+	else if ReceivedChunk
+		if pageUrl
+			push chunks, recievedchunk
+			receivedTime = ReceivedChunk, ReceivedTime
+
+	else if DOMLead
+		$end = DOMLoad
+
+	else if ObjectHash
+		%obj =ObjectHash
+
+	if obj_doc == pageUrl
+		if !pageParseStart
+			pageParseStart = Obj(time)
+		PageParseEnd = Obj(time)
+
+		code = ObjectHash, code
+
+	 for script element, set the start tag for a script end tag
+
+	 else if push to json
+	 	Computation, HOL, matchedCSSAndUrl, Preload, ResourceInfoChrome
+	 
+	 set to variable
+	 	resources, objecthashes, objects, comps, hols, preloads, resourceinfo, pageStart, pageEnd, pageResources, pageUrl, pageParseStart, pageParseEnd
+}
+
+http://wonderwall.msn.com/movies/kristen-bell-and-julianne-hough-face-off-29625.gallery

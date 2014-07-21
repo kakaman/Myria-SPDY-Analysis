@@ -1311,8 +1311,8 @@ sub processOverall {
 
 }
 
-sub calculateAVG {
-  my ($self, $path1, $config) = @_;
+sub calculateAVG { # Calculates the average path
+  my ($self, $path1, $config) = @_; # takes path1, self, config
 
   my @hash = @{$_[1]};
   my $switch = $_[2];
@@ -1321,12 +1321,12 @@ sub calculateAVG {
 
   $n = @hash;
   if ($switch) {
-    foreach my $key (@hash) {
-      $sum += $key;
-      $ii++;
+    foreach my $key (@hash) { # for each key
+      $sum += $key; # add key to sum
+      $ii++; # increment 
     }
   } else {
-    @hash = sort {$a <=> $b} @hash;
+    @hash = sort {$a <=> $b} @hash;n # sort in order
     @hashn;
     for ($i = 0; $i < $n * (1 - 0.1); $i++) {
       $hashn[$i] = $hash[$i];
