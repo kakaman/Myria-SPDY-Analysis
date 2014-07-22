@@ -665,6 +665,14 @@ sub addHolDependencies {
   $self->{_parses} = \@parses;
 }
 
+# Extract css->img dependency
+# Extract preloading dependency
+# add dependencies
+# Match with css->img dependency
+# Match with preloading dependency
+# First, match with comps not during html parsing
+# Second, match with html parsing
+# Third, for those that are not matched, match with the main html
 sub addE2DDependencies {
   my ($self, $info, $parses) = @_;
   $info = $self->{_info};
@@ -912,9 +920,9 @@ if (0) {
 
 # Creates the Dependency graph: Name, Objs, deps, Start activity, Load activity
 sub generateDependencyGraph {
-  my ($self, $info, $parses) = @_;
-  my $info = $self->{_info};
-  my $json = JSON->new->allow_nonref;
+  my ($self, $info, $parses) = @_; # takes self, info, parses
+  my $info = $self->{_info}; # set info
+  my $json = JSON->new->allow_nonref; # set json
 
   # Get required resources
   my @resources = @{$info->getResources()};
@@ -985,20 +993,20 @@ sub generateDependencyGraph {
   $graph->{n_download_no_trigger} = $n_download_no_trigger;
 
   # Construct parses and comps in parses
-  for my $pp (@parses) {
+  for my $pp (@parses) { # for pp from parses
     next if (!$pp);
-    my $p = decode_json($pp);
+    my $p = decode_json($pp); # set p to decoded pp
     next if ($p->{url} !~ /^http/);
 
     # Find corresponding download activity
     my $i = 0;
     my $obj;
-    for my $o (@{$graph->{objs}}) {
+    for my $o (@{$graph->{objs}}) { # for o where graph->objs exists
       if ($o->{url} eq $p->{url}) {
-        $obj = $o;
+        $obj = $o; # set obj to corresponding download activity
         last;
       }
-      $i++;
+      $i++; # increment i
     }
     $obj->{comps} = [] if (!$obj->{comps});
 
