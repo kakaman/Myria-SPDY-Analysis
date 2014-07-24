@@ -124,7 +124,7 @@ sub process {
 
   ####################################
   # what-if analysis
-if (0) {
+if (0) { # unused 
   $whatif_matrix = $self->whatIfAnalysis(); # calls whatIfAnalysis subroutine
 }
 
@@ -777,17 +777,17 @@ sub addE2DDependencies {
           next;
         }
 
-        if (!$parse{"objects_hash"}) { 
+        if (!$parse{"objects_hash"}) { # if object_hash DNE
           next;
         }
-        %objects = %{decode_json($parse{"objects_hash"})};
-        $obj = $objects{$preload{"code"}};
+        %objects = %{decode_json($parse{"objects_hash"})}; # set objects
+        $obj = $objects{$preload{"code"}}; # set obj
 
         last;
       }
 
       #print $obj . "\n";
-      %obj = %{decode_json($obj)};
+      %obj = %{decode_json($obj)}; # set obj hash
 
       # add to @prev
       my %pr = (
@@ -808,19 +808,19 @@ sub addE2DDependencies {
     }
 
     # First, match with comps not during html parsing
-    my $n = @comps_post_l;
-    for ($i = $n - 1; $i >= 0; --$i) {
-      $comp = $comps_post_l[$i];
-      %comp = %{decode_json($comp)};
+    my $n = @comps_post_l; # set n to comps_post_1
+    for ($i = $n - 1; $i >= 0; --$i) { # for loop
+      $comp = $comps_post_l[$i]; # set comp to comps_post_1
+      %comp = %{decode_json($comp)}; # set comp to decoded comp
 if (0) { # legacy code
       print "\n" . $r{"url"} . "\n";
       print $comp{"urlRecalcStyle"} . "\n";
       print $r{"sentTime"} . " " . $comp{"startTime"} . " " . $comp{"endTime"} . "\n";
 }
-      if ($r{"sentTime"} > $comp{"startTime"} and $r{"sentTime"} < $comp{"endTime"}) {
-        $r{"E2D"} = $comp{"obj_id"};
-        $r{"critical"} = $comp{"obj_id"};
-        $r{"critical_time"} = $comp{"endTime"};
+      if ($r{"sentTime"} > $comp{"startTime"} and $r{"sentTime"} < $comp{"endTime"}) { # if sentTime > startTime && sentTime < endTime
+        $r{"E2D"} = $comp{"obj_id"}; # set E2D to obj_id (remember object this is dependent on)
+        $r{"critical"} = $comp{"obj_id"}; # set critical to obj_id
+        $r{"critical_time"} = $comp{"endTime"}; # set critical_time to endTime
 
         # add to @prev
         my %pr = (
@@ -841,11 +841,11 @@ if (0) { # legacy code
     }
 
     # Second, match with html parsing
-    if (!$r{"E2D"}) {
-      my $n = @parses;
-      for ($i = $n - 1; $i >= 0; --$i) {
-        $parse = $parses[$i];
-        %parse = %{decode_json($parse)};
+    if (!$r{"E2D"}) { # if ! E2D
+      my $n = @parses; # create/ set n to parses
+      for ($i = $n - 1; $i >= 0; --$i) { # for loop
+        $parse = $parses[$i]; # set parse to i in parses array
+        %parse = %{decode_json($parse)}; # set parse to decoded parse
 if (0) { # legacy code
 	print "\n" . $r{"url"} . "\n";
 	print $r{"sentTime"} . " " . $parse{"start"} . " " . $parse{"end"} . "\n";
@@ -1317,9 +1317,9 @@ sub generateDependencyGraph {
 }
 
 
-sub whatIfAnalysis {
-  my ($self, $info, $parses) = @_;
-  $info = $self->{_info};
+sub whatIfAnalysis { # whatifanalysis
+  my ($self, $info, $parses) = @_; # takes self, info, parses
+  $info = $self->{_info}; # set necessary resources
   $url = $info->getPageUrl();
   $pageStart = $info->getPageStart();
   $pageEnd = $info->getPageEnd();
@@ -1329,37 +1329,37 @@ sub whatIfAnalysis {
   @parses = @{$self->{_parses}};
   @comps_post_l = @{$self->{_comps_post_l}};
 
-  %objs = ();
+  %objs = (); # create hash array
 
   # convert array to hash for
   # @resources, @parses, and @comps_post_l
-  foreach $resource (@resources) {
-    %resource = %{decode_json($resource)};
-    $objs{$resource{"obj_id"}} = $resource;
+  foreach $resource (@resources) { # for each resource
+    %resource = %{decode_json($resource)}; # decode resources
+    $objs{$resource{"obj_id"}} = $resource; # resets the resource object id everytime?
   }
 
-  foreach $parse (@parses) {
-    %parse = %{decode_json($parse)};
-    $objs{$parse{"obj_id"}} = $parse;
+  foreach $parse (@parses) { # for each parse
+    %parse = %{decode_json($parse)}; # decodes the parse
+    $objs{$parse{"obj_id"}} = $parse; # adds parse.obj_id to array
   }
 
-  foreach $comp (@comps_post_l) {
-    %comp = %{decode_json($comp)};
-    $objs{$comp{"obj_id"}} = $comp;
+  foreach $comp (@comps_post_l) { # for each comp
+    %comp = %{decode_json($comp)}; # decodes comp
+    $objs{$comp{"obj_id"}} = $comp; # adds comp.obj_id to array
   }
 
   # add succ to dependency
-  foreach $resource (@resources) {
-    %resource = %{decode_json($resource)};
-    if (!$resource{"prev"}) {
+  foreach $resource (@resources) { # for each resource
+    %resource = %{decode_json($resource)}; # decodes resource
+    if (!$resource{"prev"}) {  # if not resource.prev skip
       next;
     }
-    @prev = @{decode_json($resource{"prev"})};
+    @prev = @{decode_json($resource{"prev"})}; # set prev
     #print "\n" . $resource{"url"} . "\n";
-    foreach $prev (@prev) {
+    foreach $prev (@prev) { # for each prev in prev
       #print $prev . "\n";
       %prev = %{decode_json($prev)};
-      my %pr = (
+      my %pr = ( # create pr
         "rs", $prev{"rs"},
         "at", $prev{"at"},
         "rt", $prev{"rt"},
@@ -1367,16 +1367,16 @@ sub whatIfAnalysis {
         "miss", $prev{"miss"},
       );
 
-      if ($objs{$prev{"id"}}) {
-        $obj = $objs{$prev{"id"}};
-        %obj = %{decode_json($obj)};
-        @succ = ();
-        if ($obj{"succ"}) {
-          @succ = @{decode_json($obj{"succ"})};
+      if ($objs{$prev{"id"}}) { # if objs.prev.id exists/is true
+        $obj = $objs{$prev{"id"}}; # set obj
+        %obj = %{decode_json($obj)}; # set obj has to obj variable
+        @succ = (); # create succ array
+        if ($obj{"succ"}) { # if obj.succ exists
+          @succ = @{decode_json($obj{"succ"})}; # set succ
         }
-        push(@succ, encode_json(\%pr));
-        $obj{"succ"} = encode_json(\@succ);
-        $objs{$prev{"id"}} = encode_json(\%obj);
+        push(@succ, encode_json(\%pr)); # push encoded pr to succ
+        $obj{"succ"} = encode_json(\@succ); # set obj.succ to encoded succ
+        $objs{$prev{"id"}} = encode_json(\%obj); # objs.prev.id to obj
         
         #print $prev{"id"} . "\n";
         #print $objs{$prev{"id"}}{"succ"} . "\n";
@@ -1384,17 +1384,17 @@ sub whatIfAnalysis {
     }
   }
 
-  foreach $comp (@comps_post_l) {
-    %comp = %{decode_json($comp)};
-    if (!$comp{"prev"}) {
+  foreach $comp (@comps_post_l) { # for each comp that is a comps_post_1
+    %comp = %{decode_json($comp)}; # set comp hash to decoded comp
+    if (!$comp{"prev"}) { # if comp.prev DNE skip
       next;
     }
-    @prev = @{decode_json($comp{"prev"})};
+    @prev = @{decode_json($comp{"prev"})}; # set prev to decoded comp.prev
     #print "\n" . $comp{"urlRecalcStyle"} . "\n";
     foreach $prev (@prev) {
       #print $prev . "\n";
       %prev = %{decode_json($prev)};
-      my %pr = (
+      my %pr = ( # set pr
         "rs", $prev{"rs"},
         "at", $prev{"at"},
         "rt", $prev{"rt"},
@@ -1402,16 +1402,16 @@ sub whatIfAnalysis {
         "miss", $prev{"miss"},
       );
 
-      if ($objs{$prev{"id"}}) {
-        $obj = $objs{$prev{"id"}};
-        %obj = %{decode_json($obj)};
-        @succ = ();
-        if ($obj{"succ"}) {
-          @succ = @{decode_json($obj{"succ"})};
+      if ($objs{$prev{"id"}}) { # if objs.prev.id exists
+        $obj = $objs{$prev{"id"}}; # set obj to objs.prev.id
+        %obj = %{decode_json($obj)}; # set obj hash to decoded obj
+        @succ = (); # instantiate succ
+        if ($obj{"succ"}) { # is obj.succ exists
+          @succ = @{decode_json($obj{"succ"})}; # set succ to decoded obj.succ
         }
-        push(@succ, encode_json(\%pr));
-        $obj{"succ"} = encode_json(\@succ);
-        $objs{$prev{"id"}} = encode_json(\%obj);
+        push(@succ, encode_json(\%pr)); # push to succ
+        $obj{"succ"} = encode_json(\@succ); # set obj.succ to encoded succ
+        $objs{$prev{"id"}} = encode_json(\%obj); # set objs.prev.id to encode obj
         
         #print $prev{"id"} . "\n";
         #print $objs{$prev{"id"}}{"succ"} . "\n";
@@ -1419,17 +1419,17 @@ sub whatIfAnalysis {
     }
   }
 
-  foreach $parse (@parses) {
-    %parse = %{decode_json($parse)};
-    if (!$parse{"prev"}) {
+  foreach $parse (@parses) { # for each parse
+    %parse = %{decode_json($parse)}; # set parse
+    if (!$parse{"prev"}) { # if parse.prev DNE skip
       next;
     }
-    @prev = @{decode_json($parse{"prev"})};
+    @prev = @{decode_json($parse{"prev"})}; # set prev
     #print "\n" . $parse{"url"} . "\n";
-    foreach $prev (@prev) {
+    foreach $prev (@prev) { # for each prev
       #print $prev . "\n";
-      %prev = %{decode_json($prev)};
-      my %pr = (
+      %prev = %{decode_json($prev)}; # set prev hash
+      my %pr = ( # set pr
         "rs", $prev{"rs"},
         "at", $prev{"at"},
         "rt", $prev{"rt"},
@@ -1437,7 +1437,7 @@ sub whatIfAnalysis {
         "miss", $prev{"miss"},
       );
 
-      if ($objs{$prev{"id"}}) {
+      if ($objs{$prev{"id"}}) { # if 
         $obj = $objs{$prev{"id"}};
         %obj = %{decode_json($obj)};
         @succ = ();
@@ -2001,11 +2001,11 @@ sub criticalPathAnalysis {
     }
     %obj = %{decode_json($obj)};
     %obj_prev = %{decode_json($obj_prev)};
-    $id = $obj{"critical"};
-    $obj{"onCP"} = "y";
+    $id = $obj{"critical"}; # sets object id to obj.critical
+    $obj{"onCP"} = "y"; # set on ctirical path to yes
 
     $ret = $self->cpaCalculateDep(\%obj, \%obj_prev);
-    %ret = %{$ret};
+    %ret = %{$ret}; # hash ret
     $dep_D2E += $ret{"dep_D2E"};
     $dep_E2D_html += $ret{"dep_E2D_html"};
     $dep_E2D_css += $ret{"dep_E2D_css"};
@@ -2113,7 +2113,7 @@ sub criticalPathAnalysis {
 
       if ($obj{"E2D_miss"}) {
         $parse_undefined += $obj{"E2D_miss"};
-if (0) {
+if (0) { # legacy code
         print "E2D miss: " . $obj{"E2D_miss"} . "\n\n";
 }
       }
@@ -2194,7 +2194,7 @@ if (0) {
         $parse_paint -= $inner_comps{"parse_paint"};
       }
 
-if (0) {
+if (0) { # legacy code
       print "style: " . $inner_comps{"parse_style"} . "\n";
       print "script: " . $inner_comps{"parse_script"} . "\n";
       print "layout: " . $inner_comps{"parse_layout"} . "\n";

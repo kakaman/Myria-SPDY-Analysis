@@ -7,8 +7,84 @@ The objects are the tag names written in the HTML page like div, a, img, etc. It
 Calling structure
 	Analyze.pl -> ProcessMain.pm -> RawParser.pm -> Dependency.pm
 
-	ProcessMain() -> generateIntermediaries() -> RawParser() -> 
+	ProcessMain:run() -> ProcessMain:generateIntermediaries() -> RawParser:parse()/genIntermediaries() -> Dependency:process() -> bunch of add calls -> Dependency:generateDependencyGraph()/criticalPathAnalysis() -> UtilPlot.pm funtions
+Run():
+Processes the file and calculates the intermediaries used later.
+Then it uses the intermediaries to calculate the result that is plotted later
 
+generateIntermediaries():
+
+Uses key, value pairs.
+Takes self, paths, and config as "parameters."
+Sets the data path and makes the various directories for each path.
+calls RawParser() for each url that is the opening tag
+calculates the corresponding file based on type for each url
+calls RawParser() for each url that is the closing tag
+
+RawParser: new(): calls readFromFile(), parse(), genIntermediaries()
+
+genIntermediaries():
+
+takes self, pageStart, pageEnd, pageParseStart, pageParseEnd, resources, objecthashes, comps, hols
+sets ttfb, parseEnd, load, DOMload, HTMLParse, self.load
+Calls on process()
+Prints out the intermediaries/variables 
+
+process():
+
+takes self, info
+sets up the various variables (url, pageStart, pageEnd, comps, objects, objectHashes, hols, mcaus, preloads, resourceInfos)
+Combines various tables 
+	adds obj_id to resources
+	gets parses from self
+	add obj_id and D2E to comps (D2E is the objects the current object depends on before starting)
+	add comps to parses
+	adds HOL dependencies to parses
+	adds E2D Dependencies to resources
+adds every resource to the nodes array
+calls generateDependencyGraph()
+skips whatIfAnalysis()
+calls and returns the criticalPathAnalysis()
+
+generateDependencyGraph():
+
+takes self, info, parses
+sets up the required resources (resources, parses, comps_post_1, comps_post_n, url, objecthashes, pageStart)
+initialize the graph
+constructs the downloads
+adds the various elements to the graph
+using parses
+	find corresponding download activity
+	construct comp
+	parse and distinguish the various JS
+	set up the various dependencies for each activity
+	combine the computations with the objects
+contructs the comps outside of the parses with corresponding objects
+Adds the E2D info to each
+Calculates the elapsed time for comp
+
+criticalPathAnalysis(): calls cpaCalculateDep
+takes self, info, and parses
+Finds the lastActivity i.e. hishest endTime
+Sets up dependency (D2E) variables 
+Classify download time according to mime type (html time, js time, etc)
+Classify downloads according to whether it's ttfb (time to first byte)
+For downloads
+	Calculate the number of domains on the critical path
+	Add dns and tcp connections, setup info for each url
+For parses
+	Calculate the number of domains on the critical path again
+	Add dns and tcp conn. setup info again
+Profile fine-grained computations within html parsing
+Calculate the number of domains on critical path for all
+Return hash-table 
+
+processIntermediaries()
+takes self, path1, config 
+creates the various little data points
+	fractions of download time
+	etc.
+plots the indermediaries
 
 generateIntermediaries (): Psuedocode
 
@@ -19,6 +95,19 @@ for each path (keys %paths)
 	value = path from paths
 
 	clear files in temp path
+
+
+
+processALL(): 
+calls UtilPlot->outputCDF() on elements
+calls UtilPlot->outputScatter() on elements
+
+
+processOverAll():
+sets total or pre computation elements
+sets computation elements
+calls UtilPlot->outputCDF() on elements
+
 
 parse(): Psuedocode
 If parsed return;
