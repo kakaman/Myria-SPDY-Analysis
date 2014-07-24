@@ -194,7 +194,7 @@ sub parse {
       $objecthashes{$code} = encode_json($h{"ObjectHash"});
       push(@objects, encode_json($h{"ObjectHash"}));
     } elsif ($h{"Computation"}) {
-      if ($h{"Computation"}{"endTime"} > -1) {
+      if ($h{"Computation"}{"endTime"} > -1) {  # If endtime exists
         push(@comps, encode_json($h{"Computation"}));
       }
     } elsif ($h{"HOL"}) {

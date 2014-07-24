@@ -10,6 +10,15 @@ package Dependency;
 use JSON;
 use Data::Dumper;
 
+# Objs: id, host, path, when_comp_start (1 = starts after first chunk of object loaded, 
+# -1 = whole chunk needs to be loaded)
+# Download: id, type
+# Comps: id, type, time
+# Deps: id, a1 (dependant on activity), a2 (activity that depends on),
+# time (when a2 can start (-1 requires a1 to finish))
+# start_activity: id of first activity to start with
+
+
 # Dependency constructor
 sub new {
   my $class = shift;
@@ -111,7 +120,7 @@ sub process {
 
   ####################################
   # [new] Generate dependency graph
-  $self->generateDependencyGraph(); # Creates a dependency graph & calls other function
+  $self->generateDependencyGraph();
 
   ####################################
   # what-if analysis
@@ -214,7 +223,7 @@ sub constructParses {
       #print $object . "\n";
       @objsUrl = (); # creates objurl array
       push(@objsUrl, $object); # push object into objsUrl
-      $parse{"objectsUrl"} = encode_json(\@objsUrl);
+      $parse{"objectsUrl"} = encode_json(\@objsUrl); # creates the objectsUrl field 
     }
 
     # parse has url
@@ -267,7 +276,7 @@ sub addId2Resources {
   my $i = 0;
   foreach $resource (@resources) { # for each resource 
     %resource = %{decode_json($resource)}; # decode resource 
-    $resource{"obj_id"} = "download_" . $i; # set obj_id 
+    $resource{"obj_id"} = "download_" . $i; # set obj_id field to download.(some number)
     # set sentTime to sentTime - pageStart
     $resource{"sentTime"} = ($resource{"sentTime"} + 0.0 - $pageStart) * 1000;
     # set request time to requestTime - pageStart
@@ -284,7 +293,8 @@ sub addId2Resources {
     $resource{"receiveFirst"} = 0;
     $resource{"receiveLast"} = 0;
 
-    $curr = 0;
+    $curr = 0; # Keeps overwriting the curr to keep trak of what it has just finished
+    # Updates the resource End fields
     if ($resource{"proxyEnd"} > 0) {
       $resource{"proxy"} = $resource{"proxyEnd"} - $curr; # set proxy to proxyEnd curr
       $curr = $resource{"proxyEnd"}; # curr - proxyEnd
@@ -322,7 +332,7 @@ sub addId2Resources {
   $info->setResources(\@resources);
 }
 
-# Add obj_id and D2E dependencies to comps
+# Add obj_id and D2E (elements this depends on) dependencies to comps
 # Creates a table that is a union of object id, dependencies, and comps
 sub addIdAndD2E2Comps {
   my ($self, $info) = @_; # takes self and info
@@ -333,27 +343,29 @@ sub addIdAndD2E2Comps {
   @parses = @{$self->{_parses}};
 
   my $i = 0; # set i
+  # adds ids to comps
   foreach $comp (@comps) { # for each comps
     %comp = %{decode_json($comp)}; # decode comp
-    $comp{"obj_id"} = "comp_" . $i; # obj_id = comp_
-    $comp{"startTime"} = ($comp{"startTime"} - $pageStart) * 1000; # set startTime = diff startTime, pageStart
-    $comp{"endTime"} = ($comp{"endTime"} - $pageStart) * 1000; # set endTime = diff endTime, pageStart
+    $comp{"obj_id"} = "comp_" . $i; # sets comps id
+    $comp{"startTime"} = ($comp{"startTime"} - $pageStart) * 1000; # set startTime = diff startTime, pageStart (load time)
+    $comp{"endTime"} = ($comp{"endTime"} - $pageStart) * 1000; # set endTime = diff endTime, (start of page load time)
 
-    if ($comp{"urlRecalcStyle"} eq "(null)") {
+    if ($comp{"urlRecalcStyle"} eq "(null)") { # urlRecalcStyle?
       $comps[$i] = encode_json(\%comp); # encode comp
       ++$i; # increment
       next;
     }
 
+    # adds dependency (D2E) to comps via resources
     # dependency: comps from downloads
     foreach $resource (@resources) { # for each resource
       %resource = %{decode_json($resource)}; # set resource
       if ($comp{"urlRecalcStyle"} eq $resource{"url"}) {
         #print $comp{"urlRecalcStyle"} . "\n";
         # set D2E, critical, critical_time
-        $comp{"D2E"} = $resource{"obj_id"};
-        $comp{"critical"} = $resource{"obj_id"};
-        $comp{"critical_time"} = $resource{"receivedTime"};
+        $comp{"D2E"} = $resource{"obj_id"}; # sets the id for the element this depends on
+        $comp{"critical"} = $resource{"obj_id"}; # sets the 
+        $comp{"critical_time"} = $resource{"receivedTime"}; # sets the time required before execution?
 
         my %pr = (
           "id", $resource{"obj_id"},
@@ -364,8 +376,8 @@ sub addIdAndD2E2Comps {
 
         # push to prev
         my @prev = (); # create prev array
-        if ($comp{"prev"}) {
-          @prev = @{decode_json($comp{"prev"})};
+        if ($comp{"prev"}) { # if comp.prev exists
+          @prev = @{decode_json($comp{"prev"})}; # set prev to decode comp.prev
         }
         push(@prev, encode_json(\%pr)); # push encoded pr to prev
         $comp{"prev"} = encode_json(\@prev);
@@ -375,13 +387,14 @@ sub addIdAndD2E2Comps {
       }
     }
 
+    # updates the previous array. Allows us to know which object came before?
     # dependency: comps from parses chunks
     foreach $parse (@parses) { # for each parse
       %parse = %{decode_json($parse)}; # set parse
-      if (!$parse{"objectsUrl"}) {
-        next;
+      if (!$parse{"objectsUrl"}) { # if parse.objectsUrl DNE
+        next; # skip
       }
-      @objects = @{decode_json($parse{"objectsUrl"})}; # set objects
+      @objects = @{decode_json($parse{"objectsUrl"})}; # set objects to the objects w/ URLS
       foreach $object (@objects) { # for each object
         %object = %{decode_json($object)}; # set object
         if ($comp{"urlRecalcStyle"} eq $object{"url"}) {
@@ -394,20 +407,20 @@ sub addIdAndD2E2Comps {
 
         # push to prev
         my @prev = (); # create prev array
-        if ($comp{"prev"}) {
-          @prev = @{decode_json($comp{"prev"})}; # set prev
+        if ($comp{"prev"}) { # if comp.prev exists
+          @prev = @{decode_json($comp{"prev"})}; # set prev to comp.prev
         }
         push(@prev, encode_json(\%pr));
         $comp{"prev"} = encode_json(\@prev);
         #print $parse{"start"} . "\n";
         #print $comp{"prev"} . "\n";
 
-        last;
+        last; # repeat
         }
       }
     }
 
-    $comps[$i] = encode_json(\%comp);
+    $comps[$i] = encode_json(\%comp); # re encode the comps into comps[i]
     ++$i; # increment
   }
 
@@ -434,9 +447,9 @@ sub addComps2Parses {
       %parse = %{decode_json($parse)}; # set parse
       if ($parse{"url"} eq $comp{"docUrl"}) {
         # During parsing
-        if ($parse{"last_code"} ne $comp{"code"}) {
+        if ($parse{"last_code"} ne $comp{"code"}) { # if not the last_code
 
-            if ($parse{"during_n"}) {
+            if ($parse{"during_n"}) { # Where was during_n created?
               @comps_during_n = @{$parse{"during_n"}}; # set comps_during_n
             } else {
               @comps_during_n = (); # set comps_during_n array
@@ -444,11 +457,11 @@ sub addComps2Parses {
             push(@comps_during_n, $comp); # push comp into comps_during_n
             $parse{"during_n"} = \@comps_during_n;
 
-          if ($comp{"urlRecalcStyle"} ne "(null)" and $comp{"urlRecalcStyle"} ne "") {
-            if ($parse{"during_l"}) {
+          if ($comp{"urlRecalcStyle"} ne "(null)" and $comp{"urlRecalcStyle"} ne "") { # if not null or empty
+            if ($parse{"during_l"}) { # if last?
               @comps_during_l = @{$parse{"during_l"}}; # set comps_during_1
             } else {
-              @comps_during_l = (); # set comps_during_1
+              @comps_during_l = ();
             }
             push(@comps_during_l, $comp); # push comp into comps_during_1
             $parse{"during_l"} = \@comps_during_l;
@@ -456,7 +469,7 @@ sub addComps2Parses {
           }
         # Post parsing
         } else {
-          if ($comp{"urlRecalcStyle"} eq "(null)" or $comp{"urlRecalcStyle"} eq "") {
+          if ($comp{"urlRecalcStyle"} eq "(null)" or $comp{"urlRecalcStyle"} eq "") { # if null or empty
             push(@comps_post_n, $comp); # push comp into comps_post_n
           } else {
             push(@comps_post_l, $comp); # push comp into comps_post_1
@@ -485,33 +498,35 @@ sub addHolDependencies {
   # build the 'lotus root' graph
   my @hols_trimmed;
   my @hols_prev;
-  my $ref_js = undef;
+  my $ref_js = undef; # reference js?
   my $i = 0;
-  foreach $hol (@hols) {
-    %hol = %{decode_json($hol)};
-    if ($hol{"url"} eq "(null)") {
+  foreach $hol (@hols) { # for each HOL
+    %hol = %{decode_json($hol)}; # decode hol
+    if ($hol{"url"} eq "(null)") { # if null skip
       next;
     }
 
     # add comps to the 'lotus root' graph
     $comp_hol = undef; # create comp-hol
+
+    # sets comp_hol
     foreach $parse (@parses) { # for each parse
-      if ($comp_hol) {
+      if ($comp_hol) { # if exists end/exit/quit
         last;
       }
       %parse = %{decode_json($parse)}; # set parse to decoded parse
-      @comps_during_l = @{$parse{"during_l"}};
+      @comps_during_l = @{$parse{"during_l"}}; # set comps_during_1
 
       my $j = 0;
       foreach $comp (@comps_during_l) { # for each comp
         %comp = %{decode_json($comp)}; # set comp to decoded comp
 
         # Match docUrl
-        if ($comp{"docUrl"} ne $hol{"docUrl"}) {
+        if ($comp{"docUrl"} ne $hol{"docUrl"}) { # if != skip
           next;
         }
         # Match url
-        if ($comp{"urlRecalcStyle"} ne $hol{"url"}) {
+        if ($comp{"urlRecalcStyle"} ne $hol{"url"}) { # if != skip
           next;
         }
 
@@ -521,6 +536,7 @@ sub addHolDependencies {
       }
     }
 
+    # JS
     if ($hol{"type"} == 1) { # parsing-blocking js
       $hol{"hols_prev"} = encode_json(\@hols_prev);
       $hols_prev = undef; # crate hols_prev variable
@@ -534,6 +550,7 @@ sub addHolDependencies {
       #print $hol{"type"} . " " . $hol{"url"} . "\n";
       #print $hol{"hols_prev"} . "\n\n";
 
+    # CSS  
     } elsif ($hol{"type"} == 4) { # css
       #$hol{"hols_prev"} = $ref_js;
       push(@hols_prev, $comp_hol); # push comp_hol into hols_prev
@@ -560,17 +577,17 @@ sub addHolDependencies {
       foreach $hol (@hols_trimmed) { # for each hol
         %hol = %{decode_json($hol)}; # set hol
         # Match docUrl
-        if ($comp{"docUrl"} ne $hol{"docUrl"}) {
+        if ($comp{"docUrl"} ne $hol{"docUrl"}) { # if comp.docURL != hol.docURL skip
           next;
         }
         # Match url
-        if ($comp{"urlRecalcStyle"} ne $hol{"url"}) {
+        if ($comp{"urlRecalcStyle"} ne $hol{"url"}) { # if urlRecalcStyle != url skip
           next;
         }
 
         # add to @prev in parse
-        my %pr = (
-          "id", $comp{"obj_id"},
+        my %pr = ( # create local pr vairable in scope of for each loop
+          "id", $comp{"obj_id"}, # maps id to obj_id
           "at", $comp{"endTime"},
           "rt", $comp{"endTime"} - $comp{"startTime"},
           "rs", "resource",
@@ -586,7 +603,7 @@ sub addHolDependencies {
         $parse{"prev"} = encode_json(\@prev); # set parse.prev to encoded prev
 
         # push to js_ids
-        if ($hol{"type"} == 1) {
+        if ($hol{"type"} == 1) { # if JS
           @js_ids = (); # create js_ids array
           if ($parse{"js_ids"}) {
             @js_ids = @{decode_json($parse{"js_ids"})};  # set js_ids to decoded js_ids
@@ -683,56 +700,55 @@ sub addE2DDependencies {
   @resources = @{$info->getResources()};
   @parses = @{$self->{_parses}};
   @comps_post_l = @{$self->{_comps_post_l}};
-  @mcaus = @{$info->getMatchedCSSAndUrls()};
+  @mcaus = @{$info->getMatchedCSSAndUrls()}; # archaic/vestigal code
   @preloads = @{$info->getPreloads()};
 
   # Extract css->img dependency
   # store in %img_resource for future use
-  my %img_resource = ();
+  my %img_resource = (); # create img_resource hash
   foreach $mcaus (@mcaus) {
-    %mcaus = %{decode_json($mcaus)};
-    $imgUrl = $mcaus{"imgUrl"};
-    if (!$img_resource{$imgUrl}) {
-      $resource = $self->findResourceByUrl($mcaus{"url"});
-      $img_resource{$imgUrl} = $resource;
+    %mcaus = %{decode_json($mcaus)}; # set mcaus to decoded mcaus
+    $imgUrl = $mcaus{"imgUrl"}; # set imgUrl
+    if (!$img_resource{$imgUrl}) { # if img_resource.imgUrl DNE
+      $resource = $self->findResourceByUrl($mcaus{"url"}); # set resource
+      $img_resource{$imgUrl} = $resource; # instantiate img_resource
     }
   }
 
   # Extract preloading dependency
   # store in %preload_dep for future use
-  my %preload_dep = ();
-  $alpha = 1; # ms
-  foreach $preload (@preloads) {
-    %preload = %{decode_json($preload)};
-    $preload{"time"} = 1000 * ($preload{"time"} - $pageStart);
-    $preload = encode_json(\%preload);
+  my %preload_dep = (); # create preload_dep 
+  $alpha = 1; # counter?
+  foreach $preload (@preloads) { # for every preload
+    %preload = %{decode_json($preload)}; # set preload
+    $preload{"time"} = 1000 * ($preload{"time"} - $pageStart); # set preload.time
+    $preload = encode_json(\%preload); # reencode json, makes copy
     $url = $preload{"url"};
 
-    $resource = $self->findResourceByUrl($url);
-    if (!$resource) {
+    $resource = $self->findResourceByUrl($url);# set resource to preload.url
+    if (!$resource) { # if resource DNE skip
       next;
     }
-    %resource = %{decode_json($resource)};
-    $diff = $preload{"time"} - $resource{"sentTime"};
-    if ($diff > $alpha or $diff < -$alpha) {
+    %resource = %{decode_json($resource)}; # decode resource
+    $diff = $preload{"time"} - $resource{"sentTime"}; # get time
+    if ($diff > $alpha or $diff < -$alpha) { # if diff bigger than abs(alpha) skip
       next;
     }
 
-    $preload_dep{$url} = $preload;
+    $preload_dep{$url} = $preload; # instantiate preload_dep{$url}
   }
 
   # add dependencies
   my $j = 0;
-  foreach $resource (@resources) {
-    %r = %{decode_json($resource)};
-    $url = $r{"url"};
-
+  foreach $resource (@resources) { # for each resource
+    %r = %{decode_json($resource)}; # set r
+    $url = $r{"url"}; # copy r.url
     # Match with css->img dependency
-    if ($img_resource{$url}) {
-      %obj = %{decode_json($img_resource{$url})};
+    if ($img_resource{$url}) { # if img_resource.url exists
+      %obj = %{decode_json($img_resource{$url})}; # set obj decode url
 
       # add to @prev
-      my %pr = (
+      my %pr = ( # instantiate pr
         "id", $obj{"obj_id"},
         "at", $obj{"receivedTime"},
         "rt", $obj{"receivedTime"} - $obj{"sentTime"},
@@ -749,19 +765,19 @@ sub addE2DDependencies {
     }
 
     # Match with preloading dependency
-    if ($preload_dep{$url}) {
-      %preload = %{decode_json($preload_dep{$url})};
+    if ($preload_dep{$url}) { # if preload_dep.url exists
+      %preload = %{decode_json($preveload_dep{$url})}; # set preload
       #print $preload_dep{$url} . "\n";
 
       # search for "obj"
-      my $obj = undef;
-      foreach $parse (@parses) {
-        %parse = %{decode_json($parse)};
-        if ($parse{"url"} ne $preload{"docUrl"}) {
+      my $obj = undef; 
+      foreach $parse (@parses) { # for each parse
+        %parse = %{decode_json($parse)}; # create parse hash
+        if ($parse{"url"} ne $preload{"docUrl"}) { # if parse.url != preload.docurl skip
           next;
         }
 
-        if (!$parse{"objects_hash"}) {
+        if (!$parse{"objects_hash"}) { 
           next;
         }
         %objects = %{decode_json($parse{"objects_hash"})};
@@ -796,7 +812,7 @@ sub addE2DDependencies {
     for ($i = $n - 1; $i >= 0; --$i) {
       $comp = $comps_post_l[$i];
       %comp = %{decode_json($comp)};
-if (0) {
+if (0) { # legacy code
       print "\n" . $r{"url"} . "\n";
       print $comp{"urlRecalcStyle"} . "\n";
       print $r{"sentTime"} . " " . $comp{"startTime"} . " " . $comp{"endTime"} . "\n";
@@ -830,7 +846,7 @@ if (0) {
       for ($i = $n - 1; $i >= 0; --$i) {
         $parse = $parses[$i];
         %parse = %{decode_json($parse)};
-if (0) {
+if (0) { # legacy code
 	print "\n" . $r{"url"} . "\n";
 	print $r{"sentTime"} . " " . $parse{"start"} . " " . $parse{"end"} . "\n";
 }
@@ -840,10 +856,10 @@ if (0) {
           $r{"critical_time"} = $parse{"end"};
 	#print "E2D : " . $r{"E2D"} . "\n";
 
-if (0) {
+if (0) { # legacy code
           $obj = undef;
-          if ($parse{"objectsUrl"}) {
-            @objects = @{decode_json($parse{"objectsUrl"})};
+          if ($parse{"objectsUrl"}) { # objects w/ URLs exist
+            @objects = @{decode_json($parse{"objectsUrl"})}; # set objects to the objects with urls
             foreach $object (@objects) {
               if ($object{"url"} eq $r{"url"}) {
                 $obj = $object;
