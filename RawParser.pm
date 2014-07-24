@@ -79,7 +79,7 @@ sub readFromFile {
 sub parse {
   my ($self, $content) = @_;
 
-  # no need to parse again
+  # no need to parse again_
   if ($self->{_isEntriesAvailable}) {
     return;
   }
@@ -278,7 +278,7 @@ if ($self->{_dep}) {
   print FP "PostParse:\t" . $load . "\n";
 }
 
-if (0) {
+if (0) { # legacy code
   print "load:\t" . $DOMload . "\n";
   print "HTMLParse:\t" . $HTMLParse . "\n";
 }
@@ -287,7 +287,7 @@ if ($self->{_dep}) {
   # extract dependency
   $dep = new Dependency($self, $self->{_pageEnd});
   #$dep = new Dependency($self, $self->{_pageParseEnd});
-  %ret = %{$dep->process()};
+  %ret = %{$dep->process()}; # calls on process subroutine in Dependency
   print FP "level:\t" . $ret{"level"} . "\n";
   print FP "time_download:\t" . $ret{"time_download"} . "\n";
   print FP "time_comp:\t" . $ret{"time_comp"} . "\n";
@@ -347,7 +347,7 @@ if (1) {
   print FP "text_domain_tcp_net_all:\t" . $ret{"text_domain_tcp_net_all"} . "\n";
   print FP "act_timings:\t" . $ret{"act_timings"} . "\n";
 
-if (0) {
+if (0) { # legacy code
   print "download_blocking:\t" . $ret{"download_blocking"} . "\n";
   print "download_proxy:\t" . $ret{"download_proxy"} . "\n";
   print "download_dns:\t" . $ret{"download_dns"} . "\n";

@@ -11,6 +11,14 @@
 #    and output data that can be processed by gnuplot
 # ------------------------------------------------------
 
+# Objs: id, host, path, when_comp_start (1 = starts after first chunk of object loaded, 
+# -1 = whole chunk needs to be loaded)
+# Download: id, type
+# Comps: id, type, time
+# Deps: id, a1 (dependant on activity), a2 (activity that depends on),
+# time (when a2 can start (-1 requires a1 to finish))
+# start_activity: id of first activity to start with
+
 package ProcessMain;
 
 use JSON;
@@ -118,7 +126,7 @@ sub generateIntermediaries {
   %paths = %{$self->{_paths}}; # Sets paths equal to the paths var in the self object
 
   foreach $path (keys %paths) { # for each path  that is a key in paths set value
-    $value = $paths{$path};
+    $value = $paths{$path}; # value is set to path to web object in web server
 
       # clear files in temp path
       my $temp_path = $self->{_config}->{"TempPath"}; # set temkp path
@@ -144,14 +152,14 @@ if (1) {
       my %files2 = ();
       my %loads1 = ();
       my %loads2 = ();
-      foreach $file (@files) {
+      foreach $file (@files) { # for each file in files
         if ($value eq "ultralisk" and $file !~ "ultralisk") { # when ultralisk == val & != file
           next;
         }
         $f = $data_path . "/" . $file; # concatonates data_path and file together
         print "\n" . $f . "\n";
-        $rp = new RawParser($file, $data_path, $temp_path, $value, 0); # Calls on the new function in RawParser
-        $url = $rp->getPageUrl(); # sets url
+        $rp = new RawParser($file, $data_path, $temp_path, $value, 0); # Calls on the new function in RawParser  passes in 0
+        $url = $rp->getPageUrl(); # sets url for each file
 
         #$url = $file; # all
 
@@ -159,10 +167,10 @@ if (1) {
         $n = $a[2]; # set n
         if ($url) {
           if (($value ne "two" or $n eq "1")) {
-            $loads1{$url}{$rp->getLoad()} = $file; # sets load1
+            $loads1{$url}{$rp->getLoad()} = $file; # sets load1, load = DOMLoad/load time
           }
-          if ($n eq "2"  and $rp->getLoad() > $loads2{$url}) {
-            $loads2{$url}{$rp->getLoad()} = $file; # sets load 2
+          if ($n eq "2"  and $rp->getLoad() > $loads2{$url}) { # if n == 2 && loadTime > 
+            $loads2{$url}{$rp->getLoad()} = $file; # sets load2
           }
         }
       }
@@ -186,7 +194,7 @@ if (1) {
         }
         $files1{$url} = $loads1{$url}{$k}; # set file url to loads1 url of k
       }
-if (0) { # hot
+if (0) { # hot/unused code
       foreach $url (keys %loads2) { # For each url that is a key in Loads2
         my %temp = %{$loads2{$url}}; # set temp variable
         @temp_keys = sort { $a <=> $b } keys %temp; #set temp_keys variable to sorted a,b from temp
@@ -213,15 +221,15 @@ if (0) { # hot
         $file = $files1{$url}; # set file
 
         if ($value eq "ultralisk" and $file !~ "ultralisk") {
-          next; # get next url
+          next; # skip
         }
         $f = $data_path . "/" . $file; # set datapath
         print "$file\t$date_path\t$value\n\n";
-        $rp = new RawParser($file, $data_path, $temp_path, $value, 1); # call RawParser
+        $rp = new RawParser($file, $data_path, $temp_path, $value, 1); # call RawParser passes in 1
         $url = $rp->getPageUrl(); # set url from rp
       }
       #hot
-if (0) {
+if (0) { # vestigal code
       foreach $url (keys %files2) { # for each url that is a key in files2
         $file = $files2{$url}; # Set file
         if ($value eq "ultralisk" and $file !~ "ultralisk") {
@@ -247,35 +255,35 @@ sub processIntermediaries {
   my $temp_path = $self->{_config}->{"TempPath"};
   %paths = %{$self->{_paths}};
 
-  foreach $path (keys %paths) {
+  foreach $path (keys %paths) { # for each path that is a key in paths
 
-  $value = $paths{$path};
-  print $path . "\t" . $value . "\n";
+  $value = $paths{$path}; # set value to path of web object on webserver
+  print $path . "\t" . $value . "\n"; # output path
 
   $ps = `ls $temp_path/$path`;
-  @files = split(/\n/, $ps);
+  @files = split(/\n/, $ps); # returns list
 
   my %h = ();
   my @h_arr = ();
-  foreach $file (@files) {
-    @elem = split(/\-/, $file);
+  foreach $file (@files) { # for each file
+    @elem = split(/\-/, $file); # splits file/returns a list
 
     # get the domain
-    $domain = $elem[0];
+    $domain = $elem[0]; # get the domain
 
-    $domain = $file; # for the same site
+    $domain = $file; # overwrite the domain to file
 
     if ($value eq "two") {
-      $domain_time = $elem[0] . "-" . $elem[1]; # all
-      $timestamp = $elem[1]; # all
-      $runs = $elem[2] + 0.0;
+      $domain_time = $elem[0] . "-" . $elem[1]; # all (entire path)
+      $timestamp = $elem[1]; # (timestamp)
+      $runs = $elem[2] + 0.0; # (will it run -1 or 1)
     }
 
     # get timestamp
     $ts = $elem[1];
 
     $f = $temp_path . $path . "/". $file;
-    open FP, $f;
+    open FP, $f; # open files
     my %e;
     my $i = 0;
     while (<FP>) {
@@ -739,7 +747,7 @@ sub processIntermediaries {
   }
 }
 
-sub readIntermediaries {
+sub readIntermediaries { # reads the intermediaries and returns a hash
   my ($self, $config) = @_;
 
   $filename = $self->{_config}->{"TempPath"} . "temp/" . $_[1];
@@ -916,12 +924,12 @@ sub processAll {
 
   my %whatif = ();
 
-  foreach $domain (keys %levels) {
-    if ($levels{$domain} > 0) {
-      $time = $time_blocks{$domain} + $time_downloads{$domain} + $time_comps{$domain};
-      push (@plts, ($time_blocks{$domain} + $time_downloads{$domain} + $time_comps{$domain}) / 1000);
+  foreach $domain (keys %levels) { # for each domain in levels
+    if ($levels{$domain} > 0) { # when levels.domain > 0
+      $time = $time_blocks{$domain} + $time_downloads{$domain} + $time_comps{$domain}; # total time
+      push (@plts, ($time_blocks{$domain} + $time_downloads{$domain} + $time_comps{$domain}) / 1000); # push to plts
 
-if (0) {
+if (0) { # legacy code
       if ($whatifMatrix{$domain}) {
         @matrix = @{decode_json($whatifMatrix{$domain})};
         $n = @matrix;
@@ -964,7 +972,7 @@ if (0) {
 }
       # end
 
-
+      # push everything 
       push (@levels, $levels{$domain});
       push (@DOMLoad, $DOMLoad{$domain});
       push (@HTMLParse, $HTMLParse{$domain});
@@ -1053,7 +1061,7 @@ if (0) {
     }
   }
 
-if (0) {
+if (0) { # legacy code
   foreach $i (sort {$a <=> $b} keys %whatif) {
     @arr = @{decode_json($whatif{$i})};
     @arr = sort {$a <=> $b} @arr;
@@ -1192,6 +1200,7 @@ sub processOverall {
   my $type = $_[1];
   my $type_c = $_[2];
 
+  # sets total or pre computation elements
   %time_blocks = %{$self->readIntermediaries($type . "_time_blocks")};
   %time_downloads = %{$self->readIntermediaries($type . "_time_downloads")};
   %time_comps = %{$self->readIntermediaries($type . "_time_comps")};
@@ -1204,6 +1213,7 @@ sub processOverall {
   %num_conn_cp = %{$self->readIntermediaries($type . "_num_conn_cp")};
   %num_conn_all = %{$self->readIntermediaries($type . "_num_conn_all")};
 
+  # sets computation elements
   %time_blocks_c = %{$self->readIntermediaries($type_c . "_time_blocks")};
   %time_downloads_c = %{$self->readIntermediaries($type_c . "_time_downloads")};
   %time_comps_c = %{$self->readIntermediaries($type_c . "_time_comps")};
@@ -1241,7 +1251,8 @@ sub processOverall {
   my @time_comps_c;
 
   my $alpha = 0.3;
-  foreach $domain (keys %time_downloads) {
+  foreach $domain (keys %time_downloads) { # for each domain in time_downloads
+     # if time_downloads.doamin > 0 && time_downloads_c.domain > 0
     if ($time_downloads{$domain} > 0 and $time_downloads_c{$domain} > 0) {
 
       $total = $time_downloads{$domain} + $time_blocks{$domain} + $time_comps{$domain};
