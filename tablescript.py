@@ -1,24 +1,42 @@
-import json as j
-datafile = open('C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\data\wprof_300_5_pro', 'r')
-json_data = j.reader(datafile)
-data = []
-for row in json_data:
-	data.append(row)
-
 
 import json as j
-datafile = open('C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\data\wprof_300_5_pro', 'r')
-json_data = j.loads(datafile)
+datafile = open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\data\wprof_300_5_pro\ask.fm_-1378093801077-1', 'r')
+json_data = [j.loads(line) for line in datafile]
+
+json_data[]
+for line in datafile:
+	json_data.append(line)
+	if json_data[]
+
+print json_data
+
+# Creates a new list for each line
+resources = [line['Resource'] for line in json_data if line.get('Resource') is not None] # get DNE
+
+# Equivalent code
+resources = []
+for line in json_data:
+	if 'Resource' in line:
+		resources.append(line)
 
 # Adds the ResourceID column to the RecievedChunk data
 rID = 0
+recievedChunk = []
+for line in json_data:
+	if 'Resource' in line:
+		rID = line.get('id') # get the resourceID
+	if 'RecievedChunk' in line
+		recievedChunk.append(line)
+		recievedChunk.extend('ResourceID' : rID)
 
-for keys, values in json_data:
-	if key == 'Resource':
-		rID = json_data['Resource']['id']
+cID= 0
+computation = []
+for line in json_data:
+	if line.get('Computation') is not None:
+		computation.append(line['Computation'])
+		computation.extend('ComputationID' : cID)
+		cID++
 
-	if key == 'RecievedChunk':
-		json_data['RecievedChunk']['ResourceID'] = rID
 
 
 ObjectHashesDict = {}
