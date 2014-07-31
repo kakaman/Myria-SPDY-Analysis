@@ -23,11 +23,16 @@ for line in json_data:
 rID = 0
 recievedChunk = []
 for line in json_data:
-	if 'Resource' in line:
-		rID = line.get('id') # get the resourceID
-	if 'RecievedChunk' in line
+	if 'Resource' in line and 'id' in line:
+		if line[21] == ',':
+			rID = line[20]
+			print rID
+		else:	
+			rID = line[20] + line[21]
+			print rID
+	elif 'RecievedChunk' in line:
 		recievedChunk.append(line)
-		recievedChunk.extend('ResourceID' : rID)
+		recievedChunk.append('ResourceID : ' + rID)
 
 cID= 0
 computation = []
