@@ -32,8 +32,8 @@ for line in json_data:
 cID= 0
 computation = []
 for line in json_data:
-	if line.get('Computation') is not None:
-		computation.append(line['Computation'])
+	if 'Computation' in line:
+		computation.append(line)
 		computation.extend('ComputationID' : cID)
 		cID++
 
