@@ -2,6 +2,7 @@
 import json as j
 import sys
 import os
+import csv
 
 dataDirectory = r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\data\wprof_300_5_pro'
 preLoads = []
@@ -19,20 +20,24 @@ for filename in os.listdir(dataDirectory):
 		continue
 	finally: 
 		datafile.close()	
+	
+	rID = None
+	cID = 0
+	holID = 0
+
 	for line in json_data:
+		
+		# Sets the page variable
 		if 'page' in line:
 			page = line['page']
-
-	# Creates and fills the resources table
-	for line in json_data:
+		
+		# Creates and fills the resources table
 		if 'Resource' in line:
 			r = line['Resource']
 			r['PageUrl'] = page
 			resources.append(r)
-
-	# Creates and fills the RecievedChunk table
-	rID = None
-	for line in json_data:
+		
+		# Creates and fills the RecievedChunk table
 		if 'Resource' in line:
 			rID = line['Resource']['id']
 		elif 'ReceivedChunk' in line:
@@ -41,34 +46,28 @@ for filename in os.listdir(dataDirectory):
 			rc['ResourceID'] = rID
 			rc['PageUrl'] = page
 			receivedChunk.append(rc)
-
-	# Creates and fills the computation table
-	cID = 0
-	for line in json_data:
+		
+		# Creates and fills the computation table
 		if 'Computation' in line:
 			comp = line['Computation']
 			comp['ComputationID'] = cID
 			comp['PageUrl'] = page
 			computation.append(comp)
 			cID = cID + 1
-
-	# Creates and fills the HOL list
-	holID = 0
-	for line in json_data:
+		
+		# Creates and fills the HOL list
 		if 'HOL' in line:
 			temp = line['HOL']
 			temp['holID'] = holID
 			temp['PageUrl'] = page
 			hol.append(temp)
 			holID += 1
-	# Creates and fills the preload list
-	for line in json_data:
+	
+		# Creates and fills the preload list
 		if 'Preload' in line:
 			p = line['Preload']
 			p['PageUrl'] = page
 			preLoads.append(p)
-
-import csv
 
 print 'started writing'
 
@@ -102,27 +101,3 @@ with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\hol.csv
 	w.writeheader()	
 	for row in hol:
 		w.writerow(row)
-
-# with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\preloads.csv', 'wb') as preLoadFile:
-# 	w = csv.writer(preLoadFile)	
-# 	w.writerow(preLoads)
-
-# ObjectHashesDict = {}
-# RecievedChunksDict = {}
-# HOLsDict = {}
-# ComputationsDict = {}
-# PreloadsDict = {}
-# ResourcesDict = {}
-
-# copydict = lambda dct, keys: {key: dct[key] for key in keys}
-
-# ObjectHashesDict = copydict(json_data, 'ObjectHash')
-# RecievedChunksDict = copytdict(json_data, 'RecievedChunk')
-# HOLsDict = copytdict(json_data, 'HOL')
-# ComputationsDict = copytdict(json_data, 'Computation')
-# PreloadsDict = copyDict(json_data, 'Preloads')
-# ResourcesDict = copytdict(json_data, 'Resource')
-
-# HOLsDict['Hol'].append[] # Append a value for each HOL making it easier to ID
-
-# RecievedChunksDict['RecievedChunk'].append # Add ResourceID param to the  Recieved Chunks 
