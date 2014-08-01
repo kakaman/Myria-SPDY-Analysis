@@ -1,58 +1,76 @@
 
 import json as j
 import sys
+import os
 
-datafile = open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\data\wprof_300_5_pro\ask.fm_-1378093801077-1', 'r')
-json_data = [j.loads(line) for line in datafile]
-
-print json_data[:5]
-
-# Creates a new list for each line
-resources = [line['Resource'] for line in json_data if line.get('Resource') is not None]
-
-# # Equivalent code
-# resources = []
-# for line in json_data:
-# 	if 'Resource' in line:
-# 		resources.append(line)
-
-# # Adds the ResourceID column to the RecievedChunk data
-rID = None
+dataDirectory = r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\data\wprof_300_5_pro'
+preLoads = []
+resources = []
 receivedChunk = []
-for line in json_data:
-	if 'Resource' in line:
-		rID = line['Resource']['id']
-	elif 'ReceivedChunk' in line:
-		assert rID is not None
-		rc = line['ReceivedChunk']
-		rc['ResourceID'] = rID
-		receivedChunk.append(rc)
-		print rc
-
-
-cID = 0
 computation = []
-for line in json_data:
-	if 'Computation' in line:
-		comp = line['Computation']
-		comp['ComputationID'] = cID
-		computation.append(comp)
-		cID = cID + 1
-		print comp
-
-holID = 0
 hol = []
-for line in json_data:
-	if 'HOL' in line:
-		temp = line['HOL']
-		temp['holID'] = holID
-		hol.append(temp)
-		holID += 1
 
-preLoads = [line['Preload'] for line in json_data if line.get('Preload') is not None]
+for filename in os.listdir(dataDirectory):
+	print filename
+	datafile = open(os.path.join(dataDirectory, filename), 'r')
+	try:
+		json_data = [j.loads(line) for line in datafile]
+	except ValueError:
+		continue
+	finally: 
+		datafile.close()	
+	for line in json_data:
+		if 'page' in line:
+			page = line['page']
 
+	# Creates and fills the resources table
+	for line in json_data:
+		if 'Resource' in line:
+			r = line['Resource']
+			r['PageUrl'] = page
+			resources.append(r)
+
+	# Creates and fills the RecievedChunk table
+	rID = None
+	for line in json_data:
+		if 'Resource' in line:
+			rID = line['Resource']['id']
+		elif 'ReceivedChunk' in line:
+			assert rID is not None
+			rc = line['ReceivedChunk']
+			rc['ResourceID'] = rID
+			rc['PageUrl'] = page
+			receivedChunk.append(rc)
+
+	# Creates and fills the computation table
+	cID = 0
+	for line in json_data:
+		if 'Computation' in line:
+			comp = line['Computation']
+			comp['ComputationID'] = cID
+			comp['PageUrl'] = page
+			computation.append(comp)
+			cID = cID + 1
+
+	# Creates and fills the HOL list
+	holID = 0
+	for line in json_data:
+		if 'HOL' in line:
+			temp = line['HOL']
+			temp['holID'] = holID
+			temp['PageUrl'] = page
+			hol.append(temp)
+			holID += 1
+	# Creates and fills the preload list
+	for line in json_data:
+		if 'Preload' in line:
+			p = line['Preload']
+			p['PageUrl'] = page
+			preLoads.append(p)
 
 import csv
+
+print 'started writing'
 
 with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\preloads.csv', 'wb') as preLoadFile:
 	w = csv.DictWriter(preLoadFile, preLoads[0].keys())
