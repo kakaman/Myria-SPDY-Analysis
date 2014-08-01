@@ -28,19 +28,19 @@ for filename in os.listdir(dataDirectory):
 	for line in json_data:
 		
 		# Sets the page variable
-		if 'page' in line:
+		if line.get('page') is not None:
 			page = line['page']
 		
 		# Creates and fills the resources table
-		if 'Resource' in line:
+		if line.get('Resource') is not None:
 			r = line['Resource']
 			r['PageUrl'] = page
 			resources.append(r)
 		
 		# Creates and fills the RecievedChunk table
-		if 'Resource' in line:
+		if line.get('Resource') is not None:
 			rID = line['Resource']['id']
-		elif 'ReceivedChunk' in line:
+		elif line.get('ReceivedChunk') is not None:
 			assert rID is not None
 			rc = line['ReceivedChunk']
 			rc['ResourceID'] = rID
@@ -48,7 +48,7 @@ for filename in os.listdir(dataDirectory):
 			receivedChunk.append(rc)
 		
 		# Creates and fills the computation table
-		if 'Computation' in line:
+		if line.get('Computation') is not None:
 			comp = line['Computation']
 			comp['ComputationID'] = cID
 			comp['PageUrl'] = page
@@ -56,7 +56,7 @@ for filename in os.listdir(dataDirectory):
 			cID = cID + 1
 		
 		# Creates and fills the HOL list
-		if 'HOL' in line:
+		if line.get('HOL') is not None:
 			temp = line['HOL']
 			temp['holID'] = holID
 			temp['PageUrl'] = page
@@ -64,12 +64,14 @@ for filename in os.listdir(dataDirectory):
 			holID += 1
 	
 		# Creates and fills the preload list
-		if 'Preload' in line:
+		if line.get('Preload') is not None:
 			p = line['Preload']
 			p['PageUrl'] = page
 			preLoads.append(p)
 
 print 'started writing'
+
+# For more efficiency/consistency, use a list vs. dictionary to make sure the ordering is always consistent.
 
 with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\preloads.csv', 'wb') as preLoadFile:
 	w = csv.DictWriter(preLoadFile, preLoads[0].keys())
