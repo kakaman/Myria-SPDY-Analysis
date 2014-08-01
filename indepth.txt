@@ -1,0 +1,43 @@
+This is a more indepth attempt at explaining the necessary steps used to ultimately generate the dependency graph.
+
+Calling Structure:
+
+Analyze.pl -> ProcessMain.pm -> RawParser.pm -> Dependency.pm
+
+ProcessMain:run() -> ProcessMain:generateIntermediaries() -> RawParser:parse()/genIntermediaries() -> Dependency:process() -> bunch of add calls -> Dependency:generateDependencyGraph()/criticalPathAnalysis() -> UtilPlot.pm funtions
+
+generateDependencyGraph():
+	Takes self, info, parses
+	It gets the resources it requires
+		Resources: The original resources table
+		Comps_post_l: Computations after 1
+		comps_post_n: Computations after n
+		url: ID
+		objecthashes: 
+		PageStart: time
+	
+	Initializes the graph
+		name: url
+		objs: the ???
+		deps: the dependencies for objects
+		start_activity: start time of activity
+		load_activity: set to -1
+	Opens a file
+		dep_logs/url
+	
+	Constructs the downloads:
+		Adds the downloads onto an array from resources
+		starting from the first download
+
+	Adds parameters to graphs (for loop)
+		Creates an object "array"
+			ID: The code id?
+			URL: The URL
+			when_comp_start
+			download type: the type of download
+			download s_time: The start time for each download
+			download id: the object ID
+			comps: set to empty
+		Pushes object array onto the graph's object array
+		Sets graph->startActivity to the download ID if the graph->startActivity is not initialized/DNE
+

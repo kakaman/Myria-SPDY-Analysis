@@ -980,7 +980,7 @@ sub generateDependencyGraph {
       next;
     }
 
-    # Add to graph
+    # Add to graph via objects
     my $obj = {};
     $obj->{id} = "r" . $r->{id};
     $obj->{url} = $r->{url}; # To calculate host and path
