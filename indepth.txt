@@ -40,4 +40,27 @@ generateDependencyGraph():
 			comps: set to empty
 		Pushes object array onto the graph's object array
 		Sets graph->startActivity to the download ID if the graph->startActivity is not initialized/DNE
+	Constructs the parses and computations (for loop)
+		Take an element from parses
+			Find the corresponding download activity
+				Take an element from the graphs->objs
+					if the url matches the parses'
+						set the object to the element
+			Creates a comp object/array and initializes its elements
+				id: obj->id
+				type: always evalhtml
+				s_time: start time is parses start
+				e_time:
+			if p->during_l
+				cut HTML evaluation into activities by parsing blocking JS (if 4 (css) skip because CSS doesn't block)
+					Finish current activity
+					Start a new activity (comps again)
+						id: obj->id
+						type: evalHTML all the time
+						s_time: during_l->endTime
+					Add a dependency because the new activity depends on completion of during_l
+						id: Dependency ID usually incremental
+						a1: Depends on a certain computation
+						a2: Id of the dependent activity.
+						time:
 

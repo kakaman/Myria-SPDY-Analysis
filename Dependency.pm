@@ -1017,7 +1017,7 @@ sub generateDependencyGraph {
     # Find corresponding download activity
     my $i = 0;
     my $obj;
-    for my $o (@{$graph->{objs}}) { # for o where graph->objs exists
+    for my $o (@{$graph->{objs}}) { # for o from graph->objs exists
       if ($o->{url} eq $p->{url}) {
         $obj = $o; # set obj to corresponding download activity
         last;
