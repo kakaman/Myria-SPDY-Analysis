@@ -61,28 +61,28 @@ with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\preload
 		w.writerow(row)
 
 
-with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\computations.csv', 'wb') as preLoadFile:
-	w = csv.DictWriter(preLoadFile, preLoads[0].keys())
+with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\computations.csv', 'wb') as computationFile:
+	w = csv.DictWriter(computationFile, computation[0].keys())
 	w.writeheader()	
-	for row in preLoads:
+	for row in computation:
 		w.writerow(row)
 
-with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\received.csv', 'wb') as preLoadFile:
-	w = csv.DictWriter(preLoadFile, preLoads[0].keys())
+with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\receivedchunks.csv', 'wb') as chunksFile:
+	w = csv.DictWriter(chunksFile, receivedChunk[0].keys())
 	w.writeheader()	
-	for row in preLoads:
+	for row in receivedChunk:
 		w.writerow(row)
 
-with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\resources.csv', 'wb') as preLoadFile:
-	w = csv.DictWriter(preLoadFile, preLoads[0].keys())
+with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\resources.csv', 'wb') as resourceFile:
+	w = csv.DictWriter(resourceFile, resources[0].keys())
 	w.writeheader()	
-	for row in preLoads:
+	for row in resources:
 		w.writerow(row)
 
-with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\hol.csv', 'wb') as preLoadFile:
-	w = csv.DictWriter(preLoadFile, preLoads[0].keys())
+with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\hol.csv', 'wb') as holFile:
+	w = csv.DictWriter(holFile, hol[0].keys())
 	w.writeheader()	
-	for row in preLoads:
+	for row in hol:
 		w.writerow(row)
 
 # with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\preloads.csv', 'wb') as preLoadFile:
