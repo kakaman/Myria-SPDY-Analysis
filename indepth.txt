@@ -62,5 +62,45 @@ generateDependencyGraph():
 						id: Dependency ID usually incremental
 						a1: Depends on a certain computation
 						a2: Id of the dependent activity.
-						time:
-
+						time: -1 because it requires it to completely finish before starting
+				e_time: End time 
+				comps: set comps to empty array if it doesnt exist
+				objs[i]: sets the graph object array
+				for during_ll if p->during_l
+					find corresponding object
+					set comp fields
+						id: Object ID
+						type: HOL_Type
+						s_time: The Start time
+						e_time: The End time
+					print out info
+					add output dependency: (for pr in prev)
+						Create dep list
+							id: dep id
+							a1: ID
+							a2: Obj_id
+							time: -1
+	Construct comps outside of parses:
+		For my cc in comps_post_l
+			Find corresponding object
+			If obj is not found, this should evaluate a data url which has been included in another comp, so skip
+	Add E2D dependency info
+ 		This might change e_time of a comp activity
+  		Note that we do this backward to make sure that e_time is changed first
+  			Get obj
+  				get parse
+  				get comp if no parse
+  					get comp in obj
+  					add dep
+  						id: dep id
+  						a1: comp->id
+  						a2: obj->download->id
+  						time: obj->download->s_time - comp->s_time
+  						if obj->download->s_time > comp->e_time
+  							comp->e_time = obj->download->s_time
+  							dep->time = -1
+  						If no comp is matched, it means that this object download is triggered
+  					Get obj_parse
+  					Add dependency
+  		Calculate elapsed time in comp
+  		
