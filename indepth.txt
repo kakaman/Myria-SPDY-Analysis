@@ -25,7 +25,7 @@ generateDependencyGraph():
 	Opens a file
 		dep_logs/url
 	
-	Constructs the downloads:
+	Constructs the downloads: Created from the resources table
 		Adds the downloads onto an array from resources
 		starting from the first download
 
@@ -103,4 +103,5 @@ generateDependencyGraph():
   					Get obj_parse
   					Add dependency
   		Calculate elapsed time in comp
-  		
+
+  		2262397.518433

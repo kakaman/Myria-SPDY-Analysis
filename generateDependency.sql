@@ -10,14 +10,16 @@ resources = empty(mimeType: string, dnsEnd: int, sslEnd: int, proxyStart: string
 						connectEnd: int, len: int, receiveHeadersEnd: int, sslStart: int, requestTime: real, url: string, httpStatus: int, cached: int, sendStart: int, proxyEnd: int, sendEnd: int);
 receivedchunks = empty(ResourceID: int, receivedTime: real, PageUrl: string, len: int);
 preloads = empty(url: string, docUrl: string, code: int, PageUrl: string, time: real);
+objecthash = empty(code: int, column: int, doc: string, pos: int, url: string, PageUrl: string, chunkLen: int, tagName: string, time: real, isStartTag: int, row: int);
+pagestart = empty(start: real, PageUrl: string )
 
 -- Take out the ask.fm information out of each table
-Comp = select * from computations c where c.PageUrl = "ask.fm";
-Hol = select * from hol h where h.PageUrl = "ask.fm";
-Res = select * from resources r where r.PageUrl = "ask.fm";
-RC = select * from receivedchunks rc where rc.PageUrl = "ask.fm";
-Pre = select * from preloads p where p.PageUrl = "ask.fm";
-
+Comp = select * from computations c where c.PageUrl = "ask.fm_";
+Hol = select * from hol h where h.PageUrl = "ask.fm_";
+Res = select * from resources r where r.PageUrl = "ask.fm_";
+RC = select * from receivedchunks rc where rc.PageUrl = "ask.fm_";
+Pre = select * from preloads p where p.PageUrl = "ask.fm_";
+Obj = select * from objecthash o where o.PageUrl = "ask.fm_";
 
 -- Generates the large "combo" table
 Combo = select * from Comp, Pre, RC, Res, Hol;
@@ -27,4 +29,9 @@ download = select s_time, id, type from Res;
 
 -- Creates the "comps" table from the computations, Resources
 
-comps = select s_time, time, "r1_c1" as id, type, e_time from Res, Comp where Res.sentTime = Comp.startTime; -- The ID has to change/increment for each one.
+comps = select e_time = (Obj.time - pageStart)*1000 from Res, Comp, Obj, PageStart where Comp.code = Obj.code;
+	-- e_time = objhash->time - pageStart * 1000
+	-- s_time = p->start (p = parse)
+	-- type = evalhtml
+	-- id = obj->id
+comps

@@ -11,9 +11,11 @@ receivedChunk = []
 computation = []
 hol = []
 objectHash = []
+pageStart = []
 
 for filename in os.listdir(dataDirectory):
 	print filename
+
 	datafile = open(os.path.join(dataDirectory, filename), 'r')
 	try:
 		json_data = [j.loads(line) for line in datafile]
@@ -31,6 +33,7 @@ for filename in os.listdir(dataDirectory):
 		# Sets the page variable
 		if line.get('page') is not None:
 			page = line['page']
+
 		
 		# Creates and fills the resources table
 		if line.get('Resource') is not None:
@@ -71,10 +74,15 @@ for filename in os.listdir(dataDirectory):
 			preLoads.append(p)
 
 		# Creates and fills the ObjectHash list
-		if line.get("ObjectHash") is not None:
+		if line.get('ObjectHash') is not None:
 			oh = line['ObjectHash']
 			oh['PageUrl'] = page
 			objectHash.append(oh)
+
+		# Creates and fills the PageStart list
+		if line.get('DOMLoad') is not None:
+			ps = {'PageUrl': page, 'Start': line['DOMLoad']}
+			pageStart.append(ps)
 
 print 'started writing'
 
@@ -116,3 +124,11 @@ with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\objecth
 	w.writeheader()	
 	for row in objectHash:
 		w.writerow(row)
+
+with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\pagestart.csv', 'wb') as psFile:
+	w = csv.DictWriter(psFile, pageStart[0].keys())
+	w.writeheader()	
+	for row in pageStart:
+		w.writerow(row)
+
+print 'Finished'
