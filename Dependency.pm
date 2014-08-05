@@ -270,6 +270,7 @@ sub constructParses {
 sub addId2Resources {
   my ($self, $info) = @_; # takes self and info
   $info = $self->{_info}; # sets info
+
   $pageStart = $info->getPageStart(); # set pageStart
   @resources = @{$info->getResources()}; # set Resources
 

@@ -1,4 +1,4 @@
--- Tables: Computations, HOL, receivedchunks, resources, preloads
+-- Tables: Computations, HOL, receivedchunks, resources, preloads, ObjectHashes, PageStart
 
 -- At first, writing the code for only one website. If it works then modify it for the rest.
 
@@ -25,8 +25,29 @@ PS = select ps.Start as start from pagestart ps where ps.Start = 'ask.fm_';
 -- Generates the large "combo" table
 Combo = select * from Comp, Pre, RC, Res, Hol;
 
--- Creates the "download" from the Resourcess
-download = select s_time, id, type, count(*) from Res;
+
+-- Sets CompHol
+CompHol = select * from Comp c, Hol h where c.docUrl = hol.docUrl and c.urlRecalcStyle = h.url
+
+
+
+
+-- Step 1: Create the Downloads table
+-- Creates the "download" from Resources. Really just a copy with a separate ID. 
+download = select (s_time - PS.start)*1000, id, type, count(*) from Res, PS;
+
+-- Step 2: Get each Comp that maps to each Download
+
+
+
+
+
+-- Step 2: Map Downloads to the correct computations/Object Hash
+
+-- Step 3: Map the correct Object Hash to 
+
+-- Step 2: Get each Comp that maps to each Download
+
 
 -- This is for each download
 -- Creates the "comps" table from the computations, Resources, Object, StartTime. Needs to be changed to address multiple websites
