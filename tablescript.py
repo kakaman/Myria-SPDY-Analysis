@@ -10,6 +10,7 @@ resources = []
 receivedChunk = []
 computation = []
 hol = []
+objectHash = []
 
 for filename in os.listdir(dataDirectory):
 	print filename
@@ -69,6 +70,12 @@ for filename in os.listdir(dataDirectory):
 			p['PageUrl'] = page
 			preLoads.append(p)
 
+		# Creates and fills the ObjectHash list
+		if line.get("ObjectHash") is not None:
+			oh = line['ObjectHash']
+			oh['PageUrl'] = page
+			objectHash.append(oh)
+
 print 'started writing'
 
 # For more efficiency/consistency, use a list vs. dictionary to make sure the ordering is always consistent.
@@ -102,4 +109,10 @@ with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\hol.csv
 	w = csv.DictWriter(holFile, hol[0].keys())
 	w.writeheader()	
 	for row in hol:
+		w.writerow(row)
+
+with open(r'C:\Users\Vyshnav\Documents\GitHub\Myria-SPDY-Analysis\tables\objecthash.csv', 'wb') as ohFile:
+	w = csv.DictWriter(ohFile, objectHash[0].keys())
+	w.writeheader()	
+	for row in objectHash:
 		w.writerow(row)
