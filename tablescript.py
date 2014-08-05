@@ -79,9 +79,9 @@ for filename in os.listdir(dataDirectory):
 			oh['PageUrl'] = page
 			objectHash.append(oh)
 
-		# Creates and fills the PageStart list
+		# Creates and fills the PageStart list 
 		if line.get('DOMLoad') is not None:
-			ps = {'PageUrl': page, 'Start': line['DOMLoad']}
+			ps = {'PageUrl': page, 'Start': line['DOMLoad']} # DOMLoad is not the startTime.
 			pageStart.append(ps)
 
 print 'started writing'
