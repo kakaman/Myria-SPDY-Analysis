@@ -49,13 +49,13 @@ parse_during_l = select
 				 from parse, Comp
 				 where parse.url = Comp.docUrl and comp.urlRecalcStyle != null and comp.urlRecalcStyle != ''
 
-parse_post_1 = select
+comp_post_l = select
 			   from
-			   where parse.url = Comp.docUrl and parse.last_code = comp.code
+			   where parse.url = Comp.docUrl and (comp.urlRecalcStyle != null or comp.urlRecalcStyle != '')
 
-parse_post_2 = select
+comp_post_n = select
 			   from
-			   where parse.url = Comp.docUrl and comp.urlRecalcStyle = null and comp.urlRecalcStyle = ''
+			   where parse.url = Comp.docUrl and (comp.urlRecalcStyle = null or comp.urlRecalcStyle = '')
 
 
 -- Comp_parse sudocode
