@@ -39,14 +39,43 @@ parse = select Res.obj_id as critical, Res.receivedTime as critical_time
 -- addComps2Parses
 parse = select
 		from Comp, parse
-		where parse.url = Comp.docUrl and 
+		where
+
+parse_during_n = select 
+				 from parse, Comp 
+				 where parse.url = Comp.docUrl and parse.last_code != comp.code
+
+parse_during_l = select
+				 from parse, Comp
+				 where parse.url = Comp.docUrl and comp.urlRecalcStyle != null and comp.urlRecalcStyle != ''
+
+parse_post_1 = select
+			   from
+			   where parse.url = Comp.docUrl and parse.last_code = comp.code
+
+parse_post_2 = select
+			   from
+			   where parse.url = Comp.docUrl and comp.urlRecalcStyle = null and comp.urlRecalcStyle = ''
 
 
- my ($self, $info, $parses) = @_; # self, info, parses
-  $info = $self->{_info}; # set info
-  @comps = @{$info->getComps()}; # set comps
-  @parses = @{$self->{_parses}}; # set parses
-
+-- Comp_parse sudocode
+/*
+	if (parse.url = comp.docUrl)
+		if(parse.last_code != comp.code)
+			if(parse.during_n)
+				comp_during_n = parse.during_n
+			else
+				comp_during_n = ();
+			push comp into comps_during_n
+			parse.during_n = comp_during_n
+		if(comp.urlRecalcStyle != null && comp.urlRecalcStyle != "")
+			if(parse.during_l)
+				comps_during_l = parse.during_l
+			else
+				comps_during_l = ();
+			push comp into comps_during_1
+			parse.during_l = comps_during_l		
+*/
   my @comps_post_n;
   my @comps_post_l;
 
@@ -56,30 +85,24 @@ parse = select
 
     my $i = 0;
     foreach $parse (@parses) { # for each parse
-      %parse = %{decode_json($parse)}; # set parse
-      if ($parse{"url"} eq $comp{"docUrl"}) {
-        # During parsing
-        if ($parse{"last_code"} ne $comp{"code"}) { # if not the last_code
-
-            if ($parse{"during_n"}) { # Where was during_n created?
-              @comps_during_n = @{$parse{"during_n"}}; # set comps_during_n
-            } else {
-              @comps_during_n = (); # set comps_during_n array
-            }
-            push(@comps_during_n, $comp); # push comp into comps_during_n
-            $parse{"during_n"} = \@comps_during_n;
-
-          if ($comp{"urlRecalcStyle"} ne "(null)" and $comp{"urlRecalcStyle"} ne "") { # if not null or empty
-            if ($parse{"during_l"}) { # if last?
-              @comps_during_l = @{$parse{"during_l"}}; # set comps_during_1
-            } else {
-              @comps_during_l = ();
-            }
-            push(@comps_during_l, $comp); # push comp into comps_during_1
-            $parse{"during_l"} = \@comps_during_l;
-
+        # Post parsing
+        } else {
+          if ($comp{"urlRecalcStyle"} eq "(null)" or $comp{"urlRecalcStyle"} eq "") { # if null or empty
+            push(@comps_post_n, $comp); # push comp into comps_post_n
+          } else {
+            push(@comps_post_l, $comp); # push comp into comps_post_1
           }
+        }
+      }
+      $parses[$i] = encode_json(\%parse);
+      ++$i; # increment
+    }
+  }
 
+  $self->{_parses} = \@parses;
+  $self->{_comps_post_n} = \@comps_post_n;
+  $self->{_comps_post_l} = \@comps_post_l;
+}
 
 -- Sets the resource table to proper values. Corresponds to addId2Resources
 Res = select "Download" + Res.id as ObjId, (Res.sentTime - PS.start)*1000 as sentTime,
