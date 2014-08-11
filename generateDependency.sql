@@ -24,17 +24,79 @@ PS = select ps.Start as start from pagestart ps where ps.Start = 'ask.fm_';
 
 
 -- Need to generate the parses table, parse.objects is an encoded json of objects, parse.objectsurl is similar. Some confusion
-Obj = select (ObjH.time - PS.pageStart)*1000 from ObjH, PS from PS, ObjH;
-Parse = select Obj.time as end, Obj.code as last_code
-		from Obj, ObjH, PS
-		where ObjH.doc != null;
+Obj = select (ObjH.time - PS.pageStart)*1000, ObjH.code, ObjH.column, ObjH.doc, ObjH.pos, ObjH.url, ObjH.PageUrl, ObjH.chunkLen, ObjH.tagName, ObjH.isStartTag, ObjH.row from ObjH, PS;
 
-parse = select Obj.time as end, Obj.code as last_code, ObjH.doc as url, Obj.time as start, Obj.time as end, "parse_" + count(*) as obj_id
-		from Obj, ObjH, PS
+parse_1 = select Obj.time as end, Obj.code as last_code,
+		  from Obj
+		  where Obj.docUrl != null;
 
-parse = select Res.obj_id as critical, Res.receivedTime as critical_time
-		from Res
+parse_2 = select Obj.time as end, Obj.code as last_code, 
+		  from
+		  where Obj.docUrl != null and Obj.url != null;
 
+parse_3 = select Obj.docUrl as url, Obj.time as start, Obj.time as end, Obj.code as last_code, Obj.id as obj_id
+		  from Obj
+		  where 
+-- Construct parses sudocode
+/*
+	for each object
+		docUrl = object.doc
+		object.time = (time - pagestart)*1000
+		if(docs.docUrl)
+			parse.end = obect.time
+			parse.last_code = object.code
+			if parse.objects
+				objs = parse.objects
+			add object to objs array
+			if(parse.objects_hash)
+				objs_hash = parse.objects_hash
+			objs_hash.object.code = object
+			parse.objects_hash = objs_hash
+			if(object.url != null)
+				if parse.objectsUrl
+					objsUrl = parse.objsUrl
+				add object to objsUrl
+				parse.objectsUrl = objsUrl
+			repeat
+		if(parse.url)
+			add parse to parses
+		docs.docUrl = 1
+		parse.url = docUrl
+		parse.start = object.time
+		parse.end = object.time
+		parse.last_code = object.code
+		parse.obj_id = parse + id
+		add object to objs array
+		parse.objects = objs
+		objs_hash.object.code = object
+		parse.objects_hash = objs_hash
+		if(object.url != null)
+			add object to objs_url
+			parse.objectsUrl = objsUrl
+		for each resource
+			if(parse.url = resource.url)
+				parse.critical = resource.obj_id
+				parse.critical_time = resource.receivedTime
+				if(parse.start < resource.receivedTime) 
+					t = parse.start
+				else
+					t = resource.receivedTime
+				pr = (
+          				"id", $resource{"obj_id"},
+         				"at", $t,
+          				"rt", $t - $resource{"sentTime"},
+          				"rs", "data",
+       				 )
+       		if parse.prev
+       			prev = parse.prev
+       		add pr to prev
+       			parse.prev = prev
+       		exit
+       	i++
+	if parse.url
+		add parse to parses
+	return parses
+*/				
 
 -- addComps2Parses
 parse = select
@@ -53,13 +115,15 @@ comp_post_l = select
 			   from
 			   where parse.url = Comp.docUrl and (comp.urlRecalcStyle != null or comp.urlRecalcStyle != '')
 
-comp_post_n = select
+comp_post_n = select as comps_post_l
 			   from
 			   where parse.url = Comp.docUrl and (comp.urlRecalcStyle = null or comp.urlRecalcStyle = '')
 
 
 -- Comp_parse sudocode
 /*
+for each comp
+  for each parse
 	if (parse.url = comp.docUrl)
 		if(parse.last_code != comp.code)
 			if(parse.during_n)
@@ -74,35 +138,16 @@ comp_post_n = select
 			else
 				comps_during_l = ();
 			push comp into comps_during_1
-			parse.during_l = comps_during_l		
+			parse.during_l = comps_during_l	
+		else
+			if (comp.urlRecalcStyle == null || comp.urlRecalcStyle == '')
+				push comp into comps_post_n
+			else
+				push comp into comps_post_l
+self.parse = parses
+self._comps_post_n = comps_post_n
+selc._comps_post_l = comps_post_l
 */
-  my @comps_post_n;
-  my @comps_post_l;
-
-  foreach $comp (@comps) { # for each comp
-    #print $comp . "\n";
-    %comp = %{decode_json($comp)}; # set comp
-
-    my $i = 0;
-    foreach $parse (@parses) { # for each parse
-        # Post parsing
-        } else {
-          if ($comp{"urlRecalcStyle"} eq "(null)" or $comp{"urlRecalcStyle"} eq "") { # if null or empty
-            push(@comps_post_n, $comp); # push comp into comps_post_n
-          } else {
-            push(@comps_post_l, $comp); # push comp into comps_post_1
-          }
-        }
-      }
-      $parses[$i] = encode_json(\%parse);
-      ++$i; # increment
-    }
-  }
-
-  $self->{_parses} = \@parses;
-  $self->{_comps_post_n} = \@comps_post_n;
-  $self->{_comps_post_l} = \@comps_post_l;
-}
 
 -- Sets the resource table to proper values. Corresponds to addId2Resources
 Res = select "Download" + Res.id as ObjId, (Res.sentTime - PS.start)*1000 as sentTime,
