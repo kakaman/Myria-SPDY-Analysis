@@ -22,48 +22,112 @@ Pre = select * from preloads p where p.PageUrl = "ask.fm_";
 ObjH = select * from objecthash o where o.PageUrl = "ask.fm_";
 PS = select ps.Start as start from pagestart ps where ps.Start = 'ask.fm_';
 
--- Generates the large "combo" table
-Combo = select * from Comp, Pre, RC, Res, Hol;
+
+-- Need to generate the parses table, parse.objects is an encoded json of objects, parse.objectsurl is similar. Some confusion
+Obj = select (ObjH.time - PS.pageStart)*1000 from ObjH, PS from PS, ObjH;
+Parse = select Obj.time as end, Obj.code as last_code
+		from Obj, ObjH, PS
+		where ObjH.doc != null;
+
+parse = select Obj.time as end, Obj.code as last_code, ObjH.doc as url, Obj.time as start, Obj.time as end, "parse_" + count(*) as obj_id
+		from Obj, ObjH, PS
+
+parse = select Res.obj_id as critical, Res.receivedTime as critical_time
+		from Res
 
 
--- Sets CompHol
-CompHol = select * from Comp c, Hol h where c.docUrl = hol.docUrl and c.urlRecalcStyle = h.url
+-- addComps2Parses
+parse = select
+		from Comp, parse
+		where parse.url = Comp.docUrl and 
 
 
+ my ($self, $info, $parses) = @_; # self, info, parses
+  $info = $self->{_info}; # set info
+  @comps = @{$info->getComps()}; # set comps
+  @parses = @{$self->{_parses}}; # set parses
+
+  my @comps_post_n;
+  my @comps_post_l;
+
+  foreach $comp (@comps) { # for each comp
+    #print $comp . "\n";
+    %comp = %{decode_json($comp)}; # set comp
+
+    my $i = 0;
+    foreach $parse (@parses) { # for each parse
+      %parse = %{decode_json($parse)}; # set parse
+      if ($parse{"url"} eq $comp{"docUrl"}) {
+        # During parsing
+        if ($parse{"last_code"} ne $comp{"code"}) { # if not the last_code
+
+            if ($parse{"during_n"}) { # Where was during_n created?
+              @comps_during_n = @{$parse{"during_n"}}; # set comps_during_n
+            } else {
+              @comps_during_n = (); # set comps_during_n array
+            }
+            push(@comps_during_n, $comp); # push comp into comps_during_n
+            $parse{"during_n"} = \@comps_during_n;
+
+          if ($comp{"urlRecalcStyle"} ne "(null)" and $comp{"urlRecalcStyle"} ne "") { # if not null or empty
+            if ($parse{"during_l"}) { # if last?
+              @comps_during_l = @{$parse{"during_l"}}; # set comps_during_1
+            } else {
+              @comps_during_l = ();
+            }
+            push(@comps_during_l, $comp); # push comp into comps_during_1
+            $parse{"during_l"} = \@comps_during_l;
+
+          }
 
 
--- Step 1: Create the Downloads table
--- Creates the "download" from Resources. Really just a copy with a separate ID. 
-download = select (s_time - PS.start)*1000, id, type, count(*) from Res, PS;
+-- Sets the resource table to proper values. Corresponds to addId2Resources
+Res = select "Download" + Res.id as ObjId, (Res.sentTime - PS.start)*1000 as sentTime,
+			 (Res.requestTime - PS.start)*1000 as requestTime, (Res.receivedTime - PS.start)*1000 as receivedTime,
+			 Res.requestTime - Res.receivedTime as blocking, 0 as proxy, 0 as dns, 0 as conn, 0 as ssl, 0 as send, 0 as receiveFirst, 0 as receiveLast
+	  from Res, PS;
 
--- Step 2: Get each Comp that maps to each Download
+-- Sets comp. Make sure to create a table with D2E, critical, critical_time. Might need more implementation. Corresponds to addIdAndD2E2Comps
+Comp = select "comp_" + Comp.id as obj_id, (Comp.startTime - PS.pageStart)*1000 as startTime, (Comp.endTime - PS.pageStart)*1000 as endTime,
+			  Comp.D2E, Comp.critical, Comp.critical_time, Comp.urlRecalcStyle
+	   from Comp, PS
+	   where Comp.urlRecalcStyle = null
+	   union
+	   select "comp_" + Comp.id as obj_id, (Comp.startTime - PS.pageStart)*1000 as startTime, (Comp.endTime - PS.pageStart)*1000 as endTime,
+			  Comp.D2E = Res.obj_id, Comp.critical = Res.obj_id, Comp.critical_time = Res.receivedTime, Comp.urlRecalcStyle
+	   from Comp, PS, Res
+	   where Comp.urlRecalcStyle = Res.url;
 
+-- Corresponds to addComps2Parses
 
-
-
-
--- Step 2: Map Downloads to the correct computations/Object Hash
-
--- Step 3: Map the correct Object Hash to 
-
--- Step 2: Get each Comp that maps to each Download
-
-
--- This is for each download
--- Creates the "comps" table from the computations, Resources, Object, StartTime. Needs to be changed to address multiple websites
-comps = select (ObjH.time - PS.start)*1000 as e_time,  as s_time, s_time - e_time as time,'evalhtml' as type, Res.id as ResourceID, as ComputationID, download.id as DownloadID
-		from Res, Comp, ObjH, PS, download
-		where Comp.code = ObjH.code;
-	-- e_time = objhash->time - pageStart * 1000
-	-- s_time = p->start (p = parse)
-	-- type = evalhtml
-	-- id = obj->id
-
--- If the mimeTyppe is HTML have when_comp_start = 1
-Obj = select r.id as ID, r.PageUrl as url, r.mimeType as when_comp_start, r.mimeType as DownloadType, r.sentTime as DownloadS_time, as DownloadID
-
-deps = 
+-- Creates the CompHol table Corresponds to addHolDependencies
+CompHol = select * from Hol, Comp where Comp.docUrl = Hol.docUrl and Comp.urlRecalcStyle = Hol.url;
 
 
+-- addE2DDependencies
+img_resource = 
 
-graph =  
+preload_dep_1 = select (Pre.time - PS.start)*1000 as time, Pre.url, Pre.docUrl, Pre.code, Pre.PageUrl
+		 	  from Pre, Res, PS
+			  where abs(Pre.time - Res.sentTime) < 1 and Pre.url = Res.url;
+
+-- Preload_dep_1 sudo code
+/*
+	if ((Pre.time - Res.sentTime) < 1 or (Pre.time - Res.sentTime) > -1) and Pre.url == Res.url
+	{
+		time = (Pre.time - PS.start)*1000
+		preload_dep(preload.url) = preload
+	}
+*/
+
+preload_dep_2 = select parse.object_hash.preload_dep_1.code
+			  from Res, preload_dep_1, PS, parse
+			  where parse.url = preload_dep_1.docUrl and parse.object_hash = Null
+
+-- Preload_dep_2 sudo code
+/*for each parse
+      if parse.url = preload.docUrl and parse.object_hash = Null 
+      {
+      	objects = parse.objects_hash
+      	obj = objects.preload.code
+      }*/
