@@ -64,9 +64,20 @@ objs_url = select * -- parse.objsurl = objs_url
 		   from Obj
 		   where Obj.docUrl = null and Obj.url != null;
 
-parse_4 = select Res.obj_id as critical, Res.receivedTime as critical_time, 
-		  from Res, Obj
-		  where 
+parse_4 = select Res.obj_id as critical, Res.receivedTime as critical_time 
+		  from Res
+
+parse = select *
+		from parse_1
+		union
+		select *
+		from parse_2
+		union
+		select *
+		from parse_3
+		union
+		select *
+		from parse_4;
 
 
 -- Construct parses sudocode
