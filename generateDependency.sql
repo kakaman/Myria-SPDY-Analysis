@@ -26,33 +26,49 @@ PS = select ps.Start as start from pagestart ps where ps.Start = 'ask.fm_';
 -- Need to generate the parses table, parse.objects is an encoded json of objects, parse.objectsurl is similar. Some confusion
 Obj = select (ObjH.time - PS.pageStart)*1000, ObjH.code, ObjH.column, ObjH.doc, ObjH.pos, ObjH.url, ObjH.PageUrl, ObjH.chunkLen, ObjH.tagName, ObjH.isStartTag, ObjH.row from ObjH, PS;
 
-parse_1 = select Obj.time as end, Obj.code as last_code,
+parse_1 = select Obj.time as end, Obj.code as last_code, -1 as start, 0 as last_code, 0 as obj_id
 		  from Obj
 		  where Obj.docUrl != null;
 
-parse_2 = select Obj.time as end, Obj.code as last_code, 
+objs = select *
+	   from ObjH
+	   where Obj.docUrl != null;
+
+objs_h = select *
+		 from ObjH
+		 where Obj.docUrl != null;
+
+objs_url = select *
+		   from
+		   where Obj.docUrl != null and Obj.url != null;
+
+parse_2 = select Obj.time as end, Obj.code as last_code,  -1 as start, 0 as last_code, 0 as obj_id
 		  from
 		  where Obj.docUrl != null and Obj.url != null;
 
 parse_3 = select Obj.docUrl as url, Obj.time as start, Obj.time as end, Obj.code as last_code, Obj.id as obj_id
 		  from Obj
 		  where 
+
+parse_4 = select Res.obj_id as critical, Res.receivedTime as critical_time, 
+		  from Res, Obj
+		  where 
 -- Construct parses sudocode
 /*
 	for each object
 		docUrl = object.doc
 		object.time = (time - pagestart)*1000
-		if(docs.docUrl)
+		if(docs.docUrl) (parse_1 table)
 			parse.end = obect.time
 			parse.last_code = object.code
-			if parse.objects
+			if parse.objects (objs table)
 				objs = parse.objects
 			add object to objs array
-			if(parse.objects_hash)
+			if(parse.objects_hash) (objs_h table)
 				objs_hash = parse.objects_hash
 			objs_hash.object.code = object
 			parse.objects_hash = objs_hash
-			if(object.url != null)
+			if(object.url != null) (objsUrl table)
 				if parse.objectsUrl
 					objsUrl = parse.objsUrl
 				add object to objsUrl
