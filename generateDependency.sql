@@ -26,7 +26,7 @@ PS = select ps.Start as start from pagestart ps where ps.Start = 'ask.fm_';
 -- Need to generate the parses table, parse.objects is an encoded json of objects, parse.objectsurl is similar. Some confusion
 Obj = select (ObjH.time - PS.pageStart)*1000, ObjH.code, ObjH.column, ObjH.doc, ObjH.pos, ObjH.url, ObjH.PageUrl, ObjH.chunkLen, ObjH.tagName, ObjH.isStartTag, ObjH.row from ObjH, PS;
 
-parse_1 = select Obj.time as end, Obj.code as last_code, -1 as start, 0 as last_code, 0 as obj_id
+parse_1 = select Obj.time as end, Obj.code as last_code, -1 as start, 0 as last_code, 0 as obj_id -- SHould reference objs
 		  from Obj
 		  where Obj.docUrl != null;
 
@@ -39,20 +39,36 @@ objs_h = select *
 		 where Obj.docUrl != null;
 
 objs_url = select *
-		   from
+		   from Obj
 		   where Obj.docUrl != null and Obj.url != null;
 
-parse_2 = select Obj.time as end, Obj.code as last_code,  -1 as start, 0 as last_code, 0 as obj_id
-		  from
+parse_2 = select Obj.time as end, Obj.code as last_code,  -1 as start, 0 as last_code, 0 as obj_id -- Should point/reference objs_url
+		  from Obj
 		  where Obj.docUrl != null and Obj.url != null;
 
 parse_3 = select Obj.docUrl as url, Obj.time as start, Obj.time as end, Obj.code as last_code, Obj.id as obj_id
 		  from Obj
-		  where 
+		  where Objs.docUrl = null;
+
+objs_h = select *
+		 from objs_h
+		 union
+		 select *
+		 from Obj
+		 where Obj.docUrl = null;
+
+objs_url = select * -- parse.objsurl = objs_url
+		   from objs_url
+		   union
+		   select * 
+		   from Obj
+		   where Obj.docUrl = null and Obj.url != null;
 
 parse_4 = select Res.obj_id as critical, Res.receivedTime as critical_time, 
 		  from Res, Obj
 		  where 
+
+
 -- Construct parses sudocode
 /*
 	for each object
